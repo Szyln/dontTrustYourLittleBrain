@@ -27,7 +27,9 @@ const Student = mongoose.model('Student', studentSchema);
 > db.collection.{ CRUD }		// 這是 [[MongoDB CRUD]] 寫法
 > model.{ CRUD }				  // 這是 [[Mongoose]] 寫法
 > ```
+```
 
+```
 ### create an object
 ```js
 const Jon = new Studtent({
@@ -78,5 +80,24 @@ Student.findOne({ name: 'John' })
 // 回傳一個 object
 ```
 ### update
-
+[[MongoDB CRUD#Update]]
+```js
+model.update();
+model.updateOne();
+model.updateMany();
+```
+```js
+// 直接設定更改前後的內容
+Student.updateOne(
+	{
+		name: "Jon"
+	},
+	{
+		name: "Sam"
+	}
+)
+	.then((meg) => {
+		console.log(meg);
+	})
+```
 #database #nosql #json #npm #node
