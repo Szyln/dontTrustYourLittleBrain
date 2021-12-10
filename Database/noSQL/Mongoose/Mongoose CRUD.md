@@ -116,6 +116,6 @@ Student.findOneAndUpdate(
 	console.log(meg)
 })
 ```
-dddddddd
+dddddddddd
 dddd
 #database #nosql #json #npm #node
