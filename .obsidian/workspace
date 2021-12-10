@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "EJS/gulp/gulp 課前該用好的 gulp （發佈）.md",
+            "file": "EJS/gulp/gulp 資料夾建置.md",
             "mode": "source"
           }
         }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EJS/gulp/gulp 課前該用好的 gulp （發佈）.md",
+                "file": "EJS/gulp/gulp 資料夾建置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EJS/gulp/gulp 課前該用好的 gulp （發佈）.md"
+                "file": "EJS/gulp/gulp 資料夾建置.md"
               }
             }
           }
@@ -110,8 +109,8 @@
   },
   "active": "d89dd8c41eb8751f",
   "lastOpenFiles": [
-    "EJS/gulp/gulp 課前該用好的 gulp （發佈）.md",
     "EJS/gulp/gulp 資料夾建置.md",
+    "EJS/gulp/gulp 課前該用好的 gulp （發佈）.md",
     "Database/noSQL/Mongoose/Mongoose CRUD.md",
     "Obsidian Git.md",
     "Database/noSQL/MongoDB/MongoDB CRUD.md",
