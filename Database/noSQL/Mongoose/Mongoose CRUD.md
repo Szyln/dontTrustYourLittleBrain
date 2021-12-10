@@ -79,6 +79,7 @@ Student.findOne({ name: 'John' })
 // 執行後會在終端看到搜尋結果
 // 回傳一個 object
 ```
+> `find` 還有很多連合技
 ## Update
 [[MongoDB CRUD#Update]]
 ```js
@@ -116,6 +117,5 @@ Student.findOneAndUpdate(
 	console.log(meg)
 })
 ```
-dddddddddd
-dddd
+
 #database #nosql #json #npm #node
