@@ -1,4 +1,9 @@
 # Obsidian Git
 1. [[gulp/gulp 課前該用好的 gulp （發佈）#git]]（git 的部份就好）
- 2. [Day 26 : 插件篇 05 — 做好筆記備份，使用 Obsidian Git自動備份筆記到 Github](https://ithelp.ithome.com.tw/articles/10280373)
-3. 可能會要求金鑰，開終端機寫比較快（帳號是帳號，密碼輸金鑰）
+ 1. [Day 26 : 插件篇 05 — 做好筆記備份，使用 Obsidian Git自動備份筆記到 Github](https://ithelp.ithome.com.tw/articles/10280373)
+2. 可能會要求金鑰，開終端機寫比較快（帳號是帳號，密碼輸金鑰）
+
+## 遇到問題
+必須一直重新登入：
+[裝GCM(沒有解決)](https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git)
+[GCM repo](https://github.com/GitCredentialManager/git-credential-manager)

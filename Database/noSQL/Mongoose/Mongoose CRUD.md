@@ -79,7 +79,17 @@ Student.findOne({ name: 'John' })
 // 執行後會在終端看到搜尋結果
 // 回傳一個 object
 ```
-> `find` 還有很多連合技
+> `find` 還有很多[連合技](https://mongoosejs.com/docs/api/model.html)
+
+
+> 也可以配合 [[MongoDB CRUD#比較 comparison operator]] 來做更複雜的篩選
+> ```js
+> Student.find({ "scholarship.merit" : {$gte: 1500} }).then((data) => {
+> 	console.log(data);
+> })
+> ```
+
+
 ## Update
 [[MongoDB CRUD#Update]]
 ```js
