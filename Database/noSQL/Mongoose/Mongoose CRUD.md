@@ -53,7 +53,7 @@ Jon.save()
 		console.log(e)
 	});
 ```
-
+k
 ### Insert
 ```js
 Model.insertMany()

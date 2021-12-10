@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Database/noSQL/Mongoose/Mongoose CRUD.md",
+            "file": "EJS/gulp/gulp 課前該用好的 gulp （發佈）.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ignore",
+                "query": "remote rm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,12 +48,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 192,
-    "collapsed": true
+    "width": 192
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/noSQL/Mongoose/Mongoose CRUD.md",
+                "file": "EJS/gulp/gulp 課前該用好的 gulp （發佈）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/noSQL/Mongoose/Mongoose CRUD.md"
+                "file": "EJS/gulp/gulp 課前該用好的 gulp （發佈）.md"
               }
             }
           }
@@ -110,6 +110,8 @@
   },
   "active": "d89dd8c41eb8751f",
   "lastOpenFiles": [
+    "EJS/gulp/gulp 課前該用好的 gulp （發佈）.md",
+    "EJS/gulp/gulp 資料夾建置.md",
     "Database/noSQL/Mongoose/Mongoose CRUD.md",
     "Obsidian Git.md",
     "Database/noSQL/MongoDB/MongoDB CRUD.md",
@@ -117,8 +119,6 @@
     "前端/Bootstrap/Font.md",
     "CSS/Boostrap/Spacer.md",
     "html/heading.md",
-    "html/CDN.md",
-    "html/<pre>.md",
-    "EJS/gulp/gulp 課前該用好的 gulp （發佈）.md"
+    "html/CDN.md"
   ]
 }
