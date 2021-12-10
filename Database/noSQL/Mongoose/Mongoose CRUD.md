@@ -113,7 +113,8 @@ Student.findOneAndUpdate(
 	{ 更改後的內容 },
 	{ new: true }		// find 有被更改的內容
 ).then((meg) => {
-	console.log(meg)l
+	console.log(meg)
 })
 ```
+d
 #database #nosql #json #npm #node
