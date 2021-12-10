@@ -59,7 +59,7 @@ k
 Model.insertMany()
 // 沒有 insertOne() ，因為直接用 save 就好
 ```
-## Read
+## Find(Read)
 ```js
 Model.find()
 ```
