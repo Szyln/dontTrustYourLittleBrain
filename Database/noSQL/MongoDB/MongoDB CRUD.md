@@ -179,5 +179,5 @@ db.students.deleteMany({});		// 全刪
 db.students.deleteOne({ major: "design" })	// 刪掉符合條件的
 ```
 
-ddddd
+dddddd
 #database #mongodb #json
