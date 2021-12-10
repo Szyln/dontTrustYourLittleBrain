@@ -79,9 +79,10 @@ Student.findOne({ name: 'John' })
 // 執行後會在終端看到搜尋結果
 // 回傳一個 object
 ```
-### update
+## Update
 [[MongoDB CRUD#Update]]
 ```js
+// 操作都一樣
 model.update();
 model.updateOne();
 model.updateMany();
@@ -96,8 +97,23 @@ Student.updateOne(
 		name: "Sam"
 	}
 )
-	.then((meg) => {
+	.then((meg) => {		// log 錯誤訊息
 		console.log(meg);
 	})
+```
+
+## Find and Update
+```js
+model.findOneAndUpdate(condition, update, options)
+```
+
+```js
+Student.findOneAndUpdate(
+	{ 要改的內容 },
+	{ 更改後的內容 },
+	{ new: true }		// find 有被更改的內容
+).then((meg) => {
+	console.log(meg)l
+})
 ```
 #database #nosql #json #npm #node
