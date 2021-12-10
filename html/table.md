@@ -1,0 +1,8 @@
+- table
+	- thead
+		- tr
+			- th
+	- tbody
+		- tr
+			- th
+			- td

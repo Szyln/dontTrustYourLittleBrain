@@ -1,0 +1,21 @@
+{
+  "obsidianCss": true,
+  "spellcheck": false,
+  "readableLineLength": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "spellcheckDictionary": [
+    "emmet",
+    "ul",
+    "li",
+    "CVCSs",
+    "DVCs",
+    "Darcs",
+    "BitKeeper",
+    "cd"
+  ],
+  "promptDelete": false,
+  "fileSortOrder": "byCreatedTimeReverse"
+}

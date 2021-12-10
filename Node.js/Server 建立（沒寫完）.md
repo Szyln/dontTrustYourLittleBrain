@@ -1,0 +1,76 @@
+# 建立 Server
+用[[內建模組(Node.js)]] 來建立 Web server，不太容易，通常會用 [[Express.js]] 來建立
+```javascript
+const http = require('http');						// 內建模組
+
+const hostname = '127.0.0.1';
+const port = 3000;
+
+const server = http.createServer((req, res) => {	// 建立 server，提供兩端交換的內容
+  res.statusCode = 200;
+  res.setHeader('Content-Type', 'text/plain');
+  res.end('Hello World');
+});
+
+server.listen(port, hostname, () => {				// 監聽 port
+  console.log(`Server running at http://${hostname}:${port}/`);
+});
+```
+
+## 步驟
+- 匯入內建模組 `http`
+- 建立 Server
+- 監聽 [[port]]
+
+### http 模組
+```js
+const http = require('http');
+```
+
+### createServer ([[Request Handling]])
+建立 [[Server]]
+處理對方的請求跟回應 ([[request]]), [[response]]) 之間交換的內容
+
+```js
+const server = http.createServer((req, res) => {
+});
+```
+#### response
+可以使用`res`參數，寫入要送出去的內容
+```js
+const server = http.createServer((req, res) => {
+
+	res.write('Hello user');		// write：回應一行字
+	res.write('<h1>title</h1>')		// 也可以寫 html
+	res.end();						// 要記得
+});
+```
+#### request
+也可以使用`req`參數，處理傳過來的資料
+- parse：[[物件不要傳參考的時候：深層、淺層拷貝]]
+```js
+const server = http.createServer((req, res) => {
+
+	console.log(res.url);				// 這個會 log 到終端機
+	let parsedURL = url.parse(req.url)	// string 轉 array
+})
+
+```
+#### 一些規則
+```js
+res.statusCode = 200;
+res.setHeader('Content-Type', 'text/plain');
+```
+
+```js
+res.writeHead(200, {'Content-Type': 'text/plain'});
+```
+### 監聽請求
+建立完 [[Server]] 之後，要設定一個負責接收請求的 [[Port]]，並且監聽他有沒有任何請求傳過來
+```js
+// 參數 port：設定一個接收請求的 port
+// 箭頭函數：開始監聽後會出現的提示
+server.listen(port, hostname, () => {
+});
+```
+#js #advanceJs #library #framework #nodeJs #backEnd #module #npm #server

@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "7fbc62fbba25ed7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d74a809abb9b0332",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "gulp/gulp 課前該用好的 gulp （發佈）.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a3fd01543bb942d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f1407770805006a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "148019a3838de914",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "26ac77351fac4f23",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#js",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 481.5
+  },
+  "right": {
+    "id": "b130aeabdd85c272",
+    "type": "split",
+    "children": [
+      {
+        "id": "3447da7e14cdde29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24df216705ee3d25",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "gulp/gulp 課前該用好的 gulp （發佈）.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "c9ff595e8eb56324",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "bebd68f345943fbd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "gulp/gulp 課前該用好的 gulp （發佈）.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 211.68438720703125,
+    "collapsed": true
+  },
+  "active": "d74a809abb9b0332",
+  "lastOpenFiles": [
+    "gulp/gulp 課前該用好的 gulp （發佈）.md",
+    "Git/基礎/Repository/1.Repository 倉儲.md",
+    "Git/環境建置/2.初次建置.md",
+    "Git/事前理解/1.版本控制 (1).md",
+    "Git/事前理解/1.版本控制.md",
+    "Git/基礎/Repository/4.push.md",
+    "Git/基礎/Repository/4 (1).push.md",
+    "Git/基礎/Repository/2.Track to Staged (1).md",
+    "Git/基礎/Repository/2.Track to Staged.md",
+    "Git/基礎/Repository/1.Repository 倉儲 (1).md"
+  ]
+}
