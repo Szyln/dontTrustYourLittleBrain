@@ -1,7 +1,7 @@
 # Mongoose CRUD
 [[Database 數據庫#C R U D]]
 ## Create: Define a Schema
-如同 [[SQL create 製作表格]] create table 的動作，Mongoose 也會定義物件資料的類型
+如同 [[SQL create 製作表格]] create table 的動作，Mongoose 也會定義物件資料的類型[[Schema Type(Mongoose)]]
 ```js
 // app.js
 const studentSchema = new mongoose.Schema({
@@ -63,7 +63,6 @@ Model.insertMany()
 ```js
 Model.find()
 ```
-### find
 ```js
 Student.find({}).then(data => {
 	console.log(data);
@@ -88,7 +87,20 @@ Student.findOne({ name: 'John' })
 > 	console.log(data);
 > })
 > ```
+### Find and Update
+```js
+model.findOneAndUpdate(condition, update, options)
+```
 
+```js
+Student.findOneAndUpdate(
+	{ 要改的內容 },
+	{ 更改後的內容 },
+	{ new: true }		// find 有被更改的內容
+).then((meg) => {
+	console.log(meg)
+})
+```
 
 ## Update
 [[MongoDB CRUD#Update]]
@@ -113,19 +125,30 @@ Student.updateOne(
 	})
 ```
 > [[Mongoose CRUD#Find and Update]] 可以更快速的查看
-## Find and Update
+
+## Delete
 ```js
-model.findOneAndUpdate(condition, update, options)
+model.deleteOne();
+model.deleteMany();
+
+// 組合技
+model.findOneAndDelete();
 ```
 
 ```js
-Student.findOneAndUpdate(
-	{ 要改的內容 },
-	{ 更改後的內容 },
-	{ new: true }		// find 有被更改的內容
-).then((meg) => {
-	console.log(meg)
-})
+Student.deleteOne({ "scholarship.merit": { $gte: 1500 } })
+	.then((meg) => {
+		console.log(meg)		// log 刪完的 model，刪掉誰看不到
+	})
 ```
+```js
+Student.findOneAndDelete({ "scholarship.merit": { $gte: 1500 } })
+	.then((meg) => {
+		console.log(meg)		// log 刪掉的內容
+	})
+
+```
+
+
 
 #database #nosql #json #npm #node

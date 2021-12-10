@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Database/noSQL/Mongoose/Mongoose CRUD.md",
+            "file": "Schema Type(Mongoose).md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/noSQL/Mongoose/Mongoose CRUD.md",
+                "file": "Schema Type(Mongoose).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/noSQL/Mongoose/Mongoose CRUD.md"
+                "file": "Schema Type(Mongoose).md"
               }
             }
           }
@@ -110,6 +110,7 @@
   },
   "active": "5275d74dd0cc78f5",
   "lastOpenFiles": [
+    "Schema Type(Mongoose).md",
     "Database/noSQL/Mongoose/Mongoose CRUD.md",
     "Database/Database 數據庫.md",
     "Database/noSQL/MongoDB/MongoDB CRUD.md",
@@ -118,7 +119,6 @@
     "EJS/gulp/gulp 資料夾建置.md",
     "EJS/gulp/gulp 課前該用好的 gulp （發佈）.md",
     "前端/Bootstrap/Spacer.md",
-    "前端/Bootstrap/Font.md",
-    "CSS/Boostrap/Spacer.md"
+    "前端/Bootstrap/Font.md"
   ]
 }
