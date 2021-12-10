@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端/Bootstrap/Spacer.md",
+            "file": "Database/noSQL/MongoDB/MongoDB CRUD.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/Bootstrap/Spacer.md",
+                "file": "Database/noSQL/MongoDB/MongoDB CRUD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/Bootstrap/Spacer.md"
+                "file": "Database/noSQL/MongoDB/MongoDB CRUD.md"
               }
             }
           }
@@ -109,6 +109,7 @@
   },
   "active": "d89dd8c41eb8751f",
   "lastOpenFiles": [
+    "Database/noSQL/MongoDB/MongoDB CRUD.md",
     "前端/Bootstrap/Spacer.md",
     "前端/Bootstrap/Font.md",
     "CSS/Boostrap/Spacer.md",
@@ -117,7 +118,6 @@
     "html/<pre>.md",
     "EJS/gulp/gulp 課前該用好的 gulp （發佈）.md",
     "gulp/gulp 課前該用好的 gulp （發佈）.md",
-    "Obsidian Git.md",
-    "Git/基礎/Repository/遠端 Repository/Github Pages.md"
+    "Obsidian Git.md"
   ]
 }
