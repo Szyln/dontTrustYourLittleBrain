@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Database/noSQL/MongoDB/MongoDB CRUD.md",
+            "file": "Obsidian Git.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/noSQL/MongoDB/MongoDB CRUD.md",
+                "file": "Obsidian Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/noSQL/MongoDB/MongoDB CRUD.md"
+                "file": "Obsidian Git.md"
               }
             }
           }
@@ -109,6 +109,7 @@
   },
   "active": "d89dd8c41eb8751f",
   "lastOpenFiles": [
+    "Obsidian Git.md",
     "Database/noSQL/MongoDB/MongoDB CRUD.md",
     "前端/Bootstrap/Spacer.md",
     "前端/Bootstrap/Font.md",
@@ -117,7 +118,6 @@
     "html/CDN.md",
     "html/<pre>.md",
     "EJS/gulp/gulp 課前該用好的 gulp （發佈）.md",
-    "gulp/gulp 課前該用好的 gulp （發佈）.md",
-    "Obsidian Git.md"
+    "gulp/gulp 課前該用好的 gulp （發佈）.md"
   ]
 }
