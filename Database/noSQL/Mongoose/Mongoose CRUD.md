@@ -1,7 +1,7 @@
 # Mongoose CRUD
 [[Database 數據庫#C R U D]]
 ## Create: Define a Schema
-如同 [[SQL create 製作表格]] create table 的動作，Mongoose 也會定義物件資料的類型[[Schema Type(Mongoose)]]
+如同 [[SQL create 製作表格]] create table 的動作，Mongoose 也會定義物件資料的類型[[Schema Type]]
 ```js
 // app.js
 const studentSchema = new mongoose.Schema({
