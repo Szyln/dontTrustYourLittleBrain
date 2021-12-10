@@ -101,7 +101,7 @@ Student.updateOne(
 		console.log(meg);
 	})
 ```
-
+> [[Mongoose CRUD#Find and Update]] 可以更快速的查看
 ## Find and Update
 ```js
 model.findOneAndUpdate(condition, update, options)
@@ -116,5 +116,5 @@ Student.findOneAndUpdate(
 	console.log(meg)
 })
 ```
-ds
+
 #database #nosql #json #npm #node
