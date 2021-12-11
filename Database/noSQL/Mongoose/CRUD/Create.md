@@ -1,7 +1,7 @@
 # Create(Mongoose)
 ## 建立架構
 ### Define a Schema
-如同 [[SQL create 製作表格]] create table 的動作，Mongoose 也會定義物件資料的類型（[[Schema Type]]）
+如同 [[SQL create 製作表格]] create table 的動作，Mongoose 也會定義物件的 [[Schema Type]]
 ```js
 // app.js
 const studentSchema = new mongoose.Schema({
@@ -14,6 +14,7 @@ const studentSchema = new mongoose.Schema({
 	}
 });
 ```
+> 如果要更複雜的定義 [[Validators]]
 ### create a model
 model 就可以當成一個 [[MongoDB]] 的 collection 用了（[[MongoDB CRUD]]）
 ```js

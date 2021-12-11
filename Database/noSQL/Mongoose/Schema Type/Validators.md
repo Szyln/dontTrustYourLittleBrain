@@ -1,7 +1,9 @@
 # Validators
 [[SQL create 製作表格]] 中有提到 [[Constraints]] 可以將資料內容做規範
 
-其中所有 [[Schema Type]] 都可以用的是：
+
+## 通用的 Validators
+所有 [[Schema Type]] 都可以用：
 - [[required]]：必填
 - Default：預設值
 
@@ -27,7 +29,7 @@ cost studentSchema = new mongoose.Schema({
 	}
 })
 ```
-
+[[String 用 Validators]]
 ## 特性
 輸入的資料不完全符合 validators 的話，還是有機會送成功
 ```js
@@ -40,3 +42,6 @@ const newStudent = new Student({
 ```
 
 > 如果送出不存在的 Schema ，不會產生 error ，但也不會存進 DB 裡面
+
+
+#database #nosql #mongoose #mongodb #validators

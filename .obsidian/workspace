@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Database/Database 數據庫.md",
+            "file": "Enum(array of string).md",
             "mode": "source"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 192
+    "width": 192,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Database 數據庫.md",
+                "file": "Enum(array of string).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Database 數據庫.md"
+                "file": "Enum(array of string).md"
               }
             }
           }
@@ -109,15 +110,15 @@
   },
   "active": "cb8b6ceec4fa1f7c",
   "lastOpenFiles": [
-    "Database/Database 數據庫.md",
-    "Database/noSQL/Mongoose/Mongoose.md",
+    "Enum(array of string).md",
+    "Database/noSQL/Mongoose/CRUD/Create.md",
+    "Database/noSQL/Mongoose/Schema Type/Validators.md",
+    "String 用 Validators.md",
+    "Database/noSQL/Mongoose/Schema Type/required.md",
+    "Database/noSQL/Mongoose/Schema Type/Schema Type.md",
     "Database/noSQL/Mongoose/CRUD/Mongoose CRUD.md",
-    "Database/noSQL/Mongoose/Mongoose 建置.md",
     "Database/DBMS(RDBMS).md",
-    "其他/硬體、生產力/VsCode/Editor 快捷鍵.md",
-    "其他/硬體、生產力/mac/mac 快捷鍵.md",
-    "其他/硬體、生產力/Obsidian/Obsidian 快捷鍵.md",
-    "其他/硬體、生產力/Obsidian/Obisidian 功能.md",
-    "Database/noSQL/Mongoose/Schema Type/Schema Type.md"
+    "Database/Database 數據庫.md",
+    "Database/noSQL/Mongoose/Mongoose.md"
   ]
 }
