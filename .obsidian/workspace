@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他/聲學/錄音/麥克風.md",
+            "file": "Database/noSQL/Mongoose/Mongoose CRUD.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 192
+    "width": 192,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/聲學/錄音/麥克風.md",
+                "file": "Database/noSQL/Mongoose/Mongoose CRUD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/聲學/錄音/麥克風.md"
+                "file": "Database/noSQL/Mongoose/Mongoose CRUD.md"
               }
             }
           }
@@ -109,11 +110,11 @@
   },
   "active": "109678ade17d31ff",
   "lastOpenFiles": [
-    "其他/聲學/錄音/麥克風.md",
+    "Database/noSQL/Mongoose/Mongoose CRUD.md",
     "Schema Type.md",
+    "其他/聲學/錄音/麥克風.md",
     "JavaScript/資料類型/原始資料類型 Primitive Data Types.md",
     "JavaScript/物件導向 OOP/繼承/原始資料類型使用 Prototype Inheritance 的功能.md",
-    "Database/noSQL/Mongoose/Mongoose CRUD.md",
     "Database/Database 數據庫.md",
     "Database/noSQL/MongoDB/MongoDB CRUD.md",
     "Database/noSQL/Mongoose/Mongoose 建置.md",
