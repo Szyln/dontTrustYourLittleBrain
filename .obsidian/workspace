@@ -112,13 +112,13 @@
   "lastOpenFiles": [
     "Database/noSQL/Mongoose/Mongoose CRUD.md",
     "Schema Type.md",
+    "Validators.md",
+    "required.md",
     "其他/聲學/錄音/麥克風.md",
     "JavaScript/資料類型/原始資料類型 Primitive Data Types.md",
     "JavaScript/物件導向 OOP/繼承/原始資料類型使用 Prototype Inheritance 的功能.md",
     "Database/Database 數據庫.md",
     "Database/noSQL/MongoDB/MongoDB CRUD.md",
-    "Database/noSQL/Mongoose/Mongoose 建置.md",
-    "Obsidian Git.md",
-    "EJS/gulp/gulp 資料夾建置.md"
+    "Database/noSQL/Mongoose/Mongoose 建置.md"
   ]
 }
