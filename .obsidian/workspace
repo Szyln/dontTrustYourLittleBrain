@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Database/noSQL/Mongoose/Schema Type.md",
+            "file": "Database/Database 數據庫.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/noSQL/Mongoose/Schema Type.md",
+                "file": "Database/Database 數據庫.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/noSQL/Mongoose/Schema Type.md"
+                "file": "Database/Database 數據庫.md"
               }
             }
           }
@@ -109,15 +109,15 @@
   },
   "active": "cb8b6ceec4fa1f7c",
   "lastOpenFiles": [
-    "Database/noSQL/Mongoose/Schema Type.md",
     "Database/Database 數據庫.md",
     "Database/noSQL/Mongoose/Mongoose CRUD.md",
+    "Database/noSQL/Mongoose/Mongoose 建置.md",
+    "Database/noSQL/Mongoose/Schema Type.md",
     "Database/noSQL/Mongoose/Create.md",
     "Database/noSQL/Mongoose/Find(Read).md",
     "Database/noSQL/Mongoose/Update.md",
     "Database/noSQL/Mongoose/Delete.md",
     "JavaScript/物件導向 OOP/繼承/create().md",
-    "Database/noSQL/Mongoose/Validators.md",
-    "Database/noSQL/Mongoose/required.md"
+    "Database/noSQL/Mongoose/Validators.md"
   ]
 }

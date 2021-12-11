@@ -1,5 +1,5 @@
 # Schema Type(Mongoose)
-[[Mongoose CRUD#Create Define a Schema]] 的時候，需要定義資料類型
+[[Create]] 的時候，需要定義資料類型
 ## 寫法
 ### 簡易寫法
 ```js
