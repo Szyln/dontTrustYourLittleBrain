@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Schema Type.md",
+            "file": "其他/聲學/錄音/麥克風.md",
             "mode": "source"
           }
         }
@@ -48,13 +48,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 192,
-    "collapsed": true
+    "width": 192
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -70,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Schema Type.md",
+                "file": "其他/聲學/錄音/麥克風.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Schema Type.md"
+                "file": "其他/聲學/錄音/麥克風.md"
               }
             }
           }
@@ -111,6 +109,7 @@
   },
   "active": "109678ade17d31ff",
   "lastOpenFiles": [
+    "其他/聲學/錄音/麥克風.md",
     "Schema Type.md",
     "JavaScript/資料類型/原始資料類型 Primitive Data Types.md",
     "JavaScript/物件導向 OOP/繼承/原始資料類型使用 Prototype Inheritance 的功能.md",
@@ -119,7 +118,6 @@
     "Database/noSQL/MongoDB/MongoDB CRUD.md",
     "Database/noSQL/Mongoose/Mongoose 建置.md",
     "Obsidian Git.md",
-    "EJS/gulp/gulp 資料夾建置.md",
-    "EJS/gulp/gulp 課前該用好的 gulp （發佈）.md"
+    "EJS/gulp/gulp 資料夾建置.md"
   ]
 }
