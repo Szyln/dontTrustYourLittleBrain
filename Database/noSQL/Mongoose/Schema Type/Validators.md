@@ -1,35 +1,14 @@
 # Validators
+[官方文件](https://mongoosejs.com/docs/schematypes.html#string-validators)
+
 [[SQL create 製作表格]] 中有提到 [[Constraints]] 可以將資料內容做規範
+在 [[Mongoose]] 也可以用 [[Validators]] 規範 [[Schema Type]] 
+
+- [[String 用 Validators]]
+- [[Number 用 Validators]]
+- [[通用的 Validators]]
 
 
-## 通用的 Validators
-所有 [[Schema Type]] 都可以用：
-- [[required]]：必填
-- Default：預設值
-
-```js
-// 另一種寫法
-cost studentSchema = new mongoose.Schema({
-	name: {
-		type: String,
-		required: [true, "This is Required"]
-	},
-	age: {
-		type: Number,
-		required: true,
-		default: 18,
-	}
-	scholarship {
-		merit: {
-			type: Number
-		}
-		other: {
-			type: Number
-		}
-	}
-})
-```
-[[String 用 Validators]]
 ## 特性
 輸入的資料不完全符合 validators 的話，還是有機會送成功
 ```js

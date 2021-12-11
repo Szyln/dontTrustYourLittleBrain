@@ -1,4 +1,6 @@
 #  select & datalist
+[select](https://developer.mozilla.org/ja/docs/Web/HTML/Element/select)
+
 兩者差別在 `select` 只能選取 `option` 內容
 `datalist` 可自填
 

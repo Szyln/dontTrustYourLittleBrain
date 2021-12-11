@@ -11,7 +11,7 @@
 ```
 - [[label]]
 - [[input]]
-- [[select & datalist]] 
+- [[select & datalist 選單]] 
 - [[textarea]]
 - [[button]] 不建議用，不是 form 專用 type submit 的 input，button 在有 JS 客製化 event 時用
 

@@ -4,15 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "cb8b6ceec4fa1f7c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Enum(array of string).md",
-            "mode": "source"
+        "id": "5e2dfaba73637ba0",
+        "type": "split",
+        "children": [
+          {
+            "id": "cb8b6ceec4fa1f7c",
+            "type": "leaf",
+            "dimension": 82.6689774696707,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Number 用 Validators.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "24df216705ee3d25",
+            "type": "leaf",
+            "dimension": 17.33102253032929,
+            "pinned": true,
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Database/noSQL/Mongoose/Schema Type/Validators.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "pinned": true
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -39,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dataType",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,23 +92,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "24df216705ee3d25",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Enum(array of string).md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              }
-            }
-          },
-          {
             "id": "c9ff595e8eb56324",
             "type": "leaf",
             "state": {
@@ -97,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Enum(array of string).md"
+                "file": "Number 用 Validators.md"
               }
             }
           }
@@ -110,15 +121,15 @@
   },
   "active": "cb8b6ceec4fa1f7c",
   "lastOpenFiles": [
-    "Enum(array of string).md",
-    "Database/noSQL/Mongoose/CRUD/Create.md",
+    "Number 用 Validators.md",
     "Database/noSQL/Mongoose/Schema Type/Validators.md",
-    "String 用 Validators.md",
-    "Database/noSQL/Mongoose/Schema Type/required.md",
+    "Database/noSQL/Mongoose/Schema Type/Enum(指定 string, number).md",
+    "前端/html/form/input.md",
+    "Database/noSQL/Mongoose/Schema Type/String 用 Validators.md",
+    "Database/noSQL/Mongoose/Schema Type/Minlength(number).md",
+    "Database/Constraints.md",
     "Database/noSQL/Mongoose/Schema Type/Schema Type.md",
-    "Database/noSQL/Mongoose/CRUD/Mongoose CRUD.md",
-    "Database/DBMS(RDBMS).md",
-    "Database/Database 數據庫.md",
-    "Database/noSQL/Mongoose/Mongoose.md"
+    "Database/SQL/SQL create 製作表格.md",
+    "Database/SQL/SQL read 檢視表格內容.md"
   ]
 }

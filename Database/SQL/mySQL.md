@@ -4,7 +4,7 @@
 ## [[Database 數據庫#C R U D]]
  所有的 [[DBMS(RDBMS)]] 一定有的四種語法
  - create：[[SQL create 製作表格]]
- - read：[[SQL read 視表格內容]]
+ - read：[[SQL read 檢視表格內容]]
  - update：[[SQL update 更新既有表格內容]]
  - delete：[[SQL delete 刪除既有表格內容]]
 
@@ -14,7 +14,7 @@
 - [[Data Types]]
 
 ## query(查詢)
-[[SQL read 視表格內容]] 可以檢視整個表格內容
+[[SQL read 檢視表格內容]] 可以檢視整個表格內容
 使用 query 可以建立篩選功能
 ```sql
 -- 所有內容
