@@ -67,7 +67,7 @@ cost studentSchema = new mongoose.Schema({
 - function: `function() { return this.其他欄位 > 3; }`
 ```js
 cost studentSchema = new mongoose.Schema({
-	name: {
+	name: { 
 		type: String,
 		required: [true, "This is Required"]
 	},
@@ -83,7 +83,7 @@ cost breakfastSchema = new mongoose.Schema({
 	drink: {
 		type: String,
 		required: function() {
-			return this.bancon > 3;		// 
+			return this.bancon > 3;		// 如果 bacon 點了三片以上就必須點飲料
 		}
 	},
 })
