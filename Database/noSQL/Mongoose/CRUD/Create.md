@@ -15,6 +15,7 @@ const studentSchema = new mongoose.Schema({
 });
 ```
 > 如果要更複雜的定義 [[Validators]]
+> 想要做些功能 [[Instance Method]]
 ### create a model
 model 就可以當成一個 [[MongoDB]] 的 collection 用了（[[MongoDB CRUD]]）
 ```js
@@ -29,7 +30,7 @@ const Student = mongoose.model('Student', studentSchema);
 > model.{ CRUD }				  // 這是 [[Mongoose]] 寫法
 > ```
 
-## 細項（可以使用 CRUD）
+## 建立細項（可以使用 CRUD）
 ### create an object
 ```js
 const Jon = new Studtent({

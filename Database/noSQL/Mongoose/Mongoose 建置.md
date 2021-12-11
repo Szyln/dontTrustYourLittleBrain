@@ -2,7 +2,7 @@
 ```
 npm install mongoose
 ```
-
+寫在 middleware 前
 ```js
 const express = require('express');
 const app = express();
@@ -26,6 +26,7 @@ mongoose.connect('mongodb://localhost:27017/exampleDB', {
 	console.log(err);
 })
   
+// middleware
 app.use(express.static('public'));
   
 app.get('/', (req, res) => {
