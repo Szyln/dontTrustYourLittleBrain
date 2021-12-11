@@ -49,5 +49,10 @@ cost studentSchema = new mongoose.Schema({
 })
 ```
 > 輸入的資料不完全符合 validators 的話，還是有機會送成功
-> 
+> ```js
+> const newStudent = new Student({
+>     age: 18,
+>     scholoarshipL { merit: "1500", other: "2000" }	// number 的類型欄位送出 string
+> })
+> ```
 #json #dataType #nosql #mongoose 
