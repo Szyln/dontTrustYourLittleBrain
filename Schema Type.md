@@ -31,7 +31,7 @@ cost studentSchema = new mongoose.Schema({
 cost studentSchema = new mongoose.Schema({
 	name: {
 		type: String,
-		required: [true, "You Forgot to enter the name."]
+		required: [true, "This is Required"]
 	},
 	age: {
 		type: Number,
@@ -54,5 +54,21 @@ cost studentSchema = new mongoose.Schema({
 >     age: 18,
 >     scholoarshipL { merit: "1500", other: "2000" }	// number 的類型欄位送出 string
 > })
+> // 可以成功
 > ```
+
+> 如果送出不存在的 Schema ，不會產生 error ，但也不會存進 DB 裡面
+
+### 更詳細的 Validators(Built-in Validators)
+#### required
+```js
+cost studentSchema = new mongoose.Schema({
+	name: {
+		type: String,
+		required: [true, "This is Required"]
+	},
+})
+```
+
+
 #json #dataType #nosql #mongoose 
