@@ -4,13 +4,18 @@
 [[SQL create 製作表格]] 中有提到 [[Constraints]] 可以將資料內容做規範
 在 [[Mongoose]] 也可以用 [[Validators]] 規範 [[Schema Type]] 
 
+## Shcema Type 的 [[Validators]]
 - [[String 用 Validators]]
 - [[Number 用 Validators]]
 - [[通用的 Validators]]
 
+## [[CRUD]] 的 [[Validators]]
+
+[[Update with Validators]]
+
 
 ## 特性
-輸入的資料不完全符合 validators 的話，還是有機會送成功
+- 輸入的資料不完全符合 validators 的話，還是有機會送成功
 ```js
 const newStudent = new Student({
 	age: 18,
@@ -20,7 +25,8 @@ const newStudent = new Student({
 // 可以成功
 ```
 
-> 如果送出不存在的 Schema ，不會產生 error ，但也不會存進 DB 裡面
+- 如果送出不存在的 Schema ，不會產生 error ，但也不會存進 DB 裡面
+- [[Validators]] 只有在一開始 set 的時候會做驗證，後續跑像是 [[Update]] 的功能就不會再驗證了
 
 
 #database #nosql #mongoose #mongodb #validators

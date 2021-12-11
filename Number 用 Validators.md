@@ -16,5 +16,3 @@ const studentSchema = new mongoose.schema({
 
 跟 [[form]] 的 [[input#number]] 的規範很像
 #database #nosql #mongoose #mongodb #validators
-
-background-color: none;
