@@ -61,11 +61,30 @@ cost studentSchema = new mongoose.Schema({
 
 ### 更詳細的 Validators(Built-in Validators)
 #### required
+值可以是：
+- boolean
+- array: `[true, "沒有填的時候跳出的錯誤提示"]`
+- function: `function() { return this.其他欄位 > 3; }`
 ```js
 cost studentSchema = new mongoose.Schema({
 	name: {
 		type: String,
 		required: [true, "This is Required"]
+	},
+})
+```
+
+```js
+cost breakfastSchema = new mongoose.Schema({
+	bacon: {
+		type: Number,
+		required: true
+	},
+	drink: {
+		type: String,
+		required: function() {
+			return this.bancon > 3;		// 
+		}
 	},
 })
 ```
