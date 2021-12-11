@@ -110,14 +110,14 @@
   "active": "cb8b6ceec4fa1f7c",
   "lastOpenFiles": [
     "Database/Database 數據庫.md",
-    "Database/noSQL/Mongoose/Mongoose CRUD.md",
+    "Database/noSQL/Mongoose/Mongoose.md",
+    "Database/noSQL/Mongoose/CRUD/Mongoose CRUD.md",
     "Database/noSQL/Mongoose/Mongoose 建置.md",
-    "Database/noSQL/Mongoose/Schema Type.md",
-    "Database/noSQL/Mongoose/Create.md",
-    "Database/noSQL/Mongoose/Find(Read).md",
-    "Database/noSQL/Mongoose/Update.md",
-    "Database/noSQL/Mongoose/Delete.md",
-    "JavaScript/物件導向 OOP/繼承/create().md",
-    "Database/noSQL/Mongoose/Validators.md"
+    "Database/DBMS(RDBMS).md",
+    "其他/硬體、生產力/VsCode/Editor 快捷鍵.md",
+    "其他/硬體、生產力/mac/mac 快捷鍵.md",
+    "其他/硬體、生產力/Obsidian/Obsidian 快捷鍵.md",
+    "其他/硬體、生產力/Obsidian/Obisidian 功能.md",
+    "Database/noSQL/Mongoose/Schema Type/Schema Type.md"
   ]
 }

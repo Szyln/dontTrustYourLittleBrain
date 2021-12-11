@@ -2,9 +2,10 @@
 - 發出請求後，（可能有加密），有確定好就會從數據庫 [[Database 數據庫]] 抓檔案（html, css, js）發給你
 
 ## C.R.U.D
- 所有的 [[DBMS(RDBMS)]] 一定有的四種語法
- 
-|[[DBMS(RDBMS)]]|Create|Read|Update|Delete|
+ - 所有的 [[DBMS(RDBMS)]] 一定有的四種語法
+ - [[ODM]] / [[ORM]] 也會有類似的功能
+
+|[[DBMS(RDBMS)]] / ODM(ORM)|Create|Read|Update|Delete|
 |-|-|-|-|-|
 |SQL|[[SQL create 製作表格]]|[[SQL read 視表格內容]]|[[SQL update 更新既有表格內容]]|[[SQL delete 刪除既有表格內容]]|
 |MongoDB|[[MongoDB CRUD#Insertion create]]|[[MongoDB CRUD#find read]]|[[MongoDB CRUD#Update]]|[[MongoDB CRUD#Delete]]|
@@ -34,7 +35,7 @@
 
 
 ## 架構
-- 每個 [[DBMS(RDBMS)]] 都有類似的架構，只是對應名稱有點不同
+- 每個 [[DBMS(RDBMS)]] / [[ODM]] / [[ORM]] 都有類似的架構，只是對應名稱有點不同
 - [[SQL]] 中，製作 table 的時候，會先製作出每個 column 的內容，決定屬性還有條件
 - [[Mongoose]] 則是會定義 Schema
 

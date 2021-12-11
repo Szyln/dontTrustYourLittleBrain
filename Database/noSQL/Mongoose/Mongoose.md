@@ -5,8 +5,9 @@
 - [[Mongoose 建置]]
 - [[Database 數據庫#架構]]
 - [[Mongoose CRUD]]
+- [[Schema Type]]
 
 
 
 
-#database #nosql #json #npm #node
+#database #nosql #json #npm #node #odm
