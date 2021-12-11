@@ -9,9 +9,17 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Instance Method.md",
+            "file": "JavaScript/資料類型/Function/this.md",
             "mode": "source"
           }
+        }
+      },
+      {
+        "id": "b88a3a14f1c21fdb",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -39,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"# this\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,12 +56,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 192,
-    "collapsed": true
+    "width": 808
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -79,9 +87,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Instance Method.md"
-              }
+              "state": {}
             }
           },
           {
@@ -90,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Instance Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,17 +113,17 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "cb8b6ceec4fa1f7c",
+  "active": "b88a3a14f1c21fdb",
   "lastOpenFiles": [
+    "JavaScript/Vue/JS 學前必備觀念/5.關注點分離.md",
+    "JavaScript/Vue/JS 學前必備觀念/3.this.md",
+    "JavaScript/資料類型/Function/this.md",
+    "JavaScript/Vue/JS 學前必備觀念/4.箭頭函式 arrow function.md",
+    "JavaScript/資料類型/Function/4.箭頭函式 arrow function.md",
     "Instance Method.md",
+    "Database/noSQL/Mongoose/CRUD/Find(Read).md",
     "Database/noSQL/Mongoose/Mongoose.md",
     "Database/noSQL/Mongoose/Mongoose 建置.md",
-    "Database/noSQL/Mongoose/CRUD/Create.md",
-    "Database/noSQL/Mongoose/CRUD/Find(Read).md",
-    "Update with Validators.md",
-    "Database/noSQL/Mongoose/Schema Type/Validators.md",
-    "Database/noSQL/Mongoose/CRUD/Update.md",
-    "Number 用 Validators.md",
-    "Database/noSQL/Mongoose/Schema Type/Enum(指定 string, number).md"
+    "Database/noSQL/Mongoose/CRUD/Create.md"
   ]
 }
