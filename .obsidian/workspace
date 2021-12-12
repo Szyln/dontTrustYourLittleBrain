@@ -18,8 +18,11 @@
         "id": "b88a3a14f1c21fdb",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "網路/狀態碼.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -56,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +89,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "網路/狀態碼.md"
+              }
             }
           },
           {
@@ -96,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "網路/狀態碼.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,15 +120,15 @@
   },
   "active": "b88a3a14f1c21fdb",
   "lastOpenFiles": [
-    "JavaScript/Vue/JS 學前必備觀念/5.關注點分離.md",
-    "JavaScript/Vue/JS 學前必備觀念/3.this.md",
-    "JavaScript/資料類型/Function/this.md",
-    "JavaScript/Vue/JS 學前必備觀念/4.箭頭函式 arrow function.md",
-    "JavaScript/資料類型/Function/4.箭頭函式 arrow function.md",
-    "Instance Method.md",
-    "Database/noSQL/Mongoose/CRUD/Find(Read).md",
-    "Database/noSQL/Mongoose/Mongoose.md",
-    "Database/noSQL/Mongoose/Mongoose 建置.md",
-    "Database/noSQL/Mongoose/CRUD/Create.md"
+    "網路/狀態碼.md",
+    "網路/HTTP request.md",
+    "網路/HTTPs.md",
+    "網路/UDP 傳送.md",
+    "網路/TCP 傳送（雙向溝通）.md",
+    "網路/封包.md",
+    "網路/Wireshark.md",
+    "網路/Port.md",
+    "網路/IP.md",
+    "網路/HTTP.md"
   ]
 }
