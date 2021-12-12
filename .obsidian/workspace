@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Database/noSQL/Mongoose/Mongoose 建置.md",
+            "file": "Middleware.md",
             "mode": "source"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/noSQL/Mongoose/Mongoose 建置.md"
+                "file": "Middleware.md"
               }
             }
           },
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/noSQL/Mongoose/Mongoose 建置.md",
+                "file": "Middleware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,15 +111,15 @@
   },
   "active": "542ba16403423937",
   "lastOpenFiles": [
-    "Database/noSQL/Mongoose/Mongoose 建置.md",
-    "Database/noSQL/Mongoose/Mongoose.md",
-    "Mongoose Method.md",
     "Middleware.md",
+    "Mongoose Method.md",
+    "Database/noSQL/Mongoose/Mongoose.md",
+    "其他/硬體、生產力/Obsidian/Obsidian Git.md",
+    "Database/noSQL/Mongoose/Mongoose 建置.md",
     "Database/noSQL/Mongoose/method/Static method.md",
     "Database/noSQL/Mongoose/method/Instance Method.md",
     "Database/noSQL/Mongoose/CRUD/Find(Read).md",
     "Database/noSQL/Mongoose/CRUD/findOneAndUpdate.md",
-    "JavaScript/資料類型/Function/this.md",
-    "網路/狀態碼.md"
+    "JavaScript/資料類型/Function/this.md"
   ]
 }

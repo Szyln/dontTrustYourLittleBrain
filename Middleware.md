@@ -1,6 +1,7 @@
 # Middleware(Mongoose)
 [[Mongoose Method]]
-- save 執行之前，
+[[Mongoose 建置]]
+- 可以定義哪些動作之前（pre）
 
 ```js
 const fs = require('fs') 	// file system
