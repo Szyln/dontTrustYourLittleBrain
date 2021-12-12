@@ -24,5 +24,14 @@ Student.findOne({ name: 'Eric' })
 		console.log(e);
 	})
 ```
-> 第一段要注意，有用 [[this]]，不可以隨意改成[[JavaScript/資料類型/Function/4.箭頭函式 arrow function]]
+> 第一段要注意，有用 [[this]]，不可以隨意改成[[4.箭頭函式 arrow function]]
+
+```js
+Student.find({}).then(data => {
+	data.forEach(oneStudent => {
+		console.log(`${onestudent} has total Scholarship ${oneStudent.totalScholarship}).`
+	})
+})
+```
+
 #database #mongoose #crud 
