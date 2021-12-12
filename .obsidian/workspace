@@ -111,14 +111,14 @@
   "active": "542ba16403423937",
   "lastOpenFiles": [
     "Instance Method.md",
+    "Database/noSQL/Mongoose/CRUD/Find(Read).md",
+    "findOneAndUpdate.md",
     "JavaScript/資料類型/Function/this.md",
     "網路/狀態碼.md",
     "網路/HTTP request.md",
     "網路/HTTPs.md",
     "網路/UDP 傳送.md",
     "網路/TCP 傳送（雙向溝通）.md",
-    "網路/封包.md",
-    "網路/Wireshark.md",
-    "網路/Port.md"
+    "網路/封包.md"
   ]
 }
