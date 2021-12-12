@@ -1,8 +1,9 @@
 # Instance Method
 [[Create#Define a Schema]] 之後，可以設定 [[Instance Method]] 供 model 使用
 
->有個很像的 [[Stactic method]] 之後再提
+>有個很像的 [[Static method]] 之後再提
 
+>用instance method改變資料數據後，需加入this.save()
 ## 建立 Instance Method
 ```js
 // create an instance method
@@ -41,4 +42,6 @@ Student.find({}).then(data => {
 ```
 ### 做出 [[findOneAndUpdate]] 的效果
 [[findOneAndUpdate#使用 Instance Method 做出同樣效果]]
+
+
 #database #mongoose #crud 

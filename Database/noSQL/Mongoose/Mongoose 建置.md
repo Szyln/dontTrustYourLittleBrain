@@ -17,15 +17,26 @@ mongoose.connect('mongodb://localhost:27017/exampleDB', {
 	useUnifiedTopology: true,
 })
 
-.then(() => {
-	console.log('Connected to MongoDB.');
-})
+	.then(() => {
+		console.log('Connected to MongoDB.');
+	})
 
-.catch((err) => {
-	console.log('Failed.');
-	console.log(err);
-})
-  
+	.catch((err) => {
+		console.log('Failed.');
+		console.log(err);
+	})
+```
+mongoose 的內容寫在中間這裡
+```js
+// define a schema
+// create an instance method
+// create an static method
+// define middleware(mongoose)
+// create a model
+// create an object
+```
+
+```js
 // middleware
 app.use(express.static('public'));
   
