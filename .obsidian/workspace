@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Stactic ",
+                "query": "file system",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -112,6 +113,7 @@
   "active": "542ba16403423937",
   "lastOpenFiles": [
     "Middleware.md",
+    "writeFile.md",
     "Mongoose Method.md",
     "Database/noSQL/Mongoose/Mongoose.md",
     "其他/硬體、生產力/Obsidian/Obsidian Git.md",
@@ -119,7 +121,6 @@
     "Database/noSQL/Mongoose/method/Static method.md",
     "Database/noSQL/Mongoose/method/Instance Method.md",
     "Database/noSQL/Mongoose/CRUD/Find(Read).md",
-    "Database/noSQL/Mongoose/CRUD/findOneAndUpdate.md",
-    "JavaScript/資料類型/Function/this.md"
+    "Database/noSQL/Mongoose/CRUD/findOneAndUpdate.md"
   ]
 }
