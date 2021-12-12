@@ -31,6 +31,7 @@ mongoose 的內容寫在中間這裡
 // define a schema
 // create an instance method
 // create an static method
+// create middleware
 // define middleware(mongoose)
 // create a model
 // create an object

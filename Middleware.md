@@ -1,9 +1,10 @@
 # Middleware(Mongoose)
 [[Mongoose Method]]
 [[Mongoose 建置]]
-- 可以定義哪些動作之前（`pre`）要做什麼動作
+
 
 ## Schema.pre()
+可以定義哪些動作之前（`pre`）要做什麼動作
 ```js
 const fs = require('fs') 	// file system
 
