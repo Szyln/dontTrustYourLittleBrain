@@ -34,6 +34,7 @@ mongoose 的內容寫在中間這裡
 // define middleware(mongoose)
 // create a model
 // create an object
+// save
 ```
 
 ```js

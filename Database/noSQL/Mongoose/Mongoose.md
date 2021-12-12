@@ -6,6 +6,7 @@
 - [[Database 數據庫#架構]]
 - [[Mongoose CRUD]]
 - [[Schema Type]]
+- [[Mongoose Method]]
 
 
 

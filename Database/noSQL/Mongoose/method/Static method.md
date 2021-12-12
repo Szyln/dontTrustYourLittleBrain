@@ -1,4 +1,5 @@
 # Static method
+[[Mongoose Method]]
 給 model 用的，[[Instance Method]] 是給 Schema 用的
 
 [[Create#Define a Schema]] 之後
