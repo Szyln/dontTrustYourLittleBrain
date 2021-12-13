@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Event Queue.md",
+            "file": "Single-thread.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file system",
+                "query": "單線程",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263
+    "width": 263,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -79,7 +80,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Event Queue.md"
+                "file": "Single-thread.md"
               }
             }
           },
@@ -89,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Event Queue.md",
+                "file": "Single-thread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,15 +111,15 @@
   },
   "active": "542ba16403423937",
   "lastOpenFiles": [
+    "Single-thread.md",
+    "JavaScript/介紹/JavaScript.md",
     "Event Queue.md",
+    "JavaScript/介紹/Strongly Weakly type Language.md",
+    "JavaScript/介紹/ECMA.md",
     "AJAX.md",
+    "計算機/thread.md",
     "F2E/API.md",
     "其他/硬體、生產力/terminal/ls.md",
-    "其他/硬體、生產力/terminal/中斷執行.md",
-    "其他/硬體、生產力/terminal/mkdir.md",
-    "其他/硬體、生產力/terminal/cd.md",
-    "其他/硬體、生產力/terminal/touch.md",
-    "其他/硬體、生產力/terminal/常用指令.md",
-    "Database/noSQL/Mongoose/Mongoose.md"
+    "其他/硬體、生產力/terminal/中斷執行.md"
   ]
 }
