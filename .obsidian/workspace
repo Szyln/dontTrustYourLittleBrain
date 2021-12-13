@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "計算機/thread.md",
+            "file": "Single-thread.md",
             "mode": "source"
           }
         }
@@ -48,12 +48,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 263
+    "width": 263,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -80,7 +80,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "計算機/thread.md"
+                "file": "Single-thread.md"
               }
             }
           },
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "計算機/thread.md",
+                "file": "Single-thread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,15 +111,15 @@
   },
   "active": "542ba16403423937",
   "lastOpenFiles": [
+    "Single-thread.md",
+    "Event Queue.md",
+    "AJAX.md",
     "計算機/thread.md",
     "\bthread.md",
     "計算機/註解/二進位.md",
-    "Single-thread.md",
     "JavaScript/介紹/JavaScript.md",
-    "Event Queue.md",
     "JavaScript/介紹/Strongly Weakly type Language.md",
     "JavaScript/介紹/ECMA.md",
-    "AJAX.md",
     "F2E/API.md"
   ]
 }
