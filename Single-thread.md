@@ -22,7 +22,7 @@ console.log('b');
 ```js
 let example = new Promise((resolve, reject) => {
 	resolve({一個 object});
-	reject(new Error('not allowed'));
+	reject(new Error('not allowed')); 
 })
 
 example.than((d) => {
