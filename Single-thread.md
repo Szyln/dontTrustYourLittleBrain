@@ -17,44 +17,7 @@ console.log('b');
 - setTimeout()
 - addEventListener
 
-## Callback Hell
-```js
-function getData(name) {
-	setTimeout(() => {
-		return {
-			name,
-			age: Math.floor() * 20,
-			major: "CS"
-		};
-	}, 2000);
-}
-console.log('start');
+## Promise
+解決早期的 [[Callback Hell]] 現象
 
-// 執行的時候 let 還得不到結果，log undefined
-let data = getData('Wilson');
-console.log(data);
-
-console.log('end');
-```
-
-```js
-function getData(name, callback) {
-	setTimeout(() => {
-	// 改成 callback
-		callback( {
-			name,
-			age: Math.floor()) * 20,
-			major: "CS"
-		});
-	}, 2000);
-}
-console.log('start');
-
-// 改成奇妙的
-let data = getData('Wilson', (obj) => {
-	console.log(obj);
-});
-console.log(data);
-
-console.log('end');
-```
+#js #event #ajax #async
