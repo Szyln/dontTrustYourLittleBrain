@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Middleware.md",
+            "file": "Event Queue.md",
             "mode": "source"
           }
         }
@@ -48,13 +48,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 263,
-    "collapsed": true
+    "width": 263
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -81,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Middleware.md"
+                "file": "Event Queue.md"
               }
             }
           },
@@ -91,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Middleware.md",
+                "file": "Event Queue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +110,15 @@
   },
   "active": "542ba16403423937",
   "lastOpenFiles": [
-    "Middleware.md",
-    "Database/noSQL/Mongoose/Mongoose 建置.md",
-    "writeFile.md",
-    "Mongoose Method.md",
-    "Database/noSQL/Mongoose/Mongoose.md",
-    "其他/硬體、生產力/Obsidian/Obsidian Git.md",
-    "Database/noSQL/Mongoose/method/Static method.md",
-    "Database/noSQL/Mongoose/method/Instance Method.md",
-    "Database/noSQL/Mongoose/CRUD/Find(Read).md",
-    "Database/noSQL/Mongoose/CRUD/findOneAndUpdate.md"
+    "Event Queue.md",
+    "AJAX.md",
+    "F2E/API.md",
+    "其他/硬體、生產力/terminal/ls.md",
+    "其他/硬體、生產力/terminal/中斷執行.md",
+    "其他/硬體、生產力/terminal/mkdir.md",
+    "其他/硬體、生產力/terminal/cd.md",
+    "其他/硬體、生產力/terminal/touch.md",
+    "其他/硬體、生產力/terminal/常用指令.md",
+    "Database/noSQL/Mongoose/Mongoose.md"
   ]
 }
