@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Single-thread.md",
+            "file": "計算機/thread.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "單線程",
+                "query": "執行緒",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,12 +48,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 263,
-    "collapsed": true
+    "width": 263
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -80,7 +80,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Single-thread.md"
+                "file": "計算機/thread.md"
               }
             }
           },
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Single-thread.md",
+                "file": "計算機/thread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,15 +111,15 @@
   },
   "active": "542ba16403423937",
   "lastOpenFiles": [
+    "計算機/thread.md",
+    "\bthread.md",
+    "計算機/註解/二進位.md",
     "Single-thread.md",
     "JavaScript/介紹/JavaScript.md",
     "Event Queue.md",
     "JavaScript/介紹/Strongly Weakly type Language.md",
     "JavaScript/介紹/ECMA.md",
     "AJAX.md",
-    "計算機/thread.md",
-    "F2E/API.md",
-    "其他/硬體、生產力/terminal/ls.md",
-    "其他/硬體、生產力/terminal/中斷執行.md"
+    "F2E/API.md"
   ]
 }
