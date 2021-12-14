@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Equalization.md",
+            "file": "Single-thread.md",
             "mode": "preview"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263,
-    "collapsed": true
+    "width": 263
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -80,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Equalization.md"
+                "file": "Single-thread.md"
               }
             }
           },
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Equalization.md",
+                "file": "Single-thread.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,9 +110,9 @@
   },
   "active": "40692b544eaced7f",
   "lastOpenFiles": [
-    "Equalization.md",
     "Single-thread.md",
     "Callback Hell.md",
+    "Equalization.md",
     "Event Queue.md",
     "AJAX.md",
     "計算機/thread.md",
