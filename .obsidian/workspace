@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Single-thread.md",
+            "file": "Equalization.md",
             "mode": "source"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Single-thread.md"
+                "file": "Equalization.md"
               }
             }
           },
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Single-thread.md",
+                "file": "Equalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +111,7 @@
   },
   "active": "40692b544eaced7f",
   "lastOpenFiles": [
+    "Equalization.md",
     "Single-thread.md",
     "Callback Hell.md",
     "Event Queue.md",
@@ -119,7 +120,6 @@
     "\bthread.md",
     "計算機/註解/二進位.md",
     "JavaScript/介紹/JavaScript.md",
-    "JavaScript/介紹/Strongly Weakly type Language.md",
-    "JavaScript/介紹/ECMA.md"
+    "JavaScript/介紹/Strongly Weakly type Language.md"
   ]
 }
