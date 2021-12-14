@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mongoose Promise and Query.md",
+            "file": "Promise.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mongoose Promise and Query.md"
+                "file": "Promise.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mongoose Promise and Query.md",
+                "file": "Promise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +112,15 @@
   },
   "active": "40692b544eaced7f",
   "lastOpenFiles": [
-    "Mongoose Promise and Query.md",
     "Promise.md",
+    "Callback Hell.md",
+    "Single-thread.md",
+    "Database/noSQL/Mongoose/Mongoose.md",
+    "Promise and Query (Mongoose).md",
     "JavaScript/物件導向 OOP/Constructor.md",
     "JavaScript/物件導向 OOP/繼承/Class（語法糖）.md",
-    "Single-thread.md",
-    "Callback Hell.md",
     "AJAX.md",
     "Equalization.md",
-    "Event Queue.md",
-    "計算機/thread.md"
+    "Event Queue.md"
   ]
 }

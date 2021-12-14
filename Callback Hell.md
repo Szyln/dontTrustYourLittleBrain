@@ -19,7 +19,7 @@ console.log(data);
 
 console.log('end');
 ```
-
+## 要得到結果的話……
 ```js
 
 function getData(name, callback) {
@@ -58,3 +58,5 @@ console.log(data);
 
 console.log('end');
 ```
+
+#js #api #promise #async 

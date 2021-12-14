@@ -7,7 +7,7 @@
 - [[Mongoose CRUD]]
 - [[Schema Type]]
 - [[Mongoose Method]]
-
+- [[Promise and Query (Mongoose)]]
 
 
 
