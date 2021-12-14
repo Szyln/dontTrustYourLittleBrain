@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Single-thread.md",
-            "mode": "preview"
+            "file": "JavaScript/物件導向 OOP/Constructor.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "執行緒",
+                "query": "= new ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,11 +48,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 263
+    "width": 263,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -79,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Single-thread.md"
+                "file": "JavaScript/物件導向 OOP/Constructor.md"
               }
             }
           },
@@ -89,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Single-thread.md",
+                "file": "JavaScript/物件導向 OOP/Constructor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,15 +112,15 @@
   },
   "active": "40692b544eaced7f",
   "lastOpenFiles": [
+    "JavaScript/物件導向 OOP/Constructor.md",
+    "JavaScript/物件導向 OOP/繼承/Class（語法糖）.md",
+    "Promise.md",
     "Single-thread.md",
     "Callback Hell.md",
+    "AJAX.md",
     "Equalization.md",
     "Event Queue.md",
-    "AJAX.md",
     "計算機/thread.md",
-    "\bthread.md",
-    "計算機/註解/二進位.md",
-    "JavaScript/介紹/JavaScript.md",
-    "JavaScript/介紹/Strongly Weakly type Language.md"
+    "\bthread.md"
   ]
 }
