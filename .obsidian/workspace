@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "API/Promise.md",
+            "file": "Fetch.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "API/Promise.md"
+                "file": "Fetch.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "API/Promise.md",
+                "file": "Fetch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +112,15 @@
   },
   "active": "8e8d6f9a971e60b2",
   "lastOpenFiles": [
+    "Fetch.md",
+    "API/API.md",
     "API/Promise.md",
     "Equalization.md",
     "API/async, await, try, catch.md",
     "API/Async.md",
     "API/AJAX.md",
-    "API/API.md",
     "Postman.md",
     "endpoint.md",
-    "CRUD.md",
-    "Database/Database 數據庫.md"
+    "CRUD.md"
   ]
 }
