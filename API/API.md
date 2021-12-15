@@ -11,7 +11,7 @@
 
 
 ## API 用語
-- [[endpoint]]
+- [[endpoint]] 
 
 
 #js #api #async 

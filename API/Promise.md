@@ -2,7 +2,8 @@
 - 解決早期的 [[Callback Hell]] 現象
 - 是一個 [[object]]，要用 [[Constructor]] function (`new`)來生成，生成的 object 要放入一個 function
 - 分為兩個結果，resolve, reject，前者回傳資訊（`then`），後者回傳錯誤資訊（`catch`）
-
+- [[async, await, try, catch]] 可以改寫
+- 
 ## 兩個結果
 ### resolve
 ```js
@@ -28,8 +29,10 @@ example.catch((e) => {
 ```
 
 ## 改寫 [[Callback Hell]]
+### 利用 Promise 改寫
+function 寫完之後還是要再寫 `.then()` 跟 `.catch()`
+> 利用 Promise 的 [[async, await, try, catch]] 功能，增加易讀性
 ```js
-
 function getData(name) {
 	if (name == "Wilson") {
 		return new Promise((resolve, reject) => {
@@ -82,5 +85,5 @@ getData('Wilson')
 > 	).catch(blablabla);
 > ```
 
-[[async, await, try, catch]]
+
 #js #ajax #async #promise
