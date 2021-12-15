@@ -1,4 +1,5 @@
 # 回應有樣式的 HTML 檔案
+- [[Middleware(express)]]
 [[send 和 sendFile 回應(express)#sendFile ：回應 HTML 檔案]] 提到 `sendFile()` 可以回應整個檔案，但如果只是單純在該檔案寫入 `<link>` 是不會有作用的，必須在後端做處理
 ```html
 <!DOCTYPE html>

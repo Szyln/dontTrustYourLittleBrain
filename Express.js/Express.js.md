@@ -43,7 +43,7 @@ const 模組 = require('./模組');
 ```
 
 ### middleware
-[[Middleware：Serving a Static File 回應有樣式的 HTML 檔案]]
+[[Serving a Static File 回應有樣式的 HTML 檔案]]
 ### 建立 server
 - 跟 node.js（ [[Server 建立（沒寫完）]]）比起來簡化很多
 - 處理 [[HTTP request]]([[狀態碼]])

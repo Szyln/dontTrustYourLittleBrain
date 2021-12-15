@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "EJS/EJS.md",
+            "file": "app.set().md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EJS/EJS.md"
+                "file": "app.set().md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EJS/EJS.md",
+                "file": "app.set().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,15 +120,15 @@
   },
   "active": "cb15f0bb5b572fbc",
   "lastOpenFiles": [
+    "app.set().md",
+    "Node to API.md",
+    "Middleware(express).md",
+    "Express.js/Serving a Static File 回應有樣式的 HTML 檔案.md",
+    "Fetch.md",
+    "Express.js/Express.js.md",
     "EJS/EJS.md",
     "EJS/gulp/7.為什麼要學 EJS.md",
     "EJS/gulp/8.layout.md",
-    "Express.js/Express.js.md",
-    "Node to API.md",
-    "Express.js/Middleware：Serving a Static File 回應有樣式的 HTML 檔案.md",
-    "網路/狀態碼.md",
-    "Express.js/Routing/404 Not Found.md",
-    "Express.js/Routing/302 Found.md",
-    "Express.js/Routing/send 和 sendFile 回應(express).md"
+    "網路/狀態碼.md"
   ]
 }

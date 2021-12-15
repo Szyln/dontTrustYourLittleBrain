@@ -13,7 +13,8 @@
 npm install express nodemon ejs 
 ```
 ### 樣式：middleware
-依循[[Middleware：Serving a Static File 回應有樣式的 HTML 檔案]]建立 `middleware`，樣式檔案要放在 `public` 資料夾內
+依循[[Serving a Static File 回應有樣式的 HTML 檔案]]建立 `middleware`，樣式檔案要放在 `public` 資料夾內
+
 ```js
 // 匯入三個模組： express, app, ejs
 
