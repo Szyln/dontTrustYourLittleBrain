@@ -17,7 +17,7 @@ const ejs - require('ejs');
 // middleware
 app.use(express.static('public'));
 // 這是啥
-app.set('view engine', ejs);
+app.set('view engine', 'ejs');
 
 // request handdling
 app.get('/', (req, res) => {
@@ -33,3 +33,5 @@ app.listen(3000, () => {
 	console.log('server is running on 3000')
 })
 ```
+
+> [[從物件中提取屬性到變數中 Destructing an object]]

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "EJS/EJS.md",
-            "mode": "preview"
+            "file": "Node to API.md",
+            "mode": "source"
           }
         }
       }
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EJS/EJS.md"
+                "file": "Node to API.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EJS/EJS.md",
+                "file": "Node to API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,8 +120,8 @@
   },
   "active": "8e8d6f9a971e60b2",
   "lastOpenFiles": [
-    "EJS/EJS.md",
     "Node to API.md",
+    "EJS/EJS.md",
     "Fetch.md",
     "JavaScript/介紹/Library 跟 Framework 的差別.md",
     "JavaScript/資料類型/Template literals (Template strings).md",
