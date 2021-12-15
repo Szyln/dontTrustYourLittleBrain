@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "40692b544eaced7f",
+        "id": "8e8d6f9a971e60b2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Promise.md",
+            "file": "API/API.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "= new ",
+                "query": "API",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -81,7 +80,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Promise.md"
+                "file": "API/API.md"
               }
             }
           },
@@ -91,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Promise.md",
+                "file": "API/API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,17 +109,17 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "40692b544eaced7f",
+  "active": "8e8d6f9a971e60b2",
   "lastOpenFiles": [
-    "Promise.md",
-    "Callback Hell.md",
-    "Single-thread.md",
-    "Database/noSQL/Mongoose/Mongoose.md",
-    "Promise and Query (Mongoose).md",
-    "JavaScript/物件導向 OOP/Constructor.md",
-    "JavaScript/物件導向 OOP/繼承/Class（語法糖）.md",
-    "AJAX.md",
-    "Equalization.md",
-    "Event Queue.md"
+    "API/API.md",
+    "F2E/TPX API.md",
+    "JavaScript/資料類型/JSON/8. Axios 的 API 串接.md",
+    "API/Async.md",
+    "API/AJAX.md",
+    "Event Queue.md",
+    "API/async, await, try, catch.md",
+    "API/Promise.md",
+    "API/Callback Hell.md",
+    "API/Single-thread.md"
   ]
 }
