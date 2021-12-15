@@ -46,10 +46,33 @@ getJoke();
 ```
 
 ## 需要有 Authorization Key 才能使用的 API
-[OpenWeather](https://openweathermap.org/)
-- 需要註冊，才會獲得金鑰
+[OpenWeather](https://openweathermap.org/)(需要註冊，才會獲得金鑰)
+[WeatherAPI Doc](https://openweathermap.org/api)
 
+### 如何使用
+讀 api 文件的時候會看到這種內容，這是一個 [[endpoint]]
 ```js
-let key = 'weathor給你的金鑰'
+api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
 ```
+
+#### app.js
+[[async, await, try, catch]]
+```js
+let key = 'weather給你的金鑰';
+let cityname = 'taipei';
+// 將 endpoint 貼過來，並且讓他符合樣板字面值
+let url = `api.openweathermap.org/data/2.5/weather?q=${city name}&appid=${key}`
+
+async function getWeather() {
+	let data = await fetch(url);
+	let dataParsed = await data.json();
+	console.log(dataParsed);
+}
+
+getWeather();
+```
+>[[Template literals (Template strings)]]
+
+## 搭配後端來寫
+[[Node to API]]
 #js #async #api #promise

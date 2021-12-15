@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fetch.md",
-            "mode": "source"
+            "file": "EJS/EJS.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "crud",
+                "query": "hand",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fetch.md"
+                "file": "EJS/EJS.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fetch.md",
+                "file": "EJS/EJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,9 +101,17 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "815617d03ad6cb5e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -112,15 +120,15 @@
   },
   "active": "8e8d6f9a971e60b2",
   "lastOpenFiles": [
+    "EJS/EJS.md",
+    "Node to API.md",
     "Fetch.md",
+    "JavaScript/介紹/Library 跟 Framework 的差別.md",
+    "JavaScript/資料類型/Template literals (Template strings).md",
+    "JavaScript/Template literals (Template strings).md",
     "API/API.md",
     "API/Promise.md",
     "Equalization.md",
-    "API/async, await, try, catch.md",
-    "API/Async.md",
-    "API/AJAX.md",
-    "Postman.md",
-    "endpoint.md",
-    "CRUD.md"
+    "API/async, await, try, catch.md"
   ]
 }
