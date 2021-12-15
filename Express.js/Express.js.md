@@ -2,8 +2,13 @@
 [npm 載點](https://www.npmjs.com/package/express)
 - 是 [[npm]] 中的一個模組
 - Node.js 的一種框架（[[Library 跟 Framework 的差別]]），有助加速 Node.js 撰寫
+- 搭配 [[EJS]]
 
 ## 建置
+- import
+- middleware
+- reqest handling
+- port listening
 ```js
 // app.js
 const express = require('express')
@@ -37,9 +42,12 @@ const 模組 = require('./模組');
 模組();
 ```
 
+### middleware
+[[Middleware：Serving a Static File 回應有樣式的 HTML 檔案]]
 ### 建立 server
 - 跟 node.js（ [[Server 建立（沒寫完）]]）比起來簡化很多
-- 處理 [[HTTP request]]
+- 處理 [[HTTP request]]([[狀態碼]])
+- [[Routing]]([[send 和 sendFile 回應(express)]])
 ```js
 app.get('/', function (req, res) {	// 參數：網址，建立 server
 	res.send('Hello World')			// 顯示文字

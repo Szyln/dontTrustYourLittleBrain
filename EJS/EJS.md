@@ -1,7 +1,10 @@
 # EJS(Embedded JavaScript)
+一種[[樣板語言]](template language)，可以做樣板管理
+跟目前學的語言類似ㄠ
+
 - 中文：嵌入式 JS
 - 一種[[樣板語言]]用 JS 生成 HTML 
-- [[7.為什麼要學 EJS]]
+- [[8.layout]]
 
 ## 環境建置
 >VS插件：[EJS Language support]
@@ -10,7 +13,7 @@
 npm install express nodemon ejs 
 ```
 ### 樣式：middleware
-依循[[Serving a Static File 回應有樣式的 HTML 檔案]]建立 `middleware`，樣式檔案要放在 `public` 資料夾內
+依循[[Middleware：Serving a Static File 回應有樣式的 HTML 檔案]]建立 `middleware`，樣式檔案要放在 `public` 資料夾內
 ```js
 // 匯入三個模組： express, app, ejs
 
