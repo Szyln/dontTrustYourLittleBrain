@@ -1,5 +1,6 @@
 # Node to API
 [[Fetch#需要有 Authorization Key 才能使用的 API]]
+>Node 是不支援 [[Fetch]] 功能的
 ## 步驟
 ### 終端
 ```
@@ -44,6 +45,7 @@ app.get('/:city', (req, res) => {
 ```
 > [[從物件中提取屬性到變數中 Destructing an object]]
 
+> [[Node to API - 使用 fetch 的狀況（不支援）]]
 ### listen
 ```js
 app.listen(3000, () => {
