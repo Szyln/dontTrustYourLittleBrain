@@ -1,7 +1,7 @@
 # Node to API
 [[Fetch#需要有 Authorization Key 才能使用的 API]]
 >Node 是不支援 [[Fetch]] 功能的
-## 步驟
+## app.js
 ### 終端
 ```
 npm init
@@ -57,9 +57,6 @@ app.get('/:city', (req, res) => {
 		}).on('error', (e) => {
 			console.error(e);
 		});
-	
-	
-
 })
 ```
 >- [[從物件中提取屬性到變數中 Destructing an object]]
@@ -67,12 +64,24 @@ app.get('/:city', (req, res) => {
 >- [[EJS#在 HTML 內使用變數：Routing for pattern]]
 > [[Node to API - 使用 fetch 的狀況（不支援）]]
 ### 使用 API
-[[Fetch]] 是不支援的
-#### [https.get](https://nodejs.org/docs/latest-v15.x/api/https.html#https_https_get_options_callback)
-
+[[Fetch]] 是不支援的，有兩種作法
+- [https.get](https://nodejs.org/docs/latest-v15.x/api/https.html#https_https_get_options_callback)
+- [[node-fetch]]
 ### listen
 ```js
 app.listen(3000, () => {
 	console.log('server is running on 3000')
 })
+```
+
+
+## ejs
+[[EJS#在 EJS 檔案內撰寫 HTML]]
+```html
+<!-- head 裡面 -->
+<!-- 點記法要點誰可以用 postman 查看 -->
+<title><%= djs.name %> - ( <%= djs.sys.country%> )</title>
+
+<!-- body 裡面 -->
+<h1><%= djs.name %> Weather Now</h1>
 ```

@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,14 +120,14 @@
   "active": "7c655398972db9b8",
   "lastOpenFiles": [
     "Node to API.md",
+    "Node to API - 使用 fetch 的狀況（不支援）.md",
     "EJS/EJS.md",
+    "Equalization.md",
     "JavaScript/資料類型/類型轉換.md",
     "Fetch.md",
-    "Node to API - 使用 fetch 的狀況（不支援）.md",
     "app.set().md",
     "Middleware(express).md",
     "Express.js/Serving a Static File 回應有樣式的 HTML 檔案.md",
-    "Express.js/Express.js.md",
-    "EJS/gulp/7.為什麼要學 EJS.md"
+    "Express.js/Express.js.md"
   ]
 }
