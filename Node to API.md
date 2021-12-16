@@ -18,8 +18,10 @@ const ejs - require('ejs');
 >[[EJS]]
 ### api 資料
 ```js
+// api key 
 const key = 'api 提供的金鑰' ;
 ```
+
 ### [[Middleware(express)]]
 [[app.set()]]
 ```js
