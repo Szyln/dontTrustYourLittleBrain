@@ -40,33 +40,35 @@ app.get('/', (req, res) => {
 
 app.get('/:city', (req, res) => {
 	let { city } = req.params;
+	let url = `API 給的 endpoint`
+	
+	// get request made by node.js
+	https.get('url', (response) => {
+		console.log('statusCode:', response.statusCode);
+		console.log('headers:', response.headers); 
+		
+		response.on('data', (d) => {
+			let dJson = JSON.parse(d);
+			console.log(d);
+			process.stdout.write(d);
+		});
+
+		}).on('error', (e) => {
+			console.error(e);
+		});
+	
+	
+	
 	res.render('weather.ejs')
 })
 ```
-> [[從物件中提取屬性到變數中 Destructing an object]]
-
+>- [[從物件中提取屬性到變數中 Destructing an object]]
+>- [[類型轉換#JSON]] JSON.parse(string)：轉成 array
+>
 > [[Node to API - 使用 fetch 的狀況（不支援）]]
 ### 使用 API
 [[Fetch]] 是不支援的
 #### [https.get](https://nodejs.org/docs/latest-v15.x/api/https.html#https_https_get_options_callback)
-```js
-// 要匯入 https
-const https = require('https');
-
-// get request made by mode.js
-// endpoint
-https.get('url', (res) => {
-  console.log('statusCode:', res.statusCode);
-  console.log('headers:', res.headers);
-
-  res.on('data', (d) => {
-    process.stdout.write(d);
-  });
-
-}).on('error', (e) => {
-  console.error(e);
-});
-```
 
 ### listen
 ```js

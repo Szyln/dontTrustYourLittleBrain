@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Node to API.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#expressJs",
+                "query": "parse",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263,
-    "collapsed": true
+    "width": 263
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -121,6 +120,7 @@
   "active": "cb15f0bb5b572fbc",
   "lastOpenFiles": [
     "Node to API.md",
+    "JavaScript/資料類型/類型轉換.md",
     "Fetch.md",
     "Node to API - 使用 fetch 的狀況（不支援）.md",
     "app.set().md",
@@ -128,7 +128,6 @@
     "Express.js/Serving a Static File 回應有樣式的 HTML 檔案.md",
     "Express.js/Express.js.md",
     "EJS/EJS.md",
-    "EJS/gulp/7.為什麼要學 EJS.md",
-    "EJS/gulp/8.layout.md"
+    "EJS/gulp/7.為什麼要學 EJS.md"
   ]
 }
