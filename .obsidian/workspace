@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "cb15f0bb5b572fbc",
+        "id": "7c655398972db9b8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Node to API.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263
+    "width": 263,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -117,9 +118,10 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "cb15f0bb5b572fbc",
+  "active": "7c655398972db9b8",
   "lastOpenFiles": [
     "Node to API.md",
+    "EJS/EJS.md",
     "JavaScript/資料類型/類型轉換.md",
     "Fetch.md",
     "Node to API - 使用 fetch 的狀況（不支援）.md",
@@ -127,7 +129,6 @@
     "Middleware(express).md",
     "Express.js/Serving a Static File 回應有樣式的 HTML 檔案.md",
     "Express.js/Express.js.md",
-    "EJS/EJS.md",
     "EJS/gulp/7.為什麼要學 EJS.md"
   ]
 }

@@ -48,9 +48,10 @@ app.get('/:city', (req, res) => {
 		console.log('headers:', response.headers); 
 		
 		response.on('data', (d) => {
+			// string to array
 			let dJson = JSON.parse(d);
-			console.log(d);
-			process.stdout.write(d);
+			console.log(dJson);
+			res.render('weather.ejs', { dJson });
 		});
 
 		}).on('error', (e) => {
@@ -58,13 +59,12 @@ app.get('/:city', (req, res) => {
 		});
 	
 	
-	
-	res.render('weather.ejs')
+
 })
 ```
 >- [[從物件中提取屬性到變數中 Destructing an object]]
 >- [[類型轉換#JSON]] JSON.parse(string)：轉成 array
->
+>- [[EJS#在 HTML 內使用變數：Routing for pattern]]
 > [[Node to API - 使用 fetch 的狀況（不支援）]]
 ### 使用 API
 [[Fetch]] 是不支援的
