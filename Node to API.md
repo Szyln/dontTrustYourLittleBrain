@@ -46,6 +46,28 @@ app.get('/:city', (req, res) => {
 > [[從物件中提取屬性到變數中 Destructing an object]]
 
 > [[Node to API - 使用 fetch 的狀況（不支援）]]
+### 使用 API
+[[Fetch]] 是不支援的
+#### [https.get](https://nodejs.org/docs/latest-v15.x/api/https.html#https_https_get_options_callback)
+```js
+// 要匯入 https
+const https = require('https');
+
+// get request made by mode.js
+// endpoint
+https.get('url', (res) => {
+  console.log('statusCode:', res.statusCode);
+  console.log('headers:', res.headers);
+
+  res.on('data', (d) => {
+    process.stdout.write(d);
+  });
+
+}).on('error', (e) => {
+  console.error(e);
+});
+```
+
 ### listen
 ```js
 app.listen(3000, () => {

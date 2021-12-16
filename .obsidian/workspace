@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Node to API - 使用 fetch 的狀況（不支援）.md",
+            "file": "Node to API.md",
             "mode": "source"
           }
         }
@@ -81,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node to API - 使用 fetch 的狀況（不支援）.md"
+                "file": "Node to API.md"
               }
             }
           },
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node to API - 使用 fetch 的狀況（不支援）.md",
+                "file": "Node to API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,9 +120,9 @@
   },
   "active": "cb15f0bb5b572fbc",
   "lastOpenFiles": [
-    "Node to API - 使用 fetch 的狀況（不支援）.md",
     "Node to API.md",
     "Fetch.md",
+    "Node to API - 使用 fetch 的狀況（不支援）.md",
     "app.set().md",
     "Middleware(express).md",
     "Express.js/Serving a Static File 回應有樣式的 HTML 檔案.md",
