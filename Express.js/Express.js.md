@@ -1,5 +1,4 @@
 # Express.js 
-[npm 載點](https://www.npmjs.com/package/express)
 - 是 [[npm]] 中的一個模組
 - Node.js 的一種框架（[[Library 跟 Framework 的差別]]），有助加速 Node.js 撰寫
 - 搭配 [[EJS]]

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fetch.md",
-            "mode": "preview"
+            "file": "Express.js/Express.js.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "parse",
+                "query": "tag:#expressJs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263,
-    "collapsed": true
+    "width": 263
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -80,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fetch.md"
+                "file": "Express.js/Express.js.md"
               }
             }
           },
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fetch.md",
+                "file": "Express.js/Express.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,15 +118,15 @@
   },
   "active": "7c655398972db9b8",
   "lastOpenFiles": [
-    "Fetch.md",
-    "Node to API - node fetch.md",
-    "Node to API.md",
+    "Express.js/Express.js.md",
+    "API/Fetch.md",
+    "Database/noSQL/Mongoose/Promise and Query (Mongoose).md",
+    "API/AJAX/Single-thread.md",
+    "API/AJAX/AJAX.md",
+    "Express.js/Routing/回應表單 (Routing for Query).md",
+    "API/Node to API - node fetch.md",
+    "API/Node to API.md",
     "EJS/EJS.md",
-    "Equalization.md",
-    "JavaScript/資料類型/類型轉換.md",
-    "app.set().md",
-    "Middleware(express).md",
-    "Express.js/Serving a Static File 回應有樣式的 HTML 檔案.md",
-    "Express.js/Express.js.md"
+    "其他/聲學/Equalization.md"
   ]
 }
