@@ -51,7 +51,11 @@ app.get('/:city', (req, res) => {
 			// string to array
 			let dJson = JSON.parse(d);
 			console.log(dJson);
-			res.render('weather.ejs', { dJson });
+			// 氣溫的單位不太一樣，調整一下
+			let { temp } = dJson.main;
+			// 需要額外寫個 kToC() function
+			let newTemp = kToC(temp);
+			res.render('weather.ejs', { dJson, newTemp });
 		});
 
 		}).on('error', (e) => {
@@ -62,7 +66,7 @@ app.get('/:city', (req, res) => {
 >- [[從物件中提取屬性到變數中 Destructing an object]]
 >- [[類型轉換#JSON]] JSON.parse(string)：轉成 array
 >- [[EJS#在 HTML 內使用變數：Routing for pattern]]
-> [[Node to API - 使用 fetch 的狀況（不支援）]]
+> [[Node to API - node fetch]]
 ### 使用 API
 [[Fetch]] 是不支援的，有兩種作法
 - [https.get](https://nodejs.org/docs/latest-v15.x/api/https.html#https_https_get_options_callback)
