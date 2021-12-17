@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Express.js/Express.js.md",
+            "file": "Database/noSQL/Mongoose/Mongoose.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Express.js/Express.js.md"
+                "file": "Database/noSQL/Mongoose/Mongoose.md"
               }
             }
           },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Express.js/Express.js.md",
+                "file": "Database/noSQL/Mongoose/Mongoose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +118,7 @@
   },
   "active": "7c655398972db9b8",
   "lastOpenFiles": [
+    "Database/noSQL/Mongoose/Mongoose.md",
     "Express.js/Express.js.md",
     "API/Fetch.md",
     "Database/noSQL/Mongoose/Promise and Query (Mongoose).md",
@@ -126,7 +127,6 @@
     "Express.js/Routing/回應表單 (Routing for Query).md",
     "API/Node to API - node fetch.md",
     "API/Node to API.md",
-    "EJS/EJS.md",
-    "其他/聲學/Equalization.md"
+    "EJS/EJS.md"
   ]
 }
