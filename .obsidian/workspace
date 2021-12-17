@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他/聲學/Equalization.md",
+            "file": "Restful API 介紹.md",
             "mode": "source"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/聲學/Equalization.md"
+                "file": "Restful API 介紹.md"
               }
             }
           },
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/聲學/Equalization.md",
+                "file": "Restful API 介紹.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +119,8 @@
   },
   "active": "7c655398972db9b8",
   "lastOpenFiles": [
+    "Restful API 介紹.md",
+    "Restful API.md",
     "其他/聲學/Equalization.md",
     "Database/DBMS(RDBMS).md",
     "Database/SQL/mySQL.md",
@@ -126,8 +128,6 @@
     "Database/noSQL/MongoDB/MongoDB.md",
     "Database/noSQL/Mongoose/Mongoose.md",
     "Express.js/Express.js.md",
-    "API/Fetch.md",
-    "Database/noSQL/Mongoose/Promise and Query (Mongoose).md",
-    "API/AJAX/Single-thread.md"
+    "API/Fetch.md"
   ]
 }
