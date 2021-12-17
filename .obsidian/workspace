@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Database/SQL/mySQL.md",
+            "file": "Database/DBMS(RDBMS).md",
             "mode": "source"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263
+    "width": 263,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -79,7 +80,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/SQL/mySQL.md"
+                "file": "Database/DBMS(RDBMS).md"
               }
             }
           },
@@ -89,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/SQL/mySQL.md",
+                "file": "Database/DBMS(RDBMS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +119,7 @@
   },
   "active": "7c655398972db9b8",
   "lastOpenFiles": [
+    "Database/DBMS(RDBMS).md",
     "Database/SQL/mySQL.md",
     "Database/SQL/SQL.md",
     "Database/noSQL/MongoDB/MongoDB.md",
@@ -126,7 +128,6 @@
     "API/Fetch.md",
     "Database/noSQL/Mongoose/Promise and Query (Mongoose).md",
     "API/AJAX/Single-thread.md",
-    "API/AJAX/AJAX.md",
-    "Express.js/Routing/回應表單 (Routing for Query).md"
+    "API/AJAX/AJAX.md"
   ]
 }

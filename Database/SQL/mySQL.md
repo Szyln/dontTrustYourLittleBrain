@@ -2,7 +2,7 @@
 - [[SQL]] 的其中一種 [[DBMS(RDBMS)]]
 - [[mySQL 環境建置]]
 ## [[Database 數據庫#C R U D]]
- 所有的 [[DBMS(RDBMS)]] 一定有的四種語法
+
  - create：[[SQL create 製作表格]]
  - read：[[SQL read 檢視表格內容]]
  - update：[[SQL update 更新既有表格內容]]
