@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Database/DBMS(RDBMS).md",
+            "file": "其他/聲學/Equalization.md",
             "mode": "source"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/DBMS(RDBMS).md"
+                "file": "其他/聲學/Equalization.md"
               }
             }
           },
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/DBMS(RDBMS).md",
+                "file": "其他/聲學/Equalization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +119,7 @@
   },
   "active": "7c655398972db9b8",
   "lastOpenFiles": [
+    "其他/聲學/Equalization.md",
     "Database/DBMS(RDBMS).md",
     "Database/SQL/mySQL.md",
     "Database/SQL/SQL.md",
@@ -127,7 +128,6 @@
     "Express.js/Express.js.md",
     "API/Fetch.md",
     "Database/noSQL/Mongoose/Promise and Query (Mongoose).md",
-    "API/AJAX/Single-thread.md",
-    "API/AJAX/AJAX.md"
+    "API/AJAX/Single-thread.md"
   ]
 }
