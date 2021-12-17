@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Database/noSQL/Mongoose/Mongoose.md",
+            "file": "Database/SQL/mySQL.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/noSQL/Mongoose/Mongoose.md"
+                "file": "Database/SQL/mySQL.md"
               }
             }
           },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/noSQL/Mongoose/Mongoose.md",
+                "file": "Database/SQL/mySQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,15 +118,15 @@
   },
   "active": "7c655398972db9b8",
   "lastOpenFiles": [
+    "Database/SQL/mySQL.md",
+    "Database/SQL/SQL.md",
+    "Database/noSQL/MongoDB/MongoDB.md",
     "Database/noSQL/Mongoose/Mongoose.md",
     "Express.js/Express.js.md",
     "API/Fetch.md",
     "Database/noSQL/Mongoose/Promise and Query (Mongoose).md",
     "API/AJAX/Single-thread.md",
     "API/AJAX/AJAX.md",
-    "Express.js/Routing/回應表單 (Routing for Query).md",
-    "API/Node to API - node fetch.md",
-    "API/Node to API.md",
-    "EJS/EJS.md"
+    "Express.js/Routing/回應表單 (Routing for Query).md"
   ]
 }

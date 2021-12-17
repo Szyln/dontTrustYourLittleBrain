@@ -4,6 +4,7 @@
 - [[MongoDB 環境建置]]
 - [[MongoDB 指令]]
 - [[Database 數據庫#C R U D]]：[[MongoDB CRUD]]
+- [[ODM]]：[[Mongoose]]
 
 ## JSON and BSON 的差別
 MongoDB 使用的是 BSON
