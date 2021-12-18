@@ -119,14 +119,14 @@
   "active": "7c655398972db9b8",
   "lastOpenFiles": [
     "Express.js/Express.js.md",
+    "Express.js/建置/Serving a Static File 回應有樣式的 HTML 檔案.md",
+    "Express.js/Routing/Request Handling(Express).md",
+    "Express.js/Routing/Routing.md",
     "Restful API 介紹.md",
+    "Express.js/建置/Express 建置.md",
     "Restful API.md",
     "其他/聲學/Equalization.md",
     "Database/DBMS(RDBMS).md",
-    "Database/SQL/mySQL.md",
-    "Database/SQL/SQL.md",
-    "Database/noSQL/MongoDB/MongoDB.md",
-    "Database/noSQL/Mongoose/Mongoose.md",
-    "API/Fetch.md"
+    "Database/SQL/mySQL.md"
   ]
 }
