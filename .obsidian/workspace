@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Restful API 介紹.md",
+            "file": "Express.js/Express.js.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263,
-    "collapsed": true
+    "width": 263
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -80,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Restful API 介紹.md"
+                "file": "Express.js/Express.js.md"
               }
             }
           },
@@ -90,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Restful API 介紹.md",
+                "file": "Express.js/Express.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +118,7 @@
   },
   "active": "7c655398972db9b8",
   "lastOpenFiles": [
+    "Express.js/Express.js.md",
     "Restful API 介紹.md",
     "Restful API.md",
     "其他/聲學/Equalization.md",
@@ -127,7 +127,6 @@
     "Database/SQL/SQL.md",
     "Database/noSQL/MongoDB/MongoDB.md",
     "Database/noSQL/Mongoose/Mongoose.md",
-    "Express.js/Express.js.md",
     "API/Fetch.md"
   ]
 }
