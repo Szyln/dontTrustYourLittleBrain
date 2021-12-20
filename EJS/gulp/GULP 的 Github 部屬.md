@@ -1,6 +1,6 @@
 ## 上傳有 gulp 管理的 git 檔案
+使用 [[Git]] 做版本管理
 
-[[Repository]]
 ```
 git init
 git add
