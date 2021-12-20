@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f56af0f0cc3b6e01",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Git/基礎/Repository/遠端 Repository/git remote.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "815847f0355590a1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git/Git.md",
+            "file": "EJS/gulp/環境建立.md",
             "mode": "source"
           }
         }
@@ -90,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/基礎/Repository/遠端 Repository/git remote.md"
+                "file": "EJS/gulp/環境建立.md"
               }
             }
           },
@@ -100,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/基礎/Repository/遠端 Repository/git remote.md",
+                "file": "EJS/gulp/環境建立.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,17 +116,17 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "f56af0f0cc3b6e01",
+  "active": "815847f0355590a1",
   "lastOpenFiles": [
-    "Git/基礎/Repository/遠端 Repository/git remote.md",
-    "Git/基礎/Repository/push.md",
-    "Git/基礎/Repository/Repository.md",
-    "Git/事前理解/版本控制介紹.md",
-    "Git/事前理解/Working Tree.md",
-    "Git/事前理解/Git 特徵.md",
-    "Git/事前理解/Git 誕生.md",
-    "本機 Repository.md",
+    "EJS/gulp/環境建立.md",
     "Git/Git.md",
-    "Git/基礎/Repository/git add(track).md"
+    "Git/基礎/遠端 Repository/git remote add.md",
+    "Git/來源.md",
+    "Git/事前理解/版本控制介紹.md",
+    "Git/基礎/遠端 Repository/Github Pages.md",
+    "Git/基礎/Github Pages.md",
+    "Git/基礎/Repository/本機 Repository.md",
+    "Git/基礎/遠端 Repository/git pull.md",
+    "Git/基礎/遠端 Repository/遠端 Repository.md"
   ]
 }

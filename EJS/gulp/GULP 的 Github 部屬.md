@@ -26,7 +26,7 @@ gulp deploy
 ```
 客戶只會看到 dist 裡（編譯後）的檔案
 
-## [[Github Pages]] 取得靜態網頁
+## [[Git/基礎/Github Pages]] 取得靜態網頁
 branch 要選 gh-pages
 
 

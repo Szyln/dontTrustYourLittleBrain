@@ -10,7 +10,7 @@ git push
 ## 在 github 新增 repository
 - 新建 repository
 - 從本機 repository 建立
-	- 從 github 給的程式碼來[[git remote#加入遠端數據庫]]
+	- 從 github 給的程式碼來[[git remote add#加入遠端數據庫]]
 	- 記得 `git config` 確認一下狀態有沒有 remote 內容
 
 ## push 更新資料到遠端 repository
