@@ -17,28 +17,6 @@
 - [[EJS 撰寫規則]]
 - [[EJS 回應表單]]
 
-
-## 搭配[[Database 數據庫]]
-
-```js
-app.get("/", (req, res) => {
-	// 有個 array ，通常數據庫都會給這樣格式的資料
-	const languages = [
-		{ name: "python", rating: 9.5 popularity: 9.7}, 
-		{ name: "java" ......}
-]
-
-	
-	res.render("index.ejs", { languages });
-});
-```
-
-```ejs
-<% languges.forEach(lang => { %>
-<tr>
-	<td><%= lang.name %></td>
-	<td><%= lang.popularity %></td>
-</tr>
-<% }) %>
-```
+## 連接數據庫
+- [[EJS 搭配 Database]]
 #npm #gulp #html #js #ejs

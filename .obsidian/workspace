@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "EJS/EJS.md",
-            "mode": "source"
+            "file": "EJS/gulp/gulp 課前該用好的 gulp （發佈）.md",
+            "mode": "preview"
           }
         }
       }
@@ -48,13 +48,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 263,
-    "collapsed": true
+    "width": 263
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -81,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EJS/EJS.md"
+                "file": "EJS/gulp/gulp 課前該用好的 gulp （發佈）.md"
               }
             }
           },
@@ -91,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EJS/EJS.md",
+                "file": "EJS/gulp/gulp 課前該用好的 gulp （發佈）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,15 +118,15 @@
   },
   "active": "7c655398972db9b8",
   "lastOpenFiles": [
+    "EJS/gulp/gulp 課前該用好的 gulp （發佈）.md",
+    "EJS/gulp/1.環境建立.md",
+    "EJS/gulp/8.layout.md",
     "EJS/EJS.md",
     "EJS/EJS 回應表單.md",
     "Express.js/建置/Express 的 CSS 樣式環境建置 (Serving a Static File).md",
     "Express.js/Routing/send 和 sendFile 回應(express).md",
     "Express.js/Express.js.md",
     "Express.js/建置/Routing.md",
-    "Express.js/建置/Express 建置.md",
-    "Express.js/Routing/Request Handling(Express).md",
-    "Restful API 介紹.md",
-    "Restful API.md"
+    "Express.js/建置/Express 建置.md"
   ]
 }
