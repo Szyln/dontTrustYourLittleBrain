@@ -1,6 +1,7 @@
 # mySQL
 - [[SQL]] 的其中一種 [[DBMS(RDBMS)]]
 - [[mySQL 環境建置]]
+
 ## [[Database 數據庫#C R U D]]
 
  - create：[[SQL create 製作表格]]

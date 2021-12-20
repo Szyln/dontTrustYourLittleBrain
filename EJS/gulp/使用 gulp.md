@@ -1,18 +1,6 @@
 # 課前該用好的 gulp by Sz
-###### tags: `Sz` `第四週` `gulp` `2021夏季切版班`
+[gulp 環境安裝流程](https://hackmd.io/yWpLNMPRT2yvIR4Zq_idGw?view)
 
-- [gulp 環境安裝流程](https://hackmd.io/yWpLNMPRT2yvIR4Zq_idGw?view)
-
-:::info
-- 目前已知
-    - 有了 gulp，live server 再見
-    - 有了 gulp，scss 編譯器再見
-    - 有了 gulp，可縮短 html 縮排（版型管理）
-    - 有了 gulp，不用再自己複製貼上每一頁的 header, footer
-    - 有了 gulp，版本控制更輕鬆（git）
-    - 有了 gulp，原圖拖垮網速悲歌再見（圖片壓縮）
-    - 有了 gulp，js 不同瀏覽器的相容性問題再見
-:::
 
 ## gulp 環境設置
 ### 一台電腦做一次
@@ -58,7 +46,7 @@ gulp
 
 4. terminal 停止監看
 ```
-ctrl + C // 不是 command + C
+按 ctrl + C // 不是 command + C
 ```
 之後一樣打 `gulp` 都可以叫回來，不用擔心
 

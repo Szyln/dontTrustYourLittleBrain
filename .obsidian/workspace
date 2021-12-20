@@ -4,34 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "437b833959eb9eec",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Node.js/模組/npm/指令(npm).md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "845c158eb5720507",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "EJS/gulp/GULP.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "678e642bb410d2b5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "EJS/gulp/GULP.md",
+            "file": "Express and Mongoose.md",
             "mode": "source"
           }
         }
@@ -61,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"npm install\"",
+                "query": "app.set",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263
+    "width": 263,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -102,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node.js/模組/npm/指令(npm).md"
+                "file": "Express and Mongoose.md"
               }
             }
           },
@@ -112,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node.js/模組/npm/指令(npm).md",
+                "file": "Express and Mongoose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,17 +118,17 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "437b833959eb9eec",
+  "active": "678e642bb410d2b5",
   "lastOpenFiles": [
-    "Node.js/模組/npm/指令(npm).md",
-    "EJS/gulp/環境建立.md",
-    "EJS/gulp/gulp 課前該用好的 gulp （發佈）.md",
-    "EJS/gulp/gulp 資料夾建置.md",
-    "EJS/gulp/GULP.md",
-    "EJS/gulp/GULP 的 Github 部屬.md",
-    "Git/Git.md",
-    "Git/基礎/Repository/本機 Repository.md",
-    "Git/基礎/遠端 Repository/遠端 Repository.md",
-    "Git/基礎/Repository/Repository.md"
+    "Express and Mongoose.md",
+    "Database/Database 數據庫.md",
+    "Express.js/Express.js.md",
+    "EJS/EJS.md",
+    "EJS/EJS 搭配 Database.md",
+    "API/Node to API.md",
+    "Express.js/建置/Middleware(express).md",
+    "Node.js/app.set().md",
+    "Database/SQL/mySQL.md",
+    "EJS/EJS 回應表單.md"
   ]
 }
