@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Express and Mongoose.md",
+            "file": "Database/noSQL/Mongoose/Mongoose 建置.md",
             "mode": "source"
           }
         }
@@ -48,13 +48,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 263,
-    "collapsed": true
+    "width": 263
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -81,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Express and Mongoose.md"
+                "file": "Database/noSQL/Mongoose/Mongoose 建置.md"
               }
             }
           },
@@ -91,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Express and Mongoose.md",
+                "file": "Database/noSQL/Mongoose/Mongoose 建置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,15 +118,15 @@
   },
   "active": "678e642bb410d2b5",
   "lastOpenFiles": [
-    "Express and Mongoose.md",
-    "Database/Database 數據庫.md",
-    "Express.js/Express.js.md",
-    "EJS/EJS.md",
-    "EJS/EJS 搭配 Database.md",
-    "API/Node to API.md",
-    "Express.js/建置/Middleware(express).md",
-    "Node.js/app.set().md",
-    "Database/SQL/mySQL.md",
-    "EJS/EJS 回應表單.md"
+    "Database/noSQL/Mongoose/Mongoose 建置.md",
+    "其他/硬體、生產力/terminal/ls.md",
+    "Node.js/模組/npm/npm.md",
+    "Node.js/模組/內建模組(Node.js).md",
+    "Node.js/模組/自製模組(Node.js).md",
+    "Node.js/模組/取得 Node.js 裡的模組.md",
+    "Node.js/指令.md",
+    "Node.js/環境與介紹/如何運行.md",
+    "Node.js/環境與介紹/REPL.md",
+    "Node.js/環境與介紹/介紹(Node.js).md"
   ]
 }
