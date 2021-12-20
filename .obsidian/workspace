@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "815847f0355590a1",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Git/基礎/Repository/本機 Repository.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "d306d017cbd7840c",
+        "id": "437b833959eb9eec",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "EJS/gulp/GULP.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "678e642bb410d2b5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "EJS/gulp/GULP 的 Github 部屬.md",
             "mode": "source"
           }
         }
@@ -90,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/基礎/Repository/本機 Repository.md"
+                "file": "EJS/gulp/GULP 的 Github 部屬.md"
               }
             }
           },
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/基礎/Repository/本機 Repository.md",
+                "file": "EJS/gulp/GULP 的 Github 部屬.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,17 +127,17 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "815847f0355590a1",
+  "active": "678e642bb410d2b5",
   "lastOpenFiles": [
-    "Git/基礎/Repository/本機 Repository.md",
-    "Git/Git.md",
-    "Git/基礎/Repository/gitignore.md",
     "EJS/gulp/GULP 的 Github 部屬.md",
-    "EJS/gulp/新增新的 HTML（套用 EJS 模版）.md",
-    "EJS/gulp/資料夾架構.md",
-    "EJS/gulp/環境建立.md",
     "EJS/gulp/GULP.md",
+    "EJS/gulp/gulp 課前該用好的 gulp （發佈）.md",
+    "Git/Git.md",
+    "Git/基礎/Repository/本機 Repository.md",
+    "Git/基礎/遠端 Repository/遠端 Repository.md",
+    "Git/基礎/Repository/Repository.md",
     "Git/基礎/遠端 Repository/git remote add.md",
-    "Git/來源.md"
+    "EJS/gulp/環境建立.md",
+    "Git/基礎/Repository/gitignore.md"
   ]
 }
