@@ -1,7 +1,11 @@
 ## 上傳有 gulp 管理的 git 檔案
 
-[[1.Repository 倉儲]]
-
+[[Repository]]
+```
+git init
+git add
+git
+```
 在該資料夾執行 git 指令
 並 push 到 github
 ```
@@ -28,7 +32,7 @@ branch 要選 gh-pages
 
 ## 後續更新
 ### 客戶端
-重複[[6.Github 部屬（gulp 版本）#部屬與更新]]
+重複[[GULP 的 Github 部屬#部屬與更新]]
 ### 程式端
 add>commit>git push -u origin master
 

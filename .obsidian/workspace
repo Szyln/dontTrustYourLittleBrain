@@ -9,7 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "EJS/gulp/6.Github 部屬（gulp 版本）.md",
+            "file": "Git/基礎/Repository/Repository.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "815847f0355590a1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Git/Git.md",
             "mode": "source"
           }
         }
@@ -79,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EJS/gulp/6.Github 部屬（gulp 版本）.md"
+                "file": "Git/基礎/Repository/Repository.md"
               }
             }
           },
@@ -89,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EJS/gulp/6.Github 部屬（gulp 版本）.md",
+                "file": "Git/基礎/Repository/Repository.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,15 +129,15 @@
   },
   "active": "f56af0f0cc3b6e01",
   "lastOpenFiles": [
-    "EJS/gulp/6.Github 部屬（gulp 版本）.md",
+    "Git/基礎/Repository/Repository.md",
+    "Git/Git.md",
+    "初始化(git).md",
+    "EJS/EJS.md",
+    "EJS/EJS 撰寫規則.md",
+    "Git/環境建置/建置.md",
+    "Git/環境建置/安裝.md",
+    "EJS/gulp/GULP 的 Github 部屬.md",
     "EJS/gulp/新增新的 HTML（套用 EJS 模版）.md",
-    "EJS/gulp/資料夾架構.md",
-    "EJS/gulp/5.SCSS.md",
-    "EJS/gulp/新增 html.md",
-    "EJS/gulp/GULP.md",
-    "EJS/gulp/環境建立.md",
-    "EJS/gulp/gulp 課前該用好的 gulp （發佈）.md",
-    "EJS/gulp/9.編譯模式.md",
-    "EJS/gulp/8.layout.md"
+    "EJS/gulp/資料夾架構.md"
   ]
 }

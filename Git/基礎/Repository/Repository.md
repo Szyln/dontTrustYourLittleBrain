@@ -1,22 +1,28 @@
-# 取得 Git Respository 
+# Respository 
+```
+git init
+git add
+git status
+git commit -m "填寫這個 commit 的訊息"
+git log
+```
+
 在[[4.Working Tree]]中 Respository 分為兩種
 - 本機
-- 遠端 (Github Bitbucket)
+- 遠端 (Github, Bitbucket)
 
-
-## git init 
-新建（初始化）respository
-1. 新建資料夾
-2.  前往資料夾 cd
-3.  執行 `git init`
-
-對該資料`cmd+shift+.`就可以看到隱藏資料夾囉（[[MAC]]）
-[MAC 叫出隱藏檔案](https://macuknow.com/2017/08/26/1428/%e4%b8%89%e6%8b%9b%e8%ae%93-mac-%e9%a1%af%e7%a4%ba%e5%87%ba%e9%9a%b1%e8%97%8f%e6%aa%94%e6%a1%88/)
+## 本機 Repository
+- [[初始化(git)]]
+- Track
 
 ## Track and Stage
-````
+```
 git add index.html
-````
+```
+```
+git add .
+```
+
 
 新增資料在 respository 之後，需要再 track 這個檔案，使他家入[[4.Working Tree]]的 staging area （索引）裡
 

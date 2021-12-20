@@ -11,7 +11,7 @@ gulp
 ```
 
 會跳出瀏覽器
-## [[6.Github 部屬（gulp 版本）]]
+## [[GULP 的 Github 部屬]]
 
 ### Jiang V 分享自己常遇到的問題
 
