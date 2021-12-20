@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "7c655398972db9b8",
+        "id": "f56af0f0cc3b6e01",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "EJS/gulp/gulp 課前該用好的 gulp （發佈）.md",
-            "mode": "preview"
+            "file": "EJS/gulp/6.Github 部屬（gulp 版本）.md",
+            "mode": "source"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EJS/gulp/gulp 課前該用好的 gulp （發佈）.md"
+                "file": "EJS/gulp/6.Github 部屬（gulp 版本）.md"
               }
             }
           },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EJS/gulp/gulp 課前該用好的 gulp （發佈）.md",
+                "file": "EJS/gulp/6.Github 部屬（gulp 版本）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,17 +116,17 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "7c655398972db9b8",
+  "active": "f56af0f0cc3b6e01",
   "lastOpenFiles": [
+    "EJS/gulp/6.Github 部屬（gulp 版本）.md",
+    "EJS/gulp/新增新的 HTML（套用 EJS 模版）.md",
+    "EJS/gulp/資料夾架構.md",
+    "EJS/gulp/5.SCSS.md",
+    "EJS/gulp/新增 html.md",
+    "EJS/gulp/GULP.md",
+    "EJS/gulp/環境建立.md",
     "EJS/gulp/gulp 課前該用好的 gulp （發佈）.md",
-    "EJS/gulp/1.環境建立.md",
-    "EJS/gulp/8.layout.md",
-    "EJS/EJS.md",
-    "EJS/EJS 回應表單.md",
-    "Express.js/建置/Express 的 CSS 樣式環境建置 (Serving a Static File).md",
-    "Express.js/Routing/send 和 sendFile 回應(express).md",
-    "Express.js/Express.js.md",
-    "Express.js/建置/Routing.md",
-    "Express.js/建置/Express 建置.md"
+    "EJS/gulp/9.編譯模式.md",
+    "EJS/gulp/8.layout.md"
   ]
 }
