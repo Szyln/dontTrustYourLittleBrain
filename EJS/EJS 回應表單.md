@@ -1,4 +1,6 @@
 # EJS 回應表單([[回應表單 (Routing for Query)]])
+## [[form]]
+有一個表單，透過後端來取得這些資料後，使用 EJS 生成顯示這些資料的頁面
 ```html
 // index 上的表單
 <form action="/response" method="GET">
@@ -13,7 +15,7 @@
 
 </form>
 ```
-
+## [[回應表單 (Routing for Query)#GET form]]
 ```js
 // app.js
 app.get("/response", (req, res) => {
@@ -22,6 +24,8 @@ app.get("/response", (req, res) => {
 })
 ```
 > [[從物件中提取屬性到變數中 Destructing an object]]
+
+## [[EJS]]
 ```html
 // respond.ejs
 <h1>表單已送出</h1>

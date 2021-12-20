@@ -1,5 +1,10 @@
 # Routing(Express)
 路徑的意思，後端處理網路請求時，不同路徑要給不同的內容
+- [[Routing#Routing for all 回應亂打的網址]]
+- [[Routing#Routing for pattern 回應有規律的網址]]
+- [[回應表單 (Routing for Query)]]
+
+
 ## Request Handling
 處理各種網路請求的內容
 ```js
@@ -28,6 +33,8 @@ app.get('*', (req, res) => {
 })
 ```
 - [[404 Not Found]]
+
+
 ## Routing for pattern 回應有規律的網址
 網址尾端內容，如果是想要顯示有規律的內容（例如搜尋結果）
 可以在網址尾端加入 `/:不特定內容的群組`

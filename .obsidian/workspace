@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Express.js/Express.js.md",
+            "file": "EJS/EJS.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#expressJs",
+                "query": "res.send",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,11 +48,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 263
+    "width": 263,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -79,7 +81,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Express.js/Express.js.md"
+                "file": "EJS/EJS.md"
               }
             }
           },
@@ -89,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Express.js/Express.js.md",
+                "file": "EJS/EJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,15 +120,15 @@
   },
   "active": "7c655398972db9b8",
   "lastOpenFiles": [
+    "EJS/EJS.md",
+    "EJS/EJS 回應表單.md",
+    "Express.js/建置/Express 的 CSS 樣式環境建置 (Serving a Static File).md",
+    "Express.js/Routing/send 和 sendFile 回應(express).md",
     "Express.js/Express.js.md",
-    "Express.js/建置/Serving a Static File 回應有樣式的 HTML 檔案.md",
-    "Express.js/Routing/Request Handling(Express).md",
-    "Express.js/Routing/Routing.md",
-    "Restful API 介紹.md",
+    "Express.js/建置/Routing.md",
     "Express.js/建置/Express 建置.md",
-    "Restful API.md",
-    "其他/聲學/Equalization.md",
-    "Database/DBMS(RDBMS).md",
-    "Database/SQL/mySQL.md"
+    "Express.js/Routing/Request Handling(Express).md",
+    "Restful API 介紹.md",
+    "Restful API.md"
   ]
 }
