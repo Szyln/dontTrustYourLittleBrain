@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git/基礎/Repository/Repository.md",
+            "file": "Git/基礎/Repository/遠端 Repository/git remote.md",
             "mode": "source"
           }
         }
@@ -90,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/基礎/Repository/Repository.md"
+                "file": "Git/基礎/Repository/遠端 Repository/git remote.md"
               }
             }
           },
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/基礎/Repository/Repository.md",
+                "file": "Git/基礎/Repository/遠端 Repository/git remote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,15 +129,15 @@
   },
   "active": "f56af0f0cc3b6e01",
   "lastOpenFiles": [
+    "Git/基礎/Repository/遠端 Repository/git remote.md",
+    "Git/基礎/Repository/push.md",
     "Git/基礎/Repository/Repository.md",
+    "Git/事前理解/版本控制介紹.md",
+    "Git/事前理解/Working Tree.md",
+    "Git/事前理解/Git 特徵.md",
+    "Git/事前理解/Git 誕生.md",
+    "本機 Repository.md",
     "Git/Git.md",
-    "初始化(git).md",
-    "EJS/EJS.md",
-    "EJS/EJS 撰寫規則.md",
-    "Git/環境建置/建置.md",
-    "Git/環境建置/安裝.md",
-    "EJS/gulp/GULP 的 Github 部屬.md",
-    "EJS/gulp/新增新的 HTML（套用 EJS 模版）.md",
-    "EJS/gulp/資料夾架構.md"
+    "Git/基礎/Repository/git add(track).md"
   ]
 }
