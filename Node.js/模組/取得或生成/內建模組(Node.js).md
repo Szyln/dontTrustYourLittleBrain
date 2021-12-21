@@ -1,10 +1,10 @@
 # 內建模組
-
 ```js
-// app.js
-let path = require("path");
-
-console.log(path.join(__dirname, "hi.js"))
+// 直接匯入即可
+const 內建模組 = require();
 ```
+- [[path]]
+- [[url(module)]]
 
-#js #advanceJs #library #framework #nodeJs #backEnd #module #npm
+
+#js #library #framework #nodeJs #backEnd #module

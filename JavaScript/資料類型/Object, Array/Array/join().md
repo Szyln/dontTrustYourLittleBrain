@@ -6,4 +6,8 @@ fruit.join();			// 'apple,banana,kiwi'
 fruit.join(' and ')		// 'apple and banana and kiwi'
 ```
 
+
+> 後端：[[path]] 有用到這個功能
+
+
 #js #array
