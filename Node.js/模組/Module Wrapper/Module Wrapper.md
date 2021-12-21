@@ -1,7 +1,7 @@
 # Module Wrapper
 [21/11/12 現下的 Document 說明](https://nodejs.org/dist/latest-v17.x/docs/api/modules.html#the-module-wrapper)
 
-在瀏覽器與終端裡運行 JS 的不同，差異是終端需要透過 Module Wrapper 的功能，先用這個函數將 js 檔包起來運行
+JS 可以在瀏覽器內直接執行，但透過 Node 在終端運行時，會用 Module Wrapper 將 js 程式碼包起來再運行
 
 ```js
 (function(exports, require, module, __filename, __dirname) {
@@ -9,10 +9,10 @@
 });
 ```
 
-使全域變數都會限制在這個函式的作用域([[Scope#Function Scope]])內
+所以會使全域變數都會限制在這個函式的作用域([[Scope#Function Scope]])內
 
 ## Node.js 的預設參數
-在瀏覽器不會出現，會在終端出現
+[[Module Wrapper]] 帶有幾個參數，平常在瀏覽器運作時是不會有這些參數的
 ```js
 (exports, require, module, __filename, __dirname)
 ```
@@ -30,7 +30,6 @@ console.log(__filename);		// 文件的所在資料夾
 
 #### 使用方式
 [[send 和 sendFile 回應(express)#res sendFile]]
-
 ```js
 app.get("/", (req, res) =>{
 	res.sendFile(__dirname + "/index.html"))

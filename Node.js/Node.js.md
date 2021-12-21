@@ -7,6 +7,7 @@
 - [[安裝 Node.js]]
 - [[Node 的 REPL 指令]]（不常用）
 - [[模組]]
+- [[Module Wrapper]]
 
 ## npm
 - [[Express.js]]

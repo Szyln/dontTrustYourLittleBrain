@@ -2,9 +2,9 @@
 - 一種執行環境，允許原本只能在瀏覽器運行的 [[JavaScript]] 可以在瀏覽器**外**執行
 - 讓 JS 可以不僅限於前端，可以做 server-side 的動作
 
-## 運行環境
+## JS 可以在哪裡運行
 - 瀏覽器
-- Node
+- Node：[[Module Wrapper]]
 - 終端機 [[REPL]]
 
 原本 [[JavaScript]] 只能在瀏覽器運行，但透過 [[Node.js]] ，就可以拉出來在終端機執行（[[REPL]]）
