@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Node.js/建置/安裝 Node.js.md",
+            "file": "Node.js/Node 的 REPL 指令.md",
             "mode": "source"
           }
         }
@@ -145,13 +145,13 @@
   "lastOpenFiles": [
     "Node.js/介紹/介紹 Node.js.md",
     "Node.js/Node.js.md",
+    "Node.js/Node 的 REPL 指令.md",
     "Node.js/建置/安裝 Node.js.md",
+    "Node.js/介紹/REPL.md",
+    "JavaScript/介紹/JavaScript.md",
     "網路/靜態與動態網頁 Static and Dynamic Website.md",
-    "Node.js/指令.md",
     "Node.js/模組/Module Wrapper/Module Wrapper.md",
     "Node.js/環境與介紹/環境建置.md",
-    "Node.js/介紹/常見的後端的程式語言.md",
-    "Node.js/介紹/REPL.md",
-    "Node.js/環境與介紹/如何運行.md"
+    "Node.js/介紹/常見的後端的程式語言.md"
   ]
 }
