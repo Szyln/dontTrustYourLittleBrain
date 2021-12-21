@@ -1,4 +1,8 @@
 # [[Mongoose]] 建置
+- npm install: express, ejs, mongoose
+- import moudule
+- mongoose setting(connect to mongoDB)
+- mongoose 
 ```
 npm install mongoose
 ```
@@ -9,7 +13,7 @@ const app = express();
 const ejs = require('ejs');
 const mongoose = require('mongoose');
   
-// connet to mongoDB
+// connect to mongoDB
 // 要設定連接成功或失敗的效果
 // 連到一個 database
 mongoose.connect('mongodb://localhost:27017/exampleDB', {

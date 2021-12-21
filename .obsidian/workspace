@@ -4,12 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "678e642bb410d2b5",
+        "id": "c0df05a6fd518172",
         "type": "leaf",
+        "dimension": 53.96449704142012,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Database/noSQL/Mongoose/Mongoose 建置.md",
+            "file": "Node.js/建置/安裝 Node.js.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "b77554479de9fb77",
+        "type": "leaf",
+        "dimension": 23.01775147928994,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Node.js/介紹/介紹 Node.js.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "a4a32529067747fe",
+        "type": "leaf",
+        "dimension": 23.01775147928994,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Node.js/Node.js.md",
             "mode": "source"
           }
         }
@@ -79,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/noSQL/Mongoose/Mongoose 建置.md"
+                "file": "Node.js/介紹/介紹 Node.js.md"
               }
             }
           },
@@ -89,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/noSQL/Mongoose/Mongoose 建置.md",
+                "file": "Node.js/介紹/介紹 Node.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,17 +141,17 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "678e642bb410d2b5",
+  "active": "b77554479de9fb77",
   "lastOpenFiles": [
-    "Database/noSQL/Mongoose/Mongoose 建置.md",
-    "其他/硬體、生產力/terminal/ls.md",
-    "Node.js/模組/npm/npm.md",
-    "Node.js/模組/內建模組(Node.js).md",
-    "Node.js/模組/自製模組(Node.js).md",
-    "Node.js/模組/取得 Node.js 裡的模組.md",
+    "Node.js/介紹/介紹 Node.js.md",
+    "Node.js/Node.js.md",
+    "Node.js/建置/安裝 Node.js.md",
+    "網路/靜態與動態網頁 Static and Dynamic Website.md",
     "Node.js/指令.md",
-    "Node.js/環境與介紹/如何運行.md",
-    "Node.js/環境與介紹/REPL.md",
-    "Node.js/環境與介紹/介紹(Node.js).md"
+    "Node.js/模組/Module Wrapper/Module Wrapper.md",
+    "Node.js/環境與介紹/環境建置.md",
+    "Node.js/介紹/常見的後端的程式語言.md",
+    "Node.js/介紹/REPL.md",
+    "Node.js/環境與介紹/如何運行.md"
   ]
 }
