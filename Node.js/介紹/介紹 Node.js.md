@@ -3,13 +3,11 @@
 - 讓 JS 可以不僅限於前端，可以做 server-side 的動作
 
 ## JS 可以在哪裡運行
-- 瀏覽器
-- Node：[[Module Wrapper]]
-- 終端機 [[REPL]]
+- 瀏覽器：最一般的運作方法
+- Node：[[Module Wrapper]] 包住，在瀏覽器外運作
+- 終端機撰寫 JS：[[REPL]]（不常用）
 
-原本 [[JavaScript]] 只能在瀏覽器運行，但透過 [[Node.js]] ，就可以拉出來在終端機執行（[[REPL]]）
 
->[[Node 的 REPL 指令]]（不太會用）
 
 
 #js #advanceJs #library #framework #nodeJs #backEnd

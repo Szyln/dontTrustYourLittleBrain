@@ -12,23 +12,20 @@ JS 可以在瀏覽器內直接執行，但透過 Node 在終端運行時，會�
 所以會使全域變數都會限制在這個函式的作用域([[Scope#Function Scope]])內
 
 ## Node.js 的預設參數
-[[Module Wrapper]] 帶有幾個參數，平常在瀏覽器運作時是不會有這些參數的
-```js
-(exports, require, module, __filename, __dirname)
-```
+[[Module Wrapper]] 帶有幾個參數可以使用，平常在瀏覽器運作時是不會有這些參數的
 
-### __filename
-```js
-console.log(__filename);		// 文件位置
-```
-可以顯示在伺服器裡的位置
+## 位置相關
+- 文件位置：`__filename`
+- 資料夾位置：`__dirname`
 
-### __dirname
-```js
-console.log(__filename);		// 文件的所在資料夾
-```
+### [[取得 Node.js 裡的模組]] 相關
+- export：[[匯出模組]]
+- require：[[匯入模組]]
+- module：[[module 參數]]
 
-#### 使用方式
+> [[整合模組匯出匯入]]：進階的匯出匯入使用法
+
+## 使用方式
 [[send 和 sendFile 回應(express)#res sendFile]]
 ```js
 app.get("/", (req, res) =>{
@@ -45,7 +42,5 @@ app.get("/", (req, res) =>{
 	res.sendFile(path.join(__dirname, "index.html"))
 })
 ```
-
-### exports, require, module
 
 #js #advanceJs #library #framework #nodeJs #backEnd #module 

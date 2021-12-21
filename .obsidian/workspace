@@ -6,7 +6,7 @@
       {
         "id": "c0df05a6fd518172",
         "type": "leaf",
-        "dimension": 53.96449704142012,
+        "dimension": 46.35235732009926,
         "state": {
           "type": "markdown",
           "state": {
@@ -16,27 +16,31 @@
         }
       },
       {
-        "id": "b77554479de9fb77",
+        "id": "1f5c974fe99e9d46",
         "type": "leaf",
-        "dimension": 23.01775147928994,
+        "dimension": 27.990074441687344,
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Node.js/介紹/介紹 Node.js.md",
+            "file": "Node.js/模組/取得 Node.js 裡的模組.md",
             "mode": "source"
-          }
+          },
+          "pinned": true
         }
       },
       {
-        "id": "a4a32529067747fe",
+        "id": "2a1b1554861bcd59",
         "type": "leaf",
-        "dimension": 23.01775147928994,
+        "dimension": 25.6575682382134,
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Node.js/Node.js.md",
             "mode": "source"
-          }
+          },
+          "pinned": true
         }
       }
     ],
@@ -144,14 +148,14 @@
   "active": "c0df05a6fd518172",
   "lastOpenFiles": [
     "Node.js/模組/Module Wrapper/Module Wrapper.md",
-    "Node.js/介紹/介紹 Node.js.md",
-    "Node.js/Node 的 REPL 指令.md",
-    "Node.js/Node.js.md",
+    "Node.js/模組/Module Wrapper/module 參數.md",
     "Node.js/建置/安裝 Node.js.md",
-    "Node.js/介紹/REPL.md",
-    "JavaScript/介紹/JavaScript.md",
-    "網路/靜態與動態網頁 Static and Dynamic Website.md",
-    "Node.js/環境與介紹/環境建置.md",
-    "Node.js/介紹/常見的後端的程式語言.md"
+    "Node.js/模組/使用/整合模組匯出匯入.md",
+    "Node.js/Node.js.md",
+    "Node.js/模組/自製模組(Node.js).md",
+    "Node.js/模組/使用/匯入模組.md",
+    "Node.js/模組/使用/匯出模組.md",
+    "Node.js/模組/取得 Node.js 裡的模組.md",
+    "node.md"
   ]
 }
