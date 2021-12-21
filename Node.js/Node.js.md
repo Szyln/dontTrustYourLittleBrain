@@ -6,18 +6,24 @@
 - [[介紹 Node.js]]
 - [[安裝 Node.js]]
 - [[Node 指令]]
-- [[Module Wrapper]]：預設參數
+- [[Module Wrapper]]
+	- [[Node.js 的預設參數]]
 
 ## 模組
+### 使用模組
 - [[匯出模組]]
 - [[匯入模組]]
 - [[整合模組匯出匯入]]
 
+### 生成或取得模組
 - [[取得 Node.js 裡的模組]]（[[模組]]）
 	- [[自製模組(Node.js)]]
 	- [[內建模組(Node.js)]]
 	- [[npm]]
 
+### 內建模組
+- path
+- url
 ## npm
 - [[Express.js]]
 - [[Mongoose]]
