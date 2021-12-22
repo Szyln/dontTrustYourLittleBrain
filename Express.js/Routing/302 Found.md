@@ -6,5 +6,15 @@ app.get("/舊網頁", (req, res) => {
 	res.sendFile(path.join(__dirname, "moved.html"));
 })
 ```
+```js
+// 定義在 'save' 之前要做什麼事
+// writeFile: 建立一個檔案，指定寫入什麼內容
+studentSchema.pre('save', async function(){
+	fs.writeFile('history.txt', "One data is trying to be saved.", (e) => {
+		if (e) throw e;
+	})
+})
+```
 
+[[fs (File System)]]
 #js #expressJs #node #backEnd #npm

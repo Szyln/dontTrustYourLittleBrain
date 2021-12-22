@@ -40,7 +40,7 @@ newStudent.save()
 	
 
 ```
-> [[writeFile]]
+> [[fs (File System)]]
 ## Schema.post()
 ```js
 student.Schema.post('save', async function() {

@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "throw",
+                "query": "pre('save'",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node.js/模組/取得或生成/內建模組(Node.js).md"
+                "file": "Database/noSQL/Mongoose/writeFile.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Node.js/模組/取得或生成/內建模組(Node.js).md",
+                "file": "Database/noSQL/Mongoose/writeFile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,17 +139,17 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "ed7b874af39380ea",
+  "active": "e4b41cd7544a8318",
   "lastOpenFiles": [
-    "Node.js/模組/取得或生成/內建模組(Node.js).md",
     "Database/noSQL/Mongoose/writeFile.md",
+    "Node.js/模組/取得或生成/內建模組(Node.js).md",
+    "Express.js/Routing/302 Found.md",
+    "Database/noSQL/Mongoose/method/Middleware.md",
     "fs (File System).md",
-    "url(module).md",
+    "readFile.md",
     "Node.js/Node.js.md",
+    "url(module).md",
     "Query.md",
-    "JavaScript/jQuery/基礎使用.md",
-    "Express.js/Routing/回應表單 (Routing for Query).md",
-    "Express.js/建置/Routing.md",
-    "path.md"
+    "JavaScript/jQuery/基礎使用.md"
   ]
 }

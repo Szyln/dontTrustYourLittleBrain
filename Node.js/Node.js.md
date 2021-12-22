@@ -26,6 +26,8 @@
 - [[url(module)]]
 - app
 - [[fs (File System)]]
+	- [[writeFile]]
+	- [[readFile]]
 ## npm
 - [[Express.js]]
 - [[Mongoose]]
