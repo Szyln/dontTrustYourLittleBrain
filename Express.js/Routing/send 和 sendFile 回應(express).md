@@ -1,7 +1,7 @@
 # 回應 html 內容 
 [[Routing]] 內有更多綜合運用
 ## res.send()
-[[Express.js#建立 server]] 中 send 可以送出純字串或是 html 都可，跟 [[node]] [[Server 建立（沒寫完）]] 的 `write` 類似
+[[Express.js#建立 server]] 中 send 可以送出純字串或是 html 都可，跟 [[node]] [[Server 建立]] 的 `write` 類似
 
 但是只能送一行
 ```js

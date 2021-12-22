@@ -19,6 +19,7 @@ server.listen(port, hostname, () => {				// 監聽 port
 
 ## 步驟
 - 匯入內建模組 `http`
+- middleware（到 express再談，[[Express 的 CSS 樣式環境建置 (Serving a Static File)]]）
 - 建立 Server
 - 監聽 [[port]]
 
@@ -36,27 +37,49 @@ const server = http.createServer((req, res) => {
 });
 ```
 #### response
-可以使用`res`參數，寫入要送出去的內容
+可以使用 `res` 參數，寫入要送出去的內容
 ```js
 const server = http.createServer((req, res) => {
 
 	res.write('Hello user');		// write：回應一行字
-	res.write('<h1>title</h1>')		// 也可以寫 html
+	res.write('<h1>title</h1>')		// 也可以寫 html，也可以寫很多行
 	res.end();						// 要記得
 });
 ```
+>[[send 和 sendFile 回應(express)]]
+
 #### request
-也可以使用`req`參數，處理傳過來的資料
-- parse：[[物件不要傳參考的時候：深層、淺層拷貝#深層拷貝]]
-- [[url(module)]]
+也可以使用 `req` 參數，處理傳過來的資料
+
+>- parse：[[物件不要傳參考的時候：深層、淺層拷貝#深層拷貝]]
+>- [[url(module)]]
+
 ```js
 const server = http.createServer((req, res) => {
+	if(req.url == '/') {
 
+		fs.readFile(path.join(__dirname, 'index.html'), (err, data) => {
+			res.writeHead(200, { 'Content-Type': text/html });
+			res.write(data);
+			res.end();
+		})
+		res.writeHead(200, { 'Content-Type': text/html });
+		res.write('<h1>This is Homepage.</h1>');
+		res.end();
+	} else {
+		let parsedURL = url.parse(req.rul);	// string 轉 array
+		res.write('Hello,' parsedURL.pathname);
+		res.end();
+	}
 	console.log(res.url);				// 這個會 log 到終端機
 	let parsedURL = url.parse(req.url)	// string 轉 array
 })
 
 ```
+
+>[[fs (File System)]]>[[writeFile]]
+>[[port]]
+
 #### 一些規則
 ```js
 res.statusCode = 200;

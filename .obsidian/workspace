@@ -4,24 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "e4b41cd7544a8318",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Database/noSQL/Mongoose/writeFile.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "ed7b874af39380ea",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Node.js/模組/取得或生成/內建模組(Node.js).md",
-            "mode": "source"
+            "file": "Node.js/模組/npm/推薦模組/npm 推薦模組.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "32dc65388cbe4d0e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Node.js/模組/npm/npm.md",
+            "mode": "source",
+            "source": false
           }
         }
       },
@@ -32,7 +34,8 @@
           "type": "markdown",
           "state": {
             "file": "Node.js/Node.js.md",
-            "mode": "source"
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -70,8 +73,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -102,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/noSQL/Mongoose/writeFile.md"
+                "file": "Node.js/模組/npm/推薦模組/npm 推薦模組.md"
               }
             }
           },
@@ -112,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/noSQL/Mongoose/writeFile.md",
+                "file": "Node.js/模組/npm/推薦模組/npm 推薦模組.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,17 +141,17 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "e4b41cd7544a8318",
+  "active": "ed7b874af39380ea",
   "lastOpenFiles": [
-    "Database/noSQL/Mongoose/writeFile.md",
-    "Node.js/模組/取得或生成/內建模組(Node.js).md",
-    "Express.js/Routing/302 Found.md",
-    "Database/noSQL/Mongoose/method/Middleware.md",
-    "fs (File System).md",
-    "readFile.md",
+    "Node.js/模組/npm/推薦模組/npm 推薦模組.md",
     "Node.js/Node.js.md",
-    "url(module).md",
-    "Query.md",
-    "JavaScript/jQuery/基礎使用.md"
+    "npm 建置與指令.md",
+    "Node.js/模組/npm/npm.md",
+    "npm install 尋找想要的 npm 模組.md",
+    "Node.js/模組/npm/npm init 初始化(package.json).md",
+    "Node.js/模組/npm/指令(npm).md",
+    "Node.js/建置/安裝 Node.js.md",
+    "Node.js/Server 建立.md",
+    "Database/noSQL/Mongoose/writeFile.md"
   ]
 }

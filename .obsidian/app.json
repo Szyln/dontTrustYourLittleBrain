@@ -17,5 +17,7 @@
     "cd"
   ],
   "promptDelete": false,
-  "fileSortOrder": "byCreatedTimeReverse"
+  "fileSortOrder": "byCreatedTimeReverse",
+  "legacyEditor": false,
+  "livePreview": true
 }

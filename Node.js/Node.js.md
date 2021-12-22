@@ -1,5 +1,9 @@
 ## 後端
 - [[常見的後端的程式語言]]
+
+### 網路知識
+- [[IP]]
+- [[Port]]
 - [[靜態與動態網頁 Static and Dynamic Website]]
 
 ## Node
@@ -21,21 +25,33 @@
 	- [[內建模組(Node.js)]]
 	- [[npm]]
 
-### [[內建模組]]
+### [[內建模組(Node.js)]]
 - [[path]]
 - [[url(module)]]
 - app
 - [[fs (File System)]]
 	- [[writeFile]]
 	- [[readFile]]
+
 ## npm
-- [[Express.js]]
-- [[Mongoose]]
-- [[EJS]]
+- [[npm]]
+- [[npm 建置與指令]]
+
+## Server
+[[Server 建立]]
+
+## npm
+- [[npm]]
+- [[npm 建置與指令]]
+- [[npm 推薦模組]]
+	- [[Express.js]]
+	- [[Mongoose]]
+	- [[EJS]]
 
 ### 其他
 [[nodemon]]
-[[node-fetch]]
+[[Node to API - node fetch]]
+
 
 
 
