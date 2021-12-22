@@ -1,7 +1,7 @@
 # async, await, try, catch
 [[Promise#改寫 Callback Hell]] 還可以再改寫
 ## async, await
-async 搭配 await 可以寫出要等到結果之後再存到變數裡的 [[Async]] code（`.then()` 的部份）
+async 搭配 await 可以寫出要等到結果之後再存到變數裡的 [[Async（目錄）]] code（`.then()` 的部份）
 ```js
 // getData 的那段可以放入 function 內
 // 這個 function 因為跟非同步有關，所以要使用 async
