@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Query.md",
+            "file": "Database/noSQL/Mongoose/writeFile.md",
             "mode": "source"
           }
         }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Query",
+                "query": "throw",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Query.md"
+                "file": "Node.js/模組/取得或生成/內建模組(Node.js).md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Query.md",
+                "file": "Node.js/模組/取得或生成/內建模組(Node.js).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,17 +139,17 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "e4b41cd7544a8318",
+  "active": "ed7b874af39380ea",
   "lastOpenFiles": [
-    "Query.md",
-    "url(module).md",
     "Node.js/模組/取得或生成/內建模組(Node.js).md",
+    "Database/noSQL/Mongoose/writeFile.md",
+    "fs (File System).md",
+    "url(module).md",
+    "Node.js/Node.js.md",
+    "Query.md",
     "JavaScript/jQuery/基礎使用.md",
     "Express.js/Routing/回應表單 (Routing for Query).md",
     "Express.js/建置/Routing.md",
-    "path.md",
-    "JavaScript/資料類型/類型轉換.md",
-    "Node.js/Server 建立（沒寫完）.md",
-    "使用路徑的兩種寫法.md"
+    "path.md"
   ]
 }
