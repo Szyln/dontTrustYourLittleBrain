@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/資料類型/類型轉換.md",
+            "file": "Query.md",
             "mode": "source"
           }
         }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "parse",
+                "query": "Query",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/資料類型/類型轉換.md"
+                "file": "Query.md"
               }
             }
           },
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/資料類型/類型轉換.md",
+                "file": "Query.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,15 +141,15 @@
   },
   "active": "e4b41cd7544a8318",
   "lastOpenFiles": [
-    "JavaScript/資料類型/類型轉換.md",
-    "Node.js/Server 建立（沒寫完）.md",
+    "Query.md",
     "url(module).md",
     "Node.js/模組/取得或生成/內建模組(Node.js).md",
-    "使用路徑的兩種寫法.md",
+    "JavaScript/jQuery/基礎使用.md",
+    "Express.js/Routing/回應表單 (Routing for Query).md",
+    "Express.js/建置/Routing.md",
     "path.md",
-    "Node.js/Node.js.md",
-    "Node.js 的預設參數.md",
-    "JavaScript/資料類型/Object, Array/Array/join().md",
-    "Node.js/模組/Module Wrapper/Module Wrapper.md"
+    "JavaScript/資料類型/類型轉換.md",
+    "Node.js/Server 建立（沒寫完）.md",
+    "使用路徑的兩種寫法.md"
   ]
 }

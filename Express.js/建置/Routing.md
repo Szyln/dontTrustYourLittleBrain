@@ -60,6 +60,6 @@ app.get('/search/:result', (req, res) => {
 >```
 ## Routing for Query 回應表單
 [[回應表單 (Routing for Query)]]
-
+[[query]]
 
 #js #npm #node #expressJs #server #routing 
