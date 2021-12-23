@@ -28,7 +28,6 @@
 ### [[內建模組(Node.js)]]
 - [[path]]
 - [[url(module)]]
-- app
 - [[fs (File System)]]
 	- [[writeFile]]
 	- [[readFile]]

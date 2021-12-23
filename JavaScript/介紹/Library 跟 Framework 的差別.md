@@ -1,5 +1,8 @@
 # Library 跟 Framework 的差別
-前者是提供很多內容給你選，可以選自己要的就好
-後者是要照著他的規則，會有侷限
+| Library   | Framework            |
+| --------- | -------------------- |
+| 只取所需  | 全盤收下照他的規則走 |
+| [[Bootstrap]] | vue, React, [[Express.js]]  |
+
 
 #js #advanceJs #library #framework
