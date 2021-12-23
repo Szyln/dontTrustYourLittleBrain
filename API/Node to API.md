@@ -24,13 +24,15 @@ const key = 'api 提供的金鑰' ;
 ```
 
 ### [[Middleware(express)]]
-[[app.set()]]
+[[後端/Node.js/模組/內建模組/app.set()]]
 ```js
 // middleware
 app.use(express.static('public'));
 // 這是啥
 app.set('view engine', 'ejs');
 ```
+>[Use EJS with Express](https://github.com/mde/ejs/wiki/Using-EJS-with-Express)
+
 ### [[Routing]]
 ```js
 // request handdling

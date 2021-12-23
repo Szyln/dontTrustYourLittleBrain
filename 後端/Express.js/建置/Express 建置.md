@@ -1,8 +1,11 @@
 ## 建置
 - import：[[Express 匯入]]
-- [[Middleware(express)]]：[[Express 的 CSS 樣式環境建置 (Serving a Static File)]]
+- [[Middleware(express)]]
+	- [[Express 的 CSS 樣式環境建置 (Serving a Static File)]]
 - [[Request Handling(Express)]]
 - port listening
+
+> 之後再搭配 EJS 的話：[[EJS with Express 的基本設定]]
 ```js
 // app.js
 const express = require('express')

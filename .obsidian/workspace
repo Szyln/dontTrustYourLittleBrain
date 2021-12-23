@@ -6,12 +6,12 @@
       {
         "id": "4649a68e98bdbdc4",
         "type": "leaf",
-        "dimension": 69.54674220963173,
+        "dimension": 46.271186440677965,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "API/Node to API.md",
-            "mode": "preview",
+            "file": "後端/Express.js/建置/Middleware(express).md",
+            "mode": "source",
             "source": false
           }
         }
@@ -19,11 +19,11 @@
       {
         "id": "fdc31048ba21bf90",
         "type": "leaf",
-        "dimension": 30.45325779036827,
+        "dimension": 53.72881355932203,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Express and Mongoose.md",
+            "file": "後端/Express.js/Express.js.md",
             "mode": "source",
             "source": false
           }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "API/Node to API.md"
+                "file": "後端/Express.js/Express.js.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "API/Node to API.md",
+                "file": "後端/Express.js/Express.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,17 +133,17 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "4649a68e98bdbdc4",
+  "active": "fdc31048ba21bf90",
   "lastOpenFiles": [
-    "API/Node to API.md",
-    "API/Node to API - node fetch.md",
-    "建置（連接數據庫的表單）.md",
-    "Express and Mongoose.md",
     "後端/Express.js/Express.js.md",
-    "後端/Express.js/Routing/回應表單 (Routing for Query).md",
-    "後端/Express.js/Routing/GET 表單(express).md",
-    "後端/Express.js/Routing/POST 表單(express).md",
+    "後端/Express.js/建置/Express 建置.md",
     "後端/Express.js/建置/Middleware(express).md",
-    "後端/Express.js/建置/Express 建置.md"
+    "EJS with Express 的基本設定.md",
+    "exp.md",
+    "後端/EJS/EJS.md",
+    "Express and Mongoose.md",
+    "後端/Node.js/模組/內建模組/app.set().md",
+    "API/Node to API.md",
+    "後端/EJS/建置/EJS 建置.md"
   ]
 }

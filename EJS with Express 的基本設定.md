@@ -1,0 +1,23 @@
+# EJS with Express
+>取自[官網提供的方法](https://github.com/mde/ejs/wiki/Using-EJS-with-Express)
+
+會用到 [[app.set()]]
+```js
+// import
+let express = require('express');
+let app = express();
+
+// middleware
+app.set('view engine', 'ejs');
+
+// routing
+app.get('/', (req, res) => {
+  res.render('index', {foo: 'FOO'});
+});
+
+// port listening
+app.listen(4000, () => console.log('Example app listening on port 4000!'));
+```
+>[[app.set()]]
+
+#npm #gulp #html #js #ejs #expressJs 

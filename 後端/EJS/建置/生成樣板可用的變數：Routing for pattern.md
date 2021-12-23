@@ -14,5 +14,9 @@ app.get("/:name", (req, res) => {
 	res.render("person.ejs", { name });
 })
 ```
+
+
 > [[從物件中提取屬性到變數中 Destructing an object]]
 > `{ name }` 為 `{ name: name }` 的語法糖
+
+#npm #gulp #html #js #ejs #expressJs 
