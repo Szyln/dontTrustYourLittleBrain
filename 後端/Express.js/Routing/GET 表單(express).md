@@ -35,3 +35,5 @@ app.get('/formHandling', (req, res)) {
 	res.send(已經送出，您的名字是 ${name} 年齡 ${age} 歲`);
 }
 ```
+
+#js #expressJs #node #npm #form #server #routing

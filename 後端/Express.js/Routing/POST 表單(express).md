@@ -56,3 +56,6 @@ app.post('/formHandling', (req, res)) {
 > - 很像物件的變數：[[從物件中提取屬性到變數中 Destructing an object]]
 > - 學到 [[Database 數據庫]]之後會有更複雜的應用（資料先傳到資料庫再傳回來）
 > - [[Middleware(express)]]
+
+
+#js #expressJs #node #npm #form #server #routing

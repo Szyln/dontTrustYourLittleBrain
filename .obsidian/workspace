@@ -6,11 +6,12 @@
       {
         "id": "4649a68e98bdbdc4",
         "type": "leaf",
+        "dimension": 69.54674220963173,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "後端/Express.js/Routing/回應表單 (Routing for Query).md",
-            "mode": "source",
+            "file": "API/Node to API.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -18,6 +19,7 @@
       {
         "id": "fdc31048ba21bf90",
         "type": "leaf",
+        "dimension": 30.45325779036827,
         "state": {
           "type": "markdown",
           "state": {
@@ -52,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "body-parser",
+                "query": "\"app.set('view engine', 'ejs');\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,11 +63,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 263
+    "width": 263,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -92,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "後端/Express.js/Routing/回應表單 (Routing for Query).md"
+                "file": "API/Node to API.md"
               }
             }
           },
@@ -102,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "後端/Express.js/Routing/回應表單 (Routing for Query).md",
+                "file": "API/Node to API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,23 +126,24 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 211.68438720703125
+    "width": 211.68438720703125,
+    "collapsed": true
   },
   "active": "4649a68e98bdbdc4",
   "lastOpenFiles": [
-    "後端/Express.js/Routing/回應表單 (Routing for Query).md",
-    "後端/Express.js/建置/Middleware(express).md",
-    "後端/Express.js/建置/Express 建置.md",
-    "後端/Express.js/Express.js.md",
+    "API/Node to API.md",
+    "API/Node to API - node fetch.md",
+    "建置（連接數據庫的表單）.md",
     "Express and Mongoose.md",
-    "Query.md",
-    "後端/Node.js/模組/使用/匯入模組.md",
-    "後端/Express.js/建置/Express 匯入.md",
-    "後端/Node.js/Node.js.md",
-    "JavaScript/介紹/Library 跟 Framework 的差別.md"
+    "後端/Express.js/Express.js.md",
+    "後端/Express.js/Routing/回應表單 (Routing for Query).md",
+    "後端/Express.js/Routing/GET 表單(express).md",
+    "後端/Express.js/Routing/POST 表單(express).md",
+    "後端/Express.js/建置/Middleware(express).md",
+    "後端/Express.js/建置/Express 建置.md"
   ]
 }

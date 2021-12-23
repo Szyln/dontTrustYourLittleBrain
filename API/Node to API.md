@@ -66,11 +66,11 @@ app.get('/:city', (req, res) => {
 >- [[從物件中提取屬性到變數中 Destructing an object]]
 >- [[類型轉換#JSON]] JSON.parse(string)：轉成 array
 >- [[EJS#在 HTML 內使用變數：Routing for pattern]]
-> [[Node to API - node fetch]]
+> - [[Node to API - node fetch]]
 ### 使用 API
 [[Fetch]] 是不支援的，有兩種作法
 - [https.get](https://nodejs.org/docs/latest-v15.x/api/https.html#https_https_get_options_callback)
-- [[node-fetch]]
+- [[Node to API - node fetch]]
 ### listen
 ```js
 app.listen(3000, () => {
