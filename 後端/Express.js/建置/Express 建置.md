@@ -1,6 +1,6 @@
 ## 建置
 - import：[[Express 匯入]]
-- middleware：[[Express 的 CSS 樣式環境建置 (Serving a Static File)]]
+- [[Middleware(express)]]：[[Express 的 CSS 樣式環境建置 (Serving a Static File)]]
 - [[Request Handling(Express)]]
 - port listening
 ```js

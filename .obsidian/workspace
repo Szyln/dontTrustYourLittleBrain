@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "後端/Express.js/Express.js.md",
+            "file": "後端/Express.js/Routing/回應表單 (Routing for Query).md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "後端/Node.js/模組/使用/匯入模組.md",
+            "file": "Express and Mongoose.md",
             "mode": "source",
             "source": false
           }
@@ -92,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "後端/Node.js/模組/使用/匯入模組.md"
+                "file": "後端/Express.js/Routing/回應表單 (Routing for Query).md"
               }
             }
           },
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "後端/Node.js/模組/使用/匯入模組.md",
+                "file": "後端/Express.js/Routing/回應表單 (Routing for Query).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,17 +128,17 @@
     "direction": "horizontal",
     "width": 211.68438720703125
   },
-  "active": "fdc31048ba21bf90",
+  "active": "4649a68e98bdbdc4",
   "lastOpenFiles": [
-    "後端/Node.js/模組/使用/匯入模組.md",
-    "後端/Express.js/建置/Express 匯入.md",
+    "後端/Express.js/Routing/回應表單 (Routing for Query).md",
+    "後端/Express.js/建置/Middleware(express).md",
     "後端/Express.js/建置/Express 建置.md",
     "後端/Express.js/Express.js.md",
+    "Express and Mongoose.md",
+    "Query.md",
+    "後端/Node.js/模組/使用/匯入模組.md",
+    "後端/Express.js/建置/Express 匯入.md",
     "後端/Node.js/Node.js.md",
-    "JavaScript/介紹/Library 跟 Framework 的差別.md",
-    "後端/Express.js/Routing/回應表單 (Routing for Query).md",
-    "API/Async（目錄）.md",
-    "API/AJAX/Single-thread.md",
-    "API/AJAX/AJAX.md"
+    "JavaScript/介紹/Library 跟 Framework 的差別.md"
   ]
 }
