@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "建置（連接數據庫的表單）.md",
-                "mode": "source"
+                "mode": "preview"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "後端/Express.js/Routing/send 和 sendFile 回應(express).md"
+                "file": "建置（連接數據庫的表單）.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "後端/Express.js/Routing/send 和 sendFile 回應(express).md",
+                "file": "建置（連接數據庫的表單）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,14 +166,14 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "907ee4da5a7f6ba6",
+  "active": "fdc31048ba21bf90",
   "lastOpenFiles": [
+    "建置（連接數據庫的表單）.md",
+    "後端/Database/noSQL/Mongoose/建置/使用與操作 Mongoose.md",
     "後端/Express.js/Routing/send 和 sendFile 回應(express).md",
     "後端/Database/noSQL/Mongoose/建置/建立架構 Define a Schema.md",
-    "建置（連接數據庫的表單）.md",
     "後端/Database/noSQL/Mongoose/Mongoose.md",
     "後端/Database/noSQL/Mongoose/建置/Mongoose 建置.md",
-    "後端/Database/noSQL/Mongoose/建置/使用與操作 Mongoose.md",
     "Express and Mongoose.md",
     "後端/Database/noSQL/Mongoose/建置/利用 Mongoose 連上 MongoDB.md",
     "後端/Express.js/建置/Middleware(express).md",
