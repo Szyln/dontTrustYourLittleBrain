@@ -21,7 +21,7 @@
 - [[回應表單 (Routing for Query)]]
 
 
-## 混和技
+## 混合技
 - 搭配 [[EJS]]
 - 搭配 [[Mongoose]]
 

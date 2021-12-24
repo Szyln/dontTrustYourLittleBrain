@@ -3,7 +3,7 @@
 
 [[Create#Define a Schema]] 之後，可以設定 [[Instance Method]] 供 model 使用
 
->有個很像的 [[Static method]] 之後再提
+>有個很像的 [[Static Method]] 之後再提
 
 >用instance method改變資料數據後，需加入this.save()
 ## 建立 Instance Method

@@ -28,7 +28,9 @@ server.listen(port, hostname, () => {				// 監聽 port
 const http = require('http');
 ```
 
-### createServer ([[Request Handling]])
+### createServer
+>通常會用 Express.js 來建立：[[Request Handling(Express)]]
+
 建立 [[Server]]
 處理對方的請求跟回應 ([[request]]), [[response]]) 之間交換的內容
 

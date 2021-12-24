@@ -6,24 +6,56 @@
       {
         "id": "4649a68e98bdbdc4",
         "type": "leaf",
-        "dimension": 46.271186440677965,
+        "dimension": 23.465703971119133,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "後端/Express.js/建置/Middleware(express).md",
+            "file": "建置（連接數據庫的表單）.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
+        "id": "9649035b0f6149df",
+        "type": "split",
+        "dimension": 43.05054151624549,
+        "children": [
+          {
+            "id": "e1f729cb3efca79b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "使用與操作 Mongoose.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75ab8006a8c7d4d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "後端/Database/noSQL/Mongoose/method/Static Method.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
         "id": "fdc31048ba21bf90",
         "type": "leaf",
-        "dimension": 53.72881355932203,
+        "dimension": 33.48375451263538,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "後端/Express.js/Express.js.md",
+            "file": "後端/Database/noSQL/Mongoose/Mongoose.md",
             "mode": "source",
             "source": false
           }
@@ -54,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"app.set('view engine', 'ejs');\"",
+                "query": "[[Request Handling]]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "後端/Express.js/Express.js.md"
+                "file": "使用與操作 Mongoose.md"
               }
             }
           },
@@ -106,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "後端/Express.js/Express.js.md",
+                "file": "使用與操作 Mongoose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,17 +165,17 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "fdc31048ba21bf90",
+  "active": "e1f729cb3efca79b",
   "lastOpenFiles": [
+    "使用與操作 Mongoose.md",
+    "後端/Database/noSQL/Mongoose/method/Static Method.md",
+    "後端/Database/noSQL/Mongoose/method/Mongoose Method.md",
+    "後端/Database/noSQL/Mongoose/CRUD/Create.md",
+    "後端/Database/noSQL/Mongoose/Mongoose.md",
     "後端/Express.js/Express.js.md",
-    "後端/Express.js/建置/Express 建置.md",
-    "後端/Express.js/建置/Middleware(express).md",
-    "EJS with Express 的基本設定.md",
-    "exp.md",
-    "後端/EJS/EJS.md",
-    "Express and Mongoose.md",
-    "後端/Node.js/模組/內建模組/app.set().md",
-    "API/Node to API.md",
-    "後端/EJS/建置/EJS 建置.md"
+    "後端/Database/noSQL/Mongoose/Mongoose 建置.md",
+    "後端/Node.js/建置/Server 建立.md",
+    "利用 Mongoose 連上 MongoDB.md",
+    "後端/Node.js/模組/取得或生成/取得 Node.js 裡的模組.md"
   ]
 }

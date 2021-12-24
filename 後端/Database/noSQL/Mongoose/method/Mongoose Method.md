@@ -1,6 +1,6 @@
 # Mongoose Method
 - [[Instance Method]]
-- [[Static method]]
+- [[Static Method]]
 - [[Middleware]]
 
 #database #mongoose #crud 
