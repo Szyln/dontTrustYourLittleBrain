@@ -1,4 +1,9 @@
-## POST([[form]])
+# POST([[form]])
+- HTML：form 標籤要設定 `method="POST"`
+- [[body-parser]] 可以讓後端使用客戶填入的內容（[[Middleware(express)]]）
+- req.body；[[POST 表單(express)#使用用戶填入的資訊]]
+
+## 單純收資料
 ```html
 // index.html
 
@@ -35,16 +40,9 @@ app.post('/formHandling', (req, res)) {
 >[[Module Wrapper#__dirname#使用方式]]：有兩種作法，單純使用[[string#string 的串接]]或是使用 path 模組 + [[join()]]
 
 
-### req.body
-想要細部使用表單內容需要先新增一個 [[Middleware(express)]]
-```js
-const bodyParser = require("body-parser");
+## 使用用戶填入的資訊
+想要細部使用表單內容需要先新增一個 [[body-parser]]模組（[[Middleware(express)]]）
 
-// middleware 收到請求一定會被執行
-app.use(bodyParser.urlencoded(
-	{ extended: true }
-)});
-```
 ```js
 // 這裡就可以使用 body 的內容了
 app.post('/formHandling', (req, res)) {
@@ -55,7 +53,6 @@ app.post('/formHandling', (req, res)) {
 ```
 > - 很像物件的變數：[[從物件中提取屬性到變數中 Destructing an object]]
 > - 學到 [[Database 數據庫]]之後會有更複雜的應用（資料先傳到資料庫再傳回來）
-> - [[Middleware(express)]]
 
 
 #js #expressJs #node #npm #form #server #routing
