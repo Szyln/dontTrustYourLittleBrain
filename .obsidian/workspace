@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "後端/Express.js/Routing/send 和 sendFile 回應(express).md",
-                "mode": "source"
+                "file": "後端/Database/noSQL/Mongoose/CRUD/Find(Read).md",
+                "mode": "preview"
               }
             }
           }
@@ -56,7 +56,7 @@
               "type": "markdown",
               "state": {
                 "file": "後端/Database/noSQL/Mongoose/Mongoose.md",
-                "mode": "source"
+                "mode": "preview"
               }
             }
           }
@@ -169,14 +169,14 @@
   "active": "fdc31048ba21bf90",
   "lastOpenFiles": [
     "建置（連接數據庫的表單）.md",
+    "Express and Mongoose.md",
+    "後端/Database/noSQL/Mongoose/Mongoose.md",
+    "後端/Database/noSQL/Mongoose/CRUD/Find(Read).md",
     "後端/Express.js/Routing/send 和 sendFile 回應(express).md",
     "後端/Database/noSQL/Mongoose/建置/使用與操作 Mongoose.md",
     "後端/Database/noSQL/Mongoose/建置/建立架構 Define a Schema.md",
-    "後端/Database/noSQL/Mongoose/Mongoose.md",
     "後端/Database/noSQL/Mongoose/建置/Mongoose 建置.md",
-    "Express and Mongoose.md",
     "後端/Database/noSQL/Mongoose/建置/利用 Mongoose 連上 MongoDB.md",
-    "後端/Express.js/建置/Middleware(express).md",
-    "後端/Express.js/Routing/POST 表單(express).md"
+    "後端/Express.js/建置/Middleware(express).md"
   ]
 }

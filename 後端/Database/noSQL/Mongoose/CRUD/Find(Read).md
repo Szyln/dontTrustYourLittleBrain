@@ -32,6 +32,7 @@ Student.findOne({ name: 'John' })
 > })
 > ```
 
+[[從數據庫取得資訊顯示到畫面上]]
 
 
 #database #nosql #mongoose #mongodb #json #crud 
