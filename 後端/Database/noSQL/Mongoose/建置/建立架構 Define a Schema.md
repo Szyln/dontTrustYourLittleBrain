@@ -1,4 +1,3 @@
-# Create(Mongoose)
 ## 建立架構
 ### Define a Schema
 如同 [[SQL create 製作表格]] create table 的動作，Mongoose 也會定義物件的 [[Schema Type]]
@@ -30,35 +29,4 @@ const Student = mongoose.model('Student', studentSchema);
 > model.{ CRUD }				  // 這是 [[Mongoose]] 寫法
 > ```
 
-## 建立細項（可以使用 CRUD）
-### create an object
-```js
-const Jon = new Studtent({
-	name: 'John',
-	age: 25,
-	major: 'EE',
-	scholarship: {
-		merit: 2500,
-		other: 1300
-	}
-})
-```
-### save Jon to DB
-```js
-Jon.save()
-	.then(() => {
-		console.log('Jon has been saved into DB');
-	})
-	.catch(() => {
-		console.log('error has happend.');
-		console.log(e)
-	});
-```
-
-## Insert
-```js
-Model.insertMany()
-// 沒有 insertOne() ，因為直接用 save 就好
-```
-
-#mongoose #mogodb #database #crud #nosql #json
+#database #nosql #json #npm #node #odm

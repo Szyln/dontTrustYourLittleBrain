@@ -4,5 +4,5 @@
 - [[POST 表單(express)]]
 - [[GET 表單(express)]]
 
-[[query]]
+[[Query]]
 #js #expressJs #node #npm #form #server #routing

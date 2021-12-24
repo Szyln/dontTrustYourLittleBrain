@@ -2,7 +2,7 @@
 [[Mongoose Method]]
 給 model 用的，[[Instance Method]] 是給 Schema 用的
 
-[[Create#Define a Schema]] 之後
+[[Create(CRUD)#Define a Schema]] 之後
 ```js
 // create instance method
 studentSchema.methods.addAge = function() {

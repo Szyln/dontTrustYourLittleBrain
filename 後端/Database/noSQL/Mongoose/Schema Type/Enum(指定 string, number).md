@@ -18,7 +18,7 @@ const studentSchema = new mongoose.Schema({
 // create a model
 const Student = mongoose.model("Student", studentSchema);
 ```
-> 忘記過程可以看詳細：[[Create]], [[Schema Type]], [[Validators]]
+> 忘記過程可以看詳細：[[Create(CRUD)]], [[Schema Type]], [[Validators]]
 
 ## 如果輸入一個沒被規範的內容
 ```js

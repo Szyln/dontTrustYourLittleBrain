@@ -1,13 +1,13 @@
 # Node to API
 [[Fetch#需要有 Authorization Key 才能使用的 API]]
->Node 是不支援 [[Fetch]] 功能的
-## app.js
-### 終端
+>Node 是不支援 [[Fetch]] 功能的；[[Node to API - node fetch]]
+## 終端
 ```
 npm init
 npm install express ejs nodemon 
 (不用安裝 mongoose)
 ```
+## app.js
 ### 匯入
 ```js
 // app.js

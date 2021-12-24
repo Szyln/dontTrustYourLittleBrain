@@ -18,5 +18,5 @@ const newStudent = new Student({
 })
 // error
 ```
-> [[Create]]
+> [[Create(CRUD)]]
 #database #nosql #mongoose #mongodb #validators
