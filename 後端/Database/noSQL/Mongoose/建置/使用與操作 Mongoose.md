@@ -4,12 +4,13 @@
 - [[建立架構 Define a Schema]]
 	- [[Validators]]
 
+
 - [[Mongoose Method]]
 	- create an [[Instance Method]]
 	- create an [[Static Method]]
 	- create [[Middleware(Mongoose)]]
 
-- [[建立架構 Define a Schema#create a model]]
+- [[Create a Model]]
 
 - [[Create(CRUD)]]
 	- [[Create(CRUD)#create an object]]
