@@ -9,7 +9,7 @@ EJS 可以當成就是在 JS 環境寫 HTML，所以也可以在裡面寫 JS
 ```
 ### 範例
 #### 單純用變數
->使用已經生成的 name 變數：[[生成樣板可用的變數：Routing for pattern]]
+>使用已經生成的 name 變數：[[生成 EJS 樣板可用的變數]]
 ```ejs
 // person.ejs
 // 網址打什麼都會顯示在 name 變數裡面

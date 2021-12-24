@@ -1,5 +1,4 @@
-### 生成樣板可用的變數：Routing for pattern
-[[Routing#Routing for pattern 回應有規律的網址]]
+### 使用網址輸入內容作為變數
 可以將輸入的網址部分設定為變數
 ```js
 // 匯入三個模組： express, app, ejs
@@ -15,8 +14,8 @@ app.get("/:name", (req, res) => {
 })
 ```
 
-
-> [[從物件中提取屬性到變數中 Destructing an object]]
-> `{ name }` 為 `{ name: name }` 的語法糖
+>- [[Routing#Routing for pattern 回應有規律的網址]]
+> - [[從物件中提取屬性到變數中 Destructing an object]]
+> - `{ name }` 為 `{ name: name }` 的語法糖
 
 #npm #gulp #html #js #ejs #expressJs 

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "後端/Database/noSQL/Mongoose/CRUD/Find(Read).md",
+                "file": "用 EJS 從數據庫取得資訊顯示到畫面上.md",
                 "mode": "preview"
               }
             }
@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "後端/Database/noSQL/Mongoose/Mongoose.md",
+                "file": "後端/EJS/EJS.md",
                 "mode": "preview"
               }
             }
@@ -101,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263,
-    "collapsed": true
+    "width": 263
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "建置（連接數據庫的表單）.md"
+                "file": "後端/EJS/EJS.md"
               }
             }
           },
@@ -139,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "建置（連接數據庫的表單）.md",
+                "file": "後端/EJS/EJS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,17 +165,17 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "fdc31048ba21bf90",
+  "active": "2045a3bc2ce9a149",
   "lastOpenFiles": [
+    "後端/EJS/EJS.md",
+    "後端/EJS/EJS 撰寫規則.md",
+    "後端/EJS/建置/EJS 建置.md",
     "建置（連接數據庫的表單）.md",
-    "後端/Database/noSQL/Mongoose/Mongoose.md",
-    "Express and Mongoose.md",
+    "用 EJS 從數據庫取得資訊顯示到畫面上.md",
+    "後端/EJS/建置/生成 EJS 樣板可用的變數.md",
     "後端/Database/noSQL/Mongoose/CRUD/Find(Read).md",
-    "後端/Express.js/Routing/send 和 sendFile 回應(express).md",
-    "後端/Database/noSQL/Mongoose/建置/使用與操作 Mongoose.md",
-    "後端/Database/noSQL/Mongoose/建置/建立架構 Define a Schema.md",
-    "後端/Database/noSQL/Mongoose/建置/Mongoose 建置.md",
-    "後端/Database/noSQL/Mongoose/建置/利用 Mongoose 連上 MongoDB.md",
-    "後端/Express.js/建置/Middleware(express).md"
+    "EJS 使用網址輸入內容作為變數.md",
+    "後端/Database/noSQL/Mongoose/Mongoose.md",
+    "Express and Mongoose.md"
   ]
 }
