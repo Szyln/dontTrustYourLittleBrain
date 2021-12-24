@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "建置（連接數據庫的表單）.md",
-                "mode": "preview"
+                "mode": "source"
               }
             }
           },
@@ -169,8 +169,8 @@
   "active": "fdc31048ba21bf90",
   "lastOpenFiles": [
     "建置（連接數據庫的表單）.md",
-    "後端/Database/noSQL/Mongoose/建置/使用與操作 Mongoose.md",
     "後端/Express.js/Routing/send 和 sendFile 回應(express).md",
+    "後端/Database/noSQL/Mongoose/建置/使用與操作 Mongoose.md",
     "後端/Database/noSQL/Mongoose/建置/建立架構 Define a Schema.md",
     "後端/Database/noSQL/Mongoose/Mongoose.md",
     "後端/Database/noSQL/Mongoose/建置/Mongoose 建置.md",
