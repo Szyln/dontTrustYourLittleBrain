@@ -15,8 +15,10 @@
 - [[將數據庫資料顯示於網頁]]
 - [[表單資料存入數據庫]]
 - [[使用 Routing for pattern 顯示特定數據庫物件]]
+-  [[Routing for all 回應亂打的網址]]：[[404 Not Found]]（一定要放在最後面）
+
 
 > - [[使用與操作 Mongoose]]
 > - [[POST 表單(express)]]
 
-#js #npm #node #expressJs #mongoose #database #form #ejs #backEnd
+#js #npm #node #expressJs #mongoose #database #form #ejs #backEnd #routing 

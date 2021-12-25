@@ -50,13 +50,24 @@
             }
           },
           {
+            "id": "3fe18c14f3233983",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "後端/EJS/EJS.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
             "id": "1cc36883932c0427",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "後端/Database/noSQL/Mongoose/Mongoose.md",
-                "mode": "source"
+                "file": "後端/Database/noSQL/Mongoose/Schema Type/通用的 Validators.md",
+                "mode": "preview"
               }
             }
           }
@@ -129,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "使用 Routing for pattern 顯示特定數據庫物件.md"
+                "file": "後端/Database/noSQL/Mongoose/Schema Type/通用的 Validators.md"
               }
             }
           },
@@ -139,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "使用 Routing for pattern 顯示特定數據庫物件.md",
+                "file": "後端/Database/noSQL/Mongoose/Schema Type/通用的 Validators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,17 +177,17 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "fdc31048ba21bf90",
+  "active": "1cc36883932c0427",
   "lastOpenFiles": [
+    "後端/Database/noSQL/Mongoose/Schema Type/通用的 Validators.md",
+    "後端/Database/noSQL/Mongoose/Schema Type/Validators.md",
+    "後端/Database/noSQL/Mongoose/Schema Type/Number 用 Validators.md",
+    "後端/Database/noSQL/Mongoose/Schema Type/Schema Type.md",
+    "後端/Database/noSQL/Mongoose/Mongoose.md",
+    "後端/EJS/EJS.md",
+    "Express and Mongoose.md",
     "使用 Routing for pattern 顯示特定數據庫物件.md",
     "Request handling（連接數據庫）.md",
-    "建置（連接數據庫的表單）.md",
-    "EJS 使用 Mongoose 取得數據庫資料作為變數.md",
-    "後端/EJS/gulp/GULP.md",
-    "後端/Express.js/Routing/Request Handling(Express).md",
-    "後端/Express.js/建置/Routing.md",
-    "後端/Express.js/Routing/Routing for Query 回應表單.md",
-    "Express and Mongoose.md",
-    "將數據庫資料顯示於網頁.md"
+    "後端/Express.js/Routing/404 Not Found.md"
   ]
 }
