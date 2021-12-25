@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "使用 Routing for pattern 顯示特定數據庫物件.md",
+                "file": "建置（連接數據庫的表單）.md",
                 "mode": "source"
               }
             }
@@ -113,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263
+    "width": 263,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "使用 Routing for pattern 顯示特定數據庫物件.md"
+                "file": "建置（連接數據庫的表單）.md"
               }
             }
           },
@@ -150,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "使用 Routing for pattern 顯示特定數據庫物件.md",
+                "file": "建置（連接數據庫的表單）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,15 +180,15 @@
   },
   "active": "fdc31048ba21bf90",
   "lastOpenFiles": [
+    "建置（連接數據庫的表單）.md",
+    "EJS 連結設定.md",
     "使用 Routing for pattern 顯示特定數據庫物件.md",
+    "Express and Mongoose.md",
+    "後端/Node.js/模組/npm/推薦模組/nodemon.md",
     "後端/Database/noSQL/Mongoose/Schema Type/通用的 Validators.md",
     "後端/Database/noSQL/Mongoose/Schema Type/Validators.md",
     "後端/Database/noSQL/Mongoose/Schema Type/Number 用 Validators.md",
     "後端/Database/noSQL/Mongoose/Schema Type/Schema Type.md",
-    "後端/Database/noSQL/Mongoose/Mongoose.md",
-    "後端/EJS/EJS.md",
-    "Express and Mongoose.md",
-    "Request handling（連接數據庫）.md",
-    "後端/Express.js/Routing/404 Not Found.md"
+    "後端/Database/noSQL/Mongoose/Mongoose.md"
   ]
 }
