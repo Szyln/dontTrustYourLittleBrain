@@ -1,4 +1,5 @@
 # EJS 連結設定
+網址上也可以使用變數
 ```ejs
 <a href="/students">回到學生列表</a>
 ```
@@ -12,3 +13,6 @@
 	<% }) %>
 </ul>
 ```
+
+
+#js #npm #node #expressJs #mongoose #database #form #ejs #backEnd 
