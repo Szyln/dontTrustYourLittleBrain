@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "req, res",
+                "query": "隱藏",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,12 +108,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 263,
-    "collapsed": true
+    "width": 263
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "後端/Database/noSQL/Mongoose/Schema Type/通用的 Validators.md"
+                "file": "使用 Routing for pattern 顯示特定數據庫物件.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "後端/Database/noSQL/Mongoose/Schema Type/通用的 Validators.md",
+                "file": "使用 Routing for pattern 顯示特定數據庫物件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,8 +177,9 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "1cc36883932c0427",
+  "active": "fdc31048ba21bf90",
   "lastOpenFiles": [
+    "使用 Routing for pattern 顯示特定數據庫物件.md",
     "後端/Database/noSQL/Mongoose/Schema Type/通用的 Validators.md",
     "後端/Database/noSQL/Mongoose/Schema Type/Validators.md",
     "後端/Database/noSQL/Mongoose/Schema Type/Number 用 Validators.md",
@@ -186,7 +187,6 @@
     "後端/Database/noSQL/Mongoose/Mongoose.md",
     "後端/EJS/EJS.md",
     "Express and Mongoose.md",
-    "使用 Routing for pattern 顯示特定數據庫物件.md",
     "Request handling（連接數據庫）.md",
     "後端/Express.js/Routing/404 Not Found.md"
   ]
