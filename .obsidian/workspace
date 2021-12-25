@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Request handling（連接數據庫）.md",
+                "file": "使用 Routing for pattern 顯示特定數據庫物件.md",
                 "mode": "source"
               }
             }
@@ -45,7 +45,7 @@
               "type": "markdown",
               "state": {
                 "file": "Express and Mongoose.md",
-                "mode": "preview"
+                "mode": "source"
               }
             }
           },
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Request handling（連接數據庫）.md"
+                "file": "使用 Routing for pattern 顯示特定數據庫物件.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Request handling（連接數據庫）.md",
+                "file": "使用 Routing for pattern 顯示特定數據庫物件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,15 +168,15 @@
   },
   "active": "fdc31048ba21bf90",
   "lastOpenFiles": [
+    "使用 Routing for pattern 顯示特定數據庫物件.md",
     "Request handling（連接數據庫）.md",
-    "EJS 使用 Mongoose 取得數據庫資料作為變數.md",
-    "後端/Database/noSQL/Mongoose/Mongoose.md",
-    "後端/EJS/EJS.md",
-    "EJS 使用網址輸入內容作為變數.md",
-    "後端/Database/noSQL/Mongoose/建置/使用與操作 Mongoose.md",
     "建置（連接數據庫的表單）.md",
-    "後端/Express.js/Routing/POST 表單(express).md",
-    "建立 Mongoose models 模組.md",
-    "Express and Mongoose.md"
+    "EJS 使用 Mongoose 取得數據庫資料作為變數.md",
+    "後端/EJS/gulp/GULP.md",
+    "後端/Express.js/Routing/Request Handling(Express).md",
+    "後端/Express.js/建置/Routing.md",
+    "後端/Express.js/Routing/Routing for Query 回應表單.md",
+    "Express and Mongoose.md",
+    "將數據庫資料顯示於網頁.md"
   ]
 }

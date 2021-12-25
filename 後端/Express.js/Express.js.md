@@ -18,7 +18,7 @@
 ## [[Routing]]
 - [[Routing#Routing for all 回應亂打的網址]]
 - [[Routing#Routing for pattern 回應有規律的網址]]
-- [[回應表單 (Routing for Query)]]
+- [[Routing for Query 回應表單]]
 
 
 ## 混合技

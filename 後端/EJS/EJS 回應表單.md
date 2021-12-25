@@ -1,4 +1,4 @@
-# EJS 回應表單([[回應表單 (Routing for Query)]])
+# EJS 回應表單([[Routing for Query 回應表單]])
 ## [[form]]
 有一個表單，透過後端來取得這些資料後，使用 EJS 生成顯示這些資料的頁面
 ```html
@@ -15,7 +15,7 @@
 
 </form>
 ```
-## [[回應表單 (Routing for Query)#GET form]]
+## [[Routing for Query 回應表單#GET form]]
 ```js
 // app.js
 app.get("/response", (req, res) => {
