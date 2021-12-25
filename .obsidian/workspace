@@ -6,7 +6,7 @@
       {
         "id": "8b5712608347d961",
         "type": "split",
-        "dimension": 69.0712353471596,
+        "dimension": 53.964497041420124,
         "children": [
           {
             "id": "fdc31048ba21bf90",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "建置（連接數據庫的表單）.md",
+                "file": "Request handling（連接數據庫）.md",
                 "mode": "source"
               }
             }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "後端/Database/noSQL/Mongoose/建置/使用與操作 Mongoose.md",
+                "file": "EJS 使用 Mongoose 取得數據庫資料作為變數.md",
                 "mode": "source"
               }
             }
@@ -36,7 +36,7 @@
       {
         "id": "c8d7db1cf3749fb4",
         "type": "split",
-        "dimension": 30.928764652840396,
+        "dimension": 46.03550295857988,
         "children": [
           {
             "id": "1b45cb7e760b57c8",
@@ -97,8 +97,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "建置（連接數據庫的表單）.md"
+                "file": "Request handling（連接數據庫）.md"
               }
             }
           },
@@ -140,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "建置（連接數據庫的表單）.md",
+                "file": "Request handling（連接數據庫）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,15 +168,15 @@
   },
   "active": "fdc31048ba21bf90",
   "lastOpenFiles": [
-    "建置（連接數據庫的表單）.md",
-    "後端/Database/noSQL/Mongoose/建置/使用與操作 Mongoose.md",
+    "Request handling（連接數據庫）.md",
+    "EJS 使用 Mongoose 取得數據庫資料作為變數.md",
     "後端/Database/noSQL/Mongoose/Mongoose.md",
-    "後端/Database/noSQL/Mongoose/建置/Mongoose 建置.md",
-    "後端/Database/Database 數據庫.md",
     "後端/EJS/EJS.md",
-    "後端/Database/noSQL/Mongoose/建置/建立架構 Define a Schema.md",
-    "編譯 EJS 樣板 res.render().md",
-    "用 EJS 從數據庫取得資訊顯示到畫面上.md",
-    "後端/EJS/建置/EJS 建置.md"
+    "EJS 使用網址輸入內容作為變數.md",
+    "後端/Database/noSQL/Mongoose/建置/使用與操作 Mongoose.md",
+    "建置（連接數據庫的表單）.md",
+    "後端/Express.js/Routing/POST 表單(express).md",
+    "建立 Mongoose models 模組.md",
+    "Express and Mongoose.md"
   ]
 }

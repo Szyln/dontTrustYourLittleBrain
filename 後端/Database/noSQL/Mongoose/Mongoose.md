@@ -5,6 +5,7 @@
 - [[Mongoose 建置]]
 	- [[利用 Mongoose 連上 MongoDB]]
 	- [[使用與操作 Mongoose]]
+		- [[Request handling（連接數據庫）]]（進階）
 - [[Database 數據庫#架構]]
 - [[Mongoose CRUD]]
 
@@ -14,6 +15,8 @@
 - [[Mongoose Method]]
 - [[Promise and Query (Mongoose)]]
 
+## 進階應用
+- [[建立 Mongoose models 模組]]
 
 
 #database #nosql #json #npm #node #odm
