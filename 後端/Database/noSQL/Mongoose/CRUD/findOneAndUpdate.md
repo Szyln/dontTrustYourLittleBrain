@@ -6,7 +6,7 @@ model.findOneAndUpdate(condition, update, options)
 > [[Validators]] 預設不會重跑，options 可以加入 [[Update with Validators]] 來重跑
 ```js
 Student.findOneAndUpdate(
-	{ 要改的內容 },
+	{ 尋找的屬性 },
 	{ 更改後的內容 },
 	{ new: true }		// find 有被更改的內容
 ).then((meg) => {
