@@ -18,6 +18,6 @@
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",
-  "legacyEditor": true,
+  "legacyEditor": false,
   "livePreview": true
 }
