@@ -12,9 +12,9 @@
 
 - [[Create a Model]]
 
-- [[Create(CRUD)]]
-	- [[Create(CRUD)#create an object]]
-	- [[Create(CRUD)#Insert]]
+- [[Create]]
+	- [[Create#create an object]]
+	- [[Create#Insert]]
 
 - [[透過 Mongoose 存入 MongoDB(Save)]]
 

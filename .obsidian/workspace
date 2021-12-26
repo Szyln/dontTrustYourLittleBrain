@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "使用 Routing for pattern 顯示特定數據庫物件.md",
+                "file": "Request handling（連接數據庫）.md",
                 "mode": "source"
               }
             }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EJS 使用 Mongoose 取得數據庫資料作為變數.md",
+                "file": "網路/HTTP request.md",
                 "mode": "source"
               }
             }
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "null",
+                "query": "down",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +108,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "使用 Routing for pattern 顯示特定數據庫物件.md"
+                "file": "Express and Mongoose.md"
               }
             }
           },
@@ -150,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "使用 Routing for pattern 顯示特定數據庫物件.md",
+                "file": "Express and Mongoose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,17 +178,17 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "fdc31048ba21bf90",
+  "active": "1b45cb7e760b57c8",
   "lastOpenFiles": [
-    "使用 Routing for pattern 顯示特定數據庫物件.md",
-    "Request handling（連接數據庫）.md",
-    "建置（連接數據庫的表單）.md",
-    "JavaScript/資料類型/原始資料類型 Primitive Data Types.md",
-    "後端/Database/noSQL/Mongoose/Mongoose.md",
-    "JavaScript/資料類型/Boolean.md",
-    "後端/Database/noSQL/Mongoose/Schema Type/Schema Type.md",
-    "將數據庫資料顯示於網頁.md",
+    "Express and Mongoose.md",
+    "後端/EJS/EJS.md",
+    "網路/HTTP request.md",
     "EJS 使用 Mongoose 取得數據庫資料作為變數.md",
-    "Express and Mongoose.md"
+    "Request handling（連接數據庫）.md",
+    "後端/Database/noSQL/Mongoose/CRUD/Create.md",
+    "建置（連接數據庫的表單）.md",
+    "使用 Routing for pattern 顯示特定數據庫物件.md",
+    "JavaScript/資料類型/原始資料類型 Primitive Data Types.md",
+    "後端/Database/noSQL/Mongoose/Mongoose.md"
   ]
 }

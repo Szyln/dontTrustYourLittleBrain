@@ -1,7 +1,7 @@
 # Instance Method
 [[Mongoose Method]]
 
-[[Create(CRUD)#Define a Schema]] 之後，可以設定 [[Instance Method]] 供 model 使用
+[[Create#Define a Schema]] 之後，可以設定 [[Instance Method]] 供 model 使用
 
 >有個很像的 [[Static Method]] 之後再提
 

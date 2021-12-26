@@ -1,5 +1,5 @@
 ## String 用 [[Validators]]
-[[Create(CRUD)]] 的時候規範 [[Schema Type]] 時可以使用
+[[Create]] 的時候規範 [[Schema Type]] 時可以使用
 - [[Enum(指定 string, number)]]
 - [[Minlength(number)]]
 - Maxlength(number): 參照 [[Minlength(number)]]

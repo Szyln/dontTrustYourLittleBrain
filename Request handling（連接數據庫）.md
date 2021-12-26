@@ -9,12 +9,18 @@
 首頁(localhost)/
 |- students/			-> 數據庫資料顯示與網頁	
 |	|- insert/  		-> accept / reject
-|	|- personal page 	-> 網址輸入 id 就顯示對應學生 
+|	|- edit/  			-> 更新資料
+|	|- studentPage 	-> 網址輸入 id 就顯示對應學生 
 ```
 
-- 讀取整個數據庫：[[將數據庫資料顯示於網頁]]
-- 讀取數據庫單一物件：[[使用 Routing for pattern 顯示特定數據庫物件]]
-- [[表單資料存入數據庫]]
+- [[Find(Read)]]
+	- 讀取整個數據庫：[[將數據庫資料顯示於網頁]]
+	- 讀取數據庫單一物件：[[使用 Routing for pattern 顯示特定數據庫物件]]
+- [[Create]]
+	- [[表單資料存入數據庫]]
+- [[Update]]
+	- [[提交更新的表單]]
+- [[Delete]]
 -  Error handing: [[Routing for all 回應亂打的網址]]：[[404 Not Found]]（一定要放在最後面）
 
 

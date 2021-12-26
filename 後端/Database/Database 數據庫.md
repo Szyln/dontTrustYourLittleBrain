@@ -9,7 +9,7 @@
 |-|-|-|-|-|
 |SQL|[[SQL create 製作表格]]|[[SQL read 檢視表格內容]]|[[SQL update 更新既有表格內容]]|[[SQL delete 刪除既有表格內容]]|
 |MongoDB|[[MongoDB CRUD#Insertion create]]|[[MongoDB CRUD#find read]]|[[MongoDB CRUD#Update]]|[[MongoDB CRUD#Delete]]|
-|Mongoose|[[Create(CRUD)]]|[[Find(Read)]]|[[Update]]|[[Delete]]|
+|Mongoose|[[Create]]|[[Find(Read)]]|[[Update]]|[[Delete]]|
 
 ## SQL and NoSQL
 |類型|SQL|NoSQL|
