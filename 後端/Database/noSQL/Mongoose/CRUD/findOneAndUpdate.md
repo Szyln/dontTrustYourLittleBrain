@@ -6,9 +6,12 @@ model.findOneAndUpdate(condition, update, options)
 > [[Validators]] 預設不會重跑，options 可以加入 [[Update with Validators]] 來重跑
 ```js
 Student.findOneAndUpdate(
-	{ 尋找的屬性 },
-	{ 更改後的內容 },
-	{ new: true }		// find 有被更改的內容
+	{ 尋找的屬性(找出相符的特定物件) },
+	{ 更改後的內容（要更改的部份） },
+	{
+		new: true,				// log 更新的項目
+		runValidators: true		// 重跑一次 validators
+	}
 ).then((meg) => {
 	console.log(meg)
 })
