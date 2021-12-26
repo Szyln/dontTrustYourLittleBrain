@@ -5,12 +5,13 @@
 ---
 ## 想要做到的效果
 用填入資訊建立 object，並且存入資料庫
+
 ```
 首頁(localhost)/
 |- students/			-> 數據庫資料顯示與網頁	
-|	|- insert/  		-> accept / reject
-|	|- edit/  			-> 更新資料
-|	|- studentPage 	-> 網址輸入 id 就顯示對應學生 
+|	|- insert/			-> accept / reject
+|	|- edit/:id			-> 更新資料
+|	|- :id			 	-> 網址輸入 id 就顯示對應學生 
 ```
 
 - [[Find(Read)]]
@@ -19,7 +20,8 @@
 - [[Create]]
 	- [[表單資料存入數據庫]]
 - [[Update]]
-	- [[提交更新的表單]]
+	- [[HTTP request#更新]]
+	- [[表單更新數據庫既有資料]]
 - [[Delete]]
 -  Error handing: [[Routing for all 回應亂打的網址]]：[[404 Not Found]]（一定要放在最後面）
 
