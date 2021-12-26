@@ -1,0 +1,28 @@
+## PUT
+>- [[HTTP request]]：PUT 對於 html form 是不支援的，需要安裝 npm 模組：[[method-override]]
+>- [[findOneAndUpdate]]
+```js
+// 收到 put 更新後，更新數據庫
+app.put('/students/edit/:id', async (req, res) => {
+	// 因為網頁上的 merit, other 沒有多包一層一個物件，需要先提出來
+	let { id, name, age, merit, other } = res.body;
+	try {
+		res.send('感謝您，資料已更新');
+		let data = await Student.findOneAndUpdate(
+			{ id },
+			{ id, name, age, scholarship:{ merit, other } },
+			{
+				new: true,
+				runValidators: true,
+			}
+		);
+		res.redirect('/students/${ id }');
+		
+	} catch {
+		res.render(reject.ejs);
+	}
+})
+```
+>[[從物件中提取屬性到變數中 Destructing an object]]
+
+#js #npm #node #expressJs #mongoose #database #form #ejs #backEnd #request 
