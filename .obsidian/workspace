@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "表單更新數據庫既有資料.md",
+                "file": "只有 vs 終端機不能打小寫英文.md",
                 "mode": "source"
               }
             }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "表單更新數據庫既有資料.md"
+                "file": "只有 vs 終端機不能打小寫英文.md"
               }
             }
           },
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "表單更新數據庫既有資料.md",
+                "file": "只有 vs 終端機不能打小寫英文.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,6 +180,7 @@
   },
   "active": "fdc31048ba21bf90",
   "lastOpenFiles": [
+    "只有 vs 終端機不能打小寫英文.md",
     "表單更新數據庫既有資料.md",
     "Request handling（連接數據庫）.md",
     "使用 Routing for pattern 顯示特定數據庫物件.md",
@@ -188,7 +189,6 @@
     "網路/HTTP request.md",
     "後端/EJS/EJS.md",
     "EJS 使用 Mongoose 取得數據庫資料作為變數.md",
-    "後端/Database/noSQL/Mongoose/CRUD/Create.md",
-    "建置（連接數據庫的表單）.md"
+    "後端/Database/noSQL/Mongoose/CRUD/Create.md"
   ]
 }
