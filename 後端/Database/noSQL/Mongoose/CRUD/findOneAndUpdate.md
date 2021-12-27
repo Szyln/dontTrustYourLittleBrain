@@ -16,7 +16,7 @@ Student.findOneAndUpdate(
 	console.log(meg)
 })
 ```
-
+>`useFindAndModify` 在第六版已經不建議加入，可以不用放了
 
 ## 使用 [[Instance Method]] 做出同樣效果
 ```js

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "迴避／節制型攝食症.md",
+                "file": "獲得請求後更新數據庫資料.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "後端/Database/noSQL/Mongoose/Mongoose.md",
+                "file": "後端/Database/noSQL/Mongoose/建置/利用 Mongoose 連上 MongoDB.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "迴避／節制型攝食症.md"
+                "file": "後端/Database/noSQL/Mongoose/建置/利用 Mongoose 連上 MongoDB.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "迴避／節制型攝食症.md",
+                "file": "後端/Database/noSQL/Mongoose/建置/利用 Mongoose 連上 MongoDB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,17 +183,17 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "fdc31048ba21bf90",
+  "active": "16c7a4dae7d6e679",
   "lastOpenFiles": [
-    "迴避／節制型攝食症.md",
-    "res.redirect().md",
+    "後端/Database/noSQL/Mongoose/建置/利用 Mongoose 連上 MongoDB.md",
+    "後端/Database/noSQL/Mongoose/Mongoose.md",
     "獲得請求後更新數據庫資料.md",
+    "後端/Database/noSQL/Mongoose/CRUD/findOneAndUpdate.md",
+    "res.redirect().md",
+    "迴避／節制型攝食症.md",
     "表單資料存入數據庫.md",
     "method-override.md",
     "EJS 使用網址輸入內容作為變數.md",
-    "網路/HTTP request.md",
-    "表單更新數據庫既有資料.md",
-    "建置（連接數據庫的表單）.md",
-    "將數據庫資料顯示於網頁.md"
+    "網路/HTTP request.md"
   ]
 }
