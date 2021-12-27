@@ -14,10 +14,10 @@ app.put('/students/edit/:id', (req, res) => {
 	res.send('感謝您，資料已更新');
 })
 ```
-
+action 的 query 可寫入`?_method=要執行的請求`
 ```html
 <!-- method 會被蓋過 -->
-<form action="/students/edit/<%= data.id %>?_method=DELETE" method="POST">
+<form action="/students/edit/<%= data.id %>?_method=PUT" method="POST">
 </form>
 ```
 #js #node #npm #form #database  #ejs #mongoose #backEnd 
