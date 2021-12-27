@@ -25,5 +25,8 @@
 - 搭配 [[EJS]]
 - 搭配 [[Mongoose]]
 
+## 其他
+[[res.redirect()]]：導到其他頁面
+
 
 #js #advanceJs #library #framework #nodeJs #backEnd #module #expressJs #npm #server 

@@ -1,6 +1,5 @@
-## PUT
->- [[HTTP request]]：PUT 對於 html form 是不支援的，需要安裝 npm 模組：[[method-override]]
->- [[findOneAndUpdate]]
+# res.redirect()
+重導到其他頁面
 ```js
 // 收到 put 更新後，更新數據庫
 app.put('/students/edit/:id', async (req, res) => {
@@ -16,6 +15,7 @@ app.put('/students/edit/:id', async (req, res) => {
 				runValidators: true,
 			}
 		);
+		// 導到其他畫面
 		res.redirect('/students/${ id }');
 		
 	} catch {
@@ -23,6 +23,3 @@ app.put('/students/edit/:id', async (req, res) => {
 	}
 })
 ```
->[[從物件中提取屬性到變數中 Destructing an object]]
-
-#js #npm #node #expressJs #mongoose #database #form #ejs #backEnd #request 
