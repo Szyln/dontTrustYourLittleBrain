@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "獲得請求後更新數據庫資料.md",
+                "file": "透過 Postman 刪除數據庫資料.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "後端/Database/noSQL/Mongoose/建置/利用 Mongoose 連上 MongoDB.md",
+                "file": "後端/Database/noSQL/Mongoose/Mongoose.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "後端/Database/noSQL/Mongoose/建置/利用 Mongoose 連上 MongoDB.md"
+                "file": "Express and Mongoose.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "後端/Database/noSQL/Mongoose/建置/利用 Mongoose 連上 MongoDB.md",
+                "file": "Express and Mongoose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,17 +183,17 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "16c7a4dae7d6e679",
+  "active": "1b45cb7e760b57c8",
   "lastOpenFiles": [
-    "後端/Database/noSQL/Mongoose/建置/利用 Mongoose 連上 MongoDB.md",
-    "後端/Database/noSQL/Mongoose/Mongoose.md",
+    "Express and Mongoose.md",
+    "透過 Postman 刪除數據庫資料.md",
+    "建置（連接數據庫的表單）.md",
+    "Git/環境建置/建置.md",
     "獲得請求後更新數據庫資料.md",
+    "後端/Database/noSQL/Mongoose/Mongoose.md",
+    "後端/Database/noSQL/Mongoose/建置/利用 Mongoose 連上 MongoDB.md",
     "後端/Database/noSQL/Mongoose/CRUD/findOneAndUpdate.md",
     "res.redirect().md",
-    "迴避／節制型攝食症.md",
-    "表單資料存入數據庫.md",
-    "method-override.md",
-    "EJS 使用網址輸入內容作為變數.md",
-    "網路/HTTP request.md"
+    "迴避／節制型攝食症.md"
   ]
 }
