@@ -15,7 +15,7 @@ app.put('/students/edit/:id', (req, res) => {
 })
 ```
 
-```ejs
+```html
 <!-- method 會被蓋過 -->
 <form action="/students/edit/<%= data.id %>?_method=DELETE" method="POST">
 </form>

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "建置（連接數據庫的表單）.md",
+                "file": "method-override.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "網路/HTTP request.md",
+                "file": "EJS 使用網址輸入內容作為變數.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "down",
+                "query": "params",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263,
-    "collapsed": true
+    "width": 263
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "建置（連接數據庫的表單）.md"
+                "file": "EJS 使用網址輸入內容作為變數.md"
               }
             }
           },
@@ -156,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "建置（連接數據庫的表單）.md",
+                "file": "EJS 使用網址輸入內容作為變數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,17 +182,17 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "fdc31048ba21bf90",
+  "active": "907ee4da5a7f6ba6",
   "lastOpenFiles": [
+    "EJS 使用網址輸入內容作為變數.md",
+    "網路/HTTP request.md",
+    "method-override.md",
+    "獲得請求後更新數據庫資料.md",
+    "表單更新數據庫既有資料.md",
     "建置（連接數據庫的表單）.md",
     "將數據庫資料顯示於網頁.md",
     "EJS 使用 Mongoose 取得數據庫資料作為變數.md",
-    "表單更新數據庫既有資料.md",
-    "網路/HTTP request.md",
-    "獲得請求後更新數據庫資料.md",
     "res.redirect().md",
-    "後端/EJS/EJS.md",
-    "後端/Express.js/Express.js.md",
-    "EJS 提供用戶更新的資料的表單.md"
+    "後端/EJS/EJS.md"
   ]
 }
