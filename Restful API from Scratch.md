@@ -7,5 +7,5 @@
 | [[Create]]     | [[表單資料存入數據庫]]     | [[]]           |
 | [[Find(Read)]] | [[將數據庫資料顯示於網頁]] |                |
 | [[Find(Read)]] |          [[使用 Routing for pattern 顯示特定數據庫物件]]              |     
-| [[Update]]     |             [[]]               |                |
-| [[Delete]]     |                            |                |
+| [[Update]]     |             [[表單更新數據庫既有資料]]               |                |
+| [[Delete]]     |             [[透過 Postman 刪除數據庫資料]]               |                |
