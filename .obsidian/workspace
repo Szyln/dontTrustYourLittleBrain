@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243,
-    "collapsed": true
+    "width": 243
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -93,7 +92,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Restful API.md"
+                "file": "Restful API 介紹.md"
               }
             }
           },
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Restful API.md",
+                "file": "Restful API 介紹.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,10 +129,10 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "3980979a85cb9874",
+  "active": "54e7a8083eb77151",
   "lastOpenFiles": [
-    "Restful API.md",
     "Restful API 介紹.md",
+    "Restful API.md",
     "未完成/Tailwind.md",
     "後端/Query.md",
     "後端/EJS/EJS.md",

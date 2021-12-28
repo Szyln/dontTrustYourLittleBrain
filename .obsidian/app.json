@@ -19,5 +19,6 @@
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "tabSize": 2
 }

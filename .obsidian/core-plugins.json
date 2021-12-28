@@ -10,13 +10,11 @@
   "note-composer",
   "command-palette",
   "slash-command",
-  "markdown-importer",
+  "editor-status",
   "outline",
   "word-count",
   "slides",
   "open-with-default-app",
   "workspaces",
-  "file-recovery",
-  "publish",
-  "sync"
+  "file-recovery"
 ]
