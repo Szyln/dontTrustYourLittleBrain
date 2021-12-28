@@ -13,16 +13,37 @@
             "dimension": 79.3400286944046,
             "children": [
               {
-                "id": "6d624f7d3dd32ae1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "API 提供所有資料.md",
-                    "mode": "source",
-                    "source": false
+                "id": "255f8018c7d9d6e4",
+                "type": "split",
+                "children": [
+                  {
+                    "id": "6d624f7d3dd32ae1",
+                    "type": "leaf",
+                    "dimension": 39.138943248532286,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "API 提供所有資料.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  },
+                  {
+                    "id": "c3a6e0b412b05ab9",
+                    "type": "leaf",
+                    "dimension": 60.861056751467714,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "接案好好賺.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
                   }
-                }
+                ],
+                "direction": "horizontal"
               },
               {
                 "id": "a0dda4915b561b8f",
@@ -140,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Restful API from Scratch.md"
+                "file": "接案好好賺.md"
               }
             }
           },
@@ -150,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Restful API from Scratch.md",
+                "file": "接案好好賺.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,17 +198,17 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "be6f2cecdb64a8e3",
+  "active": "c3a6e0b412b05ab9",
   "lastOpenFiles": [
-    "Restful API from Scratch.md",
+    "接案好好賺.md",
     "API 提供所有資料.md",
+    "接案相關.md",
+    "Restful API from Scratch.md",
     "後端/Express with Database/Routing with CRUD/Request handling（搭配數據庫CRUD）.md",
     "Restful API.md",
     "後端/Express.js/Routing/send 和 sendFile 回應(express).md",
     "後端/Express with Database/Routing with CRUD/將數據庫資料顯示於網頁.md",
     "後端/Express with Database/Routing with CRUD/建置（連接數據庫的表單）.md",
-    "後端/Express with Database/Express and Mongoose.md",
-    "Restful API 介紹.md",
-    "未完成/Tailwind.md"
+    "後端/Express with Database/Express and Mongoose.md"
   ]
 }
