@@ -19,3 +19,5 @@
 
 ### 需要用 Restful Routing
 - 依照 HTTP Verbs 來控制 CRUD 功能
+
+#api #frontend #js #restfulapi #api #crud #database #json 

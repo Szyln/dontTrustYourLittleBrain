@@ -4,20 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "54e7a8083eb77151",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Restful API 介紹.md",
-            "mode": "source",
-            "source": false
+        "id": "bcd8235540eb0818",
+        "type": "split",
+        "dimension": 80.11928429423459,
+        "children": [
+          {
+            "id": "54e7a8083eb77151",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Restful API from Scratch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c3074a9519dcab7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "後端/Express with Database/Routing with CRUD/Request handling（搭配數據庫CRUD）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       },
       {
         "id": "3980979a85cb9874",
         "type": "leaf",
+        "dimension": 19.880715705765407,
         "state": {
           "type": "markdown",
           "state": {
@@ -65,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243
+    "width": 243,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -92,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Restful API 介紹.md"
+                "file": "Restful API from Scratch.md"
               }
             }
           },
@@ -102,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Restful API 介紹.md",
+                "file": "Restful API from Scratch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +136,7 @@
             }
           },
           {
-            "id": "815617d03ad6cb5e",
+            "id": "8ea5d36341f98e97",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -122,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -131,15 +153,15 @@
   },
   "active": "54e7a8083eb77151",
   "lastOpenFiles": [
-    "Restful API 介紹.md",
+    "Restful API from Scratch.md",
+    "後端/Express with Database/Routing with CRUD/Request handling（搭配數據庫CRUD）.md",
+    "後端/Express with Database/Routing with CRUD/建置（連接數據庫的表單）.md",
+    "後端/Express with Database/Express and Mongoose.md",
     "Restful API.md",
+    "Restful API 介紹.md",
     "未完成/Tailwind.md",
     "後端/Query.md",
     "後端/EJS/EJS.md",
-    "其他/硬體、生產力/VsCode/mac 只有 vs 終端機不能打小寫英文.md",
-    "後端/Node.js/Node.js.md",
-    "後端/Express.js/Express.js.md",
-    "後端/Database/noSQL/Mongoose/建置/使用與操作 Mongoose.md",
-    "後端/Database/noSQL/Mongoose/建置/Mongoose 建置.md"
+    "其他/硬體、生產力/VsCode/mac 只有 vs 終端機不能打小寫英文.md"
   ]
 }
