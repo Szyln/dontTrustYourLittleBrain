@@ -11,6 +11,7 @@ app.get('/', (req, res) => {
 })
 ```
 ### 回應物件的話
+>製作 [[Restful API]] 時就會使用到，傳給用戶資料讓他們做使用
 ```js
 app.get('/', (req, res) => {
 	const Sam = {
