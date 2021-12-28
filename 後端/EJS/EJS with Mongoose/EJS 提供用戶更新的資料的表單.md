@@ -25,3 +25,5 @@ app.get('/students/edit/:id', async (req, res) =>
 	<input type="submit">
 </form>
 ```
+
+#js #npm #node #expressJs #mongoose #database #form #ejs #backEnd #crud

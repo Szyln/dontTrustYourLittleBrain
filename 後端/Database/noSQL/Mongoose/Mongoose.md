@@ -5,7 +5,7 @@
 - [[Mongoose 建置]]
 	- [[利用 Mongoose 連上 MongoDB]]
 	- [[使用與操作 Mongoose]]
-		- [[Request handling（連接數據庫）]]（進階）
+		- [[Request handling（搭配數據庫CRUD）]]（進階）
 - [[Database 數據庫#架構]]
 - [[Mongoose CRUD]]
 

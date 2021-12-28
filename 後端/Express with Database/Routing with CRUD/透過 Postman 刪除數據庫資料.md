@@ -16,3 +16,6 @@ app.delete('/students/delete/:id', (req, res) => {
 		})
 })
 ```
+
+
+#js #npm #node #expressJs #mongoose #database #form #ejs #backEnd #crud

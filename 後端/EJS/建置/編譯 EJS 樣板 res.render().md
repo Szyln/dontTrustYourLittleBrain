@@ -7,7 +7,7 @@ res.render('page.ejs')
 res.render('page.ejs'), { name }}
 ```
 
->- [[生成 EJS 樣板可用的變數]]
+>- [[生成與使用 EJS 樣板可用的變數]]
 > `{name}` 是 `{ name: name }` 的語法糖
 
 #npm #gulp #html #js #ejs #expressJs 

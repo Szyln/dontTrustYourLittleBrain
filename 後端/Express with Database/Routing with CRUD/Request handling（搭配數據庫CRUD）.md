@@ -1,4 +1,4 @@
-# Request handling（連接數據庫）
+# Request handling（搭配數據庫CRUD）
 - 使用數據庫多會用到 [[Promise]] 的功能
 - 需要使用 [[Mongoose]] 進行讀取、存入資料庫的行為
 
@@ -22,11 +22,11 @@
 - [[Update]]
 	- [[HTTP request#更新]]
 	- [[表單更新數據庫既有資料]]
-- [[Delete]]
+- [[Delete]]：[[透過 Postman 刪除數據庫資料]]
 -  Error handing: [[Routing for all 回應亂打的網址]]：[[404 Not Found]]（一定要放在最後面）
 
 
 > - [[使用與操作 Mongoose]]
 > - [[POST 表單(express)]]
 
-#js #npm #node #expressJs #mongoose #database #form #ejs #backEnd #routing 
+#js #npm #node #expressJs #mongoose #database #form #ejs #backEnd #routing #crud 

@@ -4,7 +4,6 @@
 - [[建立架構 Define a Schema]]
 	- [[Validators]]
 
-
 - [[Mongoose Method]]
 	- create an [[Instance Method]]
 	- create an [[Static Method]]
@@ -15,6 +14,10 @@
 - [[Create]]
 	- [[Create#create an object]]
 	- [[Create#Insert]]
+
+- [[Mongoose CRUD]]
+	- 進階：[[Request handling（搭配數據庫CRUD）]]
+
 
 - [[透過 Mongoose 存入 MongoDB(Save)]]
 

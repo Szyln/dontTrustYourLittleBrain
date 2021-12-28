@@ -31,6 +31,7 @@
 - [[fs (File System)]]
 	- [[writeFile]]
 	- [[readFile]]
+- [[body-parser]](不確定是不是內建的)
 
 ## Server
 - [[Server 建立]]
@@ -43,10 +44,11 @@
 	- [[Express.js]]
 	- [[Mongoose]]
 	- [[EJS]]
-
+	
 ### 其他
-[[nodemon]]
-[[Node to API - node fetch]]
+- [[nodemon]]
+- [[Node to API - node fetch]]
+- [[method-override]]([[Express and Mongoose]])
 
 
 

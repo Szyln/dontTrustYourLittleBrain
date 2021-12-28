@@ -1,2 +1,6 @@
-# Restful API(Representational state transfer)
-[[Restful API 介紹]]
+# Restful API
+- [[Restful API 介紹]]
+- 將 [[Express and Mongoose]] 製作成 API 讓他人連接到你的 MongoDB
+
+
+#api #frontend #js #restfulapi #api

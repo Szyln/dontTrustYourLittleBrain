@@ -16,12 +16,12 @@
 - [[EJS with Express 的基本設定]]
 
 ## [[Routing]]
-- [[Routing#Routing for all 回應亂打的網址]]
-- [[Routing#Routing for pattern 回應有規律的網址]]
+- [[Routing for all 回應亂打的網址]]
+- [[Routing for pattern 回應有規律的網址]]
 - [[Routing for Query 回應表單]]
 
 
-## 混合技
+## [[Express and Mongoose]]
 - 搭配 [[EJS]]
 - 搭配 [[Mongoose]]
 
