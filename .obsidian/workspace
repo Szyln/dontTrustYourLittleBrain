@@ -13,37 +13,16 @@
             "dimension": 79.3400286944046,
             "children": [
               {
-                "id": "255f8018c7d9d6e4",
-                "type": "split",
-                "children": [
-                  {
-                    "id": "6d624f7d3dd32ae1",
-                    "type": "leaf",
-                    "dimension": 39.138943248532286,
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "API 提供所有資料.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "c3a6e0b412b05ab9",
-                    "type": "leaf",
-                    "dimension": 60.861056751467714,
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "接案好好賺.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
+                "id": "6d624f7d3dd32ae1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "接案好好賺？.md",
+                    "mode": "source",
+                    "source": false
                   }
-                ],
-                "direction": "horizontal"
+                }
               },
               {
                 "id": "a0dda4915b561b8f",
@@ -161,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "接案好好賺.md"
+                "file": "接案好好賺？.md"
               }
             }
           },
@@ -171,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "接案好好賺.md",
+                "file": "接案好好賺？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,9 +177,9 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "c3a6e0b412b05ab9",
+  "active": "6d624f7d3dd32ae1",
   "lastOpenFiles": [
-    "接案好好賺.md",
+    "接案好好賺？.md",
     "API 提供所有資料.md",
     "接案相關.md",
     "Restful API from Scratch.md",
