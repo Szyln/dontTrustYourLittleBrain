@@ -19,7 +19,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "API 提供更新資料的管道.md",
+                    "file": "其他/作品與目標/接案好好賺？.md",
                     "mode": "source",
                     "source": false
                   }
@@ -66,7 +66,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "API 提供更新資料的管道.md",
+                    "file": "其他/作品與目標/接案好好賺？.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -121,8 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243,
-    "collapsed": true
+    "width": 243
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "API 提供更新資料的管道.md"
+                "file": "其他/作品與目標/接案好好賺？.md"
               }
             }
           },
@@ -171,6 +170,7 @@
   },
   "active": "6d624f7d3dd32ae1",
   "lastOpenFiles": [
+    "其他/作品與目標/接案好好賺？.md",
     "API 提供更新資料的管道.md",
     "使用 Postman 發出表單請求.md",
     "Restful API.md",
@@ -179,7 +179,6 @@
     "後端/Express with Database/Routing with CRUD/獲得請求後更新數據庫資料.md",
     "Restful API 介紹.md",
     "後端/Express with Database/Routing with CRUD/表單更新數據庫既有資料.md",
-    "後端/Express with Database/Routing with CRUD/表單資料存入數據庫.md",
-    "API 提供刪除資料的管道.md"
+    "後端/Express with Database/Routing with CRUD/表單資料存入數據庫.md"
   ]
 }
