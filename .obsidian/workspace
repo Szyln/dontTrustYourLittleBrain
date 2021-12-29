@@ -10,66 +10,75 @@
           {
             "id": "21308c53088f42e7",
             "type": "split",
-            "dimension": 79.3400286944046,
+            "dimension": 68.36441893830703,
             "children": [
               {
                 "id": "6d624f7d3dd32ae1",
                 "type": "leaf",
+                "dimension": 60.416666666666664,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Restful API from Scratch.md",
+                    "file": "API 提供更新資料的管道.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               },
               {
-                "id": "a0dda4915b561b8f",
-                "type": "split",
-                "children": [
-                  {
-                    "id": "890a6747a8bc4d8b",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "後端/Express with Database/Routing with CRUD/將數據庫資料顯示於網頁.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  },
-                  {
-                    "id": "be6f2cecdb64a8e3",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Restful API from Scratch.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
+                "id": "890a6747a8bc4d8b",
+                "type": "leaf",
+                "dimension": 39.58333333333333,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "後端/Express with Database/Routing with CRUD/獲得請求後更新數據庫資料.md",
+                    "mode": "source",
+                    "source": false
                   }
-                ],
-                "direction": "horizontal"
+                }
               }
             ],
             "direction": "vertical"
           },
           {
-            "id": "337748330e55754f",
-            "type": "leaf",
-            "dimension": 20.65997130559541,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Restful API.md",
-                "mode": "source",
-                "source": false
+            "id": "c6a66fa35eb4e6a1",
+            "type": "split",
+            "dimension": 31.635581061692967,
+            "children": [
+              {
+                "id": "337748330e55754f",
+                "type": "leaf",
+                "dimension": 72.37704918032787,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Restful API.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "b3100dbe017fe358",
+                "type": "leaf",
+                "dimension": 27.62295081967213,
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "API 提供更新資料的管道.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
               }
-            }
+            ],
+            "direction": "vertical"
           }
         ],
         "direction": "horizontal"
@@ -112,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243
+    "width": 243,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -139,24 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Restful API from Scratch.md"
-              }
-            }
-          },
-          {
-            "id": "b3100dbe017fe358",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Restful API from Scratch.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "API 提供更新資料的管道.md"
               }
             }
           },
@@ -169,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -178,15 +171,15 @@
   },
   "active": "6d624f7d3dd32ae1",
   "lastOpenFiles": [
-    "Restful API from Scratch.md",
-    "API 提供所有資料.md",
-    "其他/作品與目標/接案好好賺？.md",
-    "其他/作品與目標/接案相關.md",
-    "後端/Express with Database/Routing with CRUD/Request handling（搭配數據庫CRUD）.md",
+    "API 提供更新資料的管道.md",
+    "使用 Postman 發出表單請求.md",
     "Restful API.md",
-    "後端/Express.js/Routing/send 和 sendFile 回應(express).md",
-    "後端/Express with Database/Routing with CRUD/將數據庫資料顯示於網頁.md",
-    "後端/Express with Database/Routing with CRUD/建置（連接數據庫的表單）.md",
-    "後端/Express with Database/Express and Mongoose.md"
+    "Restful API from Scratch.md",
+    "API 提供新增資料的管道.md",
+    "後端/Express with Database/Routing with CRUD/獲得請求後更新數據庫資料.md",
+    "Restful API 介紹.md",
+    "後端/Express with Database/Routing with CRUD/表單更新數據庫既有資料.md",
+    "後端/Express with Database/Routing with CRUD/表單資料存入數據庫.md",
+    "API 提供刪除資料的管道.md"
   ]
 }
