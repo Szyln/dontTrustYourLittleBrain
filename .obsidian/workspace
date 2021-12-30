@@ -19,7 +19,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "網路/Wireshark.md",
+                    "file": "JavaScript/物件導向 OOP/Prototype.md",
                     "mode": "source",
                     "source": false
                   }
@@ -66,7 +66,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "網路/Wireshark.md",
+                    "file": "JavaScript/物件導向 OOP/Prototype.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ping",
+                "query": "終端",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,12 +117,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 243
+    "width": 243,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "網路/Wireshark.md"
+                "file": "JavaScript/物件導向 OOP/Prototype.md"
               }
             }
           },
@@ -171,15 +171,15 @@
   },
   "active": "6d624f7d3dd32ae1",
   "lastOpenFiles": [
-    "網路/Wireshark.md",
     "JavaScript/物件導向 OOP/Prototype.md",
+    "網路/Wireshark.md",
+    "其他/硬體、生產力/terminal/常用指令.md",
+    "推特圖片跑不動.md",
     "JavaScript/物件導向 OOP/繼承/Class（語法糖）.md",
     "API 提供更新資料的管道.md",
     "Restful API.md",
     "api 傳送請求.png",
     "使用 Postman 發出表單請求.md",
-    "其他/樣板/筆記範本.md",
-    "其他/生活/迴避／節制型攝食症.md",
-    "其他/作品與目標/接案好好賺？.md"
+    "其他/樣板/筆記範本.md"
   ]
 }
