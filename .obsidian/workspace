@@ -15,13 +15,12 @@
               {
                 "id": "6d624f7d3dd32ae1",
                 "type": "leaf",
-                "dimension": 60.416666666666664,
+                "dimension": 60.41666666666666,
                 "state": {
                   "type": "markdown",
                   "state": {
                     "file": "API 提供更新資料的管道.md",
-                    "mode": "source",
-                    "source": false
+                    "mode": "source"
                   }
                 }
               },
@@ -33,8 +32,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "後端/Express with Database/Routing with CRUD/獲得請求後更新數據庫資料.md",
-                    "mode": "source",
-                    "source": false
+                    "mode": "source"
                   }
                 }
               }
@@ -44,7 +42,7 @@
           {
             "id": "c6a66fa35eb4e6a1",
             "type": "split",
-            "dimension": 31.635581061692967,
+            "dimension": 31.63558106169297,
             "children": [
               {
                 "id": "337748330e55754f",
@@ -54,15 +52,14 @@
                   "type": "markdown",
                   "state": {
                     "file": "Restful API.md",
-                    "mode": "source",
-                    "source": false
+                    "mode": "source"
                   }
                 }
               },
               {
                 "id": "b3100dbe017fe358",
                 "type": "leaf",
-                "dimension": 27.62295081967213,
+                "dimension": 27.622950819672134,
                 "state": {
                   "type": "backlink",
                   "state": {
