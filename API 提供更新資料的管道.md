@@ -54,8 +54,11 @@ class newData {
 
 // 收到 put 更新後，更新數據庫
 app.patch('/students/:id', async (req, res) => {
-	// 因為網頁上的 merit, other 沒有多包一層一個物件，需要先提出來
-	let { id, name, age, merit, other } = req.body;
+	let { id } = req.parmas;
+	let newObject = new newData();
+	for (let property in req.body) {
+		newObject.setProperty(property, req.body[property] )
+	}
 	try {
 		res.send('感謝您，資料已更新');
 		let data = await Student.findOneAndUpdate(
