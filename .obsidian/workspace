@@ -19,8 +19,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "JavaScript/物件導向 OOP/繼承/Prototype Inheritance.md",
-                    "mode": "preview",
+                    "file": "API 提供更新資料的管道.md",
+                    "mode": "source",
                     "source": false
                   }
                 }
@@ -66,7 +66,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "JavaScript/物件導向 OOP/繼承/Prototype Inheritance.md",
+                    "file": "API 提供更新資料的管道.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/物件導向 OOP/繼承/Prototype Inheritance.md"
+                "file": "API 提供更新資料的管道.md"
               }
             }
           },
@@ -171,13 +171,13 @@
   },
   "active": "6d624f7d3dd32ae1",
   "lastOpenFiles": [
-    "JavaScript/物件導向 OOP/繼承/Prototype Inheritance.md",
+    "API 提供更新資料的管道.md",
+    "JavaScript/物件導向 OOP/繼承/Class（語法糖）.md",
     "JavaScript/物件導向 OOP/Prototype.md",
+    "JavaScript/物件導向 OOP/繼承/Prototype Inheritance.md",
     "網路/Wireshark.md",
     "其他/硬體、生產力/terminal/常用指令.md",
     "推特圖片跑不動.md",
-    "JavaScript/物件導向 OOP/繼承/Class（語法糖）.md",
-    "API 提供更新資料的管道.md",
     "Restful API.md",
     "api 傳送請求.png",
     "使用 Postman 發出表單請求.md"

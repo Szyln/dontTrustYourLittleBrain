@@ -37,11 +37,19 @@ app.put('/students/:id', async (req, res) => {
 只有部分更新
 >[[Class（語法糖）]]
 
-
+因為使用 findOneAndUpdate 的時候，設定了 [[Update with Validators]] 的限制，所以會沒辦法直接運行，
+只動 age, merit 
 ```js
-class.newData {
+class newData {
 	constructor() {};
-	
+	// 只用 prototype 的功能
+	setProperty(key, value) {
+		if(key !== 'merit' && key !== 'other') {
+			this[key] = value;
+		} else {
+			this[`scholarship.${key}`] = value
+		}
+	}
 }
 
 // 收到 put 更新後，更新數據庫
