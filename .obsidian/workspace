@@ -15,10 +15,11 @@
               {
                 "id": "3e2d1004d154c634",
                 "type": "leaf",
+                "dimension": 65.93843098311817,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "自製 Middleware.md",
+                    "file": "Error Handling（Routing 後面）.md",
                     "mode": "source"
                   }
                 }
@@ -26,6 +27,7 @@
               {
                 "id": "6df76448ee01f8f7",
                 "type": "leaf",
+                "dimension": 34.061569016881826,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -61,7 +63,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "自製 Middleware.md",
+                    "file": "後端/Express.js/建置/Middleware(express).md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "自製 Middleware.md"
+                "file": "後端/Express.js/建置/Middleware(express).md"
               }
             }
           },
@@ -164,17 +166,17 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "3e2d1004d154c634",
+  "active": "6df76448ee01f8f7",
   "lastOpenFiles": [
-    "自製 Middleware.md",
     "後端/Express.js/建置/Middleware(express).md",
+    "Error Handling（Routing 後面）.md",
+    "Middleware 的位置.md",
+    "Middlewares, Error Handling, Cookies, Sessions.md",
+    "自製 Middleware.md",
+    "Routing 中間使用 Middleware.md",
     "未命名.md",
     "後端/EJS/建置/EJS with Express 的基本設定.md",
     "後端/Express with Database/Routing with CRUD/建置（連接數據庫的表單）.md",
-    "後端/Express.js/建置/Express Life Cycle 生命週期.md",
-    "後端/EJS/建置/EJS 建置.md",
-    "後端/Express.js/Express.js.md",
-    "Middlewares, Error Handling, Cookies, Sessions.md",
-    "Restful API/Restful API from Scratch.md"
+    "後端/Express.js/建置/Express Life Cycle 生命週期.md"
   ]
 }
