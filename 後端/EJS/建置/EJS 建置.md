@@ -5,9 +5,9 @@
 
 ## 建置
 - Import: express, app, ejs
+- [[EJS with Express 的基本設定]]
 - middleware
 	-  [[Express 的 CSS 樣式環境建置 (Serving a Static File)]]
-	- [[EJS with Express 的基本設定]]
 - [[樣板：views 資料夾]]
 - app.get
 	- [[編譯 EJS 樣板 res.render()]]

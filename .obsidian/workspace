@@ -16,8 +16,11 @@
                 "id": "3e2d1004d154c634",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "自製 Middleware.md",
+                    "mode": "source"
+                  }
                 }
               },
               {
@@ -26,7 +29,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "後端/Express.js/Express.js.md",
+                    "file": "後端/Express.js/建置/Middleware(express).md",
                     "mode": "source"
                   }
                 }
@@ -58,7 +61,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Middlewares, Error Handling, Cookies, Sessions.md",
+                    "file": "自製 Middleware.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -141,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Middlewares, Error Handling, Cookies, Sessions.md"
+                "file": "自製 Middleware.md"
               }
             }
           },
@@ -161,17 +164,17 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "337748330e55754f",
+  "active": "3e2d1004d154c634",
   "lastOpenFiles": [
-    "Middlewares, Error Handling, Cookies, Sessions.md",
-    "後端/Express.js/Express.js.md",
-    "Express Life Cycle 生命週期.md",
+    "自製 Middleware.md",
+    "後端/Express.js/建置/Middleware(express).md",
+    "未命名.md",
+    "後端/EJS/建置/EJS with Express 的基本設定.md",
+    "後端/Express with Database/Routing with CRUD/建置（連接數據庫的表單）.md",
     "後端/Express.js/建置/Express Life Cycle 生命週期.md",
-    "Restful API/Restful API.md",
-    "Restful API/Restful API from Scratch.md",
-    "後端/Express with Database/Routing with CRUD/Request handling（搭配數據庫CRUD）.md",
-    "後端/Express with Database/Routing with CRUD/透過 Postman 刪除數據庫資料.md",
-    "Restful API/API 提供刪除資料的管道.md",
-    "Restful API/API 提供更新資料的管道.md"
+    "後端/EJS/建置/EJS 建置.md",
+    "後端/Express.js/Express.js.md",
+    "Middlewares, Error Handling, Cookies, Sessions.md",
+    "Restful API/Restful API from Scratch.md"
   ]
 }

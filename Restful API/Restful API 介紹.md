@@ -9,15 +9,8 @@
 ---
 
 ## 原則內容
-### API 需用到 HTTP Method(HTTP Verb)
->[[HTTP request]]
-- GET
-- POST
-- PUT
-- PATCH
-- DELETE
-
-### 需要用 Restful Routing
-- 依照 HTTP Verbs 來控制 CRUD 功能
+- API 需用到 HTTP Method([[HTTP Verbs]])
+- 需要用 Restful Routing
+	- 依照 [[HTTP Verbs]] 來控制 CRUD 功能
 
 #api #frontend #js #restfulapi #api #crud #database #json 

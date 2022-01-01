@@ -7,7 +7,7 @@
 let express = require('express');
 let app = express();
 
-// middleware
+// EJS 設定
 app.set('view engine', 'ejs');
 
 // routing
