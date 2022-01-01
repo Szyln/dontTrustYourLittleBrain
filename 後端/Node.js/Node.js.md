@@ -35,7 +35,7 @@
 
 ## Server
 - [[Server 建立]]
-- [[Express 建置]]
+- [[後端/Express.js/建置/Express Life Cycle 生命週期]]
 
 ## npm
 - [[npm]]

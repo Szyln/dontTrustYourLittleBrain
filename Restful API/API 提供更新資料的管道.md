@@ -2,7 +2,7 @@
 >[[獲得請求後更新數據庫資料]]
 
 - [[API 提供更新資料的管道#PUT]]
-- [[API 提供更新資料的管道#PATCH]]
+- [[API 提供更新資料的管道#PATCH（還沒搞懂）]]
 
 
 ## PUT 
@@ -20,6 +20,7 @@ app.put('/students/:id', async (req, res) => {
 			{
 				new: true,
 				runValidators: true,
+				overwrite: true			// 只有 put 需要設定
 			}
 		);
 		res.send('感謝您，資料已更新')
@@ -33,7 +34,7 @@ app.put('/students/:id', async (req, res) => {
 
 >[[使用 Postman 發出表單請求]]，使用 PUT 請求即可
 
-## PATCH
+## PATCH（還沒搞懂）
 只有部分更新
 >[[Class（語法糖）]]
 
@@ -43,6 +44,7 @@ app.put('/students/:id', async (req, res) => {
 class newData {
 	constructor() {};
 	// 只用 prototype 的功能
+	// 不是 scholarship：newData
 	setProperty(key, value) {
 		if(key !== 'merit' && key !== 'other') {
 			this[key] = value;			// 使用時會指向物件實例
@@ -57,18 +59,20 @@ app.patch('/students/:id', async (req, res) => {
 	let { id } = req.parmas;
 	let newObject = new newData();
 	for (let property in req.body) {
-		newObject.setProperty(property, req.body[property] )
+		newObject.setProperty(property, req.body[property] );
 	}
+	console.log(newObject);
 	try {
 		res.send('感謝您，資料已更新');
 		let data = await Student.findOneAndUpdate(
 			{ id },
-			{ id, name, age, scholarship:{ merit, other } },
+			newObject,
 			{
 				new: true,
 				runValidators: true,
 			}
 		);
+		console.log(data);
 		res.send('感謝您，資料已更新')
 		
 	} catch {

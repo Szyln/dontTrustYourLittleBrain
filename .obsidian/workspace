@@ -8,30 +8,25 @@
         "type": "split",
         "children": [
           {
-            "id": "21308c53088f42e7",
+            "id": "d22f7be4e89cdee9",
             "type": "split",
             "dimension": 68.36441893830703,
             "children": [
               {
-                "id": "6d624f7d3dd32ae1",
+                "id": "3e2d1004d154c634",
                 "type": "leaf",
-                "dimension": 60.41666666666666,
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "API 提供更新資料的管道.md",
-                    "mode": "source"
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               },
               {
-                "id": "890a6747a8bc4d8b",
+                "id": "6df76448ee01f8f7",
                 "type": "leaf",
-                "dimension": 39.58333333333333,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "後端/Express with Database/Routing with CRUD/獲得請求後更新數據庫資料.md",
+                    "file": "後端/Express.js/Express.js.md",
                     "mode": "source"
                   }
                 }
@@ -40,37 +35,37 @@
             "direction": "vertical"
           },
           {
-            "id": "c6a66fa35eb4e6a1",
+            "id": "7320c6d71e0a4b44",
             "type": "split",
             "dimension": 31.63558106169297,
             "children": [
               {
                 "id": "337748330e55754f",
                 "type": "leaf",
-                "dimension": 72.37704918032787,
+                "dimension": 67.52730883813307,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Restful API.md",
+                    "file": "Middlewares, Error Handling, Cookies, Sessions.md",
                     "mode": "source"
                   }
                 }
               },
               {
-                "id": "b3100dbe017fe358",
+                "id": "a9136fe8c786c596",
                 "type": "leaf",
-                "dimension": 27.622950819672134,
+                "dimension": 32.472691161866926,
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "API 提供更新資料的管道.md",
+                    "file": "Middlewares, Error Handling, Cookies, Sessions.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
                     "showSearch": false,
                     "searchQuery": "",
                     "backlinkCollapsed": false,
-                    "unlinkedCollapsed": false
+                    "unlinkedCollapsed": true
                   }
                 }
               }
@@ -105,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "終端",
+                "query": "tag:#api",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "API 提供更新資料的管道.md"
+                "file": "Middlewares, Error Handling, Cookies, Sessions.md"
               }
             }
           },
@@ -166,17 +161,17 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "6d624f7d3dd32ae1",
+  "active": "337748330e55754f",
   "lastOpenFiles": [
-    "API 提供更新資料的管道.md",
-    "JavaScript/物件導向 OOP/繼承/Class（語法糖）.md",
-    "JavaScript/物件導向 OOP/Prototype.md",
-    "JavaScript/物件導向 OOP/繼承/Prototype Inheritance.md",
-    "網路/Wireshark.md",
-    "其他/硬體、生產力/terminal/常用指令.md",
-    "推特圖片跑不動.md",
-    "Restful API.md",
-    "api 傳送請求.png",
-    "使用 Postman 發出表單請求.md"
+    "Middlewares, Error Handling, Cookies, Sessions.md",
+    "後端/Express.js/Express.js.md",
+    "Express Life Cycle 生命週期.md",
+    "後端/Express.js/建置/Express Life Cycle 生命週期.md",
+    "Restful API/Restful API.md",
+    "Restful API/Restful API from Scratch.md",
+    "後端/Express with Database/Routing with CRUD/Request handling（搭配數據庫CRUD）.md",
+    "後端/Express with Database/Routing with CRUD/透過 Postman 刪除數據庫資料.md",
+    "Restful API/API 提供刪除資料的管道.md",
+    "Restful API/API 提供更新資料的管道.md"
   ]
 }
