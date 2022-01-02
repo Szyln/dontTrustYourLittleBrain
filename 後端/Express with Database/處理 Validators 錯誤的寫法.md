@@ -1,4 +1,7 @@
-# 處理 [[Validators]] 錯誤的寫法
+# [[Validators]] Error Handling
+Validators 的 error 要透過 crud 的 [[promise]] (`.catch`) 來完成，Handling 成功的話回傳給網頁一個 error object
+
+## save 的狀況
 ```js
 // define a Schema
 const monkeySchema = new mongoose.Schema({
@@ -20,11 +23,35 @@ app.get('/', async(req, res, next) => {
 			.then(() => {
 				res.send('成功儲存資料');
 			}).catch((errMessage) => {
-				// 網頁會顯示一個 error 物件，不會跳到 middleware
 				res.send(errMessage);
 			});
 	} catch(e) {
 		next(e);
+	}
+})
+```
+
+## findOneAndUpdate 的狀況
+要按照[文件](https://mongoosejs.com/docs/api.html#query_Query-findOneAndUpdate)的寫法
+```js
+app.get('/find', async(req, res, next) => {
+	try {
+		await Monkey.findOneAndUpdate(
+			{ name: 'Sam' },
+			{ name: 'S'},
+			{
+				new: true,
+				runValidator: true
+			},
+			// 第四個參數要填入
+			(error, doc) => {
+				if(error) {
+					res.send(error);
+				} else {
+					res.send(doc);
+				}
+			}
+		)
 	}
 })
 ```

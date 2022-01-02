@@ -15,11 +15,11 @@
               {
                 "id": "3e2d1004d154c634",
                 "type": "leaf",
-                "dimension": 63.35078534031413,
+                "dimension": 39.44954128440367,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "處理 Validators 錯誤的寫法.md",
+                    "file": "Cookie.md",
                     "mode": "source"
                   }
                 }
@@ -27,7 +27,7 @@
               {
                 "id": "6df76448ee01f8f7",
                 "type": "leaf",
-                "dimension": 36.64921465968586,
+                "dimension": 60.550458715596335,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -63,7 +63,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "處理 Validators 錯誤的寫法.md",
+                    "file": "Cookie.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#expressJs",
+                "query": "\"local storage\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,13 +114,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 243,
-    "collapsed": true
+    "width": 243
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -147,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "處理 Validators 錯誤的寫法.md"
+                "file": "Cookie.md"
               }
             }
           },
@@ -169,15 +167,15 @@
   },
   "active": "3e2d1004d154c634",
   "lastOpenFiles": [
-    "處理 Validators 錯誤的寫法.md",
-    "後端/Database/noSQL/Mongoose/Schema Type/Validators.md",
-    "後端/Express.js/Middleware/Error Handling（Routing 後面）.md",
-    "Middlewares, Error Handling, Cookies, Sessions.md",
-    "後端/Express.js/Middleware/Error Handling/非同步的寫法.md",
-    "後端/Express.js/Middleware/Error Handling/同步的寫法.md",
-    "後端/Express.js/Express.js.md",
+    "Cookie.md",
     "後端/Express.js/建置/Middleware(express).md",
-    "後端/Express.js/Middleware/Middleware 的位置.md",
-    "後端/Express.js/Middleware/自製 Middleware.md"
+    "JavaScript/資料類型/Object, Array/Window Object.md",
+    "JavaScript/資料類型/Object, Array/Window Object/Local Storage.md",
+    "JavaScript/資料類型/Object, Array/Window Object/Session Storage.md",
+    "Middlewares, Error Handling, Cookies, Sessions.md",
+    "後端/Express.js/Middleware/Error Handling（Routing 後面）.md",
+    "後端/Express with Database/處理 Validators 錯誤的寫法.md",
+    "後端/Database/noSQL/Mongoose/Schema Type/Validators.md",
+    "後端/Express.js/Middleware/Error Handling/非同步的寫法.md"
   ]
 }
