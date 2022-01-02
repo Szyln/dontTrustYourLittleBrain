@@ -6,4 +6,11 @@
 
 ---
 
+# res.cookie
+```js
+app.get('/', (req, res) => {
+	res.cookie('name', 'Wilson');
+})
+```
 
+# req.cookie
