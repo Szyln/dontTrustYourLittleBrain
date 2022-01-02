@@ -19,7 +19,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Cookie.md",
+                    "file": "其他/聲學/錄音/麥克風.md",
                     "mode": "source"
                   }
                 }
@@ -63,7 +63,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Cookie.md",
+                    "file": "其他/聲學/錄音/麥克風.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"local storage\"",
+                "query": "麥克",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,12 +114,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 243,
-    "collapsed": true
+    "width": 243
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cookie.md"
+                "file": "其他/聲學/錄音/麥克風.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "3e2d1004d154c634",
   "lastOpenFiles": [
+    "其他/聲學/錄音/麥克風.md",
     "Cookie.md",
     "後端/Express.js/建置/Middleware(express).md",
     "JavaScript/資料類型/Object, Array/Window Object.md",
@@ -176,7 +177,6 @@
     "Middlewares, Error Handling, Cookies, Sessions.md",
     "後端/Express.js/Middleware/Error Handling（Routing 後面）.md",
     "後端/Express with Database/處理 Validators 錯誤的寫法.md",
-    "後端/Database/noSQL/Mongoose/Schema Type/Validators.md",
-    "後端/Express.js/Middleware/Error Handling/非同步的寫法.md"
+    "後端/Database/noSQL/Mongoose/Schema Type/Validators.md"
   ]
 }
