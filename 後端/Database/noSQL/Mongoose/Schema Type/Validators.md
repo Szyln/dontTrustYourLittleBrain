@@ -9,7 +9,7 @@
 - [[Number 用 Validators]]
 - [[通用的 Validators]]
 
-## [[CRUD]] 的 [[Validators]]
+## [[Database 數據庫#C R U D]] 的 [[Validators]]
 
 [[Update with Validators]]
 
