@@ -29,7 +29,7 @@
 
 - jitsi 就算沒有自己架站的知識背景，也可以用現成
 
-https://jitsi.pdis.dev/復健八千#config.audioQuality.stereo=true&config.audioQuality.opusMaxAverageBitrate=128000&config.startAudioOnly=true&config.prejoinPageEnabled=true
+https://jitsi.pdis.dev/新年快樂八千#config.audioQuality.stereo=true&config.audioQuality.opusMaxAverageBitrate=128000&config.startAudioOnly=true&config.prejoinPageEnabled=true
 
 config.audioQuality.stereo=true
 - `disableAP`：以下三項全關
