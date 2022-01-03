@@ -5,6 +5,7 @@
 app.get('/', (req, res) => {
 	console.log(req.cookies);
 	let { name } = req.cookies;
+	res.send(`${name}, Welcome to the homepage.`)
 })
 ```
 

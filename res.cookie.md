@@ -1,5 +1,5 @@
 # res.cookie
-傳送 cookie 給瀏覽器端
+傳送 cookie 給瀏覽器端儲存
 ```js
 app.get('/', (req, res) => {
 	res.cookie('name', 'Wilson');
