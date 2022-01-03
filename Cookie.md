@@ -6,18 +6,6 @@
 
 ---
 
-# res.cookie
-傳送 cookie 給瀏覽器端
-```js
-app.get('/', (req, res) => {
-	res.cookie('name', 'Wilson');
-})
-```
-也可在 [[Postman]] 看到這些資料
-# req.cookie
-使用 cookie，需要安裝 middlewarea 模組[[cookie-parser]]
-```js
-app.get('/', (req, res) => {
-	console.log(req.cookies);
-})
-```
+[[res.cookie]]
+[[req.cookies]]
+#js #backEnd #server #storage #expressJs

@@ -1,15 +1,18 @@
+# cookie-parser
 [npm](https://www.npmjs.com/package/cookie-parser)
+可以使用 [[req.cookies]] 的 [[middleware]] 模組
 
 ---
 
+## npm install
 ```
 $ npm install cookie-parser
 ```
-
+## import
 ```js
 const cookieParser = require('cookie-parser')
 ```
-
+## 用法
 ```js
 const express = require('express')
 const cookieParser = require('cookie-parser')
@@ -30,3 +33,6 @@ app.listen(8080)
 // curl command that sends an HTTP request with two cookies
 // curl http://127.0.0.1:8080 --cookie "Cho=Kim;Greet=Hello"
 ```
+
+
+#js #backEnd #server #storage #expressJs #npm #module #expressJs #storage 
