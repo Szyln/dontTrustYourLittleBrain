@@ -51,7 +51,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Cookies and Sessions 的差別.md",
+                    "file": "Middlewares, Error Handling, Cookies, Sessions.md",
                     "mode": "source"
                   }
                 }
@@ -63,7 +63,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Session.md",
+                    "file": "Middlewares, Error Handling, Cookies, Sessions.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session.md"
+                "file": "Middlewares, Error Handling, Cookies, Sessions.md"
               }
             }
           },
@@ -167,13 +167,13 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "3e2d1004d154c634",
+  "active": "337748330e55754f",
   "lastOpenFiles": [
-    "Session.md",
-    "Cookie.md",
-    "Cookies and Sessions 的差別.md",
-    "express-session.md",
     "Middlewares, Error Handling, Cookies, Sessions.md",
+    "Cookies and Sessions 的差別.md",
+    "Session.md",
+    "express-session.md",
+    "Cookie.md",
     "req.cookies.md",
     "res.cookie.md",
     "Signing a Cookie.md",
