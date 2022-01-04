@@ -2,6 +2,7 @@
 > ejs 檔案要放在[[樣板：views 資料夾]]裡
 ```js
 // 單純編譯
+// .ejs 可以省略
 res.render('page.ejs')
 // 搭配變數
 res.render('page.ejs'), { name }}

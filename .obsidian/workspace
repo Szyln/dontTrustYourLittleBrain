@@ -19,7 +19,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "製作登入介面.md",
+                    "file": "後端/EJS/建置/編譯 EJS 樣板 res.render().md",
                     "mode": "source"
                   }
                 }
@@ -63,7 +63,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "製作登入介面.md",
+                    "file": "後端/EJS/建置/編譯 EJS 樣板 res.render().md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "製作登入介面.md"
+                "file": "後端/EJS/建置/編譯 EJS 樣板 res.render().md"
               }
             }
           },
@@ -168,15 +168,15 @@
   },
   "active": "3e2d1004d154c634",
   "lastOpenFiles": [
+    "後端/EJS/建置/編譯 EJS 樣板 res.render().md",
+    "後端/Express.js/Middleware/Error Handling/同步的寫法.md",
+    "後端/Express.js/Middleware/Error Handling（Routing 後面）.md",
     "製作登入介面.md",
+    "後端/Express.js/Routing/Routing for all 回應亂打的網址.md",
+    "後端/Express.js/Routing/404 Not Found.md",
+    "後端/Express.js/Middleware/Error Handling/非同步的寫法.md",
     "Authentication.md",
     "後端/Express.js/建置/Middleware(express).md",
-    "Cookie and Session/Session/express-session.md",
-    "Middlewares, Error Handling, Cookies, Sessions.md",
-    "後端/Express.js/Middleware/自製 Middleware.md",
-    "後端/Express.js/Middleware/Routing 中間使用 Middleware.md",
-    "後端/Express.js/Middleware/Middleware 的位置.md",
-    "後端/Express.js/Express.js.md",
-    "Cookie and Session/Session/Flash.md"
+    "Cookie and Session/Session/express-session.md"
   ]
 }
