@@ -12,13 +12,13 @@ const session = require('express-session');
 ```
 
 ## [[Middleware(express)]]
-- [[secret 的變數設定]]
+[[secret 的變數設定]]
 ```js
 app.use(session({
-	// 這段字串建議要放入一個全域變數裡面 
-	secret: 'Should be an env variable but not for now';
+	// 參照 secret 的變數設定，不建議直接放字串
+	secret: process.env.SECRET,
 	resave: false,							// 變更後要不要儲存進去（少用到）
-	saveUninitaialized: false		// 沒有變更的話需不需要儲存（少用到
+	saveUninitialized: false		// 沒有變更的話需不需要儲存（少用到
 	
 }))
 ```

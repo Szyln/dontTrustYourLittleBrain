@@ -7,6 +7,15 @@
 app.get('/', (req, res) => {
 	console.log(process.platform);
 	console.log(process.version);
-	console.log(process.env);
+	console.log(process.env);				// 另外需要 dotenv 做使用
 })
 ```
+
+> [[取得 env 變數(dotenv)]]
+
+
+
+
+
+
+#js #nodeJs #backEnd #session #expressJs

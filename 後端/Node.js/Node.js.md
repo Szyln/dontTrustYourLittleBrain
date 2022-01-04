@@ -53,7 +53,11 @@
 ### [[Cookies and Sessions]]
 - [[cookie-parser]]
 - [[express-session]]
+- [[dotenv]]
 
+
+## [[Session]]
+- [[process(node)]]：node 的一個全域物件
 
 
 #js #advanceJs #library #framework #nodeJs #backEnd
