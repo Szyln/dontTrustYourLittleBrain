@@ -19,7 +19,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "express-session.md",
+                    "file": "connect-flash.md",
                     "mode": "source"
                   }
                 }
@@ -31,8 +31,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "後端/Node.js/Node.js.md",
-                    "mode": "source"
+                    "file": "後端/Express.js/Middleware/自製 Middleware.md",
+                    "mode": "preview"
                   }
                 }
               }
@@ -47,11 +47,11 @@
               {
                 "id": "337748330e55754f",
                 "type": "leaf",
-                "dimension": 67.52730883813307,
+                "dimension": 50.97451274362819,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Middlewares, Error Handling, Cookies, Sessions.md",
+                    "file": "Session.md",
                     "mode": "source"
                   }
                 }
@@ -59,11 +59,11 @@
               {
                 "id": "a9136fe8c786c596",
                 "type": "leaf",
-                "dimension": 32.472691161866926,
+                "dimension": 49.02548725637181,
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Middlewares, Error Handling, Cookies, Sessions.md",
+                    "file": "connect-flash.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Middlewares, Error Handling, Cookies, Sessions.md"
+                "file": "connect-flash.md"
               }
             }
           },
@@ -167,17 +167,17 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "337748330e55754f",
+  "active": "3e2d1004d154c634",
   "lastOpenFiles": [
-    "Middlewares, Error Handling, Cookies, Sessions.md",
-    "express-session.md",
-    "Session.md",
-    "Cookies and Sessions.md",
-    "secret 的變數設定.md",
-    "Signing a Cookie.md",
-    "dotenv.md",
+    "connect-flash.md",
+    "後端/Express.js/Middleware/自製 Middleware.md",
+    "後端/Express.js/建置/Middleware(express).md",
+    "後端/Express.js/Express.js.md",
     "後端/Node.js/Node.js.md",
-    "Git/Git.md",
-    "Git/基礎/Repository/本機 Repository.md"
+    "Session.md",
+    "Middlewares, Error Handling, Cookies, Sessions.md",
+    "Flash.md",
+    "node 的 gitignore 設定.md",
+    "express-session.md"
   ]
 }
