@@ -1,5 +1,5 @@
 # Session
-- [[Cookies and Sessions 的差別]]在 [[Cookie]] 無法加密且容量較小
+- [[Cookies and Sessions]]在 [[Cookie]] 無法加密且容量較小
 - 會傳送到客戶端的只有一個 ID（connect.sid）
 - 需使用 [[express-session]] 模組
 - 用途例子：辨識是否登入
@@ -29,6 +29,7 @@ app.get('/secret', (req, res) => {
 ```
 #js #backEnd #server #storage #expressJs #session
 ## 進階
+connect.sid
 
 
 #js #backEnd #server #storage #expressJs #session
