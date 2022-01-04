@@ -19,7 +19,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Cookie.md",
+                    "file": "Signing a Cookie.md",
                     "mode": "source"
                   }
                 }
@@ -63,7 +63,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Cookie.md",
+                    "file": "Signing a Cookie.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cookie.md"
+                "file": "Signing a Cookie.md"
               }
             }
           },
@@ -169,15 +169,15 @@
   },
   "active": "3e2d1004d154c634",
   "lastOpenFiles": [
+    "Signing a Cookie.md",
+    "cookie-parser.md",
     "Cookie.md",
     "req.cookies.md",
     "res.cookie.md",
-    "cookie-parser.md",
     "其他/聲學/錄音/麥克風.md",
     "其他/聲學/錄音/jitsi.md",
     "後端/Express.js/建置/Middleware(express).md",
     "JavaScript/資料類型/Object, Array/Window Object.md",
-    "JavaScript/資料類型/Object, Array/Window Object/Local Storage.md",
-    "JavaScript/資料類型/Object, Array/Window Object/Session Storage.md"
+    "JavaScript/資料類型/Object, Array/Window Object/Local Storage.md"
   ]
 }
