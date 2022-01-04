@@ -10,16 +10,16 @@
           {
             "id": "d22f7be4e89cdee9",
             "type": "split",
-            "dimension": 68.36441893830703,
+            "dimension": 76.47577092511013,
             "children": [
               {
                 "id": "3e2d1004d154c634",
                 "type": "leaf",
-                "dimension": 61.53081510934394,
+                "dimension": 62.16484607745779,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Flash.md",
+                    "file": "製作登入介面.md",
                     "mode": "source"
                   }
                 }
@@ -27,12 +27,12 @@
               {
                 "id": "6df76448ee01f8f7",
                 "type": "leaf",
-                "dimension": 38.46918489065607,
+                "dimension": 37.835153922542204,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "後端/Express.js/建置/Middleware(express).md",
-                    "mode": "preview"
+                    "file": "Authentication.md",
+                    "mode": "source"
                   }
                 }
               }
@@ -42,16 +42,16 @@
           {
             "id": "7320c6d71e0a4b44",
             "type": "split",
-            "dimension": 31.63558106169297,
+            "dimension": 23.524229074889867,
             "children": [
               {
                 "id": "337748330e55754f",
                 "type": "leaf",
-                "dimension": 50.97451274362819,
+                "dimension": 65.53079947575361,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Session.md",
+                    "file": "Cookie and Session/Session/express-session.md",
                     "mode": "source"
                   }
                 }
@@ -59,12 +59,12 @@
               {
                 "id": "a9136fe8c786c596",
                 "type": "leaf",
-                "dimension": 49.02548725637181,
+                "dimension": 34.469200524246396,
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Session.md",
-                    "collapseAll": false,
+                    "file": "製作登入介面.md",
+                    "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
                     "showSearch": false,
@@ -114,8 +114,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session.md"
+                "file": "製作登入介面.md"
               }
             }
           },
@@ -167,17 +166,17 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "337748330e55754f",
+  "active": "3e2d1004d154c634",
   "lastOpenFiles": [
-    "Session.md",
-    "Middlewares, Error Handling, Cookies, Sessions.md",
-    "Flash.md",
+    "製作登入介面.md",
+    "Authentication.md",
     "後端/Express.js/建置/Middleware(express).md",
-    "connect-flash.md",
+    "Cookie and Session/Session/express-session.md",
+    "Middlewares, Error Handling, Cookies, Sessions.md",
     "後端/Express.js/Middleware/自製 Middleware.md",
+    "後端/Express.js/Middleware/Routing 中間使用 Middleware.md",
+    "後端/Express.js/Middleware/Middleware 的位置.md",
     "後端/Express.js/Express.js.md",
-    "後端/Node.js/Node.js.md",
-    "node 的 gitignore 設定.md",
-    "express-session.md"
+    "Cookie and Session/Session/Flash.md"
   ]
 }

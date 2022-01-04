@@ -5,13 +5,13 @@
 - 每個 Middleware (`app.use(function)`)都可以讀取 req, res 以及下一個 middleware function
 
 ---
-
+## 套用 Middleware
 - 需要CSS：[[Express 的 CSS 樣式環境建置 (Serving a Static File)]]
-- 需要 POST 表單：[[POST 表單(express)]]用：[[body-parser]]
+- 需要 POST 表單：[[POST 表單(express)]] 用：[[body-parser]]
 
 ## 撰寫 Middleware
 - [[Middleware 的位置]]
-- [[自製 Middleware]]
-- [[Error Handling（Routing 後面）]]
+	- [[自製 Middleware]]
+	- [[Error Handling（Routing 後面）]]
 
 #js #advanceJs #library #framework #nodeJs #backEnd #module #expressJs #npm #server 

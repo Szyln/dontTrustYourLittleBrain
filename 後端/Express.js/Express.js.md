@@ -7,7 +7,7 @@
 ## [[Express Life Cycle 生命週期]]
 
 - import：[[Express 匯入]]
-- [[Middleware(express)]]
+- [[Middleware(express)]]（包含進階內容）
 - [[Request Handling(Express)]]([[Routing]])
 - port listening
 
@@ -23,7 +23,7 @@
 - 搭配 [[Mongoose]]
 
 ## 其他
-[[res.redirect()]]：導到其他頁面
+- [[res.redirect()]]：導到其他頁面
 
 
 #js #advanceJs #library #framework #nodeJs #backEnd #module #expressJs #npm #server 
