@@ -19,7 +19,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Signing a Cookie.md",
+                    "file": "Session.md",
                     "mode": "source"
                   }
                 }
@@ -51,7 +51,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Middlewares, Error Handling, Cookies, Sessions.md",
+                    "file": "Cookies and Sessions 的差別.md",
                     "mode": "source"
                   }
                 }
@@ -63,7 +63,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Signing a Cookie.md",
+                    "file": "Cookies and Sessions 的差別.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "麥克",
+                "query": "tag:#expressJs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Signing a Cookie.md"
+                "file": "Cookies and Sessions 的差別.md"
               }
             }
           },
@@ -167,17 +167,17 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "3e2d1004d154c634",
+  "active": "337748330e55754f",
   "lastOpenFiles": [
-    "Signing a Cookie.md",
-    "cookie-parser.md",
+    "Cookies and Sessions 的差別.md",
+    "Session.md",
+    "Middlewares, Error Handling, Cookies, Sessions.md",
     "Cookie.md",
     "req.cookies.md",
     "res.cookie.md",
+    "Signing a Cookie.md",
+    "cookie-parser.md",
     "其他/聲學/錄音/麥克風.md",
-    "其他/聲學/錄音/jitsi.md",
-    "後端/Express.js/建置/Middleware(express).md",
-    "JavaScript/資料類型/Object, Array/Window Object.md",
-    "JavaScript/資料類型/Object, Array/Window Object/Local Storage.md"
+    "其他/聲學/錄音/jitsi.md"
   ]
 }
