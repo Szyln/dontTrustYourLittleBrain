@@ -59,5 +59,7 @@
 ## [[Session]]
 - [[process(node)]]：node 的一個全域物件
 
+## gitignore
+[[node 的 gitignore 設定]]
 
 #js #advanceJs #library #framework #nodeJs #backEnd

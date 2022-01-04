@@ -12,7 +12,7 @@ const session = require('express-session');
 ```
 
 ## [[Middleware(express)]]
-[[secret 的變數設定]]
+> [[secret 的變數設定]]
 ```js
 app.use(session({
 	// 參照 secret 的變數設定，不建議直接放字串

@@ -15,11 +15,11 @@
               {
                 "id": "3e2d1004d154c634",
                 "type": "leaf",
-                "dimension": 59.78152929493545,
+                "dimension": 61.53081510934394,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "secret 的變數設定.md",
+                    "file": "express-session.md",
                     "mode": "source"
                   }
                 }
@@ -27,7 +27,7 @@
               {
                 "id": "6df76448ee01f8f7",
                 "type": "leaf",
-                "dimension": 40.21847070506455,
+                "dimension": 38.46918489065607,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -63,7 +63,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "secret 的變數設定.md",
+                    "file": "Middlewares, Error Handling, Cookies, Sessions.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "secret 的變數設定.md"
+                "file": "Middlewares, Error Handling, Cookies, Sessions.md"
               }
             }
           },
@@ -167,17 +167,17 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "3e2d1004d154c634",
+  "active": "337748330e55754f",
   "lastOpenFiles": [
-    "secret 的變數設定.md",
-    "express-session.md",
-    "dotenv.md",
-    "取得 env 變數(dotenv).md",
-    "process(node).md",
-    "Session.md",
     "Middlewares, Error Handling, Cookies, Sessions.md",
-    "後端/Node.js/Node.js.md",
+    "express-session.md",
+    "Session.md",
     "Cookies and Sessions.md",
-    "後端/Database/noSQL/Mongoose/建置/Mongoose 建置.md"
+    "secret 的變數設定.md",
+    "Signing a Cookie.md",
+    "dotenv.md",
+    "後端/Node.js/Node.js.md",
+    "Git/Git.md",
+    "Git/基礎/Repository/本機 Repository.md"
   ]
 }

@@ -8,5 +8,6 @@
 - [[git status]]：查看 [[git add(track)]] 狀態
 - [[git log]]：查看 [[git commit]] 記錄
 - [[gitignore]]：建立不會被 [[git add(track)]] 的檔案列表
+	- [[node 的 gitignore 設定]]（後端）
 
 #git

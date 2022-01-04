@@ -1,11 +1,13 @@
 # Session
-- [[Cookies and Sessions]]在 [[Cookie]] 無法加密且容量較小
+> 需使用 [[express-session]] 模組
+- [[Cookies and Sessions]] 在 [[Cookie]] 無法加密且容量較小
 - 會傳送到客戶端的只有一個 ID（connect.sid）
-- 需使用 [[express-session]] 模組
 - 用途例子：辨識是否登入
 - 通常會搭配 [[Database 數據庫]]，不會只有在記憶體記錄
 
-# req.session
+---
+
+## req.session
 ```js
 app.get('/', (req, res) => {
 	console.log(req.session);			// 目前只有存在伺服器記憶體，伺服器關掉就會清空
@@ -27,7 +29,6 @@ app.get('/secret', (req, res) => {
 })
 
 ```
-#js #backEnd #server #storage #expressJs #session
 ## 進階
 connect.sid
 

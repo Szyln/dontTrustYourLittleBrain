@@ -1,5 +1,7 @@
 # dotenv
 [npm](https://www.npmjs.com/package/dotenv)
+使用[[Cookies and Sessions]] 的時候，應該將 [[cookie-parser]] 跟 [[express-session]] 的內容加密並且隱藏
+
 在使用 [[process(node)]] 的時候可以使用自訂的 env 變數
 
 ```
@@ -21,6 +23,7 @@ DB_HOST=localhost
 DB_USER=root
 DB_PASS=s1mpl3
 ```
+> 這個檔案會透過 [[node 的 gitignore 設定]]隱藏
 ## 使用
 ```js
 process.env.資料夾內設定的變數名
@@ -36,4 +39,7 @@ db.connect({
 })
 ```
 
-#nodeJs #js #expressJs #session #npm #module
+
+
+
+#nodeJs #js #expressJs #session #npm #module #git
