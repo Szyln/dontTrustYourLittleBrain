@@ -1,4 +1,4 @@
-# Cookes and Sessions
+# [[Cookie]] and [[Session]]
 | 比較       | Cookies       | Sessions                     | Storage |
 | ---------- | ------------- | ---------------------------- | ------- |
 | 容量       | ~4KB          |                              | 5MB     |

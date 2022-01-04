@@ -63,7 +63,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Cookies and Sessions 的差別.md",
+                    "file": "Session.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cookies and Sessions 的差別.md"
+                "file": "Session.md"
               }
             }
           },
@@ -167,17 +167,17 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "337748330e55754f",
+  "active": "3e2d1004d154c634",
   "lastOpenFiles": [
-    "Cookies and Sessions 的差別.md",
     "Session.md",
-    "Middlewares, Error Handling, Cookies, Sessions.md",
     "Cookie.md",
+    "Cookies and Sessions 的差別.md",
+    "express-session.md",
+    "Middlewares, Error Handling, Cookies, Sessions.md",
     "req.cookies.md",
     "res.cookie.md",
     "Signing a Cookie.md",
     "cookie-parser.md",
-    "其他/聲學/錄音/麥克風.md",
-    "其他/聲學/錄音/jitsi.md"
+    "其他/聲學/錄音/麥克風.md"
   ]
 }
