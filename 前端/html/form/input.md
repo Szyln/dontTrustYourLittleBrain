@@ -1,4 +1,5 @@
 #  input tag
+> [[label]] 的 for 屬性內容對應 [[input]] 的 id 屬性內容，互成一組
 - 選單用這個：[[select & datalist 選單]] 
 ```html
 <label for="對應 input 的 id"></label>

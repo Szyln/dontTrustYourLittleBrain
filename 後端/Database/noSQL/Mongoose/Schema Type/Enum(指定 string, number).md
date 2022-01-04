@@ -4,7 +4,7 @@
 
 可以規範輸入的資料只能是特定字串
 
-很像 [[form]] 的 [[select & datalist 選單]]
+很像 [[Form]] 的 [[select & datalist 選單]]
 ```js
 // define a schema
 const studentSchema = new mongoose.Schema({

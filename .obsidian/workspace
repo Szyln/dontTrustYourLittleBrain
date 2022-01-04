@@ -19,7 +19,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "後端/EJS/建置/編譯 EJS 樣板 res.render().md",
+                    "file": "Cookie and Session/安全性/dotenv.md",
                     "mode": "source"
                   }
                 }
@@ -63,7 +63,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "後端/EJS/建置/編譯 EJS 樣板 res.render().md",
+                    "file": "Cookie and Session/安全性/dotenv.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243,
-    "collapsed": true
+    "width": 243
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "後端/EJS/建置/編譯 EJS 樣板 res.render().md"
+                "file": "Cookie and Session/安全性/dotenv.md"
               }
             }
           },
@@ -168,15 +167,15 @@
   },
   "active": "3e2d1004d154c634",
   "lastOpenFiles": [
-    "後端/EJS/建置/編譯 EJS 樣板 res.render().md",
-    "後端/Express.js/Middleware/Error Handling/同步的寫法.md",
-    "後端/Express.js/Middleware/Error Handling（Routing 後面）.md",
+    "Cookie and Session/安全性/dotenv.md",
     "製作登入介面.md",
-    "後端/Express.js/Routing/Routing for all 回應亂打的網址.md",
-    "後端/Express.js/Routing/404 Not Found.md",
-    "後端/Express.js/Middleware/Error Handling/非同步的寫法.md",
     "Authentication.md",
-    "後端/Express.js/建置/Middleware(express).md",
-    "Cookie and Session/Session/express-session.md"
+    "前端/html/form/Form.md",
+    "前端/html/form/form 標籤.md",
+    "前端/html/form/label.md",
+    "前端/html/form/select & datalist 選單.md",
+    "前端/html/form/textarea.md",
+    "前端/html/base/button.md",
+    "前端/html/form/input.md"
   ]
 }

@@ -1,5 +1,5 @@
 # EJS 回應表單([[Routing for Query 回應表單]])
-## [[form]]
+## [[Form]]
 有一個表單，透過後端來取得這些資料後，使用 EJS 生成顯示這些資料的頁面
 ```html
 // index 上的表單

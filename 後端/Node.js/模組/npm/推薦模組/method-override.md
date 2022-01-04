@@ -1,7 +1,7 @@
 # method-override
 >[method-override](https://www.npmjs.com/package/method-override)
 ---
-因為 html [[form]] 不支援 [[HTTP request]] GET, POST 之外的請求，需要額外裝模組輔助
+因為 html [[Form]] 不支援 [[HTTP request]] GET, POST 之外的請求，需要額外裝模組輔助
 
 ```js
 const methodOverride = require('method-override');

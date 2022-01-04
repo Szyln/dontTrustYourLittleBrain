@@ -16,6 +16,6 @@ URL: https://v2.jokeapi.dev/joke/Programming
 URL: https://v2.jokeapi.dev/joke/Programming?blacklistFlags=political
 ```
 - ?後面的內容就是 query
-- 很像 [[form]] 的 `GET` 請求，選取之後網址就會有所變動
+- 很像 [[Form]] 的 `GET` 請求，選取之後網址就會有所變動
 
 #js #async #api

@@ -1,8 +1,11 @@
 # label tag
+> [[label]] 的 for 屬性內容對應 [[input]] 的 id 屬性內容，互成一組
 - input 的標籤（不強制使用）
 - 點擊 `label` 就會反白 `input`
-- 不要把 placeholder 當 label 用
-## 一組 label & input 的架構
+- 不要把 placeholder 當 label 
+若有 p tag 不要包在裡面
+
+## 架構
 ```html
 <!-- 用 div 包 -->
 <div>
@@ -17,6 +20,5 @@
 </label>
 ```
 
-若有 p tag 不要包在裡面
 
 #form #html 

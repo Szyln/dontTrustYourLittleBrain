@@ -23,7 +23,7 @@ DB_HOST=localhost
 DB_USER=root
 DB_PASS=s1mpl3
 ```
-> 這個檔案會透過 [[node 的 gitignore 設定]]隱藏
+> 這個檔案要透過 [[node 的 gitignore 設定]]隱藏
 ## 使用
 ```js
 process.env.資料夾內設定的變數名
