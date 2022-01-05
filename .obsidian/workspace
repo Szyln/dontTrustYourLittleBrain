@@ -15,11 +15,11 @@
               {
                 "id": "3e2d1004d154c634",
                 "type": "leaf",
-                "dimension": 62.16484607745779,
+                "dimension": 74.95029821073558,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Cookie and Session/安全性/dotenv.md",
+                    "file": "健康360.md",
                     "mode": "source"
                   }
                 }
@@ -27,12 +27,12 @@
               {
                 "id": "6df76448ee01f8f7",
                 "type": "leaf",
-                "dimension": 37.835153922542204,
+                "dimension": 25.04970178926441,
                 "state": {
                   "type": "markdown",
                   "state": {
                     "file": "Authentication.md",
-                    "mode": "source"
+                    "mode": "preview"
                   }
                 }
               }
@@ -63,7 +63,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Cookie and Session/安全性/dotenv.md",
+                    "file": "健康360.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -118,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243
+    "width": 243,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cookie and Session/安全性/dotenv.md"
+                "file": "健康360.md"
               }
             }
           },
@@ -167,15 +168,15 @@
   },
   "active": "3e2d1004d154c634",
   "lastOpenFiles": [
-    "Cookie and Session/安全性/dotenv.md",
+    "健康360.md",
     "製作登入介面.md",
+    "後端/Express.js/Routing/POST 表單(express).md",
+    "後端/Node.js/模組/內建模組/body-parser.md",
     "Authentication.md",
+    "Cookie and Session/安全性/dotenv.md",
     "前端/html/form/Form.md",
     "前端/html/form/form 標籤.md",
     "前端/html/form/label.md",
-    "前端/html/form/select & datalist 選單.md",
-    "前端/html/form/textarea.md",
-    "前端/html/base/button.md",
-    "前端/html/form/input.md"
+    "前端/html/form/select & datalist 選單.md"
   ]
 }
