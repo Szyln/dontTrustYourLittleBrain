@@ -37,22 +37,25 @@ app.post('/formHandling', (req, res)) {
 }
 ```
 
->[[Module Wrapper#__dirname#使用方式]]：有兩種作法，單純使用[[string#string 的串接]]或是使用 path 模組 + [[join()]]
-
+>[[使用路徑的兩種寫法]]：有兩種作法
+>- 單純使用[[string#string 的串接]]
+>- 使用 path 模組 + [[join()]]
 
 ## 使用用戶填入的資訊
-想要細部使用表單內容需要先新增一個 [[body-parser]]模組（[[Middleware(express)]]）
+想要細部使用表單內容需要先新增一個 [[body-parser]] 模組（[[Middleware(express)]]）
 
 ```js
 // 這裡就可以使用 body 的內容了
 app.post('/formHandling', (req, res)) {
+	// 這裡的表單資訊對應的是 html input 標籤的 name 屬性
 	let { name, age } = req.body	// body 為表單資訊
 	res.send(已經送出，您的名字是 ${name} 年齡 ${age} 歲`);
 	
 }
 ```
 > - 很像物件的變數：[[從物件中提取屬性到變數中 Destructing an object]]
-> - 學到 [[Database 數據庫]]之後會有更複雜的應用（資料先傳到資料庫再傳回來）
+> - 學到 [[Database 數據庫]]之後會有更複雜的應用：[[Express and Mongoose]]（資料先傳到資料庫再傳回來）
+> 
 
 
 #js #expressJs #node #npm #form #server #routing

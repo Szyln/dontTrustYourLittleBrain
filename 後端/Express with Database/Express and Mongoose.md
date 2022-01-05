@@ -1,7 +1,7 @@
 # Express and Mongoose
 
 ## 前置知識
-- [[後端/Express.js/建置/Express Life Cycle 生命週期]]
+- [[Express Life Cycle 生命週期]]
 - [[EJS 建置]]
 - [[Mongoose 建置]]
 - [[Routing for Query 回應表單]]
