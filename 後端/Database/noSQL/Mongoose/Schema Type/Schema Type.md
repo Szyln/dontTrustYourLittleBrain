@@ -3,13 +3,14 @@
 - [[Create]] 的時候，需要定義資料類型
 - 搭配 [[Validators]] 可以做更複雜的定義規範
 ## 寫法
+> 記得類型要寫大寫
 ### 簡易寫法
 ```js
 // app.js
 const studentSchema = new mongoose.Schema({
-	name: string,
+	name: String,
 	age: Number,
-	major: string,
+	major: String,
 	scholarship: {
 		merit: Number,
 		other: Number

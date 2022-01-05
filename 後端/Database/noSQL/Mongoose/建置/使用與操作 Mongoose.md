@@ -1,6 +1,8 @@
 # 使用與操作 Mongoose
 > [[Mongoose 建置]]先處理完
 
+
+- [[用資料夾管理 Mongoose models 模組]]
 - [[建立架構 Define a Schema]]
 	- [[Validators]]
 

@@ -4,6 +4,7 @@
 ```
 log.txt
 justForTest.html
+資料夾/
 ```
 
 #git 
