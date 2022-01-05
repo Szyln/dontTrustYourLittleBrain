@@ -13,3 +13,5 @@ app.get('/', (req, res) => {
 // 網頁顯示會出錯
 // 終端：Cannat set headers after they are sent to the client（res.send 不能送兩次）
 ```
+
+>跟[[Error Handling（Routing 後面）]]： [[Error Handling 非同步的寫法]]長得有點像

@@ -63,7 +63,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "後端/Express.js/Middleware/指定特定 Route 才能使用的 Middleware.md",
+                    "file": "製作登入介面.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -119,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243
+    "width": 243,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "後端/Express.js/Middleware/指定特定 Route 才能使用的 Middleware.md"
+                "file": "製作登入介面.md"
               }
             }
           },
@@ -166,17 +167,17 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "337748330e55754f",
+  "active": "6df76448ee01f8f7",
   "lastOpenFiles": [
+    "製作登入介面.md",
     "後端/Express.js/Middleware/指定特定 Route 才能使用的 Middleware.md",
+    "後端/Express.js/Middleware/Error Handling（Routing 後面）.md",
+    "後端/Express.js/Middleware/Error Handling/Error Handling  同步的寫法.md",
+    "後端/Express.js/Middleware/Error Handling/Error Handling 非同步的寫法.md",
     "後端/Express.js/Middleware/自製 Middleware.md",
     "後端/Express.js/建置/Middleware(express).md",
     "Cookie and Session/Session/express-session.md",
-    "製作登入介面.md",
     "後端/Express.js/Middleware/Routing 中間使用 Middleware.md",
-    "後端/Express with Database/Routing with CRUD/表單資料存入數據庫.md",
-    "後端/Database/noSQL/Mongoose/method/Middleware(Mongoose).md",
-    "後端/Database/noSQL/Mongoose/method/Instance Method.md",
-    "Restful API/API 提供新增資料的管道.md"
+    "後端/Express with Database/Routing with CRUD/表單資料存入數據庫.md"
   ]
 }
