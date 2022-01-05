@@ -16,7 +16,7 @@
 - [[Promise and Query (Mongoose)]]
 
 ## 進階應用
-- [[建立 Mongoose models 模組]]
+- [[用資料夾管理 Mongoose models 模組]]
 
 
 #database #nosql #json #npm #node #odm

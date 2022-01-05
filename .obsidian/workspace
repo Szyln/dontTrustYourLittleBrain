@@ -105,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[npm]",
+                "query": "model 資料夾",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,14 +170,14 @@
   "active": "6df76448ee01f8f7",
   "lastOpenFiles": [
     "製作登入介面.md",
+    "後端/Express with Database/Routing with CRUD/建置（連接數據庫的表單）.md",
+    "後端/Database/noSQL/Mongoose/建置/用資料夾管理 Mongoose models 模組.md",
     "後端/Express.js/Routing/POST 表單(express).md",
     "後端/Express with Database/Express and Mongoose.md",
     "Authentication.md",
     "健康360.md",
     "後端/Node.js/模組/內建模組/body-parser.md",
     "Cookie and Session/安全性/dotenv.md",
-    "前端/html/form/Form.md",
-    "前端/html/form/form 標籤.md",
-    "前端/html/form/label.md"
+    "前端/html/form/Form.md"
   ]
 }
