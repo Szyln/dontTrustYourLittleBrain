@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8b1141e89903f55d",
+        "id": "0fb7346730b69305",
         "type": "split",
         "children": [
           {
-            "id": "0fb7346730b69305",
+            "id": "f0fe85b534c5868a",
             "type": "split",
-            "dimension": 53.298429319371735,
+            "dimension": 75.8745476477684,
             "children": [
               {
                 "id": "6df76448ee01f8f7",
                 "type": "leaf",
-                "dimension": 75.8745476477684,
+                "dimension": 71.51832460732984,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -25,9 +25,28 @@
                 }
               },
               {
+                "id": "97758c4703154123",
+                "type": "leaf",
+                "dimension": 28.48167539267016,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "後端/Express.js/Middleware/Error Handling/Error Handling 非同步的寫法.md",
+                    "mode": "source"
+                  }
+                }
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "b2ac5a21118e9bc7",
+            "type": "split",
+            "dimension": 24.125452352231605,
+            "children": [
+              {
                 "id": "d5533f891a47677f",
                 "type": "leaf",
-                "dimension": 24.125452352231605,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -35,36 +54,15 @@
                     "mode": "preview"
                   }
                 }
-              }
-            ],
-            "direction": "vertical"
-          },
-          {
-            "id": "7320c6d71e0a4b44",
-            "type": "split",
-            "dimension": 46.70157068062827,
-            "children": [
-              {
-                "id": "337748330e55754f",
-                "type": "leaf",
-                "dimension": 65.53079947575361,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "後端/Express.js/Middleware/指定特定 Route 才能使用的 Middleware.md",
-                    "mode": "preview"
-                  }
-                }
               },
               {
-                "id": "a9136fe8c786c596",
+                "id": "e43749bbc3598749",
                 "type": "leaf",
-                "dimension": 34.469200524246396,
                 "state": {
                   "type": "backlink",
                   "state": {
                     "file": "製作登入介面.md",
-                    "collapseAll": true,
+                    "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
                     "showSearch": false,
@@ -75,10 +73,10 @@
                 }
               }
             ],
-            "direction": "vertical"
+            "direction": "horizontal"
           }
         ],
-        "direction": "horizontal"
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -160,7 +158,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -170,14 +168,14 @@
   "active": "6df76448ee01f8f7",
   "lastOpenFiles": [
     "製作登入介面.md",
-    "後端/Express.js/Middleware/指定特定 Route 才能使用的 Middleware.md",
-    "後端/Express.js/Middleware/Error Handling（Routing 後面）.md",
-    "後端/Express.js/Middleware/Error Handling/Error Handling  同步的寫法.md",
+    "Authentication.md",
     "後端/Express.js/Middleware/Error Handling/Error Handling 非同步的寫法.md",
+    "後端/Express.js/Middleware/Error Handling（Routing 後面）.md",
+    "後端/Database/noSQL/Mongoose/建置/透過 Mongoose 存入 MongoDB(Save).md",
+    "後端/Express.js/Middleware/指定特定 Route 才能使用的 Middleware.md",
+    "後端/Express.js/Middleware/Error Handling/Error Handling  同步的寫法.md",
     "後端/Express.js/Middleware/自製 Middleware.md",
     "後端/Express.js/建置/Middleware(express).md",
-    "Cookie and Session/Session/express-session.md",
-    "後端/Express.js/Middleware/Routing 中間使用 Middleware.md",
-    "後端/Express with Database/Routing with CRUD/表單資料存入數據庫.md"
+    "Cookie and Session/Session/express-session.md"
   ]
 }

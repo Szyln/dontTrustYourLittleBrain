@@ -9,3 +9,5 @@ Jon.save()
 		console.log(e)
 	});
 ```
+
+>加入 Error Handling：[[Error Handling 非同步的寫法]]
