@@ -10,7 +10,7 @@
           {
             "id": "0fb7346730b69305",
             "type": "split",
-            "dimension": 79.07949790794979,
+            "dimension": 53.298429319371735,
             "children": [
               {
                 "id": "6df76448ee01f8f7",
@@ -42,7 +42,7 @@
           {
             "id": "7320c6d71e0a4b44",
             "type": "split",
-            "dimension": 20.920502092050206,
+            "dimension": 46.70157068062827,
             "children": [
               {
                 "id": "337748330e55754f",
@@ -51,8 +51,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Cookie and Session/Session/express-session.md",
-                    "mode": "source"
+                    "file": "後端/Express.js/Middleware/指定特定 Route 才能使用的 Middleware.md",
+                    "mode": "preview"
                   }
                 }
               },
@@ -63,7 +63,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "製作登入介面.md",
+                    "file": "後端/Express.js/Middleware/指定特定 Route 才能使用的 Middleware.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "model 資料夾",
+                "query": ".save(",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,12 +114,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 243,
-    "collapsed": true
+    "width": 243
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "製作登入介面.md"
+                "file": "後端/Express.js/Middleware/指定特定 Route 才能使用的 Middleware.md"
               }
             }
           },
@@ -166,17 +166,17 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "6df76448ee01f8f7",
+  "active": "337748330e55754f",
   "lastOpenFiles": [
+    "後端/Express.js/Middleware/指定特定 Route 才能使用的 Middleware.md",
+    "後端/Express.js/Middleware/自製 Middleware.md",
+    "後端/Express.js/建置/Middleware(express).md",
+    "Cookie and Session/Session/express-session.md",
     "製作登入介面.md",
-    "後端/Database/noSQL/Mongoose/建置/使用與操作 Mongoose.md",
-    "Git/基礎/Repository/gitignore.md",
-    "Git/基礎/Repository/push.md",
-    "後端/Database/noSQL/Mongoose/Schema Type/Validators.md",
-    "後端/Database/noSQL/Mongoose/Schema Type/Schema Type.md",
-    "後端/Database/noSQL/Mongoose/建置/用資料夾管理 Mongoose models 模組.md",
-    "後端/Express with Database/Routing with CRUD/建置（連接數據庫的表單）.md",
-    "後端/Express.js/Routing/POST 表單(express).md",
-    "後端/Express with Database/Express and Mongoose.md"
+    "後端/Express.js/Middleware/Routing 中間使用 Middleware.md",
+    "後端/Express with Database/Routing with CRUD/表單資料存入數據庫.md",
+    "後端/Database/noSQL/Mongoose/method/Middleware(Mongoose).md",
+    "後端/Database/noSQL/Mongoose/method/Instance Method.md",
+    "Restful API/API 提供新增資料的管道.md"
   ]
 }
