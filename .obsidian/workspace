@@ -8,14 +8,13 @@
         "type": "split",
         "children": [
           {
-            "id": "f0fe85b534c5868a",
+            "id": "6e5bc399fb72fcf4",
             "type": "split",
             "dimension": 75.8745476477684,
             "children": [
               {
                 "id": "6df76448ee01f8f7",
                 "type": "leaf",
-                "dimension": 71.51832460732984,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -25,14 +24,13 @@
                 }
               },
               {
-                "id": "97758c4703154123",
+                "id": "a9a3dcb25d0e8516",
                 "type": "leaf",
-                "dimension": 28.48167539267016,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "後端/Express.js/Middleware/Error Handling/Error Handling 非同步的寫法.md",
-                    "mode": "source"
+                    "file": "API/AJAX/Promise.md",
+                    "mode": "preview"
                   }
                 }
               }
@@ -61,7 +59,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "製作登入介面.md",
+                    "file": "API/AJAX/Promise.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -145,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "製作登入介面.md"
+                "file": "API/AJAX/Promise.md"
               }
             }
           },
@@ -165,17 +163,17 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "6df76448ee01f8f7",
+  "active": "a9a3dcb25d0e8516",
   "lastOpenFiles": [
+    "API/AJAX/Promise.md",
+    "API/Promise/async, await, try, catch.md",
+    "API/Async（目錄）.md",
+    "後端/Express.js/Middleware/Error Handling/Error Handling 非同步的寫法.md",
     "製作登入介面.md",
     "Authentication.md",
-    "後端/Express.js/Middleware/Error Handling/Error Handling 非同步的寫法.md",
     "後端/Express.js/Middleware/Error Handling（Routing 後面）.md",
     "後端/Database/noSQL/Mongoose/建置/透過 Mongoose 存入 MongoDB(Save).md",
     "後端/Express.js/Middleware/指定特定 Route 才能使用的 Middleware.md",
-    "後端/Express.js/Middleware/Error Handling/Error Handling  同步的寫法.md",
-    "後端/Express.js/Middleware/自製 Middleware.md",
-    "後端/Express.js/建置/Middleware(express).md",
-    "Cookie and Session/Session/express-session.md"
+    "後端/Express.js/Middleware/Error Handling/Error Handling  同步的寫法.md"
   ]
 }
