@@ -25,6 +25,8 @@ bcrypt.genSalt(saltRounds, function(err, salt) {
 ## 檢查密碼
 ```js
 // Load hash from your password DB.
+// myPlaintextPassword: 輸入原始密碼（登入畫面用戶輸入的）
+// hash: 存在在 db 裡的 cipher
 bcrypt.compare(myPlaintextPassword, hash, function(err, result) {
     // result == true
 });
