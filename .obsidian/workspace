@@ -19,7 +19,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "製作登入介面.md",
+                    "file": "Hack 101.md",
                     "mode": "source"
                   }
                 }
@@ -51,7 +51,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Authentication.md",
+                    "file": "Hack 101.md",
                     "mode": "source"
                   }
                 }
@@ -63,7 +63,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Authentication.md",
+                    "file": "Hack 101.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Authentication.md"
+                "file": "Hack 101.md"
               }
             }
           },
@@ -169,15 +169,15 @@
   },
   "active": "d5533f891a47677f",
   "lastOpenFiles": [
+    "Hack 101.md",
     "Authentication.md",
-    "Cryptography(密碼學).md",
+    "Hash Function.md",
     "製作登入介面.md",
+    "Cryptography(密碼學).md",
     "建置（登入、註冊）.md",
     "加密.md",
     "Cipher.md",
     "註冊頁面.md",
-    "後端/Database/noSQL/Mongoose/CRUD/Find(Read).md",
-    "後端/EJS/EJS with Mongoose/EJS 使用 Mongoose 取得數據庫資料作為變數.md",
-    "API/Promise/async, await, try, catch.md"
+    "後端/Database/noSQL/Mongoose/CRUD/Find(Read).md"
   ]
 }

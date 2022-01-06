@@ -3,3 +3,5 @@
 
 
 ## [[Cryptography(密碼學)]]
+- [[Hash Function]]
+- [[Hack 101]]
