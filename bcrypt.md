@@ -9,13 +9,27 @@ const saltRounds = 10;				// cost factor：執行 2 的幾次方次
 // const someOtherPlaintextPassword = 'not_bacon';
 ```
 
+## 加密密碼
 ```js
 bcrypt.genSalt(saltRounds, function(err, salt) {
+		// myPlaintextPassword 這裡應該輸入原始密碼
+		// 例如用戶註冊 post 過來的資訊
+		// hash 是已經加密好的 cipher，這個舊可以存到 DB 了
     bcrypt.hash(myPlaintextPassword, salt, function(err, hash) {
         // Store hash in your password DB.
     });
 });
 ```
-
 >[[註冊頁面]] 應該加密後再儲存
+
+## 檢查密碼
+```js
+// Load hash from your password DB.
+bcrypt.compare(myPlaintextPassword, hash, function(err, result) {
+    // result == true
+});
+bcrypt.compare(someOtherPlaintextPassword, hash, function(err, result) {
+    // result == false
+});
+```
 #cryptogrphy #node #npm #module 
