@@ -5,7 +5,7 @@
 - 原始密碼做些微的更動後，[[Cipher]] 會有很大的差異
 - 同樣的 input 會得到相同的結果：[[Salting]]
 
-## 問題：[[Hack 101]]
+## 問題：[[Dictionary Attack]]
 由於同一個密碼 Hash Function 的結果一樣，駭客會透過 [[Dictionary Attack]] 的方法破解
 
 ### 解決方式：[[Salting]]

@@ -9,10 +9,10 @@
 ---
 
 - [[Hash Function]]
+	- [[Salting]]
+	- [[bcrypt]]
+
 - [[Hack 101]]
-
-- [[bcrypt]]
-
 > 進階 479 的影片沒看
 
 
