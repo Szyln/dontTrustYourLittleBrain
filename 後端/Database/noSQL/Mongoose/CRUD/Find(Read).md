@@ -34,6 +34,6 @@ Student.findOne({ name: 'John' })
 
 >[[EJS 使用 Mongoose 取得數據庫資料作為變數]]
 
-> 不一定一定要串 then，如果沒有打算運用該物件做什麼事的話：[[製作登入介面]]
+> 不一定一定要串 then，如果沒有打算運用該物件做什麼事的話：[[製作登入、註冊介面]]
 
 #database #nosql #mongoose #mongodb #json #crud 

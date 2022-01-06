@@ -10,7 +10,7 @@
           {
             "id": "6e5bc399fb72fcf4",
             "type": "split",
-            "dimension": 57.51243781094527,
+            "dimension": 80.1390268123138,
             "children": [
               {
                 "id": "6df76448ee01f8f7",
@@ -19,7 +19,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "登入頁面.md",
+                    "file": "註冊頁面.md",
                     "mode": "source"
                   }
                 }
@@ -42,7 +42,7 @@
           {
             "id": "b2ac5a21118e9bc7",
             "type": "split",
-            "dimension": 42.48756218905473,
+            "dimension": 19.860973187686195,
             "children": [
               {
                 "id": "d5533f891a47677f",
@@ -63,7 +63,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "登入頁面.md",
+                    "file": "註冊頁面.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "登入頁面.md"
+                "file": "註冊頁面.md"
               }
             }
           },
@@ -168,11 +168,11 @@
   },
   "active": "6df76448ee01f8f7",
   "lastOpenFiles": [
+    "註冊頁面.md",
+    "製作登入、註冊介面.md",
     "登入頁面.md",
     "Authentication.md",
     "bcrypt.md",
-    "製作登入介面.md",
-    "註冊頁面.md",
     "Cryptography(密碼學).md",
     "Hash Function.md",
     "後端/Node.js/Node.js.md",
