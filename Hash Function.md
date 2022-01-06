@@ -8,6 +8,6 @@
 ## 問題：[[Hack 101]]
 由於同一個密碼 Hash Function 的結果一樣，駭客會透過 [[Dictionary Attack]] 的方法破解
 
-## 解決方式：[[Salting]]
+### 解決方式：[[Salting]]
 
 #cryptogrphy 

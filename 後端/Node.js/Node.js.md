@@ -51,9 +51,10 @@
 - [[method-override]]([[Express and Mongoose]])
 
 ### [[Cookies and Sessions]]
-- [[cookie-parser]]
-- [[express-session]]
-- [[dotenv]]
+- [[cookie-parser]]：cookie
+- [[express-session]]：session
+- [[dotenv]]：讀取 env
+- [[bcrypt]]：加密
 
 
 ## [[Session]]

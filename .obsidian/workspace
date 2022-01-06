@@ -19,7 +19,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Hash Function.md",
+                    "file": "註冊頁面.md",
                     "mode": "source"
                   }
                 }
@@ -31,8 +31,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "API/Promise/async, await, try, catch.md",
-                    "mode": "preview"
+                    "file": "後端/Node.js/Node.js.md",
+                    "mode": "source"
                   }
                 }
               }
@@ -51,7 +51,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Hack 101.md",
+                    "file": "Cryptography(密碼學).md",
                     "mode": "source"
                   }
                 }
@@ -63,7 +63,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Hash Function.md",
+                    "file": "Cryptography(密碼學).md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -114,8 +114,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hash Function.md"
+                "file": "Cryptography(密碼學).md"
               }
             }
           },
@@ -167,17 +166,17 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "6df76448ee01f8f7",
+  "active": "d5533f891a47677f",
   "lastOpenFiles": [
-    "Hash Function.md",
+    "Cryptography(密碼學).md",
+    "Authentication.md",
+    "註冊頁面.md",
+    "bcrypt.md",
+    "後端/Node.js/Node.js.md",
+    "API/Promise/async, await, try, catch.md",
     "Salting.md",
     "Hack 101.md",
-    "Authentication.md",
-    "製作登入介面.md",
-    "Cryptography(密碼學).md",
-    "建置（登入、註冊）.md",
-    "加密.md",
-    "Cipher.md",
-    "註冊頁面.md"
+    "Hash Function.md",
+    "製作登入介面.md"
   ]
 }
