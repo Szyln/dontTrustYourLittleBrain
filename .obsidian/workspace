@@ -10,7 +10,7 @@
           {
             "id": "6e5bc399fb72fcf4",
             "type": "split",
-            "dimension": 67.3202614379085,
+            "dimension": 62.82306163021869,
             "children": [
               {
                 "id": "6df76448ee01f8f7",
@@ -42,26 +42,28 @@
           {
             "id": "b2ac5a21118e9bc7",
             "type": "split",
-            "dimension": 32.6797385620915,
+            "dimension": 37.17693836978131,
             "children": [
               {
                 "id": "d5533f891a47677f",
                 "type": "leaf",
+                "dimension": 71.51515151515152,
                 "state": {
                   "type": "markdown",
                   "state": {
                     "file": "Authentication.md",
-                    "mode": "preview"
+                    "mode": "source"
                   }
                 }
               },
               {
                 "id": "e43749bbc3598749",
                 "type": "leaf",
+                "dimension": 28.484848484848484,
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "製作登入介面.md",
+                    "file": "Authentication.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -145,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "製作登入介面.md"
+                "file": "Authentication.md"
               }
             }
           },
@@ -165,17 +167,17 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "6df76448ee01f8f7",
+  "active": "d5533f891a47677f",
   "lastOpenFiles": [
+    "Authentication.md",
+    "Cryptography(密碼學).md",
     "製作登入介面.md",
+    "建置（登入、註冊）.md",
+    "加密.md",
     "Cipher.md",
     "註冊頁面.md",
     "後端/Database/noSQL/Mongoose/CRUD/Find(Read).md",
     "後端/EJS/EJS with Mongoose/EJS 使用 Mongoose 取得數據庫資料作為變數.md",
-    "API/Promise/async, await, try, catch.md",
-    "API/AJAX/Promise.md",
-    "API/Async（目錄）.md",
-    "後端/Express.js/Middleware/Error Handling/Error Handling 非同步的寫法.md",
-    "Authentication.md"
+    "API/Promise/async, await, try, catch.md"
   ]
 }
