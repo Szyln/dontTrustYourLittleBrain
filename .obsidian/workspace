@@ -10,7 +10,7 @@
           {
             "id": "6e5bc399fb72fcf4",
             "type": "split",
-            "dimension": 75.8745476477684,
+            "dimension": 67.3202614379085,
             "children": [
               {
                 "id": "6df76448ee01f8f7",
@@ -42,7 +42,7 @@
           {
             "id": "b2ac5a21118e9bc7",
             "type": "split",
-            "dimension": 24.125452352231605,
+            "dimension": 32.6797385620915,
             "children": [
               {
                 "id": "d5533f891a47677f",
@@ -103,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "顯示到",
+                "query": "cipher",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,14 +168,14 @@
   "active": "6df76448ee01f8f7",
   "lastOpenFiles": [
     "製作登入介面.md",
+    "Cipher.md",
+    "註冊頁面.md",
     "後端/Database/noSQL/Mongoose/CRUD/Find(Read).md",
     "後端/EJS/EJS with Mongoose/EJS 使用 Mongoose 取得數據庫資料作為變數.md",
     "API/Promise/async, await, try, catch.md",
     "API/AJAX/Promise.md",
     "API/Async（目錄）.md",
     "後端/Express.js/Middleware/Error Handling/Error Handling 非同步的寫法.md",
-    "Authentication.md",
-    "後端/Express.js/Middleware/Error Handling（Routing 後面）.md",
-    "後端/Database/noSQL/Mongoose/建置/透過 Mongoose 存入 MongoDB(Save).md"
+    "Authentication.md"
   ]
 }
