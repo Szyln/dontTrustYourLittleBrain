@@ -15,6 +15,7 @@
               {
                 "id": "6df76448ee01f8f7",
                 "type": "leaf",
+                "dimension": 70.26178010471205,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -26,10 +27,11 @@
               {
                 "id": "a9a3dcb25d0e8516",
                 "type": "leaf",
+                "dimension": 29.73821989528796,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "API/AJAX/Promise.md",
+                    "file": "API/Promise/async, await, try, catch.md",
                     "mode": "preview"
                   }
                 }
@@ -59,7 +61,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "API/AJAX/Promise.md",
+                    "file": "製作登入介面.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ".save(",
+                "query": "顯示到",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "API/AJAX/Promise.md"
+                "file": "製作登入介面.md"
               }
             }
           },
@@ -163,17 +165,17 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "a9a3dcb25d0e8516",
+  "active": "6df76448ee01f8f7",
   "lastOpenFiles": [
-    "API/AJAX/Promise.md",
+    "製作登入介面.md",
+    "後端/Database/noSQL/Mongoose/CRUD/Find(Read).md",
+    "後端/EJS/EJS with Mongoose/EJS 使用 Mongoose 取得數據庫資料作為變數.md",
     "API/Promise/async, await, try, catch.md",
+    "API/AJAX/Promise.md",
     "API/Async（目錄）.md",
     "後端/Express.js/Middleware/Error Handling/Error Handling 非同步的寫法.md",
-    "製作登入介面.md",
     "Authentication.md",
     "後端/Express.js/Middleware/Error Handling（Routing 後面）.md",
-    "後端/Database/noSQL/Mongoose/建置/透過 Mongoose 存入 MongoDB(Save).md",
-    "後端/Express.js/Middleware/指定特定 Route 才能使用的 Middleware.md",
-    "後端/Express.js/Middleware/Error Handling/Error Handling  同步的寫法.md"
+    "後端/Database/noSQL/Mongoose/建置/透過 Mongoose 存入 MongoDB(Save).md"
   ]
 }
