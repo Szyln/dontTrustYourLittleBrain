@@ -1,5 +1,7 @@
 # 建置（MongoDB Atlas, Passport. OAuth）
 >- [ ] 為什麼是叫 index.js 而不是 app.js？
+>- [ ] `app.use(express.json());` 是做什麼的？
+
 
 >- [[匯入模組]]
 >- [[dotenv]]
