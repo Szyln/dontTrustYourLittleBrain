@@ -10,7 +10,7 @@
           {
             "id": "6e5bc399fb72fcf4",
             "type": "split",
-            "dimension": 80.1390268123138,
+            "dimension": 61.81292189006751,
             "children": [
               {
                 "id": "6df76448ee01f8f7",
@@ -19,8 +19,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "登入頁面.md",
-                    "mode": "source"
+                    "file": "製作登入、註冊介面.md",
+                    "mode": "preview"
                   }
                 }
               },
@@ -42,7 +42,7 @@
           {
             "id": "b2ac5a21118e9bc7",
             "type": "split",
-            "dimension": 19.860973187686195,
+            "dimension": 38.1870781099325,
             "children": [
               {
                 "id": "d5533f891a47677f",
@@ -63,7 +63,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "登入頁面.md",
+                    "file": "Authentication.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "登入頁面.md"
+                "file": "Authentication.md"
               }
             }
           },
@@ -166,14 +166,14 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "6df76448ee01f8f7",
+  "active": "d5533f891a47677f",
   "lastOpenFiles": [
+    "Authentication.md",
+    "製作登入、註冊介面.md",
     "登入頁面.md",
     "會員頁面.md",
     "Cookie and Session/Session/Session.md",
-    "製作登入、註冊介面.md",
     "註冊頁面.md",
-    "Authentication.md",
     "bcrypt.md",
     "Cryptography(密碼學).md",
     "Hash Function.md",
