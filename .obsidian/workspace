@@ -19,7 +19,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "MongoDB Atlas, Passport.js, OAuth.md",
+                    "file": "OAuth.md",
                     "mode": "source"
                   }
                 }
@@ -51,7 +51,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "後端/Authentication and Cryptography/Authentication and Cryptography.md",
+                    "file": "MongoDB Atlas, Passport.js, OAuth.md",
                     "mode": "source"
                   }
                 }
@@ -63,7 +63,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "MongoDB Atlas, Passport.js, OAuth.md",
+                    "file": "OAuth.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MongoDB Atlas, Passport.js, OAuth.md"
+                "file": "OAuth.md"
               }
             }
           },
@@ -168,15 +168,15 @@
   },
   "active": "6df76448ee01f8f7",
   "lastOpenFiles": [
+    "OAuth.md",
     "MongoDB Atlas, Passport.js, OAuth.md",
+    "後端/Authentication and Cryptography/Authentication and Cryptography.md",
     "後端/EJS/EJS.md",
     "後端/EJS/EJS 撰寫規則.md",
     "EJS 使用變數顯示於網頁上.md",
     "建置（MongoDB Atlas, Passport. OAuth）.md",
     "後端/Node.js/模組/內建模組/body-parser.md",
     "後端/Database/noSQL/MongoDB/MongoDB.md",
-    "後端/Node.js/Node.js.md",
-    "MongoDB Atlas.md",
-    "後端/Node.js/介紹/Node 指令.md"
+    "後端/Node.js/Node.js.md"
   ]
 }
