@@ -13,5 +13,5 @@ app.get('/students', async (req, res) => {
 })
 ```
 
-之後就可以用 [[postman]] 發出 GET 請求了
+之後就可以用 [[Postman]] 發出 GET 請求了
 #api #js #restfulapi #api #crud #database #json 
