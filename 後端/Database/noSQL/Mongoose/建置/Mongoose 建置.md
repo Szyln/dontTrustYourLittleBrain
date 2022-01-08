@@ -2,8 +2,8 @@
 - npm install: express, ejs, mongoose([[npm 建置與指令]])
 - import：[[取得 Node.js 裡的模組]]
 - [[利用 Mongoose 連上 MongoDB]]
-- [[使用與操作 Mongoose]]
 - [[Middleware(express)]]
+- [[使用與操作 Mongoose]]
 - [[Request Handling(Express)]]
 - port listening
 ```
