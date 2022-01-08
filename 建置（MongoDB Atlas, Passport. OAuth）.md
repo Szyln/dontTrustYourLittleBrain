@@ -4,7 +4,7 @@
 
 
 >- [[匯入模組]]
->- [[dotenv]]
+>- [[dotenv（使用 env 變數）]]
 ```js
 // index.js
 // import express, app, mongoose, dotenv

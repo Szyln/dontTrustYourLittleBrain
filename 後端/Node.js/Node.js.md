@@ -53,7 +53,7 @@
 ### [[Cookies and Sessions]]
 - [[cookie-parser]]：cookie
 - [[express-session]]：session
-- [[dotenv]]：讀取 env
+- [[dotenv（使用 env 變數）]]：讀取 env
 
 ### [[Authentication and Cryptography]]
 - [[bcrypt]]：加密

@@ -11,7 +11,7 @@ app.get('/', (req, res) => {
 })
 ```
 
-> [[取得 env 變數(dotenv)]]
+> [[dotenv（使用 env 變數）]]
 
 
 
