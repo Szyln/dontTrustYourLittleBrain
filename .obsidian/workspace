@@ -15,7 +15,7 @@
               {
                 "id": "6df76448ee01f8f7",
                 "type": "leaf",
-                "dimension": 77.33564013840831,
+                "dimension": 47.92176039119804,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -27,12 +27,12 @@
               {
                 "id": "a9a3dcb25d0e8516",
                 "type": "leaf",
-                "dimension": 22.664359861591695,
+                "dimension": 52.07823960880196,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "後端/Database/noSQL/MongoDB/MongoDB.md",
-                    "mode": "source"
+                    "file": "後端/Database/noSQL/Mongoose/Schema Type/Validators.md",
+                    "mode": "preview"
                   }
                 }
               }
@@ -63,7 +63,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Passport.js.md",
+                    "file": "後端/Database/noSQL/Mongoose/Schema Type/Validators.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Passport.js.md"
+                "file": "後端/Database/noSQL/Mongoose/Schema Type/Validators.md"
               }
             }
           },
@@ -166,17 +166,17 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "6df76448ee01f8f7",
+  "active": "a9a3dcb25d0e8516",
   "lastOpenFiles": [
+    "後端/Database/noSQL/Mongoose/Schema Type/Validators.md",
+    "後端/Database/noSQL/Mongoose/建置/使用與操作 Mongoose.md",
+    "後端/Database/noSQL/Mongoose/Mongoose.md",
+    "後端/Database/noSQL/MongoDB/MongoDB.md",
     "Passport.js.md",
+    "後端/EJS/EJS 撰寫規則.md",
+    "EJS 註解 comment.md",
     "後端/Express.js/Middleware/Middleware 的位置.md",
     "後端/Express.js/Middleware/自製 Middleware.md",
-    "後端/Express.js/Middleware/指定特定 Route 才能使用的 Middleware.md",
-    "後端/Express.js/Middleware/Middleware 使用 res.send.md",
-    "後端/Express.js/Middleware/Middleware 使用 req 參數.md",
-    "後端/Express.js/Middleware/Routing 中間使用 Middleware.md",
-    "OAuth.md",
-    "後端/Express.js/建置/Middleware(express).md",
-    "MongoDB Atlas, Passport.js, OAuth.md"
+    "後端/Express.js/Middleware/指定特定 Route 才能使用的 Middleware.md"
   ]
 }

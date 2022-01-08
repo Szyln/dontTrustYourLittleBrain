@@ -27,7 +27,7 @@ router.get('/google', (res, req) => {
 // 匯出（給 index.js 用）
 module.exports = Router; 
 ```
-### 
+### middleware
 ```js
 // 在 index.js 匯入
 const authRoute = require('./routes/auth-route');
