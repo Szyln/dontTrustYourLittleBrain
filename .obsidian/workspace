@@ -105,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "express.json()express.json()",
+                "query": "|",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,14 +169,14 @@
   "active": "6df76448ee01f8f7",
   "lastOpenFiles": [
     "Passport.js.md",
-    "MongoDB Atlas.md",
+    "Configure Strategy.md",
+    "passport-google-oauth20 的 .env 變數.md",
+    "Authenticate Requests.md",
     "OAuth.md",
+    "前端/CSS/scss/7+1 結構.md",
+    "OAuth 的流程.png",
+    "MongoDB Atlas.md",
     "MongoDB Atlas, Passport.js, OAuth.md",
-    "後端/Database/noSQL/Mongoose/Schema Type/Validators.md",
-    "後端/Cookie and Session/安全性/process(node).md",
-    "後端/Cookie and Session/安全性/取得 env 變數(dotenv).md",
-    "後端/Cookie and Session/安全性/dotenv（使用 env 變數）.md",
-    "EJS 註解 comment.md",
-    "後端/Database/noSQL/Mongoose/建置/使用與操作 Mongoose.md"
+    "後端/Database/noSQL/Mongoose/Schema Type/Validators.md"
   ]
 }
