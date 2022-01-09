@@ -19,7 +19,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Configure Strategy.md",
+                    "file": "建立 Google 的 OAuth 憑證.md",
                     "mode": "source"
                   }
                 }
@@ -63,7 +63,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Configure Strategy.md",
+                    "file": "建立 Google 的 OAuth 憑證.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Configure Strategy.md"
+                "file": "建立 Google 的 OAuth 憑證.md"
               }
             }
           },
@@ -168,15 +168,15 @@
   },
   "active": "6df76448ee01f8f7",
   "lastOpenFiles": [
-    "Configure Strategy.md",
+    "建立 Google 的 OAuth 憑證.md",
+    "Web Application Client ID 設定.md",
+    "Google OAuth Passport 建置.md",
     "Passport.js.md",
-    "passport-google-oauth20 的 .env 變數.md",
-    "Authenticate Requests.md",
     "OAuth.md",
+    "Authenticate Requests.md",
+    "Configure Strategy.md",
+    "passport-google-oauth20 的 .env 變數.md",
     "前端/CSS/scss/7+1 結構.md",
-    "OAuth 的流程.png",
-    "MongoDB Atlas.md",
-    "MongoDB Atlas, Passport.js, OAuth.md",
-    "後端/Database/noSQL/Mongoose/Schema Type/Validators.md"
+    "OAuth 的流程.png"
   ]
 }

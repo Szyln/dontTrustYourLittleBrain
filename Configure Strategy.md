@@ -9,6 +9,7 @@ passport.use(new GoogleStrategy({
 		// 用 .env 存起來
     clientID: process.env.GOOGLE_CLIENT_ID,
     clientSecret: process.env.GOOGLE_CLIENT_SECRET,
+		// 
     callbackURL: "/auth/google/redirect"
   },
 	() => {
@@ -17,9 +18,11 @@ passport.use(new GoogleStrategy({
  )
 );
 ```
->[[dotenv（使用 env 變數）]]
+> [[dotenv（使用 env 變數）]]
 > [[passport-google-oauth20 的 .env 變數]]
-### index.js
+
+## 匯出 index.js
+>[[匯出模組]]
 ```js
 // ./config/passport 貼過來用
 // 不用 const 一個變數來存

@@ -1,5 +1,9 @@
 ## 建立 Google 的 OAuth 憑證
 [Google Cloud Platform](https://console.cloud.google.com/)
+- 建立專案
+	- 建立憑證
+		- OAuth Client ID：取得用戶端 ID 跟密碼
+			- 
 - 建立專案 -> 結束後到「憑證」的頁面
 - 憑證 -> 建立憑證 -> OAuth 用戶端 ID -> 設定同意畫面 -> 外部
 	- 應用程式名稱：隨意
