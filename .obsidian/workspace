@@ -19,7 +19,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Passport.js.md",
+                    "file": "Configure Strategy.md",
                     "mode": "source"
                   }
                 }
@@ -63,7 +63,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Passport.js.md",
+                    "file": "Configure Strategy.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Passport.js.md"
+                "file": "Configure Strategy.md"
               }
             }
           },
@@ -168,8 +168,8 @@
   },
   "active": "6df76448ee01f8f7",
   "lastOpenFiles": [
-    "Passport.js.md",
     "Configure Strategy.md",
+    "Passport.js.md",
     "passport-google-oauth20 的 .env 變數.md",
     "Authenticate Requests.md",
     "OAuth.md",

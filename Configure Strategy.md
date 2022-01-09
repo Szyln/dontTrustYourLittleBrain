@@ -19,3 +19,10 @@ passport.use(new GoogleStrategy({
 ```
 >[[dotenv（使用 env 變數）]]
 > [[passport-google-oauth20 的 .env 變數]]
+### index.js
+```js
+// ./config/passport 貼過來用
+// 不用 const 一個變數來存
+require('./config/passport');
+```
+

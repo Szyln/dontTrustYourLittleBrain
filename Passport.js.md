@@ -18,9 +18,9 @@ npm install passport passport-google-oauth20
 專案/
 |
 |– routes/
-|   |– auth-routes.js
+|   |– auth-routes.js		# Authenticate Request
 |– config/
-|   |– passport.js
+|   |– passport.js			# Cofigure Strategy
 |– views/
 |   |– ejs 檔案
 |– public/
@@ -28,9 +28,9 @@ npm install passport passport-google-oauth20
 |– .env
 |– index.js
 |– 
-|– routes/
+|– 
 ```
-
+	
 - [[Authenticate Requests]]
 - [[Configure Strategy]]
 #### middleware
@@ -45,13 +45,4 @@ app.use('/auth', authRoute);
 ```
 >[[指定特定 Route 才能使用的 Middleware]]
 
-
-
-
-### index.js
-```js
-// ./config/passport 貼過來用
-// 不用 const 一個變數來存
-require('./config/passport');
-```
 #authentication #js #npm #nodeJs #module 
