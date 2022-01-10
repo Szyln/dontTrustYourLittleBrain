@@ -1,7 +1,7 @@
 ## middleware(Authenticate Requests)
 - Middleware：請求包含 `/auth`？
 	- 否：繼續執行 Life Cycle
-	- 是：進到 [[Authenticate Requests#auth-routes]] 模組
+	- 是：進到 [[auth-routes]] 模組
 
 ```js
 // 在 index.js 匯入

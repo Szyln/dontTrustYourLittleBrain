@@ -1,4 +1,6 @@
-## auth-routes
+# auth-routes
+>[[Authenticate Requests]]
+
 在 routes 資料夾內新增 auth-routes.js
 - 請求包含`/auth/login` ？
 		- 是： render local login 頁面（login.ejs）
@@ -6,7 +8,8 @@
 			- 否：
 			- 是：檢查是否有設定 [[Configure Strategy]]
 				- 否：
-				- 是：得到客戶端 ID 跟密碼與 Google 取得 scope 資料：導向 [[Web Application Client ID 設定#已授權的重新導向 URI]] ：[[Passport Verified Callback]]
+				- 是：得到客戶端 ID 跟密碼與 Google 取得 scope 資料
+					- 導向 [[Web Application Client ID 設定#已授權的重新導向 URI]] ：[[Passport Verified Callback]]
 ```js
 const router = require('express').Router();
 const passport = require('passport');
@@ -25,6 +28,7 @@ router.get('/google',
 	});
 );
 
+// 取得 configure strategy 的資料後
 router.get('/google/redirect', 
 	passport.authenticate('google'),
 	(req, res) => {
