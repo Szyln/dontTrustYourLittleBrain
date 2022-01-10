@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Authenticate Requests.md",
+                "file": "auth-routes.md",
                 "mode": "source"
               }
             }
@@ -43,7 +43,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Authenticate Requests.md",
+                    "file": "auth-routes.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Authenticate Requests.md"
+                "file": "auth-routes.md"
               }
             }
           },
@@ -148,15 +148,15 @@
   },
   "active": "6df76448ee01f8f7",
   "lastOpenFiles": [
+    "auth-routes.md",
+    "Configure Strategy.md",
+    "Passport Verified Callback.md",
     "Authenticate Requests.md",
     "Google OAuth Passport 建置.md",
     "後端/Database/noSQL/Mongoose/Schema Type/Validators.md",
     "OAuth.md",
     "Passport.js.md",
-    "Configure Strategy.md",
     "建立 Google 的 OAuth 憑證.md",
-    "取得 Google OAuth Client ID.md",
-    "Web Application Client ID 設定.md",
-    "在 Google Cloud Platform 建立憑證.md"
+    "取得 Google OAuth Client ID.md"
   ]
 }

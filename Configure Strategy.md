@@ -1,5 +1,12 @@
 # Configure Strategy
+存取
+- 客戶端 ID 
+- 客戶端密碼
+-  [[Authenticate Requests]]
+- Google 取得 scope 資料：導向 [[Web Application Client ID 設定#已授權的重新導向 URI]] ：[[Passport Verified Callback]]
+# passport.js
 新增 cofig 資料夾，新增 passport.js 檔案 
+
 ```js
 // cofig/passport.js
 const passport = require('passport');
@@ -13,7 +20,7 @@ passport.use(new GoogleStrategy({
     callbackURL: "/auth/google/redirect"
   },
 	() => {
-		// passport callback
+		// passport verified callback
 	}
  )
 );
