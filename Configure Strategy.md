@@ -4,6 +4,8 @@
 - 客戶端密碼
 
 - 如果客戶端輸入 google 的帳密正確後，導向 [[Web Application Client ID 設定#已授權的重新導向 URI]] ：[[Passport Verified Callback]]
+
+
 # passport.js
 新增 cofig 資料夾，新增 passport.js 檔案 
 
@@ -11,6 +13,7 @@
 // cofig/passport.js
 const passport = require('passport');
 const GoogleStrategy = require('passport-google-oauth20');
+const User = require('../models/user-model');
 
 passport.use(new GoogleStrategy({
 		// 用 .env 存起來
@@ -19,10 +22,26 @@ passport.use(new GoogleStrategy({
 		// 
     callbackURL: "/auth/google/redirect"
   },
-	// done 是一個 callback 
+	// done 是一個 callback function
+	// passport verified callback
 	(accessToken, refreshToken, profile, done) => {
-		// passport verified callback
-		
+		console.log(profile);
+		User.findOne({googleID: profile.id})
+			.then((foundUser) => {
+				if(foundUser) {
+					console.log('User already exist');
+					done(null, foundUser);
+				} else {
+					new User({
+						name: profile.displayName,
+						googeID: profile.id,
+						thumbnail: profile.photos[0].value,
+					}).save().then((newUser) => {
+						console.log('成功透過 google 新增帳戶');
+						done(null, newUser);
+					})
+				}
+			})
 	}
  )
 );
