@@ -8,36 +8,16 @@
         "type": "split",
         "children": [
           {
-            "id": "6e5bc399fb72fcf4",
-            "type": "split",
+            "id": "6df76448ee01f8f7",
+            "type": "leaf",
             "dimension": 72.61761158021713,
-            "children": [
-              {
-                "id": "6df76448ee01f8f7",
-                "type": "leaf",
-                "dimension": 70.17114914425427,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "建立 Google 的 OAuth 憑證.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "a9a3dcb25d0e8516",
-                "type": "leaf",
-                "dimension": 29.82885085574572,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "後端/Database/noSQL/Mongoose/Schema Type/Validators.md",
-                    "mode": "preview"
-                  }
-                }
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Authenticate Requests.md",
+                "mode": "source"
               }
-            ],
-            "direction": "horizontal"
+            }
           },
           {
             "id": "b2ac5a21118e9bc7",
@@ -63,7 +43,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "建立 Google 的 OAuth 憑證.md",
+                    "file": "Authenticate Requests.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -146,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "建立 Google 的 OAuth 憑證.md"
+                "file": "Authenticate Requests.md"
               }
             }
           },
@@ -168,15 +148,15 @@
   },
   "active": "6df76448ee01f8f7",
   "lastOpenFiles": [
-    "建立 Google 的 OAuth 憑證.md",
-    "Web Application Client ID 設定.md",
-    "Google OAuth Passport 建置.md",
-    "Passport.js.md",
-    "OAuth.md",
     "Authenticate Requests.md",
+    "Google OAuth Passport 建置.md",
+    "後端/Database/noSQL/Mongoose/Schema Type/Validators.md",
+    "OAuth.md",
+    "Passport.js.md",
     "Configure Strategy.md",
-    "passport-google-oauth20 的 .env 變數.md",
-    "前端/CSS/scss/7+1 結構.md",
-    "OAuth 的流程.png"
+    "建立 Google 的 OAuth 憑證.md",
+    "取得 Google OAuth Client ID.md",
+    "Web Application Client ID 設定.md",
+    "在 Google Cloud Platform 建立憑證.md"
   ]
 }

@@ -5,7 +5,5 @@
 
 > [[Library 跟 Framework 的差別]]
 
-
-- [[建立 Google 的 OAuth 憑證]]
-
-## 使用 [[Passport.js]]
+ - [[Passport.js]]
+	 - [[Google OAuth Passport 建置]]

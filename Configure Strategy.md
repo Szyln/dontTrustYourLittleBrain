@@ -18,8 +18,9 @@ passport.use(new GoogleStrategy({
  )
 );
 ```
-> [[dotenv（使用 env 變數）]]
-> [[passport-google-oauth20 的 .env 變數]]
+> - [[dotenv（使用 env 變數）]]
+>	 - [[passport-google-oauth20 的 .env 變數]]
+>	callbackURL：[[建立 Google 的 OAuth 憑證]]：[[Web Application Client ID 設定]]
 
 ## 匯出 index.js
 >[[匯出模組]]
