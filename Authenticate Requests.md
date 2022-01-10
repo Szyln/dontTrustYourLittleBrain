@@ -1,3 +1,4 @@
 # Authenticate Requests
 - [[middleware(Authenticate Requests)]]
-- [[auth-routes]]
+- [[auth-route]]
+- [[profile-route]]

@@ -3,14 +3,17 @@
 - 客戶端 ID 
 - 客戶端密碼
 
-- 如果客戶端輸入 google 的帳密正確後，導向 [[Web Application Client ID 設定#已授權的重新導向 URI]] ：[[Passport Verified Callback]]
+得到客戶端 ID 跟密碼與 Google 取得資料後，導向 [[Configure Strategy]] 設定的 callbackURL
+
+> - callbackURL 需要在	Google Cloud Platform 設定：[[Web Application Client ID 設定]]
+> - 導過去之後的行為：[[Passport Verified Callback]]
 
 
 # passport.js
-新增 cofig 資料夾，新增 passport.js 檔案 
+新增 config 資料夾，新增 passport.js 檔案 
 
 ```js
-// cofig/passport.js
+// config/passport.js
 const passport = require('passport');
 const GoogleStrategy = require('passport-google-oauth20');
 const User = require('../models/user-model');
@@ -48,7 +51,8 @@ passport.use(new GoogleStrategy({
 ```
 > - [[dotenv（使用 env 變數）]]
 >	 - [[passport-google-oauth20 的 .env 變數]]
->	callbackURL：[[建立 Google 的 OAuth 憑證]]：[[Web Application Client ID 設定]]
+>- callbackURL 需要設定：
+>	 [[建立 Google 的 OAuth 憑證]]：[[Web Application Client ID 設定]]
 
 ## 匯出 index.js
 >[[匯出模組]]
