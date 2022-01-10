@@ -30,6 +30,8 @@ router.get('/google',
 
 // 取得 configure strategy 的資料後
 router.get('/google/redirect', 
+	// middleware
+	// 到config
 	passport.authenticate('google'),
 	(req, res) => {
 		res.redirect('profile');

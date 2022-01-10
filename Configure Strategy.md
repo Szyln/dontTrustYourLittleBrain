@@ -19,8 +19,10 @@ passport.use(new GoogleStrategy({
 		// 
     callbackURL: "/auth/google/redirect"
   },
-	() => {
+	// done 是一個 callback 
+	(accessToken, refreshToken, profile, done) => {
 		// passport verified callback
+		
 	}
  )
 );
