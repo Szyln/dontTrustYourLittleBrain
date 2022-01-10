@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "profile-route.md",
+                "file": "cookie-session.md",
                 "mode": "source"
               }
             }
@@ -31,8 +31,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Authenticate Requests.md",
-                    "mode": "preview"
+                    "file": "MongoDB Atlas, Passport.js, OAuth.md",
+                    "mode": "source"
                   }
                 }
               },
@@ -43,7 +43,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "profile-route.md",
+                    "file": "cookie-session.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "profile-route.md"
+                "file": "cookie-session.md"
               }
             }
           },
@@ -148,15 +148,15 @@
   },
   "active": "6df76448ee01f8f7",
   "lastOpenFiles": [
-    "profile-route.md",
-    "auth-route.md",
-    "Authenticate Requests.md",
-    "Google OAuth Passport 建置.md",
+    "cookie-session.md",
+    "Sessions in Passport.md",
     "OAuth.md",
     "MongoDB Atlas, Passport.js, OAuth.md",
-    "MongoDB Atlas.md",
-    "建置（MongoDB Atlas, Passport. OAuth）.md",
-    "Configure Strategy.md",
-    "Passport Verified Callback.md"
+    "建置生命週期（MongoDB Atlas, Passport. OAuth）.md",
+    "profile-route.md",
+    "Google OAuth Passport 建置.md",
+    "Authenticate Requests.md",
+    "auth-route.md",
+    "MongoDB Atlas.md"
   ]
 }

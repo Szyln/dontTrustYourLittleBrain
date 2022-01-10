@@ -1,4 +1,4 @@
-# 建置（MongoDB Atlas, Passport. OAuth）
+# 建置生命週期（MongoDB Atlas, Passport. OAuth）
 >- [ ] 為什麼是叫 index.js 而不是 app.js？
 >- [ ] `app.use(express.json());` 是做什麼的？
 
@@ -12,9 +12,10 @@
 ```
 
 >- [[利用 Mongoose 連上 MongoDB]]
->	- [[MongoDB Atlas]] 
+>	- [[MongoDB Atlas]]
 ```js
-mongoose.connect('mongodb+srv://sz:<這裡要置換成密碼>@cluster0.hk85a.mongodb.net/<這裡要置換成想要命名的數據庫名稱>?retryWrites=true&w=majority').then(() => {
+// 連結的 URI 要存到 env 
+mongoose.connect(process.env.DB_CONNECT).then(() => {
 		console.log('成功連上 mongodb atlas');
 	}).catch((err) => {
 		console.log(err);
@@ -23,7 +24,7 @@ mongoose.connect('mongodb+srv://sz:<這裡要置換成密碼>@cluster0.hk85a.mon
 
 ## [[Middleware(express)]]
 >- [[EJS with Express 的基本設定]]
->[[body-parser]]
+>- [[body-parser]]
 ```js
 app.set('view engine, 'ejs);
 app.use(express.json());

@@ -1,10 +1,11 @@
 # MongoDB Atlas, Passport.js, OAuth
 - [[MongoDB Atlas]]
-- [[OAuth]]
-- [[建置（MongoDB Atlas, Passport. OAuth）]]
+- [[建置生命週期（MongoDB Atlas, Passport. OAuth）]]
+- [[OAuth]]：[[Google OAuth Passport 建置]]
 - [[EJS]] 檔案
-- index.ejs
-	- partial:
-		- header.ejs
+	- index.ejs
+	- login.ejs
+	- profile
+	- partial/header.ejs
 
 
