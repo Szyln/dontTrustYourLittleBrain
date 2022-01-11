@@ -19,7 +19,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Stateful Authentication.md",
+                    "file": "Stateless Authentication.md",
                     "mode": "source"
                   }
                 }
@@ -63,7 +63,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Stateful Authentication.md",
+                    "file": "Stateless Authentication.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stateful Authentication.md"
+                "file": "Stateless Authentication.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   },
   "active": "6df76448ee01f8f7",
   "lastOpenFiles": [
+    "Stateless Authentication.md",
     "Stateful Authentication.md",
     "MongoDB Atlas, Passport.js, OAuth.md",
     "Sessions in Passport.md",
@@ -177,7 +178,6 @@
     "cookie-session.md",
     "後端/Cookie and Session/Session/express-session.md",
     "Passport.js.md",
-    "OAuth.md",
-    "後端/Node.js/Node.js.md"
+    "OAuth.md"
   ]
 }
