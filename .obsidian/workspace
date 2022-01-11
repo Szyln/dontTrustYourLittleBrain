@@ -19,7 +19,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Stateless Authentication.md",
+                    "file": "OAuth.md",
                     "mode": "source"
                   }
                 }
@@ -31,7 +31,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Sessions in Passport.md",
+                    "file": "Passport.js/Sessions in Passport.md",
                     "mode": "source"
                   }
                 }
@@ -51,7 +51,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Google OAuth Passport 建置.md",
+                    "file": "Passport.js/Google OAuth Passport 建置.md",
                     "mode": "preview"
                   }
                 }
@@ -63,7 +63,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Stateless Authentication.md",
+                    "file": "OAuth.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -114,13 +114,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 243,
-    "collapsed": true
+    "width": 243
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -147,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stateless Authentication.md"
+                "file": "OAuth.md"
               }
             }
           },
@@ -169,15 +167,15 @@
   },
   "active": "6df76448ee01f8f7",
   "lastOpenFiles": [
-    "Stateless Authentication.md",
-    "Stateful Authentication.md",
+    "OAuth.md",
+    "後端/Authentication and Cryptography/Authentication/製作登入、註冊介面.md",
+    "後端/EJS/撰寫規則/匯入其他 EJS 檔.md",
+    "後端/EJS/撰寫規則/EJS 使用變數顯示於網頁上.md",
+    "後端/Database/noSQL/MongoDB/JSON and BSON 的差別.md",
     "MongoDB Atlas, Passport.js, OAuth.md",
-    "Sessions in Passport.md",
-    "Google OAuth Passport 建置.md",
-    "後端/Cookie and Session/Session/Session.md",
-    "cookie-session.md",
-    "後端/Cookie and Session/Session/express-session.md",
-    "Passport.js.md",
-    "OAuth.md"
+    "Stateful Authentication.md",
+    "Stateless Authentication.md",
+    "Passport.js/Sessions in Passport.md",
+    "Passport.js/Google OAuth Passport 建置.md"
   ]
 }
