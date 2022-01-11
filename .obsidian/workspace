@@ -15,10 +15,11 @@
               {
                 "id": "6df76448ee01f8f7",
                 "type": "leaf",
+                "dimension": 80.95238095238095,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Sessions in Passport.md",
+                    "file": "Stateful Authentication.md",
                     "mode": "source"
                   }
                 }
@@ -26,11 +27,12 @@
               {
                 "id": "a358e70782e88fce",
                 "type": "leaf",
+                "dimension": 19.047619047619047,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "後端/Cookie and Session/Session/Session.md",
-                    "mode": "preview"
+                    "file": "Sessions in Passport.md",
+                    "mode": "source"
                   }
                 }
               }
@@ -61,7 +63,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Sessions in Passport.md",
+                    "file": "Stateful Authentication.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -145,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions in Passport.md"
+                "file": "Stateful Authentication.md"
               }
             }
           },
@@ -167,15 +169,15 @@
   },
   "active": "6df76448ee01f8f7",
   "lastOpenFiles": [
-    "Sessions in Passport.md",
-    "cookie-session.md",
-    "後端/Cookie and Session/Session/Session.md",
-    "後端/Cookie and Session/Session/express-session.md",
-    "Google OAuth Passport 建置.md",
+    "Stateful Authentication.md",
     "MongoDB Atlas, Passport.js, OAuth.md",
+    "Sessions in Passport.md",
+    "Google OAuth Passport 建置.md",
+    "後端/Cookie and Session/Session/Session.md",
+    "cookie-session.md",
+    "後端/Cookie and Session/Session/express-session.md",
     "Passport.js.md",
     "OAuth.md",
-    "後端/Node.js/Node.js.md",
-    "建置生命週期（MongoDB Atlas, Passport. OAuth）.md"
+    "後端/Node.js/Node.js.md"
   ]
 }

@@ -6,13 +6,13 @@
 
 ```js
 // import 之後
-// 進行
+// serialize
 passport.serializeUser((user, done) => {
 	console.log('Serializing user now');
 	// mongoDB 存取的 id 要加底線（我不懂）
   done(null, user._id);
 });
-
+// deserialize
 passport.deserializeUser((_id, done) => {
 	console.log('Deserializing user now');
   User.findById({ _id }).then(() => {
@@ -21,9 +21,12 @@ passport.deserializeUser((_id, done) => {
   });
 });
 ```
+>[[Find(Read)]]
 ```js
 
 // cookie session 的 middleware 之後
 app.use(passport.initialize());
 app.use(passport.session());
 ```
+
+#session #authentication #oauth #expressJs 
