@@ -8,21 +8,39 @@
         "type": "split",
         "children": [
           {
-            "id": "6df76448ee01f8f7",
-            "type": "leaf",
-            "dimension": 62.24366706875754,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cookie-session.md",
-                "mode": "source"
+            "id": "a593f65363878eee",
+            "type": "split",
+            "dimension": 67.46987951807229,
+            "children": [
+              {
+                "id": "6df76448ee01f8f7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Sessions in Passport.md",
+                    "mode": "source"
+                  }
+                }
+              },
+              {
+                "id": "a358e70782e88fce",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "後端/Cookie and Session/Session/Session.md",
+                    "mode": "preview"
+                  }
+                }
               }
-            }
+            ],
+            "direction": "horizontal"
           },
           {
             "id": "b2ac5a21118e9bc7",
             "type": "split",
-            "dimension": 37.75633293124246,
+            "dimension": 32.53012048192771,
             "children": [
               {
                 "id": "d5533f891a47677f",
@@ -31,8 +49,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "MongoDB Atlas, Passport.js, OAuth.md",
-                    "mode": "source"
+                    "file": "Google OAuth Passport 建置.md",
+                    "mode": "preview"
                   }
                 }
               },
@@ -43,7 +61,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "cookie-session.md",
+                    "file": "Sessions in Passport.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -85,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "|",
+                "query": "session in pass",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +112,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -126,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cookie-session.md"
+                "file": "Sessions in Passport.md"
               }
             }
           },
@@ -148,15 +167,15 @@
   },
   "active": "6df76448ee01f8f7",
   "lastOpenFiles": [
-    "cookie-session.md",
     "Sessions in Passport.md",
-    "OAuth.md",
-    "MongoDB Atlas, Passport.js, OAuth.md",
-    "建置生命週期（MongoDB Atlas, Passport. OAuth）.md",
-    "profile-route.md",
+    "cookie-session.md",
+    "後端/Cookie and Session/Session/Session.md",
+    "後端/Cookie and Session/Session/express-session.md",
     "Google OAuth Passport 建置.md",
-    "Authenticate Requests.md",
-    "auth-route.md",
-    "MongoDB Atlas.md"
+    "MongoDB Atlas, Passport.js, OAuth.md",
+    "Passport.js.md",
+    "OAuth.md",
+    "後端/Node.js/Node.js.md",
+    "建置生命週期（MongoDB Atlas, Passport. OAuth）.md"
   ]
 }

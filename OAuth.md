@@ -5,6 +5,4 @@
 
 > [[Library 跟 Framework 的差別]]
 
- - [[Passport.js]]
-	 - [[Google OAuth Passport 建置]]
-- [[Sessions in Passport]]
+ - [[Passport.js]]：[[Google OAuth Passport 建置]]

@@ -25,3 +25,4 @@ npm install passport passport-google-oauth20
 - [[Authenticate Requests]](auth-routes)
 - [[Configure Strategy]](passport.js)
 - [[建立 Google 的 OAuth 憑證]]
+- [[Sessions in Passport]]

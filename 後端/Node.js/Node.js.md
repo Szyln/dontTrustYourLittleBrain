@@ -54,6 +54,8 @@
 - [[cookie-parser]]：cookie
 - [[express-session]]：session
 - [[dotenv（使用 env 變數）]]：讀取 env
+- [[cookie-session]]
+- [[connect-flash]]
 
 ### [[Authentication and Cryptography]]
 - [[bcrypt]]：加密
