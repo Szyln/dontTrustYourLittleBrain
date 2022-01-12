@@ -1,5 +1,7 @@
 # profile-route
-[[auth-route#用戶登入後]] 
+[[auth-route#用戶登入後]] 會顯示 profile.ejs 頁面
+## middleware
+`/profile` 的路徑會先執行 profile-route
 ```js
 // index.js
 const profileRoute = require('./routes/profile-route');
