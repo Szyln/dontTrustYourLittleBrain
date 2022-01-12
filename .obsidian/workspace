@@ -19,7 +19,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "後端/Express.js/Middleware/自製 Middleware.md",
+                    "file": "後端/EJS/建置/編譯 EJS 樣板 res.render().md",
                     "mode": "source"
                   }
                 }
@@ -63,7 +63,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "後端/Express.js/Middleware/自製 Middleware.md",
+                    "file": "後端/EJS/建置/編譯 EJS 樣板 res.render().md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "session in pass",
+                "query": "\"[[Middleware 的位置]]\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "後端/Express.js/Middleware/自製 Middleware.md"
+                "file": "後端/EJS/建置/編譯 EJS 樣板 res.render().md"
               }
             }
           },
@@ -168,15 +169,15 @@
   },
   "active": "6df76448ee01f8f7",
   "lastOpenFiles": [
-    "後端/Express.js/Middleware/自製 Middleware.md",
-    "後端/Express.js/Middleware/Middleware 的位置.md",
-    "後端/Express.js/Middleware/指定特定 Route 之前的 Middleware（Route 前面）.md",
-    "後端/Express.js/Middleware/Routing 執行時的 Middleware（Route 中間）.md",
-    "後端/Express.js/建置/Middleware(express).md",
+    "後端/EJS/建置/編譯 EJS 樣板 res.render().md",
+    "後端/Express.js/Routing/res.redirect().md",
     "Passport.js/profile-route.md",
-    "MongoDB Atlas, Passport.js, OAuth.md",
     "req.user.md",
     "Passport.js/Passport.js.md",
-    "req.isAuthenticated().md"
+    "req.isAuthenticated().md",
+    "req.logout().md",
+    "後端/Express.js/建置/Middleware(express).md",
+    "後端/Express.js/Middleware/撰寫 Middleware.md",
+    "後端/Express.js/Middleware/Middleware 的位置.md"
   ]
 }

@@ -23,3 +23,5 @@ app.put('/students/edit/:id', async (req, res) => {
 	}
 })
 ```
+
+>顯示指定頁面可能會想用：[[編譯 EJS 樣板 res.render()]]

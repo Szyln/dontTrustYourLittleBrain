@@ -1,5 +1,4 @@
-# 自製 Middleware
-[[Middleware 的位置]]
+# 撰寫 Middleware
 - Routing 前面：
 	- [[Middleware 使用 req 參數]]
 	- [[Middleware 使用 res.send]]

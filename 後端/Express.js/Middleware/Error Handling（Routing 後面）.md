@@ -1,5 +1,5 @@
 # Error Handling
-[[Middleware 的位置]]
+[[撰寫 Middleware]]
 Error Handling 會放在 Routing 後面，可以對應程式出錯時，使用者會看到什麼畫面，而不是看到一堆用戶看不懂的內容
 
 

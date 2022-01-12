@@ -11,4 +11,5 @@ res.render('page.ejs'), { name }}
 >- [[生成與使用 EJS 樣板可用的變數]]
 > `{name}` 是 `{ name: name }` 的語法糖
 
+>>顯示指定頁面可能會想用：[[ㄤ]]
 #npm #gulp #html #js #ejs #expressJs 
