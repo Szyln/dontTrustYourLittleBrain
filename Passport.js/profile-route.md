@@ -1,4 +1,6 @@
 # profile-route
+>[[Authenticate Requests]]
+
 [[auth-route#用戶登入後]] 會顯示 profile.ejs 頁面
 ## middleware
 `/profile` 的路徑會先執行 profile-route 模組
@@ -28,7 +30,7 @@ const authCheck = (req, res, next) => {
 }
 
 // 使用 req.user
-// /profile 請求中，客戶端會先經過 authCheck，
+// /profile 請求中，客戶端會先經過 authCheck
 // 如果尚未認證會導去登入畫面，有的話就會執行這個 route
 // render porfile 頁面
 router.get('/', authCheck, (req, res) => {
@@ -38,3 +40,5 @@ router.get('/', authCheck, (req, res) => {
 export.modules = router;
 ```
 >[[Routing 執行時的 Middleware（Route 中間）]]
+
+#passport #oauth #authentication #expressJs

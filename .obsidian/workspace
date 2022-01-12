@@ -19,7 +19,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Passport.js/profile-route.md",
+                    "file": "Passport.js/Google OAuth Passport 建置.md",
                     "mode": "source"
                   }
                 }
@@ -52,7 +52,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "Passport.js/Google OAuth Passport 建置.md",
-                    "mode": "preview"
+                    "mode": "source"
                   }
                 }
               },
@@ -63,7 +63,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Passport.js/profile-route.md",
+                    "file": "Passport.js/Google OAuth Passport 建置.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "req.user",
+                "query": "collection",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Passport.js/profile-route.md"
+                "file": "Passport.js/Google OAuth Passport 建置.md"
               }
             }
           },
@@ -169,15 +169,15 @@
   },
   "active": "6df76448ee01f8f7",
   "lastOpenFiles": [
-    "Passport.js/profile-route.md",
-    "req.isAuthenticated().md",
-    "Passport.js/Passport.js.md",
     "Passport.js/Google OAuth Passport 建置.md",
     "MongoDB Atlas, Passport.js, OAuth.md",
-    "Passport.js/auth-route.md",
-    "Passport.js/Authenticate Requests.md",
+    "建置生命週期（MongoDB Atlas, Passport. OAuth）.md",
     "OAuth.md",
-    "後端/Express.js/Routing/res.redirect().md",
-    "後端/EJS/建置/編譯 EJS 樣板 res.render().md"
+    "Passport.js/Passport.js.md",
+    "Passport.js/Authenticate Requests.md",
+    "Passport.js/auth-route.md",
+    "在 MongoDB Atlas 查看 Collection.md",
+    "後端/Database/noSQL/Mongoose/建置/Create a Model.md",
+    "後端/Database/noSQL/MongoDB/MongoDB CRUD.md"
   ]
 }

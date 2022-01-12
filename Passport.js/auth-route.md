@@ -35,6 +35,16 @@ router.get('/google',
 	});
 );
 ```
+
+### （選用）使用者可選擇登入帳號
+```js
+router.get('/google',
+	passport.authenticate("google", {
+		scope: ["profile", "email"],
+		prompt: "select_account",
+	})
+);
+```
 ## 用戶登入後
 ```js
 // 取得 configure strategy 的資料後
@@ -50,6 +60,16 @@ router.get('/google/redirect',
 >- [[Routing 執行時的 Middleware（Route 中間）]]
 >- [[Configure Strategy]]
 >- [[profile-route]]
+
+## 用戶登出
+[[req.logout()]]
+```js
+// login route 後面
+router.get('/logout', (req, res) => {
+	req.logout();
+	res.redirect('/');
+})
+```
 
 ## 匯出
 ```js
