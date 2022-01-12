@@ -12,11 +12,13 @@ app.use('/profile', profileRoute);
 
 ## profile-route
 >[[req.user]]
+>[[res.redirect()]]
+>[[req.isAuthenticated()]]
 ```js
 // routes/profile-route.js
 const router = require('express').Router();
 
-// 只給特定route 用的 middleware 
+// 只給特定 route 用的 middleware 
 const authCheck = (req, res, next) => {
 	if(!req.isAUthenticated) {
 		res.redirect('/auth/login');
@@ -26,6 +28,9 @@ const authCheck = (req, res, next) => {
 }
 
 // 使用 req.user
+// /profile 請求中，客戶端會先經過 authCheck，
+// 如果尚未認證會導去登入畫面，有的話就會執行這個 route
+// render porfile 頁面
 router.get('/', authCheck, (req, res) => {
 	res.render('profile', { user: req.user });
 })
