@@ -12,4 +12,4 @@ const authRoute = require('./routes/auth-route');
 // authRoute 若被執行，就會辨識應該要回應 /login 還是 /google
 app.use('/auth', authRoute);
 ```
->[[指定特定 Route 才能使用的 Middleware]]
+>[[指定特定 Route 之前的 Middleware（Route 前面）]]

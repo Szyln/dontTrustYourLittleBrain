@@ -47,7 +47,7 @@ router.get('/google/redirect',
 	}
 )
 ```
->- [[Routing 中間使用 Middleware]]
+>- [[Routing 執行時的 Middleware（Route 中間）]]
 >- [[Configure Strategy]]
 >- [[profile-route]]
 

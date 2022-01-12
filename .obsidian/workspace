@@ -19,7 +19,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Passport.js/profile-route.md",
+                    "file": "後端/Express.js/Middleware/自製 Middleware.md",
                     "mode": "source"
                   }
                 }
@@ -63,7 +63,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Passport.js/profile-route.md",
+                    "file": "後端/Express.js/Middleware/自製 Middleware.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Passport.js/profile-route.md"
+                "file": "後端/Express.js/Middleware/自製 Middleware.md"
               }
             }
           },
@@ -168,15 +168,15 @@
   },
   "active": "6df76448ee01f8f7",
   "lastOpenFiles": [
+    "後端/Express.js/Middleware/自製 Middleware.md",
+    "後端/Express.js/Middleware/Middleware 的位置.md",
+    "後端/Express.js/Middleware/指定特定 Route 之前的 Middleware（Route 前面）.md",
+    "後端/Express.js/Middleware/Routing 執行時的 Middleware（Route 中間）.md",
+    "後端/Express.js/建置/Middleware(express).md",
     "Passport.js/profile-route.md",
     "MongoDB Atlas, Passport.js, OAuth.md",
     "req.user.md",
     "Passport.js/Passport.js.md",
-    "req.isAuthenticated().md",
-    "req.logout().md",
-    "Passport.js/Google OAuth Passport 建置.md",
-    "OAuth.md",
-    "後端/Authentication and Cryptography/Authentication/製作登入、註冊介面.md",
-    "後端/EJS/撰寫規則/匯入其他 EJS 檔.md"
+    "req.isAuthenticated().md"
   ]
 }

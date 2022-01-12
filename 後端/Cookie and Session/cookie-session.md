@@ -11,7 +11,7 @@ const cookieSession = require('cookie-session');
 ```
 
 ### middleware
->[[指定特定 Route 才能使用的 Middleware]]
+>[[指定特定 Route 之前的 Middleware（Route 前面）]]
 ```js
 // 在特定 route 使用的 middleware 之前
 app.use(cookieSession({

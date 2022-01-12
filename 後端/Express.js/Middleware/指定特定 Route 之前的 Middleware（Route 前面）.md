@@ -1,4 +1,4 @@
-## 指定特定 Route 才能使用的 Middleware
+## 指定特定 Route 之前的 Middleware（Route 前面）
 跟 [[Routing]] 的功能類似，也可以限定使用
 ```js
 app.use('/student', (req, res, next) => {

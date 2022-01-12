@@ -1,10 +1,15 @@
 # 自製 Middleware
-- [[Middleware 使用 req 參數]]
-- [[Middleware 使用 res.send]]
-- [[指定特定 Route 才能使用的 Middleware]]
-- [[Middleware 的位置]]
-	- [[Routing 中間使用 Middleware]]
-- [[Error Handling（Routing 後面）]]
+[[Middleware 的位置]]
+- Routing 前面：
+	- [[Middleware 使用 req 參數]]
+	- [[Middleware 使用 res.send]]
+	- [[指定特定 Route 之前的 Middleware（Route 前面）]]
+- Routing 中間：
+	- [[Routing 執行時的 Middleware（Route 中間）]]
+- Route 後面
+	- [[Error Handling（Routing 後面）]]
+
+
 ```js
 // middleware function 的參數有請求物件、回應物件、跟下一個 middleware 
 app.use(function (req, res, next) {
