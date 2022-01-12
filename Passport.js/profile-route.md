@@ -3,7 +3,9 @@
 ```js
 // index.js
 const profileRoute = require('./routes/profile-route');
-
+const authCheck = (req, res, next) => {
+	if(!req.isAUthenticated)
+}
 
 // middleware
 app.use('/profile', profileRoute);

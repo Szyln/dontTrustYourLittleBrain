@@ -19,7 +19,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "OAuth.md",
+                    "file": "Passport.js/profile-route.md",
                     "mode": "source"
                   }
                 }
@@ -63,7 +63,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "OAuth.md",
+                    "file": "Passport.js/profile-route.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -118,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243
+    "width": 243,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OAuth.md"
+                "file": "Passport.js/profile-route.md"
               }
             }
           },
@@ -167,15 +168,15 @@
   },
   "active": "6df76448ee01f8f7",
   "lastOpenFiles": [
+    "Passport.js/profile-route.md",
+    "MongoDB Atlas, Passport.js, OAuth.md",
+    "req.user.md",
+    "Passport.js/Passport.js.md",
+    "req.isAuthenticated().md",
+    "req.logout().md",
+    "Passport.js/Google OAuth Passport 建置.md",
     "OAuth.md",
     "後端/Authentication and Cryptography/Authentication/製作登入、註冊介面.md",
-    "後端/EJS/撰寫規則/匯入其他 EJS 檔.md",
-    "後端/EJS/撰寫規則/EJS 使用變數顯示於網頁上.md",
-    "後端/Database/noSQL/MongoDB/JSON and BSON 的差別.md",
-    "MongoDB Atlas, Passport.js, OAuth.md",
-    "Stateful Authentication.md",
-    "Stateless Authentication.md",
-    "Passport.js/Sessions in Passport.md",
-    "Passport.js/Google OAuth Passport 建置.md"
+    "後端/EJS/撰寫規則/匯入其他 EJS 檔.md"
   ]
 }

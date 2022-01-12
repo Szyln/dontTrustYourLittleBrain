@@ -2,7 +2,13 @@
 - [[MongoDB Atlas]]
 - [[建置生命週期（MongoDB Atlas, Passport. OAuth）]]
 - [[OAuth]]：[[Google OAuth Passport 建置]]
+- [[profile]]
 - [[Logout]]
+
+
+
+
+
 - [[EJS]] 檔案
 	- index.ejs
 	- login.ejs
