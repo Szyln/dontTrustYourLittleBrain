@@ -19,7 +19,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Passport.js/auth-route.md",
+                    "file": "本地註冊（Local Signup）.md",
                     "mode": "source"
                   }
                 }
@@ -63,7 +63,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Passport.js/auth-route.md",
+                    "file": "本地註冊（Local Signup）.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Passport.js/auth-route.md"
+                "file": "本地註冊（Local Signup）.md"
               }
             }
           },
@@ -169,15 +169,15 @@
   },
   "active": "6df76448ee01f8f7",
   "lastOpenFiles": [
+    "本地註冊（Local Signup）.md",
     "Passport.js/auth-route.md",
+    "匯入(auth-route).md",
+    "登出.md",
+    "登入後.md",
     "後端/Authentication and Cryptography/Cryptography/bcrypt.md",
     "後端/Authentication and Cryptography/Authentication/註冊頁面.md",
     "後端/Authentication and Cryptography/Cryptography/Hash Function.md",
     "後端/Authentication and Cryptography/Authentication and Cryptography.md",
-    "後端/Authentication and Cryptography/Cryptography/電腦科技的應用：加密.md",
-    "Passport.js/Passport.js.md",
-    "登入前後頁面的變化.md",
-    "Passport.js/profile-route.md",
-    "profile.ejs 設定：登入前後頁面的變化.md"
+    "後端/Authentication and Cryptography/Cryptography/電腦科技的應用：加密.md"
   ]
 }
