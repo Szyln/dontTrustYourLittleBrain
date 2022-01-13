@@ -3,6 +3,25 @@
 
 在 routes 資料夾內新增 auth-routes.js
 
+
+
+---
+## 匯入(auth-route)
+```js
+// local login, oauth
+const router = require('express').Router();
+const passport = require('passport');
+// 註冊加密用： bcrypt
+const bcrypt = require('bcrypt');
+// 
+const session = require('express-session');
+const flash = require('connect-flash');
+```
+>[[bcrypt]]
+>[[express-session]]
+>[[connect-flash]]
+
+## 看客戶端要用 google 還是本地登入
 - 請求包含`/auth/login` ？
 	- 是： render local login 頁面（login.ejs）
 	- 否：包含`/auth/google` ？
@@ -14,14 +33,8 @@
 
 > - callbackURL 需要在	Google Cloud Platform 設定：[[Web Application Client ID 設定]]
 > - 導過去之後的行為：[[Passport Verified Callback]]
-
----
-
 ```js
-const router = require('express').Router();
-const passport = require('passport');
-// 做註冊的時候還要再匯入 bcrypt
-			
+
 router.get('/login', (req, res) => {
 	res.render('login', { user: req.user });
 });
@@ -37,7 +50,8 @@ router.get('/google',
 );
 ```
 >[[req.user]]
-### （選用）使用者可選擇登入帳號
+
+### （選用）google 登入可選擇登入帳號
 ```js
 router.get('/google',
 	passport.authenticate("google", {
@@ -62,7 +76,7 @@ router.get('/google/redirect',
 >- [[Configure Strategy]]
 >- [[profile-route]]
 
-## local signup 註冊
+## Local Signup
 這個註冊完，存到數據庫後不會有 googleID
 ```js
 // 匯入 bcrypt 做註冊密碼加密
