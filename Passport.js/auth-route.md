@@ -61,6 +61,23 @@ router.get('/google/redirect',
 >- [[Configure Strategy]]
 >- [[profile-route]]
 
+## 註冊
+```js
+router.get('/signup', (req, res) => {
+	res.render('signup', { user: req.user });
+})
+
+router.post('/signup', async (req, res) => {
+	console.log(req.body);
+	let { name, email, password } = req.body;
+	// 檢查 email 是否已註冊
+	const emailExist = await User.findOne({ email });
+	if (emailExist) return res.status(400).send('此 email 已註冊');
+	
+	res.send('感謝您的註冊');
+})
+```
+
 ## 用戶登出
 [[req.logout()]]
 ```js

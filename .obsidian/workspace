@@ -19,7 +19,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "登入前後頁面的變化.md",
+                    "file": "Passport.js/auth-route.md",
                     "mode": "source"
                   }
                 }
@@ -63,7 +63,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "登入前後頁面的變化.md",
+                    "file": "Passport.js/auth-route.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "登入前後頁面的變化.md"
+                "file": "Passport.js/auth-route.md"
               }
             }
           },
@@ -169,10 +169,10 @@
   },
   "active": "6df76448ee01f8f7",
   "lastOpenFiles": [
+    "Passport.js/auth-route.md",
     "登入前後頁面的變化.md",
     "Passport.js/profile-route.md",
     "profile.ejs 設定：登入前後頁面的變化.md",
-    "Passport.js/auth-route.md",
     "建置生命週期（MongoDB Atlas, Passport. OAuth）.md",
     "後端/Cookie and Session/cookie-session.md",
     "MongoDB Atlas, Passport.js, OAuth.md",
