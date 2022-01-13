@@ -2,7 +2,7 @@
 >- [ ] 為什麼是叫 index.js 而不是 app.js？
 >- [ ] `app.use(express.json());` 是做什麼的？
 
-
+## 匯入
 >- [[匯入模組]]
 >- [[dotenv（使用 env 變數）]]
 ```js
@@ -10,7 +10,7 @@
 // import express, app, mongoose, dotenv
 // dotenv.config();
 ```
-
+## 數據庫連接
 >- [[利用 Mongoose 連上 MongoDB]]
 >	- [[MongoDB Atlas]]
 ```js
@@ -23,11 +23,26 @@ mongoose.connect(process.env.DB_CONNECT).then(() => {
 ```
 
 ## [[Middleware(express)]]
+>需設定的有
 >- [[EJS with Express 的基本設定]]
->- [[body-parser]]
+>- [[body-parser]]：表單（登入表單）
+>- [[cookie-session]]：關掉頁面可以不用重新登入
+>- [[Sessions in Passport]]：同上
+>- [[auth-route]]：設定 local 或是 OAuth 登入
+>- [[profile-route]]：登入後畫面的設定
 ```js
 app.set('view engine, 'ejs);
 app.use(express.json());
-app.use(express.urlencoded({extend: true}))
+app.use(express.urlencoded({extend: true}));
+```
+
+
+## Nav 
+>需要先完成 [[OAuth]] 的部份
+>[[req.user]]
+```js
+app.get('/', (req, res) => {
+	res.render('index', { user: req.user });
+})
 ```
 

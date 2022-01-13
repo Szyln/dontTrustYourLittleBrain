@@ -22,7 +22,7 @@ const router = require('express').Router();
 const passport = require('passport');
 
 router.get('/login', (req, res) => {
-	res.render('login');
+	res.render('login', { user: req.user });
 });
 
 router.get('/google',
@@ -35,7 +35,7 @@ router.get('/google',
 	});
 );
 ```
-
+>[[req.user]]
 ### （選用）使用者可選擇登入帳號
 ```js
 router.get('/google',

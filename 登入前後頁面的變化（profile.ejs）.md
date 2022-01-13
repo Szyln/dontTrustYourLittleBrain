@@ -1,0 +1,21 @@
+# 登入前後頁面的變化（profile.ejs）
+- 設定 nav 登入狀態時，不顯示登入按鈕
+- 反之，登出狀態不顯示登出按鈕
+
+
+```html
+<% if(!user) { %>
+	<li class="nav-item">
+		<a class="nav-link" href="/auth/login">Login</a>
+	</li>
+<% } %>
+<% if(user) { %>
+	<li class="nav-item">
+		<a class="nav-link" href="/auth/logout">Logout</a>
+	</li>
+	<li class="nav-item">
+		<a class="nav-link" href="/profile">Profile</a>
+	</li>
+<% } %>
+
+```

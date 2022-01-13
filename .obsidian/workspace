@@ -19,7 +19,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Passport.js/Google OAuth Passport 建置.md",
+                    "file": "登入前後頁面的變化（profile.ejs）.md",
                     "mode": "source"
                   }
                 }
@@ -63,7 +63,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Passport.js/Google OAuth Passport 建置.md",
+                    "file": "登入前後頁面的變化（profile.ejs）.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "collection",
+                "query": "app.use(passport.initialize());",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Passport.js/Google OAuth Passport 建置.md"
+                "file": "登入前後頁面的變化（profile.ejs）.md"
               }
             }
           },
@@ -169,15 +169,15 @@
   },
   "active": "6df76448ee01f8f7",
   "lastOpenFiles": [
-    "Passport.js/Google OAuth Passport 建置.md",
-    "MongoDB Atlas, Passport.js, OAuth.md",
-    "建置生命週期（MongoDB Atlas, Passport. OAuth）.md",
-    "OAuth.md",
-    "Passport.js/Passport.js.md",
-    "Passport.js/Authenticate Requests.md",
+    "登入前後頁面的變化（profile.ejs）.md",
+    "Passport.js/profile-route.md",
+    "profile.ejs 設定：登入前後頁面的變化.md",
     "Passport.js/auth-route.md",
-    "在 MongoDB Atlas 查看 Collection.md",
-    "後端/Database/noSQL/Mongoose/建置/Create a Model.md",
-    "後端/Database/noSQL/MongoDB/MongoDB CRUD.md"
+    "建置生命週期（MongoDB Atlas, Passport. OAuth）.md",
+    "後端/Cookie and Session/cookie-session.md",
+    "MongoDB Atlas, Passport.js, OAuth.md",
+    "配合登入資訊 Nav.md",
+    "Passport.js/Google OAuth Passport 建置.md",
+    "OAuth.md"
   ]
 }

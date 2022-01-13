@@ -2,6 +2,8 @@
 >[[Authenticate Requests]]
 
 [[auth-route#用戶登入後]] 會顯示 profile.ejs 頁面
+
+>[[登入前後頁面的變化（profile.ejs）]]
 ## middleware
 `/profile` 的路徑會先執行 profile-route 模組
 ```js
