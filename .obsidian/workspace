@@ -119,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243
+    "width": 243,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -169,14 +170,14 @@
   "active": "6df76448ee01f8f7",
   "lastOpenFiles": [
     "Passport.js/auth-route.md",
+    "後端/Authentication and Cryptography/Cryptography/bcrypt.md",
+    "後端/Authentication and Cryptography/Authentication/註冊頁面.md",
     "後端/Authentication and Cryptography/Cryptography/Hash Function.md",
     "後端/Authentication and Cryptography/Authentication and Cryptography.md",
     "後端/Authentication and Cryptography/Cryptography/電腦科技的應用：加密.md",
-    "後端/Authentication and Cryptography/Authentication/註冊頁面.md",
     "Passport.js/Passport.js.md",
     "登入前後頁面的變化.md",
     "Passport.js/profile-route.md",
-    "profile.ejs 設定：登入前後頁面的變化.md",
-    "建置生命週期（MongoDB Atlas, Passport. OAuth）.md"
+    "profile.ejs 設定：登入前後頁面的變化.md"
   ]
 }
