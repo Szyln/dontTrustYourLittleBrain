@@ -47,7 +47,7 @@
               {
                 "id": "d5533f891a47677f",
                 "type": "leaf",
-                "dimension": 55.660377358490564,
+                "dimension": 55.66037735849057,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -105,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "app.use(passport.initialize());",
+                "query": "[[加密]]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243,
-    "collapsed": true
+    "width": 243
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -170,14 +169,14 @@
   "active": "6df76448ee01f8f7",
   "lastOpenFiles": [
     "Passport.js/auth-route.md",
+    "後端/Authentication and Cryptography/Cryptography/Hash Function.md",
+    "後端/Authentication and Cryptography/Authentication and Cryptography.md",
+    "後端/Authentication and Cryptography/Cryptography/電腦科技的應用：加密.md",
+    "後端/Authentication and Cryptography/Authentication/註冊頁面.md",
+    "Passport.js/Passport.js.md",
     "登入前後頁面的變化.md",
     "Passport.js/profile-route.md",
     "profile.ejs 設定：登入前後頁面的變化.md",
-    "建置生命週期（MongoDB Atlas, Passport. OAuth）.md",
-    "後端/Cookie and Session/cookie-session.md",
-    "MongoDB Atlas, Passport.js, OAuth.md",
-    "配合登入資訊 Nav.md",
-    "Passport.js/Google OAuth Passport 建置.md",
-    "OAuth.md"
+    "建置生命週期（MongoDB Atlas, Passport. OAuth）.md"
   ]
 }

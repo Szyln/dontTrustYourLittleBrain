@@ -1,4 +1,7 @@
 # Hash Function
+>[[bcrypt]]
+
+
 - 將密碼存入 [[Database 數據庫]]前，會先用 Hash Function 加密
 - 以目前技術近乎不可逆
 - 不管原始密碼(input)多少，Hash Function 都會產生相同長度的 [[Cipher]]

@@ -20,7 +20,8 @@
 ```js
 const router = require('express').Router();
 const passport = require('passport');
-
+// 做註冊的時候還要再匯入 bcrypt
+			
 router.get('/login', (req, res) => {
 	res.render('login', { user: req.user });
 });
@@ -63,6 +64,7 @@ router.get('/google/redirect',
 
 ## 註冊
 ```js
+// 匯入 bcrypt 做註冊密碼加密
 router.get('/signup', (req, res) => {
 	res.render('signup', { user: req.user });
 })
@@ -74,10 +76,13 @@ router.post('/signup', async (req, res) => {
 	const emailExist = await User.findOne({ email });
 	if (emailExist) return res.status(400).send('此 email 已註冊');
 	
+	const hash = await bcrypt.hash(passport, 10);
+	passport = hash;
+	let newUser = new User({ name, })
 	res.send('感謝您的註冊');
 })
 ```
-
+>[[Hash Function]]：[[bcrypt]]
 ## 用戶登出
 [[req.logout()]]
 ```js
