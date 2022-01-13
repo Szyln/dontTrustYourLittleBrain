@@ -19,7 +19,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "登入前後頁面的變化（profile.ejs）.md",
+                    "file": "登入前後頁面的變化.md",
                     "mode": "source"
                   }
                 }
@@ -63,7 +63,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "登入前後頁面的變化（profile.ejs）.md",
+                    "file": "登入前後頁面的變化.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "登入前後頁面的變化（profile.ejs）.md"
+                "file": "登入前後頁面的變化.md"
               }
             }
           },
@@ -169,7 +169,7 @@
   },
   "active": "6df76448ee01f8f7",
   "lastOpenFiles": [
-    "登入前後頁面的變化（profile.ejs）.md",
+    "登入前後頁面的變化.md",
     "Passport.js/profile-route.md",
     "profile.ejs 設定：登入前後頁面的變化.md",
     "Passport.js/auth-route.md",
