@@ -15,11 +15,11 @@
               {
                 "id": "6df76448ee01f8f7",
                 "type": "leaf",
-                "dimension": 80.95238095238095,
+                "dimension": 77.80952380952381,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "本地註冊（Local Signup）.md",
+                    "file": "Passport.js/Configure Strategy.md",
                     "mode": "source"
                   }
                 }
@@ -27,11 +27,11 @@
               {
                 "id": "a358e70782e88fce",
                 "type": "leaf",
-                "dimension": 19.047619047619047,
+                "dimension": 22.19047619047619,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Passport.js/Sessions in Passport.md",
+                    "file": "選擇什麼方式登入.md",
                     "mode": "source"
                   }
                 }
@@ -51,7 +51,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Passport.js/Google OAuth Passport 建置.md",
+                    "file": "MongoDB Atlas, Passport.js, OAuth.md",
                     "mode": "source"
                   }
                 }
@@ -63,7 +63,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "本地註冊（Local Signup）.md",
+                    "file": "Passport.js/Configure Strategy.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[[加密]]",
+                "query": "scope: [",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本地註冊（Local Signup）.md"
+                "file": "Passport.js/Configure Strategy.md"
               }
             }
           },
@@ -169,15 +169,15 @@
   },
   "active": "6df76448ee01f8f7",
   "lastOpenFiles": [
-    "本地註冊（Local Signup）.md",
-    "Passport.js/Sessions in Passport.md",
-    "Passport.js/auth-route.md",
-    "匯入(auth-route).md",
-    "登出.md",
-    "登入後.md",
-    "後端/Authentication and Cryptography/Cryptography/bcrypt.md",
-    "後端/Authentication and Cryptography/Authentication/註冊頁面.md",
-    "後端/Authentication and Cryptography/Cryptography/Hash Function.md",
-    "後端/Authentication and Cryptography/Authentication and Cryptography.md"
+    "Passport.js/Configure Strategy.md",
+    "選擇什麼方式登入.md",
+    "Passport.js/建立 Google 的 OAuth 憑證.md",
+    "Passport.js/Google OAuth Passport 建置.md",
+    "Passport.js/Passport.js.md",
+    "OAuth.md",
+    "MongoDB Atlas, Passport.js, OAuth.md",
+    "建置生命週期（MongoDB Atlas, Passport. OAuth）.md",
+    "後端/Database/noSQL/Mongoose/Mongoose Atlas/MongoDB Atlas.md",
+    "Passport.js/Sessions in Passport.md"
   ]
 }

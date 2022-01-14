@@ -1,6 +1,7 @@
-## 本地註冊
+# 本地註冊
 這個註冊完，存到數據庫後不會有 googleID
 ```js
+// auth-route
 // 匯入 bcrypt 做註冊密碼加密
 // 匯入 User model
 router.get('/signup', (req, res) => {
@@ -12,18 +13,26 @@ router.post('/signup', async (req, res) => {
 	let { name, email, password } = req.body;
 	// 檢查 email 是否已註冊
 	const emailExist = await User.findOne({ email });
-	if (emailExist) return res.status(400).send('此 email 已註冊');
+	if (emailExist) {
+			req.flash('error_msg', 'Email 已經被註冊');
+			req.redirect('/auth/signup')
+		}
+	/////return res.status(400).send('此 email 已註冊');
 	// 加密
 	const hash = await bcrypt.hash(password, 10);
 	let newUser = new User({ name, email, password: hash});
 	try {
-		const savedUser = await newUser.save();
-			// 通常不會顯示給用戶看這個，可以 flash（下一段）
-			res.status(200).send({
-				msg: '用戶已儲存',
-				savedObj: savedUser,
-			});
-	} catch {
+		// 通常不會顯示給用戶看這個，可以 flash（下一段）
+		// const savedUser = await newUser.save();
+		// res.status(200).send({
+		//	msg: '用戶已儲存',
+		//	savedObj: savedUser,
+		// });
+		await newUser.save();
+		req.flash('success_msg','感謝您的註冊，請登入');
+		res.redirect('/auth/login')
+	} catch(err) {
+		console.log(err);
 		res.status(400).send(err);
 	}
 	res.send('感謝您的註冊');
@@ -32,14 +41,17 @@ router.post('/signup', async (req, res) => {
 >[[Hash Function]]：[[bcrypt]]
 
 
-### 註冊成功
+## 註冊成功
 >[[Sessions in Passport]]
->[[Flash]]/Users/sz/不同步資料/前端學習/wilson/project 5/config/passport.js
+>[[Flash]]
 >- [[express-session]]
 >- [[connect-flash]]
 >- [[cookie-session]]
+
+### middleware(index.js)
 ```js
 // index.js(why
+// auth-route 匯入之前
 // 為什麼這段又把 cookie-session 刪掉了
 // 突然又不用 cookie-session 的 middleware 了
 // ?????
@@ -57,13 +69,22 @@ app.use(passport.session());
 // flash
 app.use(flash());
 app.use((req, res, next) => {
-	res.locals.sucess_msg = req.flash('sucess_msg');
+	res.locals.success_msg = req.flash('success_msg');
 	res.locals.error_msg = req.flash('error_msg');
 	next();
 }) 
 ```
 
-#### message.ejs (partials)
+### message.ejs (partials)
+#### include 到會顯示這行訊息的頁面
+```js
+<!-- signup.ejs -->
+<%- include ('partials/message') %>
+```
+```js
+<!-- login.ejs -->
+<%- include ('partials/message') %>
+```
 ```html
 <% if (error_msg != '') { %>
 	<div class="alert alert-warning alert-dismissible fade show" role="alert">
@@ -71,9 +92,10 @@ app.use((req, res, next) => {
 	</div>
 <% } %>	
 <!-- break -->
-<% if (sucess_msg != '') { %>
+<% if (success_msg != '') { %>
 	<div class="alert alert-warning alert-dismissible fade show" role="alert">
-		<strong><%= sucess_msg %> </strong>
+		<strong><%= success_msg %> </strong>
 	</div>
 <% } %>	
 ```
+

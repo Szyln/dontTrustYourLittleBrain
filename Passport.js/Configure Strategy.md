@@ -36,9 +36,11 @@ passport.use(new GoogleStrategy({
 					done(null, foundUser);
 				} else {
 					new User({
+						
 						name: profile.displayName,
 						googeID: profile.id,
 						thumbnail: profile.photos[0].value,
+						email: profile.email
 					}).save().then((newUser) => {
 						console.log('成功透過 google 新增帳戶');
 						done(null, newUser);
