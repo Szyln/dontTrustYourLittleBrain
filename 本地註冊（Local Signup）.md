@@ -32,8 +32,7 @@ router.post('/signup', async (req, res) => {
 		req.flash('success_msg','感謝您的註冊，請登入');
 		res.redirect('/auth/login')
 	} catch(err) {
-		console.log(err);
-		res.status(400).send(err);
+		req.flash('error_msg', err.errors.name.properties.message);
 	}
 	res.send('感謝您的註冊');
 })
@@ -85,7 +84,7 @@ app.use((req, res, next) => {
 <!-- login.ejs -->
 <%- include ('partials/message') %>
 ```
-```html
+```js
 <% if (error_msg != '') { %>
 	<div class="alert alert-warning alert-dismissible fade show" role="alert">
 		<strong><%= error_msg %> </strong>
