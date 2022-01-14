@@ -33,8 +33,47 @@ router.post('/signup', async (req, res) => {
 
 
 ### 註冊成功
->[[Flash]]
+>[[Sessions in Passport]]
+>[[Flash]]/Users/sz/不同步資料/前端學習/wilson/project 5/config/passport.js
+>- [[express-session]]
+>- [[connect-flash]]
+>- [[cookie-session]]
 ```js
+// index.js(why
+// 為什麼這段又把 cookie-session 刪掉了
+// 突然又不用 cookie-session 的 middleware 了
+// ?????
 // 需要會匯入 express-session, connect-flash
 
+app.use(session({
+	secret: process.env.SECRET,
+	resave: false,
+	saveUninitialized: false
+	
+}))
+// session in passport
+app.use(passport.initialize());
+app.use(passport.session());
+// flash
+app.use(flash());
+app.use((req, res, next) => {
+	res.locals.sucess_msg = req.flash('sucess_msg');
+	res.locals.error_msg = req.flash('error_msg');
+	next();
+}) 
+```
+
+#### message.ejs (partials)
+```html
+<% if (error_msg != '') { %>
+	<div class="alert alert-warning alert-dismissible fade show" role="alert">
+		<strong><%= error_msg %> </strong>
+	</div>
+<% } %>	
+<!-- break -->
+<% if (sucess_msg != '') { %>
+	<div class="alert alert-warning alert-dismissible fade show" role="alert">
+		<strong><%= sucess_msg %> </strong>
+	</div>
+<% } %>	
 ```

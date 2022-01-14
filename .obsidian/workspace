@@ -170,6 +170,7 @@
   "active": "6df76448ee01f8f7",
   "lastOpenFiles": [
     "本地註冊（Local Signup）.md",
+    "Passport.js/Sessions in Passport.md",
     "Passport.js/auth-route.md",
     "匯入(auth-route).md",
     "登出.md",
@@ -177,7 +178,6 @@
     "後端/Authentication and Cryptography/Cryptography/bcrypt.md",
     "後端/Authentication and Cryptography/Authentication/註冊頁面.md",
     "後端/Authentication and Cryptography/Cryptography/Hash Function.md",
-    "後端/Authentication and Cryptography/Authentication and Cryptography.md",
-    "後端/Authentication and Cryptography/Cryptography/電腦科技的應用：加密.md"
+    "後端/Authentication and Cryptography/Authentication and Cryptography.md"
   ]
 }

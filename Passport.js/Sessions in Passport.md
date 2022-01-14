@@ -3,7 +3,12 @@
 >- [passport.js doc>configure](https://www.passportjs.org/docs/configure/)
 
 僅將 userID 存進 [[Session]]
-
+```js
+// index.js
+// cookie session 的 middleware 之後
+app.use(passport.initialize());
+app.use(passport.session());
+```
 ```js
 // import 之後
 // serialize
@@ -22,11 +27,6 @@ passport.deserializeUser((_id, done) => {
 });
 ```
 >[[Find(Read)]]
-```js
 
-// cookie session 的 middleware 之後
-app.use(passport.initialize());
-app.use(passport.session());
-```
 
 #session #authentication #oauth #expressJs 
