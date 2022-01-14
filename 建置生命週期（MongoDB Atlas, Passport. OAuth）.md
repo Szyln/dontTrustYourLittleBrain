@@ -9,6 +9,7 @@
 // index.js
 // import express, app, mongoose, dotenv
 // dotenv.config();
+// 匯入 passport.js ([[Configure Strategy]])
 ```
 ## 數據庫連接
 >- [[利用 Mongoose 連上 MongoDB]]

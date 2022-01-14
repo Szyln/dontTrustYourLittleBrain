@@ -15,11 +15,11 @@
               {
                 "id": "6df76448ee01f8f7",
                 "type": "leaf",
-                "dimension": 69.9047619047619,
+                "dimension": 38.095238095238095,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Passport.js/Authenticate Requests.md",
+                    "file": "passport-local.md",
                     "mode": "source"
                   }
                 }
@@ -27,7 +27,7 @@
               {
                 "id": "a358e70782e88fce",
                 "type": "leaf",
-                "dimension": 30.095238095238095,
+                "dimension": 61.904761904761905,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -63,7 +63,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Passport.js/Authenticate Requests.md",
+                    "file": "Passport.js/Configure Strategy.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scope: [",
+                "query": "passport-local",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Passport.js/Authenticate Requests.md"
+                "file": "Passport.js/Configure Strategy.md"
               }
             }
           },
@@ -167,17 +167,17 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "6df76448ee01f8f7",
+  "active": "a358e70782e88fce",
   "lastOpenFiles": [
-    "Passport.js/Authenticate Requests.md",
-    "Passport.js/auth-route.md",
-    "本地帳號登入.md",
-    "選擇什麼方式登入.md",
-    "本地註冊（Local Signup）.md",
-    "MongoDB Atlas, Passport.js, OAuth.md",
     "Passport.js/Configure Strategy.md",
-    "Passport.js/建立 Google 的 OAuth 憑證.md",
-    "Passport.js/Google OAuth Passport 建置.md",
-    "Passport.js/Passport.js.md"
+    "後端/Authentication and Cryptography/Cryptography/bcrypt.md",
+    "passport-local.md",
+    "Configure Strategy(local).md",
+    "建置生命週期（MongoDB Atlas, Passport. OAuth）.md",
+    "Passport.js/Passport.js.md",
+    "本地帳號登入.md",
+    "Passport.js/auth-route.md",
+    "Passport.js/Authenticate Requests.md",
+    "選擇什麼方式登入.md"
   ]
 }

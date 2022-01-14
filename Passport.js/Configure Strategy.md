@@ -11,13 +11,28 @@
 
 # passport.js
 新增 config 資料夾，新增 passport.js 檔案 
-
+## 匯入
+>- [[Google OAuth Passport 建置]]
+>- [[passport-local]]
+>- [[bcrypt#檢查密碼]]：登入時加密
 ```js
 // config/passport.js
 const passport = require('passport');
 const GoogleStrategy = require('passport-google-oauth20');
 const User = require('../models/user-model');
+const LocalStrategy = require('passport-local');
+const bcrypt = require('bcrypt');
+```
 
+### 在 index.js 匯入
+```js
+// index.js
+// 不用 const 一個變數來存
+require('./config/passport');
+```
+>[[建置生命週期（MongoDB Atlas, Passport. OAuth）]]
+## passport-google 
+```js
 passport.use(new GoogleStrategy({
 		// 用 .env 存起來
     clientID: process.env.GOOGLE_CLIENT_ID,
@@ -56,11 +71,31 @@ passport.use(new GoogleStrategy({
 >- callbackURL 需要設定：
 >	 [[建立 Google 的 OAuth 憑證]]：[[Web Application Client ID 設定]]
 
-## 匯出 index.js
->[[匯出模組]]
-```js
-// ./config/passport 貼過來用
-// 不用 const 一個變數來存
-require('./config/passport');
-```
 
+
+## passport-local
+>- [[bcrypt#檢查密碼]]：登入時加密
+```js
+passport.use(new LocalStrategy(
+  (username, password, done) => {
+    User.findOne({ email: username }.then((user) => {
+			if(!user) {
+				// 不進行認證
+				return done(null, false);
+			}
+			bcrypt.compare(password, user.password, function(err, result) {
+				if (!result) {
+					return done(null, false);
+				}
+    		// result == true
+			});
+			return done(null, user);
+		}) {
+      if (err) { return done(err); }
+      if (!user) { return done(null, false); }
+      if (!user.verifyPassword(password)) { return done(null, false); }
+      return done(null, user);
+    });
+  }
+));
+```
