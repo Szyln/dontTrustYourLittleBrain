@@ -19,7 +19,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Passport.js/auth-route.md",
+                    "file": "Passport.js/Authenticate Requests.md",
                     "mode": "source"
                   }
                 }
@@ -27,7 +27,7 @@
               {
                 "id": "a358e70782e88fce",
                 "type": "leaf",
-                "dimension": 30.0952380952381,
+                "dimension": 30.095238095238095,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -63,7 +63,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Passport.js/auth-route.md",
+                    "file": "Passport.js/Authenticate Requests.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Passport.js/auth-route.md"
+                "file": "Passport.js/Authenticate Requests.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   },
   "active": "6df76448ee01f8f7",
   "lastOpenFiles": [
+    "Passport.js/Authenticate Requests.md",
     "Passport.js/auth-route.md",
     "本地帳號登入.md",
     "選擇什麼方式登入.md",
@@ -177,7 +178,6 @@
     "Passport.js/Configure Strategy.md",
     "Passport.js/建立 Google 的 OAuth 憑證.md",
     "Passport.js/Google OAuth Passport 建置.md",
-    "Passport.js/Passport.js.md",
-    "OAuth.md"
+    "Passport.js/Passport.js.md"
   ]
 }
