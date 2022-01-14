@@ -16,7 +16,8 @@ module.exports = Router;
 
 
 - [[選擇什麼方式登入]]
-	- [[本地註冊（Local Signup）]]
+- [[本地帳號登入]]
+- [[本地註冊（Local Signup）]]
 - [[登入後]]
 - [[登出]]
 
