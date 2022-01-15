@@ -15,11 +15,11 @@
               {
                 "id": "6df76448ee01f8f7",
                 "type": "leaf",
-                "dimension": 38.095238095238095,
+                "dimension": 68.0648236415634,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "passport-local.md",
+                    "file": "Configure Strategy(passport-local).md",
                     "mode": "source"
                   }
                 }
@@ -27,11 +27,11 @@
               {
                 "id": "a358e70782e88fce",
                 "type": "leaf",
-                "dimension": 61.904761904761905,
+                "dimension": 31.935176358436607,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Passport.js/Configure Strategy.md",
+                    "file": "Configure Strategy(passport-local).md",
                     "mode": "source"
                   }
                 }
@@ -63,7 +63,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Passport.js/Configure Strategy.md",
+                    "file": "Configure Strategy(passport-local).md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Passport.js/Configure Strategy.md"
+                "file": "Configure Strategy(passport-local).md"
               }
             }
           },
@@ -167,17 +167,17 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "a358e70782e88fce",
+  "active": "6df76448ee01f8f7",
   "lastOpenFiles": [
+    "Configure Strategy(passport-local).md",
     "Passport.js/Configure Strategy.md",
-    "後端/Authentication and Cryptography/Cryptography/bcrypt.md",
-    "passport-local.md",
     "Configure Strategy(local).md",
+    "passport-local.md",
+    "後端/Authentication and Cryptography/Cryptography/bcrypt.md",
     "建置生命週期（MongoDB Atlas, Passport. OAuth）.md",
     "Passport.js/Passport.js.md",
     "本地帳號登入.md",
     "Passport.js/auth-route.md",
-    "Passport.js/Authenticate Requests.md",
-    "選擇什麼方式登入.md"
+    "Passport.js/Authenticate Requests.md"
   ]
 }

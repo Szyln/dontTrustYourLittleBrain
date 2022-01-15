@@ -9,9 +9,11 @@
 > - 導過去之後的行為：[[Passport Verified Callback]]
 
 
-# passport.js
+## passport.js
 新增 config 資料夾，新增 passport.js 檔案 
-## 匯入
+
+
+## 模組設定
 >- [[Google OAuth Passport 建置]]
 >- [[passport-local]]
 >- [[bcrypt#檢查密碼]]：登入時加密
@@ -31,71 +33,7 @@ const bcrypt = require('bcrypt');
 require('./config/passport');
 ```
 >[[建置生命週期（MongoDB Atlas, Passport. OAuth）]]
-## passport-google 
-```js
-passport.use(new GoogleStrategy({
-		// 用 .env 存起來
-    clientID: process.env.GOOGLE_CLIENT_ID,
-    clientSecret: process.env.GOOGLE_CLIENT_SECRET,
-		// 
-    callbackURL: "/auth/google/redirect"
-  },
-	// done 是一個 callback function
-	// passport verified callback
-	(accessToken, refreshToken, profile, done) => {
-		console.log(profile);
-		User.findOne({googleID: profile.id})
-			.then((foundUser) => {
-				if(foundUser) {
-					console.log('User already exist');
-					done(null, foundUser);
-				} else {
-					new User({
-						
-						name: profile.displayName,
-						googeID: profile.id,
-						thumbnail: profile.photos[0].value,
-						email: profile.emails[0].value,
-					}).save().then((newUser) => {
-						console.log('成功透過 google 新增帳戶');
-						done(null, newUser);
-					})
-				}
-			})
-	}
- )
-);
-```
-> - [[dotenv（使用 env 變數）]]
->	 - [[passport-google-oauth20 的 .env 變數]]
->- callbackURL 需要設定：
->	 [[建立 Google 的 OAuth 憑證]]：[[Web Application Client ID 設定]]
 
-
-
-## passport-local
->- [[bcrypt#檢查密碼]]：登入時加密
-```js
-passport.use(new LocalStrategy(
-  (username, password, done) => {
-    User.findOne({ email: username }.then((user) => {
-			if(!user) {
-				// 不進行認證
-				return done(null, false);
-			}
-			bcrypt.compare(password, user.password, function(err, result) {
-				if (!result) {
-					return done(null, false);
-				}
-    		// result == true
-			});
-			return done(null, user);
-		}) {
-      if (err) { return done(err); }
-      if (!user) { return done(null, false); }
-      if (!user.verifyPassword(password)) { return done(null, false); }
-      return done(null, user);
-    });
-  }
-));
-```
+## Stretegy
+- [[Configure Strategy(passport-google)]]
+- [[Configure Strategy(passport-local)]]
