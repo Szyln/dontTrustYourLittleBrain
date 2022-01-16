@@ -1,7 +1,7 @@
 # MongoDB Atlas, Passport.js, OAuth
 - [[MongoDB Atlas]]
 - [[建置生命週期（MongoDB Atlas, Passport. OAuth）]]
-	- [[OAuth]]：[[Google OAuth Passport 建置]]
+	- [[OAuth]]
 		- 登入、登出 routing
 		- passport 建置
 		- google OAuth 憑證

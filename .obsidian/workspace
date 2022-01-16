@@ -4,81 +4,54 @@
     "type": "split",
     "children": [
       {
-        "id": "0fb7346730b69305",
+        "id": "a358e70782e88fce",
+        "type": "leaf",
+        "dimension": 58.53391684901532,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "選擇什麼方式登入.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "7a7d2514879c0bf8",
         "type": "split",
+        "dimension": 41.46608315098469,
         "children": [
           {
-            "id": "a593f65363878eee",
-            "type": "split",
-            "dimension": 78.20372398685652,
-            "children": [
-              {
-                "id": "6df76448ee01f8f7",
-                "type": "leaf",
-                "dimension": 68.0648236415634,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Configure Strategy(passport-local).md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "a358e70782e88fce",
-                "type": "leaf",
-                "dimension": 31.935176358436607,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Configure Strategy(passport-local).md",
-                    "mode": "source"
-                  }
-                }
+            "id": "5baf62a737be5b84",
+            "type": "leaf",
+            "dimension": 70.0952380952381,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Passport.js/Configure Strategy.md",
+                "mode": "source"
               }
-            ],
-            "direction": "horizontal"
+            }
           },
           {
-            "id": "b2ac5a21118e9bc7",
-            "type": "split",
-            "dimension": 21.796276013143483,
-            "children": [
-              {
-                "id": "d5533f891a47677f",
-                "type": "leaf",
-                "dimension": 55.66037735849057,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "MongoDB Atlas, Passport.js, OAuth.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "e43749bbc3598749",
-                "type": "leaf",
-                "dimension": 44.33962264150943,
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "Configure Strategy(passport-local).md",
-                    "collapseAll": true,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  }
-                }
+            "id": "7ab8c2e3270aafe7",
+            "type": "leaf",
+            "dimension": 29.904761904761905,
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "選擇什麼方式登入.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
-            ],
-            "direction": "horizontal"
+            }
           }
         ],
-        "direction": "vertical"
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -114,8 +87,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Configure Strategy(passport-local).md"
+                "file": "選擇什麼方式登入.md"
               }
             }
           },
@@ -167,17 +139,17 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "6df76448ee01f8f7",
+  "active": "a358e70782e88fce",
   "lastOpenFiles": [
-    "Configure Strategy(passport-local).md",
+    "選擇什麼方式登入.md",
+    "Passport.js/auth-route.md",
     "Passport.js/Configure Strategy.md",
-    "Configure Strategy(local).md",
     "passport-local.md",
-    "後端/Authentication and Cryptography/Cryptography/bcrypt.md",
-    "建置生命週期（MongoDB Atlas, Passport. OAuth）.md",
     "Passport.js/Passport.js.md",
     "本地帳號登入.md",
-    "Passport.js/auth-route.md",
-    "Passport.js/Authenticate Requests.md"
+    "MongoDB Atlas, Passport.js, OAuth.md",
+    "Configure Strategy(passport-local).md",
+    "Configure Strategy(passport-google).md",
+    "匯入(auth-route).md"
   ]
 }

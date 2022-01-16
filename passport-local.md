@@ -8,5 +8,5 @@ npm install passport-local
 ```js
 const LocalStrategy = require('passport-local');
 ```
-[[Configure Strategy(passport-local)]]
-[[Authenticate Requests(local)]]
+- [[Configure Strategy(passport-local)]]
+- [[Authenticate Requests(local)]]

@@ -8,11 +8,7 @@
 ---
 - [[匯入(auth-route)]]
 
-## 匯出
-```js
-// 匯出（給 index.js 用）
-module.exports = Router; 
-```
+
 
 
 - [[選擇什麼方式登入]]

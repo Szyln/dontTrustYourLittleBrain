@@ -10,3 +10,13 @@ ul ul::before { left: -11px; top: 0; bottom: 0;
 } 
 .cm-s-obsidian .HyperMD-codeblock { color: #aefffc;
 }
+.popover.hover-popover { width: 100%; }
+
+.cm-s-obsidian {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+.CodeMirror-linenumber {
+  padding: 0 0 0 0;
+  font-size: 8px;
+}

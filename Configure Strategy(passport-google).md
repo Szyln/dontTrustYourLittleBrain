@@ -1,4 +1,12 @@
 # Configure Strategy(passport-google)
+>[[Configure Strategy]]
+
+存取（clientID, cilentSecret）導向 [[Configure Strategy]] 設定的 callbackURL
+
+
+
+> - callbackURL 需要在	Google Cloud Platform 設定：[[Web Application Client ID 設定]]
+> - 導過去之後的行為：[[Passport Verified Callback]]
 ```js
 passport.use(new GoogleStrategy({
 		// 用 .env 存起來

@@ -1,4 +1,4 @@
-## 匯入(auth-route)
+# 匯入(auth-route)
 ```js
 // local login, oauth
 const router = require('express').Router();
@@ -12,3 +12,9 @@ const flash = require('connect-flash');
 >[[bcrypt]]
 >[[express-session]]
 >[[connect-flash]]
+
+## 匯出
+```js
+// 匯出（給 index.js 用）
+module.exports = Router; 
+```

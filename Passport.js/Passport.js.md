@@ -9,7 +9,7 @@ npm install passport passport-google-oauth20
 
 - [[Google OAuth Passport 建置]]
 - [[passport-local]]
-
+- [[Sessions in Passport]]
 ## 可使用的值
 使用 [[Passport.js]] 之後，可以使用幾個值
 - [[req.user]]

@@ -1,10 +1,11 @@
 # Configure Strategy(passport-local)
+>[[Configure Strategy]]
 >- [[bcrypt#檢查密碼]]：登入時加密
 ```js
 passport.use(new LocalStrategy(
-  (username, password, done) => {
-    User.findOne({ email: username }.then(async (user) => {
-			if(!user) {
+	(username, password, done) => {
+		User.findOne({ email: username }.then(async (user) => {
+			if (!user) {
 				// 不進行認證
 				return done(null, false);
 			}
@@ -19,8 +20,8 @@ passport.use(new LocalStrategy(
 				}
 			});
 		}).catch(err) {
-     return done(null, false);
-    });
-  })
-);
+		 return done(null, false);
+		});
+	})
+	);
 ```
