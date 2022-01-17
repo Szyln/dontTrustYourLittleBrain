@@ -23,7 +23,9 @@
 		- google OAuth 憑證
 		- Session （不用每次重開都要登入）
 
-
+- model
+	- [[user-model]]
+	- [[post-model.js]]
 
 
 

@@ -8,41 +8,25 @@
         "type": "split",
         "children": [
           {
-            "id": "c557d29aaff5eaec",
-            "type": "split",
-            "children": [
-              {
-                "id": "be0181c760d9429f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "passport-local.md",
-                    "mode": "source"
-                  }
-                }
-              },
-              {
-                "id": "a17f6e41d124ed48",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Passport.js/Configure Strategy.md",
-                    "mode": "source"
-                  }
-                }
+            "id": "be0181c760d9429f",
+            "type": "leaf",
+            "dimension": 58.050383351588174,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Passport.js/profile-route.md",
+                "mode": "source"
               }
-            ],
-            "direction": "horizontal"
+            }
           },
           {
             "id": "d90b9e30d4b91402",
             "type": "leaf",
+            "dimension": 41.94961664841183,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Passport.js/passport-google-oauth20.md",
+                "file": "建置生命週期（MongoDB Atlas, Passport. OAuth）.md",
                 "mode": "source"
               }
             }
@@ -75,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "const User =",
+                "query": "password: {",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Passport.js/passport-google-oauth20.md",
+                "file": "Passport.js/profile-route.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Passport.js/passport-google-oauth20.md"
+                "file": "Passport.js/profile-route.md"
               }
             }
           },
@@ -161,17 +145,17 @@
     "width": 171.73973083496094,
     "collapsed": true
   },
-  "active": "d90b9e30d4b91402",
+  "active": "be0181c760d9429f",
   "lastOpenFiles": [
-    "Passport.js/passport-google-oauth20.md",
-    "Passport.js/Configure Strategy.md",
-    "passport-local.md",
-    "Passport.js/Passport.js.md",
+    "Passport.js/profile-route.md",
+    "建置生命週期（MongoDB Atlas, Passport. OAuth）.md",
+    "Passport.js/Sessions in Passport.md",
     "MongoDB Atlas, Passport.js, OAuth.md",
-    "OAuth.md",
-    "Local Login.md",
-    "選擇什麼方式登入.md",
-    "Passport.js/auth-route.md",
-    "Google Login.md"
+    "passport-local.md",
+    "post-model.js.md",
+    "後端/Authentication and Cryptography/Authentication/建置（登入、註冊）.md",
+    "後端/Authentication and Cryptography/Authentication/製作登入、註冊介面.md",
+    "Passport.js/Configure Strategy.md",
+    "Passport.js/passport-google-oauth20.md"
   ]
 }

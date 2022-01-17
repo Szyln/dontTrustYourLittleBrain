@@ -27,7 +27,7 @@ mongoose.connect(process.env.DB_CONNECT).then(() => {
 >需設定的有
 >- [[EJS with Express 的基本設定]]
 >- [[body-parser]]：表單（登入表單）
->- [[cookie-session]]：關掉頁面可以不用重新登入
+>- [[cookie-session]]：關掉頁面可以不用重新登入（應該不用）
 >- [[Sessions in Passport]]：同上
 >- [[auth-route]]：設定 local 或是 OAuth 登入
 >- [[profile-route]]：登入後畫面的設定

@@ -1,7 +1,7 @@
 # profile-route
 >[[Authenticate Requests]]
 
-[[auth-route#用戶登入後]] 會顯示 profile.ejs 頁面
+[[登入後]] 會顯示 profile.ejs 頁面
 
 >[[登入前後頁面的變化]]
 ## middleware
@@ -31,6 +31,7 @@ const authCheck = (req, res, next) => {
 	}
 }
 
+// google login
 // 使用 req.user
 // /profile 請求中，客戶端會先經過 authCheck
 // 如果尚未認證會導去登入畫面，有的話就會執行這個 route
@@ -39,6 +40,11 @@ router.get('/', authCheck, (req, res) => {
 	res.render('profile', { user: req.user });
 })
 
+
+// local login
+route.get('/post', authCheck, (req, res) => {
+	res.render('post', { })
+})
 export.modules = router;
 ```
 >[[Routing 執行時的 Middleware（Route 中間）]]
