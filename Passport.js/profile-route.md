@@ -4,6 +4,7 @@
 [[登入後]] 會顯示 profile.ejs 頁面
 
 >[[登入前後頁面的變化]]
+
 ## middleware
 `/profile` 的路徑會先執行 profile-route 模組
 ```js
@@ -48,5 +49,5 @@ route.get('/post', authCheck, (req, res) => {
 export.modules = router;
 ```
 >[[Routing 執行時的 Middleware（Route 中間）]]
-
+[[post-model.js]]
 #passport #oauth #authentication #expressJs
