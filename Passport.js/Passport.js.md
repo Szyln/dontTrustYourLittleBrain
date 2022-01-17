@@ -12,6 +12,9 @@ npm install passport <看你要用什麼平台登入>
 - [[Sessions in Passport]]
 
 
+[[Authenticate Requests]]
+[[post-model.js]]
+
 ## 可使用的值
 使用 [[Passport.js]] 之後，可以使用幾個值
 - [[req.user]]

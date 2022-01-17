@@ -39,11 +39,11 @@ const authCheck = (req, res, next) => {
 router.get('/', authCheck, (req, res) => {
 	res.render('profile', { user: req.user });
 })
+```
 
-
-// local login
+```js
 route.get('/post', authCheck, (req, res) => {
-	res.render('post', { })
+	res.render('post', { user: req.user });
 })
 export.modules = router;
 ```

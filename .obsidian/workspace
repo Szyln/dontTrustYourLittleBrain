@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Passport.js/profile-route.md",
+                "file": "Passport.js/Authenticate Requests.md",
                 "mode": "source"
               }
             }
@@ -22,7 +22,7 @@
           {
             "id": "d90b9e30d4b91402",
             "type": "leaf",
-            "dimension": 41.94961664841183,
+            "dimension": 41.949616648411826,
             "state": {
               "type": "markdown",
               "state": {
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Passport.js/profile-route.md",
+                "file": "Passport.js/Authenticate Requests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Passport.js/profile-route.md"
+                "file": "Passport.js/Authenticate Requests.md"
               }
             }
           },
@@ -147,15 +147,15 @@
   },
   "active": "be0181c760d9429f",
   "lastOpenFiles": [
+    "Passport.js/Authenticate Requests.md",
+    "Passport.js/Passport.js.md",
+    "passport-local.md",
     "Passport.js/profile-route.md",
     "建置生命週期（MongoDB Atlas, Passport. OAuth）.md",
     "Passport.js/Sessions in Passport.md",
     "MongoDB Atlas, Passport.js, OAuth.md",
-    "passport-local.md",
     "post-model.js.md",
     "後端/Authentication and Cryptography/Authentication/建置（登入、註冊）.md",
-    "後端/Authentication and Cryptography/Authentication/製作登入、註冊介面.md",
-    "Passport.js/Configure Strategy.md",
-    "Passport.js/passport-google-oauth20.md"
+    "後端/Authentication and Cryptography/Authentication/製作登入、註冊介面.md"
   ]
 }

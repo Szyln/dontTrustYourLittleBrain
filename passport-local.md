@@ -12,6 +12,3 @@ const LocalStrategy = require('passport-local');
 - [[Configure Strategy(passport-local)]]
 - Authenticate Requests(local)
 	- [[Local Login]]
-
-## 模組
-[[post-model.js]]
