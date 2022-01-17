@@ -1,6 +1,7 @@
 # passport-local
+[passport-local](https://www.passportjs.org/packages/passport-local/)
+
 >[[Passport.js]]
->[[本地帳號登入]]
 
 ```
 npm install passport-local
@@ -9,4 +10,5 @@ npm install passport-local
 const LocalStrategy = require('passport-local');
 ```
 - [[Configure Strategy(passport-local)]]
-- [[Authenticate Requests(local)]]
+- Authenticate Requests(local)
+	- [[Local Login]]
