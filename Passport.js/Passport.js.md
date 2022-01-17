@@ -4,10 +4,10 @@
 Passport 提供 node 伺服器端使用各平台 OAuth 來登入
 ```
 // passport 模組跟 + 使用的特定平台 stretegy
-npm install passport passport-google-oauth20
+npm install passport <看你要用什麼平台登入>
 ```
 
-- [[Google OAuth Passport 建置]]
+- [[passport-google-oauth20]]
 - [[passport-local]]
 - [[Sessions in Passport]]
 

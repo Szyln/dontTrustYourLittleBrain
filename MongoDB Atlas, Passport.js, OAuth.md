@@ -1,4 +1,20 @@
 # MongoDB Atlas, Passport.js, OAuth
+```
+專案/
+|
+|– routes/
+|   |– auth-routes.js		# Authenticate Request
+|– config/
+|   |– passport.js			# Cofigure Strategy
+|– views/
+|   |– ejs 檔案
+|– public/
+|   |– css 檔案
+|– .env
+|– index.js
+|– 
+|– 
+```
 - [[MongoDB Atlas]]
 - [[建置生命週期（MongoDB Atlas, Passport. OAuth）]]
 	- [[OAuth]]

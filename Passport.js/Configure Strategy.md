@@ -1,6 +1,6 @@
 # Configure Strategy
-## passport.js
 新增 config 資料夾，新增 passport.js 檔案 
+
 ## 模組設定
 >- [[Passport.js]]
 >- [[用資料夾管理 Mongoose models 模組]]
