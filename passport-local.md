@@ -12,3 +12,4 @@ const LocalStrategy = require('passport-local');
 - [[Configure Strategy(passport-local)]]
 - Authenticate Requests(local)
 	- [[Local Login]]
+	- 

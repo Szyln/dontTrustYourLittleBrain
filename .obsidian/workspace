@@ -46,7 +46,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Passport.js/Configure Strategy.md",
+                    "file": "MongoDB Atlas, Passport.js, OAuth.md",
                     "mode": "source"
                   }
                 }
@@ -57,7 +57,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "passport-local.md",
+                    "file": "MongoDB Atlas, Passport.js, OAuth.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "passport-local.md"
+                "file": "MongoDB Atlas, Passport.js, OAuth.md"
               }
             }
           },
@@ -160,17 +160,17 @@
     "width": 211.68438720703125,
     "collapsed": true
   },
-  "active": "be0181c760d9429f",
+  "active": "708f1cc1036c4786",
   "lastOpenFiles": [
+    "MongoDB Atlas, Passport.js, OAuth.md",
+    "Passport.js/Configure Strategy.md",
     "passport-local.md",
-    "Passport.js/auth-route.md",
-    "選擇什麼方式登入.md",
-    "Google Login.md",
     "Local Login.md",
+    "選擇什麼方式登入.md",
+    "Passport.js/auth-route.md",
+    "Google Login.md",
     "Authenticate Requests(local).md",
     "本地帳號登入.md",
-    "Passport.js/Passport.js.md",
-    "Passport.js/Configure Strategy.md",
-    "MongoDB Atlas, Passport.js, OAuth.md"
+    "Passport.js/Passport.js.md"
   ]
 }
