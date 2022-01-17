@@ -1,14 +1,9 @@
 # Configure Strategy
-
-
-
 ## passport.js
 新增 config 資料夾，新增 passport.js 檔案 
-
-
 ## 模組設定
->- [[Google OAuth Passport 建置]]
->- [[passport-local]]
+>- [[Passport.js]]
+>- [[用資料夾管理 Mongoose models 模組]]
 >- [[bcrypt#檢查密碼]]：登入時加密
 ```js
 // config/passport.js
