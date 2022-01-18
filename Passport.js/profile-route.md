@@ -4,7 +4,18 @@
 [[登入後]] 會顯示 profile.ejs 頁面
 
 >[[登入前後頁面的變化]]
+## 匯出匯入
+```js
+// routes/profile-route.js
+const router = require('express').Router();
+// 新增貼文用
+const Post = reuqire('../models/post-model');
+```
 
+```js
+// 最後匯出
+export.modules = router;
+```
 ## middleware
 `/profile` 的路徑會先執行 profile-route 模組
 ```js
@@ -14,6 +25,7 @@ const profileRoute = require('./routes/profile-route');
 // middleware
 app.use('/profile', profileRoute);
 ```
+>[[建置生命週期（MongoDB Atlas, Passport. OAuth）]]
 
 ## profile-route
 >[[req.user]]
@@ -21,7 +33,6 @@ app.use('/profile', profileRoute);
 >[[req.isAuthenticated()]]
 ```js
 // routes/profile-route.js
-const router = require('express').Router();
 
 // 只給特定 route 用的 middleware 
 const authCheck = (req, res, next) => {
@@ -40,13 +51,35 @@ router.get('/', authCheck, (req, res) => {
 	res.render('profile', { user: req.user });
 })
 ```
+>[[Routing 執行時的 Middleware（Route 中間）]]
+
 ## profile 新增貼文
+再新增一個 [[post-model.js]] 來儲存貼文的數據
 ```js
-route.get('/post', authCheck, (req, res) => {
+// routes/profile-route.js
+// 匯入 post-model.js
+router.get('/post', authCheck, (req, res) => {
 	res.render('post', { user: req.user });
 })
-export.modules = router;
+
+router.post('/post', authCheck, async (req, res) => {
+	// 看 post.ejs 上面表單送出的 name
+	let { title, content } = req.body;
+	let newPost = new Post({ title, content, author: req.user._id });
+	try {
+		await newPost.save();
+			res.status(200).redirect('/profile');
+	} catch(err) {
+		req.flash('error_msg', '標題與內文必填');
+		req.redirect('/profile/post');
+	}
+})
+
 ```
 >[[Routing 執行時的 Middleware（Route 中間）]]
 >新增貼文的 model：[[post-model.js]]
+>[[登入前後頁面的變化]]
+>[[Form]]
+>[[Flash]]：[[本地註冊（Local Signup）]]
+
 #passport #oauth #authentication #expressJs

@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "fe7a086497909ccc",
+        "id": "2a12cd429ec6d5d7",
         "type": "split",
         "children": [
           {
-            "id": "be0181c760d9429f",
+            "id": "d90b9e30d4b91402",
             "type": "leaf",
-            "dimension": 58.050383351588174,
             "state": {
               "type": "markdown",
               "state": {
@@ -20,19 +19,18 @@
             }
           },
           {
-            "id": "d90b9e30d4b91402",
+            "id": "e1744330ed435c77",
             "type": "leaf",
-            "dimension": 41.949616648411826,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Passport.js/auth-route.md",
-                "mode": "source"
+                "file": "本地註冊（Local Signup）.md",
+                "mode": "preview"
               }
             }
           }
         ],
-        "direction": "vertical"
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -59,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "變化",
+                "query": "error_msg",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Passport.js/auth-route.md",
+                "file": "本地註冊（Local Signup）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Passport.js/auth-route.md"
+                "file": "本地註冊（Local Signup）.md"
               }
             }
           },
@@ -138,24 +136,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 171.73973083496094,
-    "collapsed": true
+    "width": 171.73973083496094
   },
-  "active": "d90b9e30d4b91402",
+  "active": "e1744330ed435c77",
   "lastOpenFiles": [
+    "本地註冊（Local Signup）.md",
+    "Passport.js/profile-route.md",
     "Passport.js/auth-route.md",
     "登入前後頁面的變化.md",
-    "Passport.js/profile-route.md",
+    "profile.ejs 設定：登入前後頁面的變化.md",
     "Passport.js/Authenticate Requests.md",
     "passport-local.md",
     "建置生命週期（MongoDB Atlas, Passport. OAuth）.md",
     "Passport.js/Passport.js.md",
-    "Passport.js/Sessions in Passport.md",
-    "MongoDB Atlas, Passport.js, OAuth.md",
-    "post-model.js.md"
+    "Passport.js/Sessions in Passport.md"
   ]
 }
