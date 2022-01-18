@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "建置生命週期（MongoDB Atlas, Passport. OAuth）.md",
+                "file": "Passport.js/auth-route.md",
                 "mode": "source"
               }
             }
@@ -59,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "password: {",
+                "query": "變化",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Passport.js/profile-route.md",
+                "file": "Passport.js/auth-route.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Passport.js/profile-route.md"
+                "file": "Passport.js/auth-route.md"
               }
             }
           },
@@ -145,17 +145,17 @@
     "width": 171.73973083496094,
     "collapsed": true
   },
-  "active": "be0181c760d9429f",
+  "active": "d90b9e30d4b91402",
   "lastOpenFiles": [
-    "Passport.js/profile-route.md",
+    "Passport.js/auth-route.md",
     "登入前後頁面的變化.md",
+    "Passport.js/profile-route.md",
     "Passport.js/Authenticate Requests.md",
-    "Passport.js/Passport.js.md",
     "passport-local.md",
     "建置生命週期（MongoDB Atlas, Passport. OAuth）.md",
+    "Passport.js/Passport.js.md",
     "Passport.js/Sessions in Passport.md",
     "MongoDB Atlas, Passport.js, OAuth.md",
-    "post-model.js.md",
-    "後端/Authentication and Cryptography/Authentication/建置（登入、註冊）.md"
+    "post-model.js.md"
   ]
 }

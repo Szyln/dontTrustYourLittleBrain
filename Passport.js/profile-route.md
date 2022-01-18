@@ -32,7 +32,6 @@ const authCheck = (req, res, next) => {
 	}
 }
 
-// google login
 // 使用 req.user
 // /profile 請求中，客戶端會先經過 authCheck
 // 如果尚未認證會導去登入畫面，有的話就會執行這個 route
@@ -41,7 +40,7 @@ router.get('/', authCheck, (req, res) => {
 	res.render('profile', { user: req.user });
 })
 ```
-
+## profile 新增貼文
 ```js
 route.get('/post', authCheck, (req, res) => {
 	res.render('post', { user: req.user });
@@ -49,5 +48,5 @@ route.get('/post', authCheck, (req, res) => {
 export.modules = router;
 ```
 >[[Routing 執行時的 Middleware（Route 中間）]]
-[[post-model.js]]
+>新增貼文的 model：[[post-model.js]]
 #passport #oauth #authentication #expressJs
