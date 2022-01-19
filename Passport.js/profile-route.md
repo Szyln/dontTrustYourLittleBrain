@@ -48,6 +48,7 @@ const authCheck = (req, res, next) => {
 // 如果尚未認證會導去登入畫面，有的話就會執行這個 route
 // render porfile 頁面
 router.get('/', authCheck, (req, res) => {
+
 	res.render('profile', { user: req.user });
 })
 ```
@@ -80,6 +81,30 @@ router.post('/post', authCheck, async (req, res) => {
 >新增貼文的 model：[[post-model.js]]
 >[[登入前後頁面的變化]]
 >[[Form]]
->[[Flash]]：[[本地註冊（Local Signup）]]
+>[[Flash]]：參考[[本地註冊（Local Signup）]]
+### 顯示所有貼文
+繼續修改顯示 profile 的頁面
+```js
+router.get('/', authCheck, async (req, res) => {
+	// 將 post-model 內的資料顯示到頁面上
+	let postFound = await Post.find({ author: req.user._id });
+	res.render('profile', { user: req.user, posts: postFound });
+})
+	
+```
 
+```js
+// profile.ejs
+<% if (posts.length > 0) { %>
+	<% for (let i = 0; i < posts.length; i++ ) { %>
+		<div class="card" style="width: 18rem">
+			<div class="card-body">
+				<h5 class="card-title"><%= posts[i].title %></h5>
+				<p class="card-text"><%= posts[i].content %></p>
+				<a href="#" class="btn btn-primary"><%= posts[i].date %> </a>
+			</div>
+		</div>
+	<% } %>
+<% } %>
+```
 #passport #oauth #authentication #expressJs

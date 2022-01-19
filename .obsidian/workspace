@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "本地註冊（Local Signup）.md",
+                "file": "Passport.js/profile-route.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "本地註冊（Local Signup）.md"
+                "file": "Passport.js/profile-route.md"
               }
             }
           },
@@ -143,10 +143,10 @@
     "direction": "horizontal",
     "width": 171.73973083496094
   },
-  "active": "e1744330ed435c77",
+  "active": "d90b9e30d4b91402",
   "lastOpenFiles": [
-    "本地註冊（Local Signup）.md",
     "Passport.js/profile-route.md",
+    "本地註冊（Local Signup）.md",
     "Passport.js/auth-route.md",
     "登入前後頁面的變化.md",
     "profile.ejs 設定：登入前後頁面的變化.md",
