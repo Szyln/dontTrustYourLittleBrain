@@ -21,7 +21,7 @@ server.listen(port, hostname, () => {				// 監聽 port
 - 匯入內建模組 `http`
 - middleware（到 express再談，[[Express 的 CSS 樣式環境建置 (Serving a Static File)]]）
 - 建立 Server
-- 監聽 [[port]]
+- 監聽 [[Port]]
 
 ### http 模組
 ```js
@@ -80,7 +80,7 @@ const server = http.createServer((req, res) => {
 ```
 
 >[[fs (File System)]]>[[writeFile]]
->[[port]]
+>[[Port]]
 
 #### 一些規則
 ```js
