@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React.md",
+            "file": "安裝 React.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React.md",
+                "file": "安裝 React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React.md"
+                "file": "安裝 React.md"
               }
             }
           },
@@ -127,6 +127,8 @@
   },
   "active": "d90b9e30d4b91402",
   "lastOpenFiles": [
+    "安裝 React.md",
+    "Vite.md",
     "React.md",
     "後端/MongoDB Atlas, Passport.js, OAuth/Passport.js/req.user.md",
     "後端/MongoDB Atlas, Passport.js, OAuth/Passport.js/Configure Strategy(passport-local).md",
@@ -134,8 +136,6 @@
     "後端/MongoDB Atlas, Passport.js, OAuth/Passport.js/OAuth.md",
     "後端/MongoDB Atlas, Passport.js, OAuth/MongoDB Atlas, Passport.js, OAuth.md",
     "其他/生活/品牌接案.md",
-    "後端/MongoDB Atlas, Passport.js, OAuth/Passport.js/profile-route.md",
-    "後端/MongoDB Atlas, Passport.js, OAuth/本地註冊（Local Signup）.md",
-    "後端/MongoDB Atlas, Passport.js, OAuth/Passport.js/auth-route.md"
+    "後端/MongoDB Atlas, Passport.js, OAuth/Passport.js/profile-route.md"
   ]
 }
