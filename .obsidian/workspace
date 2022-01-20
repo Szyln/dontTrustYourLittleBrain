@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "後端/MongoDB Atlas, Passport.js, OAuth/Stateless Authentication.md",
+            "file": "React 基本原理.md",
             "mode": "source"
           }
         }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243
+    "width": 243,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "後端/MongoDB Atlas, Passport.js, OAuth/Stateless Authentication.md",
+                "file": "React 基本原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "後端/MongoDB Atlas, Passport.js, OAuth/Stateless Authentication.md"
+                "file": "React 基本原理.md"
               }
             }
           },
@@ -127,15 +128,15 @@
   },
   "active": "d90b9e30d4b91402",
   "lastOpenFiles": [
-    "後端/MongoDB Atlas, Passport.js, OAuth/Stateless Authentication.md",
-    "後端/MongoDB Atlas, Passport.js, OAuth/MongoDB Atlas, Passport.js, OAuth.md",
-    "安裝 React.md",
-    "Vite.md",
+    "React 基本原理.md",
     "React.md",
+    "安裝 React.md",
+    "後端/MongoDB Atlas, Passport.js, OAuth/MongoDB Atlas, Passport.js, OAuth.md",
+    "後端/MongoDB Atlas, Passport.js, OAuth/Stateless Authentication.md",
+    "Vite.md",
     "後端/MongoDB Atlas, Passport.js, OAuth/Passport.js/req.user.md",
     "後端/MongoDB Atlas, Passport.js, OAuth/Passport.js/Configure Strategy(passport-local).md",
     "後端/Middlewares, Error Handling, Cookies, Sessions.md",
-    "後端/MongoDB Atlas, Passport.js, OAuth/Passport.js/OAuth.md",
-    "其他/生活/品牌接案.md"
+    "後端/MongoDB Atlas, Passport.js, OAuth/Passport.js/OAuth.md"
   ]
 }
