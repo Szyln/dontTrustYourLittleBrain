@@ -4,6 +4,8 @@
 客戶端成功登入後，server 會將客戶資料加密，回傳給客戶端（token），存在 [[Local Storage]]（客戶端不能更動）
 之後客戶端傳送請求時，server 將 token 解密，確定這筆請求是不是有認證過
 
+>相關文章[以 JSON Web Token 替代傳統 Token](https://yami.io/jwt/)
+
 ## 優點
 - 不佔用伺服器資源：token 儲存在客戶端
 - 後端無權限刪除資料：token 儲存在客戶端，後端無法修改

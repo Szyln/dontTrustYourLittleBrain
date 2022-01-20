@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "安裝 React.md",
+            "file": "後端/MongoDB Atlas, Passport.js, OAuth/Stateless Authentication.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "error_msg",
+                "query": "stateless",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,12 +48,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 243,
-    "collapsed": true
+    "width": 243
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "安裝 React.md",
+                "file": "後端/MongoDB Atlas, Passport.js, OAuth/Stateless Authentication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "安裝 React.md"
+                "file": "後端/MongoDB Atlas, Passport.js, OAuth/Stateless Authentication.md"
               }
             }
           },
@@ -127,6 +127,8 @@
   },
   "active": "d90b9e30d4b91402",
   "lastOpenFiles": [
+    "後端/MongoDB Atlas, Passport.js, OAuth/Stateless Authentication.md",
+    "後端/MongoDB Atlas, Passport.js, OAuth/MongoDB Atlas, Passport.js, OAuth.md",
     "安裝 React.md",
     "Vite.md",
     "React.md",
@@ -134,8 +136,6 @@
     "後端/MongoDB Atlas, Passport.js, OAuth/Passport.js/Configure Strategy(passport-local).md",
     "後端/Middlewares, Error Handling, Cookies, Sessions.md",
     "後端/MongoDB Atlas, Passport.js, OAuth/Passport.js/OAuth.md",
-    "後端/MongoDB Atlas, Passport.js, OAuth/MongoDB Atlas, Passport.js, OAuth.md",
-    "其他/生活/品牌接案.md",
-    "後端/MongoDB Atlas, Passport.js, OAuth/Passport.js/profile-route.md"
+    "其他/生活/品牌接案.md"
   ]
 }
