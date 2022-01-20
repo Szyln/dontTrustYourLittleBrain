@@ -4,28 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "76abc59bc68503c1",
+        "id": "e8c157f2345dcb8e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他/硬體、生產力/VsCode/Editor 快捷鍵.md",
+            "file": "安裝 React.md",
             "mode": "source"
           }
-        },
-        "group": "eb8005baf85bd47e"
-      },
-      {
-        "id": "35db1a84cbec1bff",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "其他/硬體、生產力/VsCode/Editor 快捷鍵.md",
-            "mode": "preview"
-          }
-        },
-        "group": "eb8005baf85bd47e"
+        }
       }
     ],
     "direction": "vertical"
@@ -52,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "快捷鍵",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -83,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/硬體、生產力/VsCode/Editor 快捷鍵.md",
+                "file": "安裝 React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/硬體、生產力/VsCode/Editor 快捷鍵.md"
+                "file": "安裝 React.md"
               }
             }
           },
@@ -138,17 +124,17 @@
     "width": 171.73973083496094,
     "collapsed": true
   },
-  "active": "76abc59bc68503c1",
+  "active": "e8c157f2345dcb8e",
   "lastOpenFiles": [
+    "安裝 React.md",
+    "線上筆記.md",
+    "JavaScript/資料類型/Object, Array/變數簡寫語法糖.md",
+    "後端/EJS/撰寫規則/EJS 使用變數顯示於網頁上.md",
+    "後端/Express.js/Express.js.md",
+    "JavaScript/DOM/Dynamic Header.md",
     "其他/硬體、生產力/VsCode/Editor 快捷鍵.md",
     "筆記軟體推薦.md",
     "JavaScript/DOM/HTMLCollection, Nodelist, array 比較.md",
-    "後端/Node.js/Node.js.md",
-    "後端/Database/noSQL/Mongoose/Schema Type/通用的 Validators.md",
-    "後端/Node.js/模組/使用/匯入模組.md",
-    "JavaScript/資料類型/Boolean.md",
-    "React 基本原理.md",
-    "React.md",
-    "安裝 React.md"
+    "後端/Node.js/Node.js.md"
   ]
 }

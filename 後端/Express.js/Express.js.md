@@ -12,6 +12,10 @@
 - port listening
 
 
+obsidian讀:[[筆記軟體推薦]]
+
+> ejiowrjiowqrjio
+> ekwoepwkoep
 ### [[Routing]]
 - [[Routing for all 回應亂打的網址]]
 - [[Routing for pattern 回應有規律的網址]]
