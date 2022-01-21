@@ -8,11 +8,8 @@
         "type": "leaf",
         "dimension": 70.60535506402795,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Markdown 圖片.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         },
         "group": "bc5bd5d95a86861e"
       },
@@ -21,11 +18,8 @@
         "type": "leaf",
         "dimension": 29.39464493597206,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Markdown 圖片.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         },
         "group": "bc5bd5d95a86861e"
       }
@@ -67,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 181.5107650756836,
-    "collapsed": true
+    "width": 181.5107650756836
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -85,7 +78,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown 圖片.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,9 +111,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Markdown 圖片.md"
-              }
+              "state": {}
             }
           },
           {
@@ -142,15 +132,15 @@
   },
   "active": "e8c157f2345dcb8e",
   "lastOpenFiles": [
+    "Pasted image 20220121152106.png",
+    "React 基本原理.md",
+    "未命名.md",
     "Markdown 圖片.md",
     "其他/聲學/Spatial Audio/Ambisonics.md",
     "安裝 React.md",
     "線上筆記.md",
     "JavaScript/資料類型/Object, Array/變數簡寫語法糖.md",
     "後端/EJS/撰寫規則/EJS 使用變數顯示於網頁上.md",
-    "後端/Express.js/Express.js.md",
-    "JavaScript/DOM/Dynamic Header.md",
-    "其他/硬體、生產力/VsCode/Editor 快捷鍵.md",
-    "筆記軟體推薦.md"
+    "後端/Express.js/Express.js.md"
   ]
 }
