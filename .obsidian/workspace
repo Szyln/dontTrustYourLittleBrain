@@ -6,22 +6,13 @@
       {
         "id": "e8c157f2345dcb8e",
         "type": "leaf",
-        "dimension": 70.60535506402795,
         "state": {
-          "type": "empty",
-          "state": {}
-        },
-        "group": "bc5bd5d95a86861e"
-      },
-      {
-        "id": "44f6c1bc75204a6d",
-        "type": "leaf",
-        "dimension": 29.39464493597206,
-        "state": {
-          "type": "empty",
-          "state": {}
-        },
-        "group": "bc5bd5d95a86861e"
+          "type": "markdown",
+          "state": {
+            "file": "React.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -61,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 181.5107650756836
+    "width": 181.5107650756836,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -78,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "React.md"
+              }
             }
           },
           {
@@ -132,15 +127,15 @@
   },
   "active": "e8c157f2345dcb8e",
   "lastOpenFiles": [
-    "Pasted image 20220121152106.png",
+    "React.md",
+    "JSX.md",
+    "Babel.md",
+    "Compiler.md",
     "React 基本原理.md",
-    "未命名.md",
-    "Markdown 圖片.md",
-    "其他/聲學/Spatial Audio/Ambisonics.md",
+    "後端/Node.js/模組/使用/匯入模組.md",
     "安裝 React.md",
-    "線上筆記.md",
-    "JavaScript/資料類型/Object, Array/變數簡寫語法糖.md",
-    "後端/EJS/撰寫規則/EJS 使用變數顯示於網頁上.md",
-    "後端/Express.js/Express.js.md"
+    "Vite.md",
+    "Pasted image 20220121152106.png",
+    "未命名.md"
   ]
 }
