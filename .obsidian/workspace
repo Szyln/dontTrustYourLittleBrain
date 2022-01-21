@@ -6,13 +6,28 @@
       {
         "id": "e8c157f2345dcb8e",
         "type": "leaf",
+        "dimension": 70.60535506402795,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "安裝 React.md",
+            "file": "Markdown 圖片.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "bc5bd5d95a86861e"
+      },
+      {
+        "id": "44f6c1bc75204a6d",
+        "type": "leaf",
+        "dimension": 29.39464493597206,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Markdown 圖片.md",
+            "mode": "preview"
+          }
+        },
+        "group": "bc5bd5d95a86861e"
       }
     ],
     "direction": "vertical"
@@ -39,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "!()",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 181.5107650756836
+    "width": 181.5107650756836,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -69,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "安裝 React.md",
+                "file": "Markdown 圖片.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "安裝 React.md"
+                "file": "Markdown 圖片.md"
               }
             }
           },
@@ -126,6 +142,8 @@
   },
   "active": "e8c157f2345dcb8e",
   "lastOpenFiles": [
+    "Markdown 圖片.md",
+    "其他/聲學/Spatial Audio/Ambisonics.md",
     "安裝 React.md",
     "線上筆記.md",
     "JavaScript/資料類型/Object, Array/變數簡寫語法糖.md",
@@ -133,8 +151,6 @@
     "後端/Express.js/Express.js.md",
     "JavaScript/DOM/Dynamic Header.md",
     "其他/硬體、生產力/VsCode/Editor 快捷鍵.md",
-    "筆記軟體推薦.md",
-    "JavaScript/DOM/HTMLCollection, Nodelist, array 比較.md",
-    "後端/Node.js/Node.js.md"
+    "筆記軟體推薦.md"
   ]
 }
