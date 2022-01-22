@@ -8,6 +8,7 @@
 import React from 'react';
 import ReactDOM from'react-dom';
 
+// (在 [[JSX]] 當中會提到如何簡化這段)
 function App() {
 	return <一些東西>;
 }
