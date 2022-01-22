@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React.md",
+            "file": "React 基本原理.md",
             "mode": "source"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React.md",
+                "file": "React 基本原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React.md"
+                "file": "React 基本原理.md"
               }
             }
           },
@@ -128,15 +128,15 @@
   },
   "active": "e8c157f2345dcb8e",
   "lastOpenFiles": [
+    "React 基本原理.md",
     "React.md",
     "環境.md",
+    "React Snippet.md",
+    "寫法.md",
     "安裝 React.md",
     "JSX.md",
     "Babel.md",
-    "React 基本原理.md",
     "Compiler.md",
-    "後端/Node.js/模組/使用/匯入模組.md",
-    "Vite.md",
-    "Pasted image 20220121152106.png"
+    "後端/Node.js/模組/使用/匯入模組.md"
   ]
 }
