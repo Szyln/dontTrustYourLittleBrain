@@ -14,6 +14,7 @@
 - [[React Snippet]]
 - [[寫法]]
 - [[Styling in JSX]]
+- [[Props(Properties)]]
 
 - [[index.jsx]]
 
