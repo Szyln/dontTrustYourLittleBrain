@@ -12,20 +12,7 @@
             "file": "Markdown 寫 code.md",
             "mode": "source"
           }
-        },
-        "group": "e3dd43faf1a12653"
-      },
-      {
-        "id": "6e30d786a46d3740",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Markdown 寫 code.md",
-            "mode": "preview"
-          }
-        },
-        "group": "e3dd43faf1a12653"
+        }
       }
     ],
     "direction": "vertical"
@@ -141,14 +128,14 @@
   "active": "e8c157f2345dcb8e",
   "lastOpenFiles": [
     "Markdown 寫 code.md",
-    "Inline styling(JSX).md",
-    "Styling in JSX.md",
-    "React.md",
-    "安裝 React.md",
-    "寫法.md",
-    "JavaScript/資料類型/Function/4.箭頭函式 arrow function.md",
-    "React 基本原理.md",
+    "Babel.md",
+    "單行 html 的 React 寫法.md",
+    "未命名.md",
+    "React Snippet.md",
     "環境.md",
-    "React Snippet.md"
+    "React 基本原理.md",
+    "安裝 React.md",
+    "React.md",
+    "Styling in JSX.md"
   ]
 }
