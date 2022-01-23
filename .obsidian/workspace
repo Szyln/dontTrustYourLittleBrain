@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Markdown 寫 code.md",
+            "file": "Inline styling(JSX).md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 181.5107650756836,
-    "collapsed": true
+    "width": 181.5107650756836
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown 寫 code.md",
+                "file": "Inline styling(JSX).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown 寫 code.md"
+                "file": "Inline styling(JSX).md"
               }
             }
           },
@@ -127,6 +126,7 @@
   },
   "active": "e8c157f2345dcb8e",
   "lastOpenFiles": [
+    "Inline styling(JSX).md",
     "Markdown 寫 code.md",
     "Babel.md",
     "單行 html 的 React 寫法.md",
@@ -135,7 +135,6 @@
     "環境.md",
     "React 基本原理.md",
     "安裝 React.md",
-    "React.md",
-    "Styling in JSX.md"
+    "React.md"
   ]
 }

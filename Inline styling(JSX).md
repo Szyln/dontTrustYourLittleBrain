@@ -1,14 +1,11 @@
-# Inline styling
+# Inline Styling
 
-`i = 3` ：前後各一個`可以寫內文用的 code（比較不好整理）
 
 ```jsx
-// 前後各三個 ` 包起來可以寫一塊程式碼
-const App = () => {
-
-}
-```
-
-```python
-app = 2;
+const App = () =>  (
+  <div>
+    {/* 記得不要直接寫 font-size（不要寫 -） */}
+    <h1 style= {{ color: "blue", fontSize: "10rem"}}>My Profile</h1>
+  </div>
+);
 ```
