@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Props(Properties).md",
+            "file": "Styling in JSX.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Props(Properties).md",
+                "file": "Styling in JSX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Props(Properties).md"
+                "file": "Styling in JSX.md"
               }
             }
           },
@@ -126,6 +126,8 @@
   },
   "active": "e8c157f2345dcb8e",
   "lastOpenFiles": [
+    "Styling in JSX.md",
+    "SCSS(JSX).md",
     "Props(Properties).md",
     "蛋糕.md",
     "Inline styling(JSX).md",
@@ -133,8 +135,6 @@
     "Babel.md",
     "單行 html 的 React 寫法.md",
     "React Snippet.md",
-    "環境.md",
-    "React 基本原理.md",
-    "安裝 React.md"
+    "環境.md"
   ]
 }
