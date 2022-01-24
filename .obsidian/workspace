@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "蛋糕.md",
+            "file": "Props(Properties).md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "蛋糕.md",
+                "file": "Props(Properties).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "蛋糕.md"
+                "file": "Props(Properties).md"
               }
             }
           },
@@ -126,6 +126,7 @@
   },
   "active": "e8c157f2345dcb8e",
   "lastOpenFiles": [
+    "Props(Properties).md",
     "蛋糕.md",
     "Inline styling(JSX).md",
     "Markdown 寫 code.md",
@@ -134,7 +135,6 @@
     "React Snippet.md",
     "環境.md",
     "React 基本原理.md",
-    "安裝 React.md",
-    "React.md"
+    "安裝 React.md"
   ]
 }
