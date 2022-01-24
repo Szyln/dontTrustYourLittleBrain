@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "蛋糕.md",
-            "mode": "source"
+            "file": "JavaScript/物件導向 OOP/繼承/Class（語法糖）.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "蛋糕.md",
+                "file": "JavaScript/物件導向 OOP/繼承/Class（語法糖）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "蛋糕.md"
+                "file": "JavaScript/物件導向 OOP/繼承/Class（語法糖）.md"
               }
             }
           },
@@ -126,6 +126,7 @@
   },
   "active": "e8c157f2345dcb8e",
   "lastOpenFiles": [
+    "JavaScript/物件導向 OOP/繼承/Class（語法糖）.md",
     "蛋糕.md",
     "Styling in JSX.md",
     "SCSS(JSX).md",
@@ -134,7 +135,6 @@
     "Markdown 寫 code.md",
     "Babel.md",
     "單行 html 的 React 寫法.md",
-    "React Snippet.md",
-    "環境.md"
+    "React Snippet.md"
   ]
 }
