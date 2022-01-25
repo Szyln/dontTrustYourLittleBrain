@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React.DOM.md",
+            "file": "JSX 生成標籤.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "react",
+                "query": "append",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React.DOM.md",
+                "file": "JSX 生成標籤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React.DOM.md"
+                "file": "JSX 生成標籤.md"
               }
             }
           },
@@ -127,15 +128,15 @@
   },
   "active": "e8c157f2345dcb8e",
   "lastOpenFiles": [
-    "React.DOM.md",
+    "JSX 生成標籤.md",
     "React.md",
+    "React.createElement()：生成標籤.md",
+    "ReactDOM：渲染.md",
     "React 基本原理.md",
-    "未命名.md",
-    "JavaScript/物件導向 OOP/繼承/Class（語法糖）.md",
-    "蛋糕.md",
-    "Styling in JSX.md",
-    "SCSS(JSX).md",
-    "Props(Properties).md",
-    "Inline styling(JSX).md"
+    "JavaScript/DOM/DOM 需要知道的 methods, properties.md",
+    "JavaScript/DOM/DOM 簡要.md",
+    "JavaScript/DOM/HTMLCollection, Nodelist, array 比較.md",
+    "JavaScript/DOM/DOM 新舊對比.md",
+    "未命名.md"
   ]
 }
