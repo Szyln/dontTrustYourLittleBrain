@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React.md",
+            "file": "React.DOM.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React.md",
+                "file": "React.DOM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React.md"
+                "file": "React.DOM.md"
               }
             }
           },
@@ -127,6 +127,7 @@
   },
   "active": "e8c157f2345dcb8e",
   "lastOpenFiles": [
+    "React.DOM.md",
     "React.md",
     "React 基本原理.md",
     "未命名.md",
@@ -135,7 +136,6 @@
     "Styling in JSX.md",
     "SCSS(JSX).md",
     "Props(Properties).md",
-    "Inline styling(JSX).md",
-    "Markdown 寫 code.md"
+    "Inline styling(JSX).md"
   ]
 }
