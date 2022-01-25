@@ -2,6 +2,7 @@
 ```js
 // 可以直接簡寫成：
 ReactDom.render('要渲染的內容', document.quertSelector('#渲染位置'));
+// 要渲染的內容只能有一個
 ```
 
 ---

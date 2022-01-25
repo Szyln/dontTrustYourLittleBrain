@@ -1,6 +1,6 @@
 # JSX 生成標籤
-[[JSX]]
->[[React.createElement()：生成標籤]]
+
+[[React.createElement()：生成標籤]]寫起來並沒有效率，透過 [[JSX]] 格式來寫可以更接近 HTML 
 
 ```js
 const element = React.createElement(
@@ -8,13 +8,12 @@ const element = React.createElement(
 	{ className: 'Container' },
 	'Hello World'
 )
-
-// 渲染
 ```
 ```jsx
 const element = <div className="container">Hello World</div>
-
-// 渲染
 ```
-> [[]]
+> [[ReactDOM：渲染]]
+>[[JSX 內的 HTML 加入 JS 程式碼]]
+
+
 #react #html #js

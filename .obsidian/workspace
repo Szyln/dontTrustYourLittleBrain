@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JSX 生成標籤.md",
+            "file": "ReactDOM：渲染.md",
             "mode": "source"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSX 生成標籤.md",
+                "file": "ReactDOM：渲染.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSX 生成標籤.md"
+                "file": "ReactDOM：渲染.md"
               }
             }
           },
@@ -128,15 +128,15 @@
   },
   "active": "e8c157f2345dcb8e",
   "lastOpenFiles": [
-    "JSX 生成標籤.md",
-    "React.md",
-    "React.createElement()：生成標籤.md",
     "ReactDOM：渲染.md",
+    "React.md",
+    "定義屬性(props).md",
+    "JSX 內的 HTML 加入 JS 程式碼.md",
+    "JSX 生成標籤.md",
+    "在 JSX 內使用 JS 變數.md",
+    "JSX.md",
+    "React.createElement()：生成標籤.md",
     "React 基本原理.md",
-    "JavaScript/DOM/DOM 需要知道的 methods, properties.md",
-    "JavaScript/DOM/DOM 簡要.md",
-    "JavaScript/DOM/HTMLCollection, Nodelist, array 比較.md",
-    "JavaScript/DOM/DOM 新舊對比.md",
-    "未命名.md"
+    "JavaScript/DOM/DOM 需要知道的 methods, properties.md"
   ]
 }

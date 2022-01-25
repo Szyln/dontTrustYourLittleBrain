@@ -10,7 +10,7 @@
 - [[環境]]
 - [[JSX]]
 - [[React Snippet]]
-- [[寫法]]
+- [[JSX 內的 HTML 加入 JS 程式碼]]
 - [[Styling in JSX]]
 - [[Props(Properties)]]
 
@@ -18,4 +18,6 @@
 - [[ReactDOM：渲染]]
 - [[React.createElement()：生成標籤]]
 - [[JSX 生成標籤]]
+- [[定義屬性(props)]]
+-  
 #framework #frontend #js #css #html #node #jsx
