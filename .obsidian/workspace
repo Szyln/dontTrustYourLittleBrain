@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/物件導向 OOP/繼承/Class（語法糖）.md",
-            "mode": "preview"
+            "file": "React.md",
+            "mode": "source"
           }
         }
       }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 181.5107650756836
+    "width": 181.5107650756836,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/物件導向 OOP/繼承/Class（語法糖）.md",
+                "file": "React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/物件導向 OOP/繼承/Class（語法糖）.md"
+                "file": "React.md"
               }
             }
           },
@@ -126,15 +127,15 @@
   },
   "active": "e8c157f2345dcb8e",
   "lastOpenFiles": [
+    "React.md",
+    "React 基本原理.md",
+    "未命名.md",
     "JavaScript/物件導向 OOP/繼承/Class（語法糖）.md",
     "蛋糕.md",
     "Styling in JSX.md",
     "SCSS(JSX).md",
     "Props(Properties).md",
     "Inline styling(JSX).md",
-    "Markdown 寫 code.md",
-    "Babel.md",
-    "單行 html 的 React 寫法.md",
-    "React Snippet.md"
+    "Markdown 寫 code.md"
   ]
 }

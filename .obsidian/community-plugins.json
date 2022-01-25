@@ -1,7 +1,7 @@
 [
   "obsidian-imgur-plugin",
   "obsidian-git",
-  "obsidian-outliner",
   "url-into-selection",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "cm-show-whitespace-obsidian"
 ]
