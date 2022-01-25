@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Component.md",
+            "file": "JSX 生成標籤.md",
             "mode": "source"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Component.md",
+                "file": "JSX 生成標籤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Component.md"
+                "file": "JSX 生成標籤.md"
               }
             }
           },
@@ -128,15 +128,15 @@
   },
   "active": "e8c157f2345dcb8e",
   "lastOpenFiles": [
+    "JSX 生成標籤.md",
     "Component.md",
-    "JavaScript/資料類型/typeof.md",
     "React.createElement()：生成標籤.md",
+    "JavaScript/資料類型/typeof.md",
     "React.md",
     "定義屬性(props).md",
     "JSX 內的 HTML 加入 JS 程式碼.md",
     "React.Fragment：生成複數標籤.md",
     "children.md",
-    "ReactDOM：渲染.md",
-    "React 基本原理.md"
+    "ReactDOM：渲染.md"
   ]
 }

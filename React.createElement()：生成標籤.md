@@ -1,5 +1,6 @@
 # React.createElement()：生成標籤
 >[[ReactDOM：渲染]]
+>[[JSX 生成標籤]]
 >[[React.Fragment：生成複數標籤]]
 
 生成標籤的原理，但實際撰寫時會用更方便的方法：[[JSX]]
