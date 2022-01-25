@@ -24,5 +24,6 @@
 	- [[React.Fragment：生成複數標籤]]
 - [[定義屬性(props)]]
 - [[Component]]
+- [[PropTypes：元件參數的 Vaildator]]
 
 #framework #frontend #js #css #html #node #jsx

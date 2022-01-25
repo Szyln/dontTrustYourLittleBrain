@@ -2,9 +2,9 @@
 ```js
 // 可以直接簡寫成：
 ReactDom.render('要渲染的內容', document.quertSelector('#渲染位置'));
-// <要渲染的內容> 只能有一個，不然要使用 [[React Fragment]]
+// <要渲染的內容> 只能有一個
 ```
->[[React.Fragment：生成複數標籤]]
+>想要一次渲染多個內容 [[React.Fragment：生成複數標籤]]
 ---
 
 ```html

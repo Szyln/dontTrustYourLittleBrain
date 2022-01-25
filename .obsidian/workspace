@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JSX 生成標籤.md",
+            "file": "PropTypes：元件參數的 Vaildator.md",
             "mode": "source"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSX 生成標籤.md",
+                "file": "PropTypes：元件參數的 Vaildator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSX 生成標籤.md"
+                "file": "PropTypes：元件參數的 Vaildator.md"
               }
             }
           },
@@ -128,15 +128,15 @@
   },
   "active": "e8c157f2345dcb8e",
   "lastOpenFiles": [
-    "JSX 生成標籤.md",
+    "PropTypes：元件參數的 Vaildator.md",
+    "React.md",
     "Component.md",
+    "ReactDOM：渲染.md",
+    "定義屬性(props).md",
+    "JSX 生成標籤.md",
     "React.createElement()：生成標籤.md",
     "JavaScript/資料類型/typeof.md",
-    "React.md",
-    "定義屬性(props).md",
     "JSX 內的 HTML 加入 JS 程式碼.md",
-    "React.Fragment：生成複數標籤.md",
-    "children.md",
-    "ReactDOM：渲染.md"
+    "React.Fragment：生成複數標籤.md"
   ]
 }

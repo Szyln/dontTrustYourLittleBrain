@@ -12,8 +12,13 @@ const HelloElement = React.createElement(
 ```jsx
 const HellowElement = <h1 className="title">Hello World</h1>
 ```
+
 ## 利用 {} 重複使用
->[[JSX 內的 HTML 加入 JS 程式碼]]
+純 HTML 重複利用
+
+>事前知識：[[JSX 內的 HTML 加入 JS 程式碼]]
+>如果是要元件重複利用（可以導入參數）：[[Component]]
+
 ```jsx
 const element = (
 	<div>
@@ -21,7 +26,4 @@ const element = (
 	</div>
 )
 ```
-> [[ReactDOM：渲染]]
-
-
 #react #html #js
