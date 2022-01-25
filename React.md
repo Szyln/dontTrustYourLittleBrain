@@ -16,10 +16,13 @@
 
 - [[index.jsx]]
 
-
+## Kent C. Dodds
 - [[ReactDOM：渲染]]
-- [[React.createElement()：生成標籤]]
-- [[JSX 生成標籤]]
+- 生成標籤
+	- [[React.createElement()：生成標籤]]
+	- [[JSX 生成標籤]]
+	- [[React.Fragment：生成複數標籤]]
 - [[定義屬性(props)]]
--  
+- [[Component]]
+
 #framework #frontend #js #css #html #node #jsx

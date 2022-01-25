@@ -5,6 +5,7 @@
 
 ```js
 // 生成標籤，並指定屬性（第二個參數，為物件）
+// 屬性參數包含：寫入 CSS、className 等等等
 const element = React.createElement('div', {
 	className: 'container',
 	children: 'Hello World',		// children 等同 textContent
@@ -22,26 +23,9 @@ const element = React.createElement('div', {
 >
 >// 渲染
 >```
-
 ### children
-- 等同於內文
-- 可以獨立出來當做 `React.createElement()` 的第三個（或更多）參數
-- 可以多個 children
+等同於 textContent
+>[[children]]
 
-> 但是多個標籤不行，要使用[[React.Fragment]]
 
-```js
-const element = React.createElement('div', {
-	className: 'container',
-	//  array
-	children: ['Hello World', 'Goodbye World'],
-})
-```
-```js
-const element = React.createElement(
-	'div', 
-	{	className: 'container' },
-	'Hello World', 'Goodbye World', 	// 可以多個
-)
-```
 #react #dom #html #js

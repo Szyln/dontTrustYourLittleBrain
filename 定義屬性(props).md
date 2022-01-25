@@ -4,7 +4,6 @@
 ## 只用 JS 定義屬性的值 Value
 >[[JSX 內的 HTML 加入 JS 程式碼]]
 ```jsx
-
 const children = 'Hello'
 const className = 'container'
 

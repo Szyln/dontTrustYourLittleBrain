@@ -4,7 +4,7 @@
 ReactDom.render('要渲染的內容', document.quertSelector('#渲染位置'));
 // <要渲染的內容> 只能有一個，不然要使用 [[React Fragment]]
 ```
->[[React.Fragment]]
+>[[React.Fragment：生成複數標籤]]
 ---
 
 ```html
