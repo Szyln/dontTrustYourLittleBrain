@@ -26,7 +26,9 @@ const element = React.createElement('div', {
 ### children
 - 等同於內文
 - 可以獨立出來當做 `React.createElement()` 的第三個（或更多）參數
-- 可以多個
+- 可以多個 children
+
+> 但是多個標籤不行，要使用[[React.Fragment]]
 
 ```js
 const element = React.createElement('div', {
