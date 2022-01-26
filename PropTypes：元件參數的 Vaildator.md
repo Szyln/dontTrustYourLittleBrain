@@ -2,9 +2,8 @@
 React 在使用 [[Component]] 的時候，參數可以透過` PropTypes` 來定義規範，避免每次使用元件時，造成非預期的結果
 
 >
->必須安裝：prop-types（[npm](https://www.npmjs.com/package/prop-types )）
->
->這功能會吃掉很多效能，開發期間可以使用 babel-plugin-transform-react-remove-prop-types 關掉：[npm](https://www.npmjs.com/package/babel-plugin-transform-react-remove-prop-types)
+>- 必須安裝：prop-types（[npm](https://www.npmjs.com/package/prop-types )）
+>- 這功能會吃掉很多效能，開發期間可以使用 babel-plugin-transform-react-remove-prop-types 關掉：[npm](https://www.npmjs.com/package/babel-plugin-transform-react-remove-prop-types)
 
 ```jsx
 function SayHello({firstName, lastName}) {
