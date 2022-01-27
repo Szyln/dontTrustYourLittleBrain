@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React.md",
+            "file": "鍋.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React.md",
+                "file": "鍋.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React.md"
+                "file": "鍋.md"
               }
             }
           },
@@ -126,6 +126,7 @@
   },
   "active": "e8c157f2345dcb8e",
   "lastOpenFiles": [
+    "鍋.md",
     "React.md",
     "JSX 內的 HTML 加入 JS 程式碼.md",
     "JSX HTML 內使用 if (Tenery Operator).md",
@@ -134,7 +135,6 @@
     "Component.md",
     "PropTypes：元件參數的 Vaildator.md",
     "ReactDOM：渲染.md",
-    "定義屬性(props).md",
-    "JSX 生成標籤.md"
+    "定義屬性(props).md"
   ]
 }
