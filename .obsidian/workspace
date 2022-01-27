@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "鍋.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.0107650756836
+    "width": 223.0107650756836,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
