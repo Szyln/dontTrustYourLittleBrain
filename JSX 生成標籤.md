@@ -17,7 +17,7 @@ const HellowElement = <h1 className="title">Hello World</h1>
 純 HTML 重複利用
 
 >事前知識：[[JSX 內的 HTML 加入 JS 程式碼]]
->如果是要元件重複利用（可以導入參數）：[[Component]]
+>如果是要元件重複利用（可以導入參數）：[[Component：可重複利用、自定參數的元件]]
 
 ```jsx
 const element = (

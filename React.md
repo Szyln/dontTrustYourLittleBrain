@@ -25,10 +25,10 @@
 - [[JSX 生成標籤]]
 - [[React.Fragment：生成複數標籤]]
 - [[定義屬性(props)]]
-- [[Component]]
-- [[PropTypes：元件參數的 Vaildator]]
-
-ㄌ
+- [[Component：可重複利用、自定參數的元件]]
+	- [[PropTypes：元件參數的 Vaildator]]
+- [[Rerender a React Application：]]
+- 
 
 
 #framework #frontend #js #css #html #node #jsx
