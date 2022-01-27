@@ -20,4 +20,4 @@ function CharacterCount({text}) {
     </div>
   )
 }
-```
+``` 
