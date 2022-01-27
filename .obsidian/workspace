@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JSX 內的 HTML 加入 JS 程式碼.md",
+            "file": "React.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "<br",
+                "query": "JSX 內的 HTML 加入 JS 程式碼",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,13 +48,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 181.5107650756836,
-    "collapsed": true
+    "width": 223.0107650756836
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -71,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JSX 內的 HTML 加入 JS 程式碼.md",
+                "file": "React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JSX 內的 HTML 加入 JS 程式碼.md"
+                "file": "React.md"
               }
             }
           },
@@ -128,15 +126,15 @@
   },
   "active": "e8c157f2345dcb8e",
   "lastOpenFiles": [
-    "JSX 內的 HTML 加入 JS 程式碼.md",
-    "JSX HTML 內寫迴圈.md",
     "React.md",
+    "JSX 內的 HTML 加入 JS 程式碼.md",
+    "JSX HTML 內使用 if (Tenery Operator).md",
+    "JavaScript/邏輯、條件、比較/條件/if, switch.md",
+    "JSX HTML 內寫迴圈.md",
     "Component.md",
     "PropTypes：元件參數的 Vaildator.md",
     "ReactDOM：渲染.md",
     "定義屬性(props).md",
-    "JSX 生成標籤.md",
-    "React.createElement()：生成標籤.md",
-    "JavaScript/資料類型/typeof.md"
+    "JSX 生成標籤.md"
   ]
 }

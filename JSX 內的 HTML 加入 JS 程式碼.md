@@ -3,21 +3,4 @@
 
 - [[JSX HTML 內使用變數]]
 - [[JSX HTML 內寫迴圈]]
-
-
-```jsx
-function CharacterCount({text}) {
-  return (
-    <div>
-			{/* kent */}
-      {`The text "${text}" has `}
-      {text.length ? <strong>{text.length}</strong> : 'No'}
-      {' characters'}
-			{/* 我*/}
-      {`The text "${text}" has `}
-      {text.length ? <strong>{text.length}</strong> : 'No'}
-      {' characters'}
-    </div>
-  )
-}
-``` 
+- [[JSX HTML 內使用 if (Tenery Operator)]]

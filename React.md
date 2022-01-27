@@ -12,7 +12,7 @@
 - [[環境]]
 - [[JSX]]
 - [[React Snippet]]
-- [[JSX 內的 HTML 加入 JS 程式碼]]
+
 - [[Styling in JSX]]
 - [[Props(Properties)]]
 
@@ -20,10 +20,10 @@
 
 ## Kent C. Dodds
 - [[ReactDOM：渲染]]
-- 生成標籤
-	- [[React.createElement()：生成標籤]]
-	- [[JSX 生成標籤]]
-	- [[React.Fragment：生成複數標籤]]
+- [[React.createElement()：生成標籤]]
+- [[JSX 內的 HTML 加入 JS 程式碼]]
+- [[JSX 生成標籤]]
+- [[React.Fragment：生成複數標籤]]
 - [[定義屬性(props)]]
 - [[Component]]
 - [[PropTypes：元件參數的 Vaildator]]
