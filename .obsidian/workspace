@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e8c157f2345dcb8e",
+        "id": "0a27b797d58477ca",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Styling in JSX.md",
+            "file": "用元件處理 CSS Styling.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Styling in JSX.md",
+                "file": "用元件處理 CSS Styling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Styling in JSX.md"
+                "file": "用元件處理 CSS Styling.md"
               }
             }
           },
@@ -125,17 +125,17 @@
     "width": 171.73973083496094,
     "collapsed": true
   },
-  "active": "e8c157f2345dcb8e",
+  "active": "0a27b797d58477ca",
   "lastOpenFiles": [
+    "用元件處理 CSS Styling.md",
     "Styling in JSX.md",
     "React.md",
+    "鍋.md",
     "Rerender a React Application：有效率的重新渲染.md",
     "Component：可重複利用、自定參數的元件.md",
-    "鍋.md",
     "JSX 內的 HTML 加入 JS 程式碼.md",
     "JSX HTML 內使用 if (Tenery Operator).md",
     "JavaScript/邏輯、條件、比較/條件/if, switch.md",
-    "JSX HTML 內寫迴圈.md",
-    "PropTypes：元件參數的 Vaildator.md"
+    "JSX HTML 內寫迴圈.md"
   ]
 }
