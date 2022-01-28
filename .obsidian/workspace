@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "鍋.md",
+            "file": "Event Handlers.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "JSX 內的 HTML 加入 JS 程式碼",
+                "query": "trim",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "鍋.md",
+                "file": "Event Handlers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "鍋.md"
+                "file": "Event Handlers.md"
               }
             }
           },
@@ -127,15 +128,15 @@
   },
   "active": "0a27b797d58477ca",
   "lastOpenFiles": [
-    "鍋.md",
-    "用元件處理 CSS Styling.md",
-    "Styling in JSX.md",
+    "Event Handlers.md",
     "React.md",
+    "用元件處理 CSS Styling.md",
+    "鍋.md",
+    "Styling in JSX.md",
+    "class 或是 className.md",
     "Rerender a React Application：有效率的重新渲染.md",
     "Component：可重複利用、自定參數的元件.md",
     "JSX 內的 HTML 加入 JS 程式碼.md",
-    "JSX HTML 內使用 if (Tenery Operator).md",
-    "JavaScript/邏輯、條件、比較/條件/if, switch.md",
-    "JSX HTML 內寫迴圈.md"
+    "JSX HTML 內使用 if (Tenery Operator).md"
   ]
 }
