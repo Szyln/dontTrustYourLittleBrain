@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "trim",
+                "query": "assign",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,14 +129,14 @@
   "active": "0a27b797d58477ca",
   "lastOpenFiles": [
     "Event Handlers.md",
+    "JavaScript/資料類型/Object, Array/物件不要傳參考的時候：深層、淺層拷貝.md",
+    "class 或是 className.md",
+    "其他/生活/ARFID/ARFID.md",
+    "其他/生活/ARFID/前言.md",
     "React.md",
     "用元件處理 CSS Styling.md",
     "鍋.md",
     "Styling in JSX.md",
-    "class 或是 className.md",
-    "Rerender a React Application：有效率的重新渲染.md",
-    "Component：可重複利用、自定參數的元件.md",
-    "JSX 內的 HTML 加入 JS 程式碼.md",
-    "JSX HTML 內使用 if (Tenery Operator).md"
+    "Rerender a React Application：有效率的重新渲染.md"
   ]
 }
