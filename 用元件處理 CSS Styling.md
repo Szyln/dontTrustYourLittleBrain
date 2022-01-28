@@ -64,8 +64,25 @@ const element = (
 	</div>
 )
 ```
+3. 不同的內容則拉出來做自訂參數
+```jsx
+function Box({className, ...rest}) {
+	return (
+		// 注意包在 HTML 標籤內要寫 JS 程式碼的話要用 {} 包起來
+		<div className={`box ${className}`} {...rest} />
+	)
+}
+const element = (
+	<div>
+		{/*  */}
+		
+		<Box className="box-small">small box</Box>		
+		<Box className="box-medium">medium box</Box>
+	</div>
+)
+```
 >## 注意
->不要這樣寫，如果手動寫 `props` 的時候寫了 `className` 屬性會蓋過前者
+>不要這樣寫，如果手動寫 `props` 的時候寫了 `className` 屬性會蓋過前者（只能有一個 `className`）
 >```jsx
 ><div className="box" {...props} />
 >```
