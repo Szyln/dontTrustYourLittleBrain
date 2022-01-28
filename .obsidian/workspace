@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Event Handlers.md",
-            "mode": "source"
+            "file": "Rerender a React Application：有效率的重新渲染.md",
+            "mode": "preview"
           }
         }
       }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Event Handlers.md",
+                "file": "Rerender a React Application：有效率的重新渲染.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Event Handlers.md"
+                "file": "Rerender a React Application：有效率的重新渲染.md"
               }
             }
           },
@@ -128,6 +128,8 @@
   },
   "active": "0a27b797d58477ca",
   "lastOpenFiles": [
+    "Rerender a React Application：有效率的重新渲染.md",
+    "JavaScript/資料類型/Object, Array/Object.md",
     "Event Handlers.md",
     "JavaScript/資料類型/Object, Array/物件不要傳參考的時候：深層、淺層拷貝.md",
     "class 或是 className.md",
@@ -135,8 +137,6 @@
     "其他/生活/ARFID/前言.md",
     "React.md",
     "用元件處理 CSS Styling.md",
-    "鍋.md",
-    "Styling in JSX.md",
-    "Rerender a React Application：有效率的重新渲染.md"
+    "鍋.md"
   ]
 }
