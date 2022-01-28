@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rerender a React Application：.md",
+            "file": "Styling in JSX.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rerender a React Application：.md",
+                "file": "Styling in JSX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rerender a React Application：.md"
+                "file": "Styling in JSX.md"
               }
             }
           },
@@ -127,15 +127,15 @@
   },
   "active": "e8c157f2345dcb8e",
   "lastOpenFiles": [
-    "Rerender a React Application：.md",
+    "Styling in JSX.md",
     "React.md",
+    "Rerender a React Application：有效率的重新渲染.md",
     "Component：可重複利用、自定參數的元件.md",
     "鍋.md",
     "JSX 內的 HTML 加入 JS 程式碼.md",
     "JSX HTML 內使用 if (Tenery Operator).md",
     "JavaScript/邏輯、條件、比較/條件/if, switch.md",
     "JSX HTML 內寫迴圈.md",
-    "PropTypes：元件參數的 Vaildator.md",
-    "ReactDOM：渲染.md"
+    "PropTypes：元件參數的 Vaildator.md"
   ]
 }

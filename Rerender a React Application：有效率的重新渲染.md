@@ -15,19 +15,21 @@ function tick() {
 
 setInterval(tick, 1000)
 ```
-## DOM 的作法
-重整範圍：`<div>`
-```jsx
-function tick() {
-  const time = new Date().toLocaleTimeString()
-  const element = `
-		<div>
-      <input value='${time}' />
-      <input value='${time}' />
-    </div>
-  `
-	rootElement.innerHTML = element
-}
+>## DOM 的作法
+>重整範圍：`<div>`
+>```jsx
+>function tick() {
+>  const time = new Date().toLocaleTimeString()
+>  const element = `
+>		<div>
+>      <input value='${time}' />
+>      <input value='${time}' />
+>    </div>
+>  `
+>	rootElement.innerHTML = element
+>}
+>
+>setInterval(tick, 1000)
+>```
 
-setInterval(tick, 1000)
-```
+#react #js
