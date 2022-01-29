@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "assign",
+                "query": "preve",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,6 +129,7 @@
   "active": "0a27b797d58477ca",
   "lastOpenFiles": [
     "Event Handlers.md",
+    "JavaScript/DOM/Event.md",
     "React.md",
     "State.md",
     "useState Hook.md",
@@ -136,7 +137,6 @@
     "JavaScript/資料類型/Object, Array/從物件中提取屬性到變數中 Destructing an object.md",
     "其他/生活/ARFID/ARFID.md",
     "class 或是 className.md",
-    "JavaScript/資料類型/Object, Array/Object.md",
-    "Rerender a React Application：有效率的重新渲染.md"
+    "JavaScript/資料類型/Object, Array/Object.md"
   ]
 }
