@@ -1,10 +1,9 @@
-# useState Hook
+# useState [[Hook]]
+>[[Hook]]
 ```jsx
 function Greeting() {
-	const stateArray = React.useState('')
-	const name = stateArray[0]
-	const setName = stateArray[1]
-  // const [name, setName] = React.useState('')
+	// destructing assignment
+  const [name, setName] = React.useState('')
   const handleChange = event => setName(event.target.value)
   return (
     <div>
@@ -19,4 +18,11 @@ function Greeting() {
 
 ReactDOM.render(<Greeting />, document.querySelector('#root'))
 ```
->[[從物件中提取屬性到變數中 Destructing an object]]
+>[[Destructing Assignment]]]
+
+```jsx
+// React.useState('') 記錄的是
+const [name, setName] = React.useState('')
+```
+
+#react #js #hook
