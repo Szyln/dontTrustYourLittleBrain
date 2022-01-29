@@ -1,16 +1,11 @@
 # Event Handlers
 >[可以上文件查有支援什麼 Event](https://reactjs.org/docs/events.html#supported-events) 
 
->可以再用 [[useState Hook]] 改良
+>可以再用 [[useState Hook]] 改良：[[Event Handlers#使用 Hook 改寫]]
 ```jsx
-  // state 變數儲存要顯示到網頁上的值（event 觸發會更動）
-  const state = { eventCount: 0, username: "" };
-  // 正規應該不會這樣寫，之後再學
-  function renderApp() {
-    ReactDOM.render(<App />, document.querySelector("#root"));
-  }
-
   function App() {
+		// state 變數儲存要顯示到網頁上的值（event 觸發會更動）
+		const state = { eventCount: 0, username: "" };
     // 設定功能要執行的動作
     // 給 onClick event 的功能，event 觸發後便更新 state.eventCount
 		// 如果 button 是放在 form 裡面會有預設送出的效果，要放 e.preventDefault() 
@@ -38,15 +33,50 @@
       </div>
     );
   }
+
+  // 正規應該不會這樣寫，參照 [[useState Hook]]
+  function renderApp() {
+    ReactDOM.render(<App />, document.querySelector("#root"));
+  }
+
   // 要先 render 一次頁面
   renderApp();
 ```
+> 要很多地方 render 的問題使用 [[Hook]] 可以解決
+
 >React 支援的 Event Handlers 也可以讀取到原生的 Event Handlers
 >```jsx
 >function someKindOfFunction(event) {
 >  console.log(event.nativeEvent)
 >}
 >```
+
+## 使用 [[Hook]] 改寫
+>[[Hook]]：[[useState Hook]]
+```jsx	
+function App() { 
+	const [ count, setCount ] = React.useState(0);
+	const [ username, setUsername ] = React.useState('');
+
+	const handleClick = () => setCount(count + 1);
+	const hadleChange = (e) => setUsername(e.target.value);
+
+	return (
+		<div>
+			<p>There have been {state.eventCount} events.</p>
+			<p>
+				<button onClick={handleClick}>Click Me</button>
+			</p>
+			<p>You typed: {state.username}</p>
+			<p>
+				<input onChange={handleChange} />
+			</p>
+		</div>
+	);
+}
+
+ReactDOM.render(<App />, document.querySelector('#root'));
+```
 
 ## 補充
 課程原本是這樣寫，上述有改成自己比較直覺的理解方式
