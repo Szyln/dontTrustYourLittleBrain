@@ -1,5 +1,16 @@
-# useState [[Hook]]
+# useState Hook
+>[[Event Handlers]]
 >[[Hook]]
+```jsx
+function handleChange(event) {
+  setState({username: event.target.value})
+}
+
+function setState(newState) {
+	Object.assign(state, newState)
+	renderApp()
+}
+```
 ```jsx
 function Greeting() {
 	// destructing assignment
@@ -21,7 +32,9 @@ ReactDOM.render(<Greeting />, document.querySelector('#root'))
 >[[Destructing Assignment]]]
 
 ```jsx
-// React.useState('') 記錄的是
+// React.useState('') 記錄的是一個 array 儲存狀態
+// () 內的參數是原始狀態
+// [] 內第一個變數對應顯示在網頁上的位置，第二個是對應
 const [name, setName] = React.useState('')
 ```
 
