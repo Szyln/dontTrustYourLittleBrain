@@ -35,6 +35,6 @@
 - [[State]]
 - [[Hook]]
 - [[useState Hook]]
-- 
+- [[useEffect Hook]]
 
 #framework #frontend #js #css #html #node #jsx
