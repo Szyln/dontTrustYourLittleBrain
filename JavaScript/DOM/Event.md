@@ -43,7 +43,7 @@ title.addEventListener(”click”, e => {
 ### preventDefault()
 ```js
 title.addEventListener(”click”, e => {
-		e.target.preventDefalut();
+		e.target.preventDefault();
 		
 	}
 )

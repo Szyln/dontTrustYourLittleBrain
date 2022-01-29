@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0a27b797d58477ca",
+        "id": "4d7f006272aff951",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Event Handlers.md",
+            "file": "React.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "preve",
+                "query": "preventDe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Event Handlers.md",
+                "file": "React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Event Handlers.md"
+                "file": "React.md"
               }
             }
           },
@@ -126,17 +126,17 @@
     "width": 171.73973083496094,
     "collapsed": true
   },
-  "active": "0a27b797d58477ca",
+  "active": "4d7f006272aff951",
   "lastOpenFiles": [
+    "React.md",
+    "Props(Properties).md",
     "Event Handlers.md",
     "JavaScript/DOM/Event.md",
-    "React.md",
     "State.md",
     "useState Hook.md",
     "Hook.md",
     "JavaScript/資料類型/Object, Array/從物件中提取屬性到變數中 Destructing an object.md",
     "其他/生活/ARFID/ARFID.md",
-    "class 或是 className.md",
-    "JavaScript/資料類型/Object, Array/Object.md"
+    "class 或是 className.md"
   ]
 }

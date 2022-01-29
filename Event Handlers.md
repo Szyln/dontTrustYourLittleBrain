@@ -13,7 +13,7 @@
   function App() {
     // 設定功能要執行的動作
     // 給 onClick event 的功能，event 觸發後便更新 state.eventCount
-		// 如果 button 是放在 form 裡面會有預設送出的效果，要放 e.preventDefalut() 
+		// 如果 button 是放在 form 裡面會有預設送出的效果，要放 e.preventDefault() 
     function handleClick() {
       state.eventCount += 1;
       renderApp();
