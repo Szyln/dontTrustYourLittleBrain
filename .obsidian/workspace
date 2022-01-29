@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rerender a React Application：有效率的重新渲染.md",
-            "mode": "preview"
+            "file": "useState Hook.md",
+            "mode": "source"
           }
         }
       }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rerender a React Application：有效率的重新渲染.md",
+                "file": "useState Hook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rerender a React Application：有效率的重新渲染.md"
+                "file": "useState Hook.md"
               }
             }
           },
@@ -128,15 +128,15 @@
   },
   "active": "0a27b797d58477ca",
   "lastOpenFiles": [
-    "Rerender a React Application：有效率的重新渲染.md",
-    "JavaScript/資料類型/Object, Array/Object.md",
-    "Event Handlers.md",
-    "JavaScript/資料類型/Object, Array/物件不要傳參考的時候：深層、淺層拷貝.md",
-    "class 或是 className.md",
-    "其他/生活/ARFID/ARFID.md",
-    "其他/生活/ARFID/前言.md",
+    "useState Hook.md",
     "React.md",
-    "用元件處理 CSS Styling.md",
-    "鍋.md"
+    "Event Handlers.md",
+    "其他/生活/ARFID/ARFID.md",
+    "class 或是 className.md",
+    "JavaScript/資料類型/Object, Array/Object.md",
+    "Rerender a React Application：有效率的重新渲染.md",
+    "JavaScript/資料類型/Object, Array/物件不要傳參考的時候：深層、淺層拷貝.md",
+    "其他/生活/ARFID/前言.md",
+    "用元件處理 CSS Styling.md"
   ]
 }
