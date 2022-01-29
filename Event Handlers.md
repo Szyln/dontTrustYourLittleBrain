@@ -1,7 +1,7 @@
 # Event Handlers
 >[可以上文件查有支援什麼 Event](https://reactjs.org/docs/events.html#supported-events) 
 
-
+>可以再用 [[useState Hook]] 改良
 ```jsx
   // state 變數儲存要顯示到網頁上的值（event 觸發會更動）
   const state = { eventCount: 0, username: "" };
@@ -28,7 +28,7 @@
       <div>
         <p>There have been {state.eventCount} events.</p>
         <p>
-          {/* 事件觸發的函式 hadleClick 拉上去寫 */}
+          {/* 事件觸發的函式 handleClick 拉上去寫 */}
           <button onClick={handleClick}>Click Me</button>
         </p>
         <p>You typed: {state.username}</p>
