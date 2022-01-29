@@ -3,6 +3,13 @@
 
 ## 以儲存資料到 [[Local Storage]] 為例
 ```jsx
+const [name, setName] = React.useState('')
+
+  React.useEffect(() => {
+    window.localStorage.setItem('name', name)
+  })
+```
+```jsx
 function Greeting() {
   const [name, setName] = React.useState(
     window.localStorage.getItem('name') || '',
