@@ -17,7 +17,7 @@ function Greeting() {
 		// 取得 localStorage 是否有這個值，否則預設值為空字串
     window.localStorage.getItem('name') || '',
   )
-	// useEffect：這功能將
+	// useEffect：這功能將.l
   React.useEffect(() => {
     window.localStorage.setItem('name', name)
   })
