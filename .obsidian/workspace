@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "定義屬性(props).md",
+            "file": "後端/Node.js/Node.js.md",
             "mode": "preview"
           }
         }
@@ -39,8 +39,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "require",
-                "matchingCase": false,
+                "query": "Box",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 177.0068016052246,
-    "collapsed": true
+    "width": 210.00235176086426
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "定義屬性(props).md",
+                "file": "後端/Node.js/Node.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "定義屬性(props).md"
+                "file": "後端/Node.js/Node.js.md"
               }
             }
           },
@@ -127,15 +126,15 @@
   },
   "active": "237a99c9e5d0ca7e",
   "lastOpenFiles": [
-    "定義屬性(props).md",
-    "React 基本原理.md",
+    "後端/Node.js/Node.js.md",
     "React.md",
-    "React Snippet.md",
-    "JSX.md",
-    "環境.md",
-    "安裝 React.md",
-    "Vite.md",
-    "useState Hook.md",
-    "後端/Node.js/模組/使用/匯入模組.md"
+    "JavaScript/DOM/DOM 新舊對比.md",
+    "JavaScript/資料類型/Object, Array/Array/join().md",
+    "JavaScript/資料類型/Object, Array/Array/排列陣列元素.md",
+    "JavaScript/資料類型/Object, Array/Array/條件判定陣列的元素.md",
+    "JavaScript/資料類型/Object, Array/Array/陣列的循環 for, forEach, map.md",
+    "JavaScript/資料類型/Object, Array/Array/新增與刪除.md",
+    "JavaScript/資料類型/Object, Array/Array/判斷是否為 Array.md",
+    "JavaScript/資料類型/Object, Array/Array/Array.md"
   ]
 }

@@ -67,17 +67,20 @@ function Box({className = '', size, ...rest}) {
 	// 如果有寫入 sizeClassName 就新增一個指定的 class 名字
 	const sizeClassName = size ? `box--${size}` : ''
 	return (
-		<div className={`box ${sizeClassName}`} {...rest} />
+		<div className={`box ${sizeClassName}`}, {size}, {...rest} />
 	)
 }
 ```
 ```jsx
 const element = (
 	<div>
+
 		<Box size="small">small box</Box>		
 		<Box size="medium">medium box</Box>
 	</div>
+
 )
+
 ```
 
 ## Inline Styling 
