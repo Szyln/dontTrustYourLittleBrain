@@ -129,6 +129,7 @@
   "active": "4d7f006272aff951",
   "lastOpenFiles": [
     "useEffect Hook.md",
+    "Logic OR.md",
     "side-effect.md",
     "React.md",
     "Hook.md",
@@ -136,7 +137,6 @@
     "Event Handlers.md",
     "State.md",
     "Props(Properties).md",
-    "JavaScript/DOM/Event.md",
-    "JavaScript/資料類型/Object, Array/從物件中提取屬性到變數中 Destructing an object.md"
+    "JavaScript/DOM/Event.md"
   ]
 }
