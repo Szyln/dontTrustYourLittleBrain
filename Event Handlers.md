@@ -3,44 +3,44 @@
 
 >可以再用 [[useState Hook]] 改良：[[Event Handlers#使用 Hook 改寫]]
 ```jsx
-  function App() {
-		// state 變數儲存要顯示到網頁上的值（event 觸發會更動）
-		const state = { eventCount: 0, username: "" };
-    // 設定功能要執行的動作
-    // 給 onClick event 的功能，event 觸發後便更新 state.eventCount
-		// 如果 button 是放在 form 裡面會有預設送出的效果，要放 e.preventDefault() 
-    function handleClick() {
-      state.eventCount += 1;
-      renderApp();
-    }
-    // 給 onChange 的功能，event 觸發後便將 state
-    function handleChange(event) {
-      state.username = event.target.value;
-      renderApp();
-    }
+function App() {
+	// state 變數儲存要顯示到網頁上的值（event 觸發會更動）
+	const state = { eventCount: 0, username: "" };
+	// 設定功能要執行的動作
+	// 給 onClick event 的功能，event 觸發後便更新 state.eventCount
+	// 如果 button 是放在 form 裡面會有預設送出的效果，要放 e.preventDefault() 
+	function handleClick() {
+		state.eventCount += 1;
+		renderApp();
+	}
+	// 給 onChange 的功能，event 觸發後便將 state
+	function handleChange(event) {
+		state.username = event.target.value;
+		renderApp();
+	}
 
-    return (
-      <div>
-        <p>There have been {state.eventCount} events.</p>
-        <p>
-          {/* 事件觸發的函式 handleClick 拉上去寫 */}
-          <button onClick={handleClick}>Click Me</button>
-        </p>
-        <p>You typed: {state.username}</p>
-        <p>
-          <input onChange={handleChange} />
-        </p>
-      </div>
-    );
-  }
+	return (
+		<div>
+			<p>There have been {state.eventCount} events.</p>
+			<p>
+				{/* 事件觸發的函式 handleClick 拉上去寫 */}
+				<button onClick={handleClick}>Click Me</button>
+			</p>
+			<p>You typed: {state.username}</p>
+			<p>
+				<input onChange={handleChange} />
+			</p>
+		</div>
+	);
+}
 
-  // 正規應該不會這樣寫，參照 [[useState Hook]]
-  function renderApp() {
-    ReactDOM.render(<App />, document.querySelector("#root"));
-  }
+// 正規應該不會這樣寫，參照 [[useState Hook]]
+function renderApp() {
+	ReactDOM.render(<App />, document.querySelector("#root"));
+}
 
-  // 要先 render 一次頁面
-  renderApp();
+// 要先 render 一次頁面
+renderApp();
 ```
 > 要很多地方 render 的問題使用 [[Hook]] 可以解決
 

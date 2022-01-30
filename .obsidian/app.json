@@ -4,7 +4,7 @@
   "readableLineLength": false,
   "foldHeading": true,
   "foldIndent": true,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "alwaysUpdateLinks": true,
   "spellcheckDictionary": [
     "emmet",
@@ -26,5 +26,7 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "strictLineBreaks": false,
+  "showFrontmatter": false
 }
