@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "State.md",
+            "file": "定義屬性(props).md",
             "mode": "source"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.00235176086426
+    "width": 210.00235176086426,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "State.md",
+                "file": "定義屬性(props).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "State.md"
+                "file": "定義屬性(props).md"
               }
             }
           },
@@ -126,6 +127,8 @@
   },
   "active": "237a99c9e5d0ca7e",
   "lastOpenFiles": [
+    "定義屬性(props).md",
+    "React.md",
     "State.md",
     "useEffect Hook.md",
     "side-effect.md",
@@ -133,8 +136,6 @@
     "未命名.md",
     "後端/Restful API/HTTP Verbs.md",
     "後端/Restful API/Restful API 介紹.md",
-    "後端/Restful API/Restful API.md",
-    "後端/API/endpoint.md",
-    "後端/API/API.md"
+    "後端/Restful API/Restful API.md"
   ]
 }

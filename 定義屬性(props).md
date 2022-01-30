@@ -1,7 +1,11 @@
 # 定義屬性
-
-- 兩種方法效果一樣
+- HTML 標籤上有很多屬性（例：class, style, action......）都可以透過 React 去設定
+- 元件的屬性
+- 屬性的定義有兩種方法
+- 以下兩種方法效果一樣
+- 
 ## 只用 JS 定義屬性的值 Value
+
 >[[JSX 內的 HTML 加入 JS 程式碼]]
 ```jsx
 const children = 'Hello'
