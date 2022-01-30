@@ -6,7 +6,7 @@
 // ES6 匯入模組的寫法
 
 import React from 'react';
-import ReactDOM from'react-dom';
+import ReactDOM from 'react-dom';
 
 // (在 [[JSX]] 當中會提到如何簡化這段)
 function App() {
@@ -15,7 +15,7 @@ function App() {
 
 // 渲染到畫面上的位置
 // #root 對應 index.html body 內的 div#root
-ReactDom.render(App(), document.quertSelector('#root'));
+ReactDom.render(App(), document.querySelector('#root'));
 ```
 
 ## 多行 html

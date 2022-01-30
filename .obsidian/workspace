@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4d7f006272aff951",
+        "id": "237a99c9e5d0ca7e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React.md",
+            "file": "定義屬性(props).md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "||",
+                "query": "require",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.0107650756836,
+    "width": 177.0068016052246,
     "collapsed": true
   },
   "right": {
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React.md",
+                "file": "定義屬性(props).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React.md"
+                "file": "定義屬性(props).md"
               }
             }
           },
@@ -125,17 +125,17 @@
     "width": 171.73973083496094,
     "collapsed": true
   },
-  "active": "4d7f006272aff951",
+  "active": "237a99c9e5d0ca7e",
   "lastOpenFiles": [
+    "定義屬性(props).md",
+    "React 基本原理.md",
     "React.md",
-    "Event Handlers.md",
-    "Babel.md",
-    "後端/MongoDB Atlas, Passport.js, OAuth/建置生命週期（MongoDB Atlas, Passport. OAuth）.md",
-    "後端/Express.js/Express.js.md",
-    "後端/MongoDB Atlas, Passport.js, OAuth/MongoDB Atlas, Passport.js, OAuth.md",
+    "React Snippet.md",
+    "JSX.md",
+    "環境.md",
+    "安裝 React.md",
+    "Vite.md",
     "useState Hook.md",
-    "useEffect Hook.md",
-    "Logic OR.md",
-    "side-effect.md"
+    "後端/Node.js/模組/使用/匯入模組.md"
   ]
 }

@@ -1,7 +1,7 @@
 # 安裝 React
 
->事前需要：[[安裝 Node.js]]
-> [[Vite]]
+>- 事前需要：[[安裝 Node.js]]
+>- [[Vite]]
 ```
 npx create-react-app <專案名稱>
 ```
