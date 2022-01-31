@@ -29,13 +29,15 @@ ReactDOM.render(<Greeting />, document.querySelector('#root'))
 ><label htmlFor="name">Name: </label>
 >```
 ## 對應說明
->[[Destructing Assignment]]]
+>[[Destructing Assignment]]
+
+
 ```jsx
-// React.useState('') 記錄的是一個 array 儲存狀態
+
 // () 內的參數是原始狀態，可以是 boolean, string, array, object 皆可
 // [] 內第一個變數對應顯示在網頁上的位置
 // 第二個是對應拿來更新 name state 的函式，慣用都是 set + 第一個參數名
-const [name, setName] = React.useState('')
+const [該名稱, 更動該元素的函式，通常會是set開頭] = React.useState('該名稱的原始狀態，任意資料類型皆可')
 // 這個函式的參數放入要更新成的內容
 // 這個函式會自動 re-render 該元件，且不影響其他頁面上元素
 const handleChange = event => setName(event.target.value)

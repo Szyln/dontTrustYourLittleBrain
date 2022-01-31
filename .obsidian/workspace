@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React.md",
-            "mode": "preview"
+            "file": "useState Hook.md",
+            "mode": "source"
           }
         }
       }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React.md",
+                "file": "useState Hook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React.md"
+                "file": "useState Hook.md"
               }
             }
           },
@@ -127,6 +127,7 @@
   },
   "active": "fcc6026fcf4a44d4",
   "lastOpenFiles": [
+    "useState Hook.md",
     "React.md",
     "安裝 React.md",
     "React 基本原理.md",
@@ -135,7 +136,6 @@
     "ddd.md",
     "Styling in JSX.md",
     "Rerender a React Application：有效率的重新渲染.md",
-    "Component：可重複利用、自定參數的元件.md",
-    "定義屬性(props).md"
+    "Component：可重複利用、自定參數的元件.md"
   ]
 }
