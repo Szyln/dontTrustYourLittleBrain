@@ -6,8 +6,6 @@
 - 內容若有需要微調的需求，則設定參數供調整
 
 ## 以 className 為例
-- ewe
-	- wwe
 ### 找出類似內容
 ```jsx
 const element = (

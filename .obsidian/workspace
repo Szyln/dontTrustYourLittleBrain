@@ -7,18 +7,10 @@
         "id": "fcc6026fcf4a44d4",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "66550c6b5d185d87",
-        "type": "leaf",
-        "state": {
           "type": "markdown",
           "state": {
-            "file": "用元件處理 CSS Styling.md",
-            "mode": "source"
+            "file": "React 基本原理.md",
+            "mode": "preview"
           }
         }
       }
@@ -77,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "React 基本原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "React 基本原理.md"
+              }
             }
           },
           {
@@ -131,15 +126,15 @@
   },
   "active": "fcc6026fcf4a44d4",
   "lastOpenFiles": [
+    "React 基本原理.md",
+    "JSX.md",
+    "用元件處理 CSS Styling.md",
     "ddd.md",
     "Styling in JSX.md",
-    "用元件處理 CSS Styling.md",
     "React.md",
     "Rerender a React Application：有效率的重新渲染.md",
     "Component：可重複利用、自定參數的元件.md",
     "定義屬性(props).md",
-    "React.Fragment：生成複數標籤.md",
-    "JSX 生成標籤.md",
-    "JSX 內的 HTML 加入 JS 程式碼.md"
+    "React.Fragment：生成複數標籤.md"
   ]
 }
