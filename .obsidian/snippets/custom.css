@@ -9,6 +9,8 @@
 }
 ul ul::before { left: -11px; top: 0; bottom: 0; 
 } 
+ul { padding-left: 20px;}
+
 .cm-s-obsidian .HyperMD-codeblock { color: #aefffc;
 }
 .popover.hover-popover { width: 80%; }

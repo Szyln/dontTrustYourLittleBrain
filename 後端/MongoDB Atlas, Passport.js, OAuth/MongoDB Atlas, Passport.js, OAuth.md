@@ -3,9 +3,9 @@
 專案/
 |
 |– routes/
-|   |– auth-routes.js		# Authenticate Request
+|   |– auth-routes.js	# Authenticate Request
 |– config/
-|   |– passport.js			# Cofigure Strategy
+|   |– passport.js   # Cofigure Strategy
 |– views/
 |   |– ejs 檔案
 |– public/
