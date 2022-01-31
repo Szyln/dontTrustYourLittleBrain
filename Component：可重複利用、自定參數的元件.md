@@ -13,15 +13,15 @@
 const MessageEdit = props => <div>{props.children}</div>
 
 const element = (
-	<div>
-		{/* 下列寫法效果一樣 */}
-		{/* 類似 [[JSX 生成標籤#利用 重複使用]] 的寫法也可以，但元件可以用以下寫法 */}
-		{MessageEdit({ children: "Hello Taiwan." })}
-		{/* 元件參數若是任意屬性的話這樣寫 */}
-		<MessageEdit children="Hello America." />
-		{/* 是 children 的話這樣寫易讀性最好 */}
-		<MessageEdit>Hello Japan.</MessageEdit>
-	</div>
+  <div>
+    {/* 下列寫法效果一樣 */}
+    {/* 類似 [[JSX 生成標籤#利用 重複使用]] 的寫法也可以，但元件可以用以下寫法 */}
+    {MessageEdit({ children: "Hello Taiwan." })}
+    {/* 元件參數若是任意屬性的話這樣寫 */}
+    <MessageEdit children="Hello America." />
+    {/* 是 children 的話這樣寫易讀性最好 */}
+    <MessageEdit>Hello Japan.</MessageEdit>
+   </div>
 )
 
 // 渲染

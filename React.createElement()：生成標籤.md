@@ -9,8 +9,8 @@
 // 生成標籤，並指定屬性（第二個參數，為物件）
 // 屬性參數包含：寫入 CSS、className 等等等
 const element = React.createElement('div', {
-	className: 'container',
-	children: 'Hello World',		// children 等同 textContent
+  className: 'container',
+  children: 'Hello World', // children 等同 textContent
 })
 
 // 渲染

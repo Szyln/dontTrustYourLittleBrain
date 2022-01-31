@@ -4,7 +4,7 @@
 function CharacterCount({text}) {
   return (
     <div>
-			{/* if 必須要用表現式 Conditional (ternary) operator */}
+    {/* if 必須要用表現式 Conditional (ternary) operator */}
       The text "{text}" has {text.length ? <strong>{text.length}</strong> : 'No'} characters
     </div>
   )

@@ -25,14 +25,14 @@ const element = <SayHello firstName={false} />
 ```jsx
 // 常用的 PropTypes
 // 要定義的參數名稱: PropTypes.<格式>
- {
-	 optionalArray: PropTypes.array,
-	 optionalBool: PropTypes.bool,
-	 optionalFunc: PropTypes.func,
-	 optionalNumber: PropTypes.number,
-	 optionalObject: PropTypes.object,
-	 optionalString: PropTypes.string,
-	 optionalSymbol: PropTypes.symbol,
- }
+{
+ optionalArray: PropTypes.array,
+ optionalBool: PropTypes.bool,
+ optionalFunc: PropTypes.func,
+ optionalNumber: PropTypes.number,
+ optionalObject: PropTypes.object,
+ optionalString: PropTypes.string,
+ optionalSymbol: PropTypes.symbol,
+}
 ```
 #react #validators #js 

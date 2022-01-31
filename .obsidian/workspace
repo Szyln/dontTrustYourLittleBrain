@@ -4,12 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "237a99c9e5d0ca7e",
+        "id": "fcc6026fcf4a44d4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "React.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "f3ddf4306ea6a057",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Rerender a React Application：有效率的重新渲染.md",
             "mode": "source"
           }
         }
@@ -70,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React.md",
+                "file": "Rerender a React Application：有效率的重新渲染.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React.md"
+                "file": "Rerender a React Application：有效率的重新渲染.md"
               }
             }
           },
@@ -125,17 +136,17 @@
     "width": 171.73973083496094,
     "collapsed": true
   },
-  "active": "237a99c9e5d0ca7e",
+  "active": "f3ddf4306ea6a057",
   "lastOpenFiles": [
+    "Rerender a React Application：有效率的重新渲染.md",
     "React.md",
+    "Component：可重複利用、自定參數的元件.md",
     "定義屬性(props).md",
-    "State.md",
-    "useEffect Hook.md",
-    "side-effect.md",
-    "Logic OR.md",
-    "未命名.md",
-    "後端/Restful API/HTTP Verbs.md",
-    "後端/Restful API/Restful API 介紹.md",
-    "後端/Restful API/Restful API.md"
+    "React.Fragment：生成複數標籤.md",
+    "JSX 生成標籤.md",
+    "JSX 內的 HTML 加入 JS 程式碼.md",
+    "JSX HTML 內使用 if (Tenery Operator).md",
+    "JSX HTML 內寫迴圈.md",
+    "JSX HTML 內使用變數.md"
   ]
 }

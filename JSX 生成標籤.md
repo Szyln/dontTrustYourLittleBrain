@@ -4,9 +4,9 @@
 
 ```js
 const HelloElement = React.createElement(
-	'h1',
-	{ className: 'title' },
-	'Hello World'
+  'h1',
+  { className: 'title' },
+  'Hello World'
 )
 ```
 ```jsx
@@ -21,9 +21,9 @@ const HellowElement = <h1 className="title">Hello World</h1>
 
 ```jsx
 const element = (
-	<div>
-		{HelloElement}
-	</div>
+  <div>
+    {HelloElement}
+  </div>
 )
 ```
 #react #html #js

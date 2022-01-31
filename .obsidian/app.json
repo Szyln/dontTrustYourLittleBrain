@@ -27,6 +27,8 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "strictLineBreaks": false,
-  "showFrontmatter": false
+  "strictLineBreaks": true,
+  "showFrontmatter": false,
+  "useTab": true,
+  "smartIndentList": true
 }
