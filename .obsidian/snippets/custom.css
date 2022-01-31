@@ -24,3 +24,7 @@ ul ul::before { left: -11px; top: 0; bottom: 0;
 img {
   width: 100%;
 }
+
+code.is-loaded {
+  tab-size: 2;
+}

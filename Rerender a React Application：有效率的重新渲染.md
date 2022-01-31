@@ -21,14 +21,14 @@ setInterval(tick, 1000)
 >重整範圍：`<div>`
 >```jsx
 >function tick() {
->const time = new Date().toLocaleTimeString()
->const element = `
-><div>
-><input value='${time}' />
-><input value='${time}' />
-></div>
+>  const time = new Date().toLocaleTimeString()
+>  const element = `
+>  <div>
+>    <input value='${time}' />
+>    <input value='${time}' />
+>  </div>
 >
->	rootElement.innerHTML = element
+>  rootElement.innerHTML = element
 >}
 >
 >setInterval(tick, 1000)
