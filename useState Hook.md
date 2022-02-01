@@ -1,4 +1,7 @@
 # useState Hook
+>再用 [[useEffect Hook]] 看如何搭配 [[side-effect]] 來寫更複雜的 [[Hook]]，並且改良 `useState` 的初始值設定 （[[Lazy Initializer]]）
+
+
 使用 useState [[Hook]]，來控制元件的 [[State]]，並且用 [[Event Handlers]] 來規劃如何觸發
 
 ```jsx
@@ -32,7 +35,7 @@ ReactDOM.render(<Greeting />, document.querySelector('#root'))
 ## 對應說明
 >關於 `[name, setName]` 原理：[[Destructing Assignment]]
 
->`React.useState()` 中設定的初始值應該做更有效率的設定：[[Lazy Initializer]]
+
 ```jsx
 // name: 自訂名稱，setName：name 的更改 state 用函數
 const [name, setName] = React. useState ('該名稱的原始狀態，任意資料類型皆可')

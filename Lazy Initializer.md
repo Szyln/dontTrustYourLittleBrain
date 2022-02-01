@@ -1,5 +1,7 @@
 ## Lazy Initializer
-使用 [[useEffect Hook]] 的例子
+>[[useState Hook]]
+>[[useEffect Hook]]
+
 ```jsx
 function Greeting() {
 	// useState 每次更新都會執行
