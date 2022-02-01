@@ -1,6 +1,12 @@
 # Event Handlers
 >[可以上文件查有支援什麼 Event](https://reactjs.org/docs/events.html#supported-events) 
 
+> 注意事件的函式有沒有被寫成 invoked 的狀態，可以透過再包到一個函式裡來規避
+>```js
+>onClick{() => {會直接 invoked 的函式}}
+>```
+
+
 >可以再用 [[useState Hook]] 改良：[[Event Handlers#使用 Hook 改寫]]
 ```jsx
 function App() {

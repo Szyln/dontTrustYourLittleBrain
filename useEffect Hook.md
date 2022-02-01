@@ -1,14 +1,16 @@
 # useEffect Hook
-處理 [[side-effect]] 的 hook
+處理 [[side-effect]] 的 [[Hook]]
 
 ## 以儲存資料到 [[Local Storage]] 為例
 ```jsx
-// 
 const [name, setName] = React.useState('')
 
-  React.useEffect(() => {
-    window.localStorage.setItem('name', name)
-  })
+// name 有內容時，就更新 localStorage（注意：這是單向更新）
+React.useEffect(() => {
+  console.log('Greeting useEffect 被執行囉');
+  window.localStorage.setItem('name', name)
+  // Dependency array：讓 useEffect 變成雙向更新，如果沒有更新就不執行這個 hook
+}, [name])
 ```
 ```jsx
 function Greeting() {

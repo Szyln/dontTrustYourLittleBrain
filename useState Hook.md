@@ -8,6 +8,7 @@ import React, { useState } from 'react'
 ```jsx
 function Greeting() {
 	// destructing assignment
+	// 更進階的初始值設定：[[Lazy Initializer]]
   const [name, setName] = React.useState('')
   const handleChange = event => setName(event.target.value)
   return (
@@ -29,16 +30,17 @@ ReactDOM.render(<Greeting />, document.querySelector('#root'))
 ><label htmlFor="name">Name: </label>
 >```
 ## 對應說明
->[[Destructing Assignment]]
+>關於 `[name, setName]` 原理：[[Destructing Assignment]]
 
-
+>`React.useState()` 中設定的初始值應該做更有效率的設定：[[Lazy Initializer]]
 ```jsx
-const [該名稱, 更動該元素的函式，通常會是set開頭] = React.useState('該名稱的原始狀態，任意資料類型皆可')
-// 使用set開頭的那個函式，放入要更新成的內容
-// 這個函式會自動 re-render 該元件，且不影響其他頁面上元素
+// name: 自訂名稱，setName：name 的更改 state 用函數
+const [name, setName] = React. useState ('該名稱的原始狀態，任意資料類型皆可')
+// setName 參數放入要更新成的內容
+// setName 會自動 re-render 該元件，且不影響其他頁面上元素
 const handleChange = event => setName(event.target.value)
 ```
-[[Lazy Initializer]]
+
 
 
 #react #js #hook

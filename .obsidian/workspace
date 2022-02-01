@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "後端/MongoDB Atlas, Passport.js, OAuth/MongoDB Atlas, Passport.js, OAuth.md",
-            "mode": "preview"
+            "file": "useEffect Hook.md",
+            "mode": "source"
           }
         }
       }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.00235176086426
+    "width": 210.00235176086426,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "後端/MongoDB Atlas, Passport.js, OAuth/MongoDB Atlas, Passport.js, OAuth.md",
+                "file": "useEffect Hook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "後端/MongoDB Atlas, Passport.js, OAuth/MongoDB Atlas, Passport.js, OAuth.md"
+                "file": "useEffect Hook.md"
               }
             }
           },
@@ -126,15 +127,15 @@
   },
   "active": "c37cdd8b22038524",
   "lastOpenFiles": [
+    "useEffect Hook.md",
+    "Event Handlers.md",
+    "React.md",
+    "useState Hook.md",
     "後端/MongoDB Atlas, Passport.js, OAuth/MongoDB Atlas, Passport.js, OAuth.md",
     "後端/MongoDB Atlas, Passport.js, OAuth/建置生命週期（MongoDB Atlas, Passport. OAuth）.md",
     "後端/Database/noSQL/Mongoose/Mongoose Atlas/MongoDB Atlas.md",
     "安裝 React.md",
-    "React.md",
     "ReactDOM：渲染.md",
-    "useState Hook.md",
-    "React 基本原理.md",
-    "JSX.md",
-    "用元件處理 CSS Styling.md"
+    "React 基本原理.md"
   ]
 }
