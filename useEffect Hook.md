@@ -24,6 +24,7 @@ React.useEffect(() => {
 
 ### 檢查 LocalStorage 內有沒有既有資料
 >[[useState Hook]]
+>[[Lazy Initializer]]
 
 ```jsx
 const [name, setName] = React.useState(
