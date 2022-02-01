@@ -3,7 +3,7 @@
 
 >[[eslint-plugin-react-hooks]] 來幫助自己寫 [[Hook]] 的時候不會東漏一個設定西漏一個設定
 
-`useEffect` 的第二個可用參數，由於 React 內多會用元件方式呈現
+`useEffect` 的第二個可用參數，由於 React 經常使用元件，例如 `App()` 
 利用 Dependency array 設定如果 [[Local Storage]] 沒有被更動的話，就不用執行 `useEffect`
 
 ```jsx
