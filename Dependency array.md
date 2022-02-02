@@ -3,7 +3,9 @@
 
 >[[eslint-plugin-react-hooks]] 來幫助自己寫 [[Hook]] 的時候不會東漏一個設定西漏一個設定
 
-`useEffect` 的第二個可用參數，可以讓 [[side-effect]] 的另一端資料與 React 維持雙向同步，如果沒有另一端資料不需要被更新，就不需重新執行
+- `useEffect` 的第二個可用參數，放入包含需要同步的值
+- 可以讓 [[side-effect]] 的另一端資料與 React 維持雙向同步
+- 如果沒有另一端資料不需要被更新，就不需重新執行
 
 ```jsx
 // 以下 Greeting() 的 useEffect

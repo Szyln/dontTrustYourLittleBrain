@@ -18,7 +18,11 @@ const App = () => {
 2. 觸發 `useEffect` 更新 [[Local Storage]]（單向更新）
 
 >#### 選用、效能考量
->3. [[Dependency array]]：
+>3. [[Dependency array]]：可以讓 [[side-effect]] 的另一端資料與 React 維持雙向同步
 
 ### 檢查 LocalStorage 內有沒有既有資料
 >參照 [[Lazy Initializer]]（[[useState Hook]]）
+
+## 自訂 Hooks
+
+>[[自訂 Hooks]]：若有要一起使用的 [[Hook]] 可以把他們加到一個函式內，方便使用
