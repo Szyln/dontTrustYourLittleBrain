@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "useRef Hook.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -128,10 +128,10 @@
   "active": "9c3bd3c4ea945d5c",
   "lastOpenFiles": [
     "useRef Hook.md",
+    "useEffect Hook.md",
     "React.md",
     "Affinity.md",
     "eslint-plugin-react-hooks.md",
-    "useEffect Hook.md",
     "自訂 Hooks.md",
     "Hook.md",
     "Dependency array.md",

@@ -14,16 +14,20 @@ function Tilt() {
   const tilteRef = React.useRef()
   // 這樣用 current 不會成功，因為還沒有渲染 return 裡面的內容
   console.log(tiltRef.current)
-  // 使用 useEffect 可以
+  // useEffect 使這個在 render 完後執行
   React.useEffect(() => {
     const tiltNode = tiltRef.current
-    // vanilla-tilt 的設定
+    //  vanilla-tilt 的 設定
     const vanillaTiltOptions = {
       max: 25,
       speed: 400,
     }
-    // vanilla-tilt 的設定
+    // vanilla-tilt 的設定: 將 vanillaTiltOptions 賦予到 tiltNode 這個 DOM node 上
     VanillaTilt.init(tiltNode, vanillaTiltOptions)
+		
+		return () => {
+			tiltNode.vanillaTilt.destroy()
+		}
   })
   return (
     // useRef
@@ -32,6 +36,7 @@ function Tilt() {
   )
 }
 ```
+>[[useEffect Hook]]
 ```jsx
 function Tilt({children}) {
   const tiltRef = React.useRef()
