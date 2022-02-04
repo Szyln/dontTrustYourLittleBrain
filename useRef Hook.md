@@ -8,7 +8,30 @@
 > 指的是「變數指向記憶體位置上對應到的值」
 
 在 React 中用原始的 DOM 方式（ `querySelector` 之類）操作元素並不直覺，使用 `useRef` [[Hook]]，可以直接在元件裡，直接操作元件
-
+```jsx
+function Tilt() {
+  // 這變數存有一個 object，其中有 current 屬性可以使用，可以顯示當前 DOM node
+  const tilteRef = React.useRef()
+  // 這樣用 current 不會成功，因為還沒有渲染 return 裡面的內容
+  console.log(tiltRef.current)
+  // 使用 useEffect 可以
+  React.useEffect(() => {
+    const tiltNode = tiltRef.current
+    // vanilla-tilt 的設定
+    const vanillaTiltOptions = {
+      max: 25,
+      speed: 400,
+    }
+    // vanilla-tilt 的設定
+    VanillaTilt.init(tiltNode, vanillaTiltOptions)
+  })
+  return (
+    // useRef
+    <div ref={tiltRef} className="tilt-root">
+    </div>
+  )
+}
+```
 ```jsx
 function Tilt({children}) {
   const tiltRef = React.useRef()
@@ -27,9 +50,11 @@ function Tilt({children}) {
     }
   }, [])
 
-  // 注意：React 的 JSX 寫的終究是一個 React element 而已，
+  // 注意：React 的 JSX 寫的終究是一個 React element 而已
+  // （Render 出來的結果才是 DOM 元素）
   // 不是 DOM 元素 
   return (
+    // 放入 ref prop 可以讓他有
     <div ref={tiltRef} className="tilt-root">
       <div className="tilt-child">{children}</div>
     </div>
