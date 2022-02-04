@@ -24,7 +24,7 @@ function Tilt() {
     }
     // vanilla-tilt 的設定: 將 vanillaTiltOptions 賦予到 tiltNode 這個 DOM node 上
     VanillaTilt.init(tiltNode, vanillaTiltOptions)
-		
+		//  
 		return () => {
 			tiltNode.vanillaTilt.destroy()
 		}
