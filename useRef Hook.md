@@ -7,7 +7,8 @@
 > `useRef` 的 ref 與[[物件傳參考]]中提到的 reference 是同一件事
 > 指的是「變數指向記憶體位置上對應到的值」
 
-在 React 中用原始的 DOM 方式（ `querySelector` 之類）操作元素並不直覺，使用 `useRef` [[Hook]]，可以直接在元件裡，直接操作元件
+- 在 React 中用原始的 DOM 方式（ `querySelector` 之類）操作元素並不直覺，使用 `useRef` [[Hook]]，可以直接在元件裡，直接操作元件
+- 不會觸發 re-render
 ```jsx
 function Tilt() {
   // 這變數存有一個 object，其中有 current 屬性可以使用，可以顯示當前 DOM node

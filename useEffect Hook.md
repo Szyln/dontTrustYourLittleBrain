@@ -1,6 +1,9 @@
 # useEffect Hook
 處理 [[side-effect]] 的 [[Hook]]
 
+## 使用情境
+`useEffect` 會在每次 render 時執行，可以使用 [[Dependency array]] 來限定執行時機
+
 ## 以儲存資料到 [[Local Storage]] 為例
 
 >[[自訂 Hooks]]：若有要一起使用的 [[Hook]] （這裡以 [[useEffect Hook]], [[useState Hook]] 為例）可以把他們加到一個函式內，方便使用
