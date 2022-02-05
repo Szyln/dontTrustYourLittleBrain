@@ -32,11 +32,12 @@ function Tilt() {
     }
     // vanilla-tilt 的設定: 將 vanillaTiltOptions 賦予到 tiltNode 這個 DOM node 上
     VanillaTilt.init(tiltNode, vanillaTiltOptions)
-		// 
+		// 在不渲染這個 dom node 的時候可以將這個 ref 刪掉，不佔用記憶體空間
 		return () => {
 			tiltNode.vanillaTilt.destroy()
 		}
-  })
+	// [[Dependency array]]: 只需要第一次執行 
+  }, [])
   return (
     // useRef
     <div ref={tiltRef} className="tilt-root">
