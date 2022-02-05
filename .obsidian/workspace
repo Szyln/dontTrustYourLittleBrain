@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "useRef Hook.md",
+            "file": "console.log.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "useRef Hook.md",
+                "file": "console.log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "useRef Hook.md"
+                "file": "console.log.md"
               }
             }
           },
@@ -127,6 +127,7 @@
   },
   "active": "9c3bd3c4ea945d5c",
   "lastOpenFiles": [
+    "console.log.md",
     "useRef Hook.md",
     "useEffect Hook.md",
     "Dependency array.md",
@@ -135,7 +136,6 @@
     "eslint-plugin-react-hooks.md",
     "自訂 Hooks.md",
     "Hook.md",
-    "useState Hook.md",
-    "Lazy Initializer.md"
+    "useState Hook.md"
   ]
 }
