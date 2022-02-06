@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "console.log.md",
+            "file": "Styling in JSX.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "console.log.md",
+                "file": "Styling in JSX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "console.log.md"
+                "file": "Styling in JSX.md"
               }
             }
           },
@@ -127,6 +127,8 @@
   },
   "active": "9c3bd3c4ea945d5c",
   "lastOpenFiles": [
+    "Styling in JSX.md",
+    "Destructing Assignment.md",
     "console.log.md",
     "useRef Hook.md",
     "useEffect Hook.md",
@@ -134,8 +136,6 @@
     "React.md",
     "Affinity.md",
     "eslint-plugin-react-hooks.md",
-    "自訂 Hooks.md",
-    "Hook.md",
-    "useState Hook.md"
+    "自訂 Hooks.md"
   ]
 }
