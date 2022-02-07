@@ -29,5 +29,5 @@ console.log(Sam.sayHi === Mike.sayHi)	// true，都是從 prototype 讀取
 
 ## [[Prototype Inheritance]]
 用語法糖代替來寫
-## [[Class（語法糖）]]
+## [[Class]]
 #js #advanceJs #object #oop

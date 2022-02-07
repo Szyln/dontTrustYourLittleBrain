@@ -11,7 +11,7 @@
 ## [[Prototype]]
 [[Prototype]] 可以將屬性共享給多個物件
 ## [[Prototype Inheritance]]
-## [[Class（語法糖）]]
+## [[Class]]
 ## [[JavaScript/物件導向 OOP/Static]]
 Class 內部呼叫用屬性與方法
 

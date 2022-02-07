@@ -1,7 +1,8 @@
 # Class
-改善 [[Prototype Inheritance]] 的繁複寫法，本質不變
-可以理解為：類、模版
-可以簡化 [[Constructor]] 跟 [[Prototype]] 的建立
+
+- 改善 [[Prototype Inheritance]] 的繁複寫法的語法糖，本質不變
+- 可以理解為：類、模版
+- 可以簡化 [[Constructor]] 跟 [[Prototype]] 的建立
 
 ## 會用到的功能
 ### 原 Class

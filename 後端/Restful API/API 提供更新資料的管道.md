@@ -36,7 +36,7 @@ app.put('/students/:id', async (req, res) => {
 
 ## PATCH（還沒搞懂）
 只有部分更新
->[[Class（語法糖）]]
+>[[Class]]
 
 使用 findOneAndUpdate 的時候，因為有設定 [[Update with Validators]]，所以會沒辦法直接運行
 只動 age, merit 

@@ -1,6 +1,7 @@
 # Component
-- Component 可以透過**函數** Function 做出可以自定參數的元件（這邊可能之後會再改）
-- 需要重複使用的內容只需要一個函數來完成
+- 元件大致上就是用 funtion 來 return HTML 元素，其中可以自訂參數來調整元素，方便重複使用
+- 除了用 function 之外也有用 [[Class]] 來寫的版本：[[Class Component]]
+- 早期主要是用 Class 來寫，現在多建議 function component 搭配 [[Hook]] 來寫（16.8 版）
 - 透過參數可以調整每個生成出來的元件
 - 要大寫開頭
 
