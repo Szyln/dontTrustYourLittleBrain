@@ -12,7 +12,7 @@
 [[Prototype]] 可以將屬性共享給多個物件
 ## [[Prototype Inheritance]]
 ## [[Class]]
-## [[JavaScript/物件導向 OOP/Static]]
+## [[static：僅給 class 內部用的變數]]
 Class 內部呼叫用屬性與方法
 
 #js #advanceJs #object #oop
