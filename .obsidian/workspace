@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "useRef Hook.md",
+            "file": "JavaScript/物件導向 OOP/Static.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Box",
+                "query": "static",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,12 +48,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 210.00235176086426,
-    "collapsed": true
+    "width": 210.00235176086426
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "useRef Hook.md",
+                "file": "JavaScript/物件導向 OOP/Static.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "useRef Hook.md"
+                "file": "JavaScript/物件導向 OOP/Static.md"
               }
             }
           },
@@ -127,6 +127,8 @@
   },
   "active": "9c3bd3c4ea945d5c",
   "lastOpenFiles": [
+    "JavaScript/物件導向 OOP/Static.md",
+    "後端/Database/noSQL/Mongoose/method/Static Method.md",
     "useRef Hook.md",
     "Hook.md",
     "Component：可重複利用、自定參數的元件.md",
@@ -134,8 +136,6 @@
     "元件匯出.md",
     "JSX 生成標籤.md",
     "JavaScript/物件導向 OOP/繼承/Class.md",
-    "Class.md",
-    "console.log.md",
-    "Destructing Assignment.md"
+    "Class.md"
   ]
 }
