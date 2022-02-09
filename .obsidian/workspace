@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "元件匯出.md",
+            "file": "後端/API/Promise/Fetch.md",
             "mode": "preview"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "元件匯出.md",
+                "file": "後端/API/Promise/Fetch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "元件匯出.md"
+                "file": "後端/API/Promise/Fetch.md"
               }
             }
           },
@@ -126,6 +126,7 @@
   },
   "active": "9c3bd3c4ea945d5c",
   "lastOpenFiles": [
+    "後端/API/Promise/Fetch.md",
     "元件匯出.md",
     "JavaScript/資料類型/原始資料類型 Primitive Data Types.md",
     "JavaScript/資料類型/資料類型.md",
@@ -134,7 +135,6 @@
     "JavaScript/介紹/ECMA.md",
     "JavaScript.md",
     "JavaScript/資料類型/Object, Array/Array/陣列的循環 for, forEach, map.md",
-    "前端/CSS/scss/Maps.md",
-    "useRef Hook.md"
+    "前端/CSS/scss/Maps.md"
   ]
 }
