@@ -7,4 +7,6 @@ justForTest.html
 資料夾/
 ```
 
+[Ignoring Files and Folders](https://sodocumentation.net/git/topic/245/ignoring-files-and-folders)
+
 #git 

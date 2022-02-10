@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git/Git.md",
-            "mode": "preview"
+            "file": "React/React.md",
+            "mode": "source"
           }
         }
       }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.0068016052246
+    "width": 202.0107650756836
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Git.md",
+                "file": "React/React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Git.md"
+                "file": "React/React.md"
               }
             }
           },
@@ -126,15 +126,15 @@
   },
   "active": "9c3bd3c4ea945d5c",
   "lastOpenFiles": [
-    "Git/Git.md",
+    "React/React.md",
+    "JavaScript/資料類型/Object, Array/Destructing Assignment.md",
     "Git/基礎/Repository/gitignore.md",
+    "Git/Git.md",
     "React/Hook/useRef Hook.md",
     "React/Hook/Hook.md",
     "React/JSX/JSX HTML 內使用 if (Tenery Operator).md",
     "React/JSX/JSX HTML 內寫迴圈.md",
     "React/Component/定義屬性(props).md",
-    "React/JSX/在 JSX 內使用 JS 變數.md",
-    "React/基本原理/React 基本原理.md",
-    "React/Component/Props(Properties).md"
+    "React/JSX/在 JSX 內使用 JS 變數.md"
   ]
 }
