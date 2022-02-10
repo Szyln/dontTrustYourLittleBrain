@@ -9,3 +9,7 @@ let firstPerson = ary.find(element => {
 })
 console.log(firstPerson); // 王小明
 ```
+
+>[[條件判定陣列的元素]]
+
+#js #dataType #array #object 

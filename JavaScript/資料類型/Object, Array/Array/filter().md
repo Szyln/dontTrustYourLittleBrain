@@ -1,4 +1,4 @@
-### filter()
+### filter ()
 回傳符合條件的所有元素
 ```js
 let array = [1, 2, 4, 6];  
@@ -9,3 +9,7 @@ console.log(newArray);
   
 // [1,2,4]
 ```
+
+>[[條件判定陣列的元素]]
+
+#js #dataType #array #object 
