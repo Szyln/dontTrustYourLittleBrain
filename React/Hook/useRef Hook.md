@@ -1,12 +1,10 @@
 # useRef Hook
->本篇使用 Library：[vanill-tilt](https://micku7zu.github.io/vanilla-tilt.js/index.html)
->可使用 querySelector 來讓 DOM node 有酷炫的漸層動態效果
-
 
 > `useRef` 的 ref 與[[物件傳參考]]中提到的 reference 是同一件事
 > 指的是「變數指向記憶體位置上對應到的值」
 
 - 在 React 中用原始的 DOM 方式（ `querySelector` 之類）操作元素並不直覺，使用 `useRef` [[Hook]]，可以直接在元件裡，直接操作元件
+- 
 - 允許 render 期間可以維持相同的值
 - 可以儲存可變動值，但不會觸發 re-render
 - `useRef` 只會回傳一個  `current` 屬性
@@ -14,7 +12,10 @@
 
 >[[useState Hook]] 更動值的的時候就會觸發 re-render
 
+---
 
+>本篇使用 Library：[vanill-tilt](https://micku7zu.github.io/vanilla-tilt.js/index.html)
+>可使用 querySelector 來讓 DOM node 有酷炫的漸層動態效果
 ```jsx
 function Tilt() {
   // 這變數存有一個 object，其中有 current 屬性可以使用，可以顯示當前 DOM node

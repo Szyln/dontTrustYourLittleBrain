@@ -1,4 +1,4 @@
-# Mongoose Find(Read)
+# Mongoose Find (Read)
 ```js
 Model.find()				// 回傳 array with object
 Model.findOne()				// 回傳單一 object
