@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "後端/API/Promise/Fetch.md",
+            "file": "Git/Git.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "static",
+                "query": "tag:#git",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210.00235176086426
+    "width": 354.0068016052246
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "後端/API/Promise/Fetch.md",
+                "file": "Git/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "後端/API/Promise/Fetch.md"
+                "file": "Git/Git.md"
               }
             }
           },
@@ -126,15 +126,15 @@
   },
   "active": "9c3bd3c4ea945d5c",
   "lastOpenFiles": [
-    "後端/API/Promise/Fetch.md",
-    "元件匯出.md",
-    "JavaScript/資料類型/原始資料類型 Primitive Data Types.md",
-    "JavaScript/資料類型/資料類型.md",
-    "JavaScript/介紹/JavaScript.md",
-    "JavaScript/JavaScript 介紹.md",
-    "JavaScript/介紹/ECMA.md",
-    "JavaScript.md",
-    "JavaScript/資料類型/Object, Array/Array/陣列的循環 for, forEach, map.md",
-    "前端/CSS/scss/Maps.md"
+    "Git/Git.md",
+    "Git/基礎/Repository/gitignore.md",
+    "React/Hook/useRef Hook.md",
+    "React/Hook/Hook.md",
+    "React/JSX/JSX HTML 內使用 if (Tenery Operator).md",
+    "React/JSX/JSX HTML 內寫迴圈.md",
+    "React/Component/定義屬性(props).md",
+    "React/JSX/在 JSX 內使用 JS 變數.md",
+    "React/基本原理/React 基本原理.md",
+    "React/Component/Props(Properties).md"
   ]
 }

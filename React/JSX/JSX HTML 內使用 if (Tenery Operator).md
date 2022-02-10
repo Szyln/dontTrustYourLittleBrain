@@ -10,3 +10,5 @@ function CharacterCount({text}) {
   )
 }
 ```
+
+#js #react 

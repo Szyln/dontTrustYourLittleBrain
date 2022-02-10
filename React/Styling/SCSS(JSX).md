@@ -1,4 +1,4 @@
-# SCSS(JSX)
+# SCSS (JSX)
 編譯完後的 CSS 檔可以直接匯到 app.jsx 內
 
 ```jsx
