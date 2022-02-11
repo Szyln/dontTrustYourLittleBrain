@@ -1,6 +1,6 @@
 # Rerender a React Application
 React 中，重新渲染的時候不會造成整個區塊都被更新的問題
-重整範圍：有 `{time}` 屬性的範圍
+重整範圍：有更新的（ `{time}` ）屬性的範圍
 
 ```jsx
 function tick() {

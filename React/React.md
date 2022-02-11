@@ -21,16 +21,16 @@
 - [[定義屬性(props)]]
 - [[Component：可重複利用、自定參數的元件]]
 	- [[PropTypes：元件參數的 Vaildator]]
+	- [[用元件處理 CSS Styling]]（搭配 [[Styling in JSX]] 看）
+- [[Rerender a React Application：有效率的重新渲染]]
+- [[Styling in JSX]]
+- [[Event Handlers]]
+- [[State]]
 
 
 ---
 
-- [[Rerender a React Application：有效率的重新渲染]]
-- [[Styling in JSX]]
 
-- [[Event Handlers]]
-
-- [[State]]
 - [[Hook]]
 	- [[useState Hook]]
 	- [[useEffect Hook]]

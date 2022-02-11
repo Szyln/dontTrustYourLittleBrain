@@ -4,36 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1796a5db87ee9f4c",
-        "type": "split",
+        "id": "c0d1dfd870bc6aab",
+        "type": "leaf",
         "dimension": 69.37984496124031,
-        "children": [
-          {
-            "id": "c0d1dfd870bc6aab",
-            "type": "leaf",
-            "dimension": 34.52243958573072,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/Component/定義屬性(props).md",
-                "mode": "preview"
-              }
-            }
-          },
-          {
-            "id": "3c1d9d6633e4d2d3",
-            "type": "leaf",
-            "dimension": 65.47756041426928,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "React/Component/Component：可重複利用、自定參數的元件.md",
-                "mode": "source"
-              }
-            }
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "React/Hook/State.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       },
       {
         "id": "bbc0e18b7980408e",
@@ -104,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Component/Component：可重複利用、自定參數的元件.md",
+                "file": "React/Hook/State.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Component/Component：可重複利用、自定參數的元件.md"
+                "file": "React/Hook/State.md"
               }
             }
           }
@@ -150,17 +130,17 @@
     "direction": "horizontal",
     "width": 272.8884582519531
   },
-  "active": "3c1d9d6633e4d2d3",
+  "active": "c0d1dfd870bc6aab",
   "lastOpenFiles": [
-    "React/Component/Component：可重複利用、自定參數的元件.md",
+    "React/Hook/State.md",
+    "React/Component/Event Handlers.md",
     "React/React.md",
-    "React/Component/元件匯出.md",
+    "React/Styling/用元件處理 CSS Styling.md",
     "React/Component/定義屬性(props).md",
-    "React/Component/Props(Properties).md",
-    "React/JSX/JSX HTML 內使用變數.md",
-    "React/JSX/JSX 內的 HTML 加入 JS 程式碼.md",
-    "React/JSX/JSX 生成標籤.md",
-    "React/基本原理/生成標籤：React.createElement().md",
+    "React/Component/Component：可重複利用、自定參數的元件.md",
+    "React/Styling/Styling in JSX.md",
+    "React/Component/Rerender a React Application：有效率的重新渲染.md",
+    "React/Component/PropTypes：元件參數的 Vaildator.md",
     "React/基本原理/children.md"
   ]
 }

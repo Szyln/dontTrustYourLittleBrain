@@ -5,8 +5,7 @@
 - 會多次出現的類似內容，就可以做成元件
 - 內容若有需要微調的需求，則設定參數供調整
 
-## 以 className 為例
-### 找出類似內容
+## 找出類似內容
 ```jsx
 const element = (
 	<div>
@@ -17,7 +16,8 @@ const element = (
 )
 ```
 
-### 拉出來做成元件
+## 拉出來做成元件
+>[[Component：可重複利用、自定參數的元件#生成元件]]
 ```jsx
 // 建立 Box 元件
 function Box(props) {
@@ -36,7 +36,7 @@ const element = (
 )
 ```
 
-### 不同的內容則拉出來做自訂參數
+## 不同的內容則拉出來做自訂參數
 > [[string]]：可以使用 `trim()` 避免 `className` 字串沒有寫額外 `className` 的空白字串
 ```jsx
 // 預設 className 為空字串，不然會顯示 undefined
@@ -60,7 +60,8 @@ const element = (
 ><div className="box" {...props} />
 >```
 
-### 改良：可以再改良元件的易讀性（就算不懂 CSS 也可以改元件）
+## 改良：可以再改良元件的易讀性（就算不懂 CSS 也可以改元件）
+### 生成
 ```jsx
 function Box({className = '', size, ...rest}) {
 	// 如果有寫入 sizeClassName 就新增一個指定的 class 名字
@@ -70,6 +71,7 @@ function Box({className = '', size, ...rest}) {
 	)
 }
 ```
+### 使用
 ```jsx
 const element = (
 	<div>

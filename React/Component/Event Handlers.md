@@ -7,6 +7,8 @@
 >```
 
 
+## 原始寫法
+可以看到原本的寫法會需要 render 很多次，搭配 [[Hook]] 可以改善這問題
 >可以再用 [[useState Hook]] 改良：[[Event Handlers#使用 Hook 改寫]]
 ```jsx
 function App() {
@@ -16,7 +18,7 @@ function App() {
 	// 給 onClick event 的功能，event 觸發後便更新 state.eventCount
 	// 如果 button 是放在 form 裡面會有預設送出的效果，要放 e.preventDefault() 
 	function handleClick() {
-		state.eventCount += 1;
+		state. eventCount += 1;
 		renderApp();
 	}
 	// 給 onChange 的功能，event 觸發後便將 state
@@ -59,21 +61,22 @@ renderApp();
 
 ## 使用 [[Hook]] 改寫
 >[[Hook]]：[[useState Hook]]
+>[[Destructing Assignment]]
 ```jsx	
 function App() { 
 	const [ count, setCount ] = React.useState(0);
 	const [ username, setUsername ] = React.useState('');
 
 	const handleClick = () => setCount(count + 1);
-	const hadleChange = (e) => setUsername(e.target.value);
+	const handleChange = (e) => setUsername (e.target.value);
 
 	return (
 		<div>
-			<p>There have been {state.eventCount} events.</p>
+			<p>There have been {count} events.</p>
 			<p>
 				<button onClick={handleClick}>Click Me</button>
 			</p>
-			<p>You typed: {state.username}</p>
+			<p>You typed: {username}</p>
 			<p>
 				<input onChange={handleChange} />
 			</p>
@@ -85,7 +88,7 @@ ReactDOM.render(<App />, document.querySelector('#root'));
 ```
 
 ## 補充
-課程原本是這樣寫，上述有改成自己比較直覺的理解方式
+課程原本是這樣寫（模擬 `useState` 的寫法），上述有改成自己比較直覺的理解方式
 ```jsx
 // 課程原本寫的事件是這樣寫
 function handleClick() {
@@ -97,8 +100,8 @@ function handleChange(event) {
 }
 
 function setState(newState) {
-Object.assign(state, newState)
-renderApp()
+	Object.assign(state, newState)
+	renderApp()
 }
 ```
 >[[物件不要傳參考的時候：深層、淺層拷貝#淺層拷貝 Shallow Copy]]
