@@ -28,12 +28,12 @@
 - [[State]]
 - [[Hook]]
 	- [[useState Hook]]
+		- [[State Lifting]]
 	- [[useEffect Hook]]
 	- [[自訂 Hooks]]
 	- [[useRef Hook]]
 	- [[Hook Flow]]
-
-- [[State Lifting]]
+- [[Delete in React]]
 ---
 
 

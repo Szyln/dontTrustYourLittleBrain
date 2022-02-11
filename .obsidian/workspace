@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "State Lifting.md",
-            "mode": "source"
+            "file": "Delete in React.md",
+            "mode": "preview"
           }
         }
       },
@@ -23,7 +23,7 @@
           "type": "markdown",
           "state": {
             "file": "React/React.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "State Lifting.md",
+                "file": "Delete in React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "State Lifting.md"
+                "file": "Delete in React.md"
               }
             }
           }
@@ -133,15 +133,15 @@
   },
   "active": "c0d1dfd870bc6aab",
   "lastOpenFiles": [
+    "Delete in React.md",
+    "React/React.md",
     "State Lifting.md",
+    "Colocating.md",
     "前端/CSS/scss/7+1 結構.md",
     "React/JSX/JSX HTML 內寫迴圈.md",
-    "React/React.md",
     "React/Hook/useState Hook.md",
     "React/Hook/State.md",
     "React/Hook/useRef Hook.md",
-    "React/Component/Event Handlers.md",
-    "React/Styling/用元件處理 CSS Styling.md",
-    "React/Component/定義屬性(props).md"
+    "React/Component/Event Handlers.md"
   ]
 }
