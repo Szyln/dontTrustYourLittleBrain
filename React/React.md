@@ -11,18 +11,18 @@
 - [[React 使用的模組]]
 	- [[ReactDOM：渲染]]
 - [[React 環境]]
-	- [[React Snippet]]
 	- [[JSX]]
 	- [[React 的原始寫法]]
+	- [[React Snippet]]
+- [[生成標籤：React.createElement()]]
+	- [[同時生成多個標籤]]
 - [[Props(Properties)]]
 
 
 ---
 
-- [[React.createElement()：生成標籤]]
 - [[JSX 內的 HTML 加入 JS 程式碼]]
 - [[JSX 生成標籤]]
-- [[React.Fragment：生成複數標籤]]
 - [[定義屬性(props)]]
 - [[Component：可重複利用、自定參數的元件]]
 	- [[PropTypes：元件參數的 Vaildator]]

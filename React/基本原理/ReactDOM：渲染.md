@@ -1,10 +1,11 @@
 # ReactDOM
+React 遵循 [[5.關注點分離]]的規則，JS 的內容寫完後渲染到畫面指定位置上
+
 ```js
 // 可以直接簡寫成：
 ReactDom.render('要渲染的內容', document.quertSelector('#渲染位置'));
-// <要渲染的內容> 只能有一個
+// <要渲染的內容> 只能有一個：[[同時生成多個標籤]]
 ```
->想要一次渲染多個內容 [[React.Fragment：生成複數標籤]]
 ---
 
 ```html
@@ -45,7 +46,17 @@ ReactDom.render(element, document.quertSelector('#root'));
 function App() {
 	return <一些東西 />
 }
+```
+```jsx
 // 原本是這樣寫
 ReactDOM.render(React.createElement(App), document.querySelector('#root'));
+```
+```jsx
+// 因為是函數，這樣寫也可
+ReactDOM.render(App(), document.querySelector('#root'));
+```
+```jsx
+// 搭配 JSX 這樣寫即可：[[JSX]] 再講
+ReactDOM.render(<App />, document.querySelector('#root'));
 ```
 #react #dom #html #js

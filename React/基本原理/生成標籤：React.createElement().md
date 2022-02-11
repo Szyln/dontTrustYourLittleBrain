@@ -1,7 +1,6 @@
-# React.createElement()：生成標籤
->[[ReactDOM：渲染]]
+# React.createElement()
 >[[JSX 生成標籤]]
->[[React.Fragment：生成複數標籤]]
+>[[同時生成多個標籤]]
 
 生成標籤的原理，但實際撰寫時會用更方便的方法：[[JSX]]
 
@@ -15,7 +14,7 @@ const element = React.createElement('div', {
   children: 'Hello World', // children 等同 textContent
 })
 
-// 渲染
+// 渲染：[[ReactDOM：渲染]]
 ```
 >### 原生 JS 作法
 >```js
@@ -30,6 +29,8 @@ const element = React.createElement('div', {
 ## children
 等同於 textContent
 >[[children]]
+
+
 
 
 #react #dom #html #js

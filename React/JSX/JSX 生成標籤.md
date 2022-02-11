@@ -1,6 +1,6 @@
 # JSX 生成標籤
 
-[[React.createElement()：生成標籤]]寫起來並沒有效率，透過 [[JSX]] 格式來寫可以更接近 HTML 
+[[生成標籤：React.createElement()]]寫起來並沒有效率，透過 [[JSX]] 格式來寫可以更接近 HTML 
 
 ```jsx
 // JSX 寫法

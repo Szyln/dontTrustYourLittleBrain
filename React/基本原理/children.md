@@ -3,7 +3,7 @@
 - 可以獨立出來當做 `React.createElement()` 的第三個（或更多）參數
 - 可以多個 children
 
-> 但是多個標籤不行，要使用[[React.Fragment：生成複數標籤]]
+> 但是多個標籤不行，參照：[[同時生成多個標籤]]
 
 ```js
 const element = React.createElement('div', {

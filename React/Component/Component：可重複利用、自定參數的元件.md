@@ -45,7 +45,7 @@ const element = (
 >// 為一個 function 而非標籤
 >console.log(<MessageEdit children="Hello America." />);
 >```
-[[React.createElement()：生成標籤]]
+[[生成標籤：React.createElement()]]
 
 
 #react #html #js #component #function 
