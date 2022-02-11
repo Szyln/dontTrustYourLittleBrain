@@ -10,6 +10,7 @@
 ## 原始寫法
 可以看到原本的寫法會需要 render 很多次，搭配 [[Hook]] 可以改善這問題
 >可以再用 [[useState Hook]] 改良：[[Event Handlers#使用 Hook 改寫]]
+
 ```jsx
 function App() {
 	// state 變數儲存要顯示到網頁上的值（event 觸發會更動）
@@ -50,7 +51,6 @@ function renderApp() {
 // 要先 render 一次頁面
 renderApp();
 ```
-> 要很多地方 render 的問題使用 [[Hook]] 可以解決
 
 >React 支援的 Event Handlers 也可以讀取到原生的 Event Handlers
 >```jsx

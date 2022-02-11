@@ -1,6 +1,7 @@
 # useState Hook
 ```jsx
 import React, { useState } from 'react'
+// 有匯入 useState 的話下面的 React.useState 可簡寫為 useState
 ```
 ```jsx
 // name: 自訂名稱，setName：name 的更改 state 用函數

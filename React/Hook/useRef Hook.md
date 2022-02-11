@@ -4,7 +4,6 @@
 > 指的是「變數指向記憶體位置上對應到的值」
 
 - 在 React 中用原始的 DOM 方式（ `querySelector` 之類）操作元素並不直覺，使用 `useRef` [[Hook]]，可以直接在元件裡，直接操作元件
-- 
 - 允許 render 期間可以維持相同的值
 - 可以儲存可變動值，但不會觸發 re-render
 - `useRef` 只會回傳一個  `current` 屬性

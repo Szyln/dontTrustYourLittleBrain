@@ -6,11 +6,11 @@
       {
         "id": "c0d1dfd870bc6aab",
         "type": "leaf",
-        "dimension": 69.37984496124031,
+        "dimension": 62.71637816245007,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React/Hook/State.md",
+            "file": "State Lifting.md",
             "mode": "source"
           }
         }
@@ -18,7 +18,7 @@
       {
         "id": "bbc0e18b7980408e",
         "type": "leaf",
-        "dimension": 30.620155038759684,
+        "dimension": 37.28362183754994,
         "state": {
           "type": "markdown",
           "state": {
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Hook/State.md",
+                "file": "State Lifting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Hook/State.md"
+                "file": "State Lifting.md"
               }
             }
           }
@@ -128,19 +128,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.8884582519531
+    "width": 272.8884582519531,
+    "collapsed": true
   },
   "active": "c0d1dfd870bc6aab",
   "lastOpenFiles": [
-    "React/Hook/State.md",
-    "React/Component/Event Handlers.md",
+    "State Lifting.md",
+    "React/Hook/useState Hook.md",
     "React/React.md",
+    "React/Hook/State.md",
+    "React/Hook/useRef Hook.md",
+    "React/Component/Event Handlers.md",
     "React/Styling/用元件處理 CSS Styling.md",
     "React/Component/定義屬性(props).md",
     "React/Component/Component：可重複利用、自定參數的元件.md",
-    "React/Styling/Styling in JSX.md",
-    "React/Component/Rerender a React Application：有效率的重新渲染.md",
-    "React/Component/PropTypes：元件參數的 Vaildator.md",
-    "React/基本原理/children.md"
+    "React/Styling/Styling in JSX.md"
   ]
 }
