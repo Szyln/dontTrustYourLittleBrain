@@ -1,5 +1,5 @@
 # JSX (JavaScript eXtension)
-- 原始的寫法[[生成標籤：React.createElement()]] 很複雜，通常都會透過 JSX 的功能來寫，再透過 [[Babel]] 編譯回原始寫法
+- React 的原始的寫法[[生成標籤：React.createElement()]] 很複雜，通常都是透過 JSX 的功能來寫，再透過 [[Babel]] 編譯回原始寫法
 - 可以讓 JS 寫得像 HTML 一樣 
 - React 的擴充功能，[[安裝 React]]會一併安裝
 - 副檔名是 `.jsx`

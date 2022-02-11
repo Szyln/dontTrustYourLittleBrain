@@ -4,26 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "c0d1dfd870bc6aab",
-        "type": "leaf",
+        "id": "1796a5db87ee9f4c",
+        "type": "split",
         "dimension": 69.37984496124031,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "React/基本原理/React.Fragment：同時生成複數標籤.md",
-            "mode": "preview"
+        "children": [
+          {
+            "id": "c0d1dfd870bc6aab",
+            "type": "leaf",
+            "dimension": 34.52243958573072,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/Component/定義屬性(props).md",
+                "mode": "preview"
+              }
+            }
+          },
+          {
+            "id": "3c1d9d6633e4d2d3",
+            "type": "leaf",
+            "dimension": 65.47756041426928,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "React/Component/Component：可重複利用、自定參數的元件.md",
+                "mode": "source"
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       },
       {
         "id": "bbc0e18b7980408e",
         "type": "leaf",
-        "dimension": 30.620155038759687,
+        "dimension": 30.620155038759684,
         "state": {
           "type": "markdown",
           "state": {
             "file": "React/React.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -52,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "filter",
+                "query": "\"JSX 生成標籤\"",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +81,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -83,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/基本原理/React.Fragment：同時生成複數標籤.md",
+                "file": "React/Component/Component：可重複利用、自定參數的元件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/基本原理/React.Fragment：同時生成複數標籤.md"
+                "file": "React/Component/Component：可重複利用、自定參數的元件.md"
               }
             }
           }
@@ -129,17 +150,17 @@
     "direction": "horizontal",
     "width": 272.8884582519531
   },
-  "active": "c0d1dfd870bc6aab",
+  "active": "3c1d9d6633e4d2d3",
   "lastOpenFiles": [
-    "React/基本原理/React.Fragment：同時生成複數標籤.md",
+    "React/Component/Component：可重複利用、自定參數的元件.md",
     "React/React.md",
-    "同時生成多個標籤.md",
+    "React/Component/元件匯出.md",
+    "React/Component/定義屬性(props).md",
+    "React/Component/Props(Properties).md",
+    "React/JSX/JSX HTML 內使用變數.md",
+    "React/JSX/JSX 內的 HTML 加入 JS 程式碼.md",
+    "React/JSX/JSX 生成標籤.md",
     "React/基本原理/生成標籤：React.createElement().md",
-    "React/基本原理/ReactDOM：渲染.md",
-    "React/基本原理/children.md",
-    "上層多包在一個標籤.md",
-    "React/基本原理/React 的原始寫法.md",
-    "React/JSX/JSX.md",
-    "React/JSX/單行 html 的 React 寫法.md"
+    "React/基本原理/children.md"
   ]
 }

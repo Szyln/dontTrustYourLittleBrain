@@ -12,20 +12,19 @@
 	- [[ReactDOM：渲染]]
 - [[React 環境]]
 	- [[JSX]]
-	- [[React 的原始寫法]]
 	- [[React Snippet]]
-- [[生成標籤：React.createElement()]]
+- [[JSX 生成標籤]]
+	- [[children]]
+	- [[生成標籤：React.createElement()]]
 	- [[同時生成多個標籤]]
-- [[Props(Properties)]]
+- [[JSX 內的 HTML 加入 JS 程式碼]]
+- [[定義屬性(props)]]
+- [[Component：可重複利用、自定參數的元件]]
+	- [[PropTypes：元件參數的 Vaildator]]
 
 
 ---
 
-- [[JSX 內的 HTML 加入 JS 程式碼]]
-- [[JSX 生成標籤]]
-- [[定義屬性(props)]]
-- [[Component：可重複利用、自定參數的元件]]
-	- [[PropTypes：元件參數的 Vaildator]]
 - [[Rerender a React Application：有效率的重新渲染]]
 - [[Styling in JSX]]
 
