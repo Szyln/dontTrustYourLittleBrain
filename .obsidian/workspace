@@ -127,14 +127,14 @@
   "active": "c0d1dfd870bc6aab",
   "lastOpenFiles": [
     "React/React.md",
+    "React/基本原理/React 的原始寫法.md",
+    "React 使用的模組.md",
+    "React/環境/React 環境.md",
+    "React/JSX/JSX.md",
     "JavaScript/資料類型/Object, Array/Array/條件判定陣列的元素.md",
     "JavaScript/資料類型/Object, Array/Array/find().md",
     "JavaScript/資料類型/Object, Array/Array/filter().md",
     "JavaScript/資料類型/Template literals (Template strings).md",
-    "後端/Database/noSQL/Mongoose/CRUD/Find(Read).md",
-    "React/Hook/useRef Hook.md",
-    "Hook Flow.md",
-    "JavaScript/資料類型/Object, Array/Destructing Assignment.md",
-    "Git/基礎/Repository/gitignore.md"
+    "後端/Database/noSQL/Mongoose/CRUD/Find(Read).md"
   ]
 }

@@ -1,12 +1,9 @@
-# React 基本原理
+# React 的原始寫法
  
 ## 基本架構
+>[[React 使用的模組]]
 ```js
-// 匯入
-// ES6 匯入模組的寫法
-
-import React from 'react';
-import ReactDOM from 'react-dom';
+// 匯入 React, ReactDOM: [[React 使用的模組]]
 
 // (在 [[JSX]] 當中會提到如何簡化這段)
 function App() {

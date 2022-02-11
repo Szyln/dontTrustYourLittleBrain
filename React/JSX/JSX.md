@@ -1,14 +1,14 @@
-# JSX(JavaScript eXtension)
-- React 的擴充功能
-- 可以讓 JS 寫得像 HTML 一樣，不用像 [[React 基本原理]]一樣要一直用 `React.createElement()` 的語法
-- 用 [[Babel]] 來編譯 
+# JSX (JavaScript eXtension)
+- [[React 的原始寫法]]很複雜，通常都會透過 JSX 的功能來寫
+- 可以讓 JS 寫得像 HTML 一樣 
+- 用 [[Babel]] 來編譯成 [[React 的原始寫法]] 的樣子
+- React 的擴充功能，[[安裝 React]]會一併安裝
 - 副檔名是 `.jsx`
 
 ```jsx
-// App() 的 A 一定要大寫
 function App() {
 	return (
-		// function 內 return 只能執行一次，所以一定要包起來
+		// 長相就像 HTML 
 		<div>
 			<h1>lorem</h1>
 			<p>lorem</p>

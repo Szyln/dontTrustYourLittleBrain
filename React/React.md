@@ -8,18 +8,17 @@
 ---
 
 - [[安裝 React]]
-- [[React 基本原理]]
-- [[環境]]
-- [[JSX]]
-- [[React Snippet]]
+- [[React 使用的模組]]
+	- [[ReactDOM：渲染]]
+- [[React 環境]]
+	- [[React Snippet]]
+	- [[JSX]]
+	- [[React 的原始寫法]]
 - [[Props(Properties)]]
 
-- [[index.jsx]]
 
 ---
 
-## Kent C. Dodds
-- [[ReactDOM：渲染]]
 - [[React.createElement()：生成標籤]]
 - [[JSX 內的 HTML 加入 JS 程式碼]]
 - [[JSX 生成標籤]]
