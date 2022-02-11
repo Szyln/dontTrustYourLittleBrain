@@ -6,6 +6,8 @@
 生成標籤的原理，但實際撰寫時會用更方便的方法：[[JSX]]
 
 ```js
+// 匯入 [[React 使用的模組]]
+
 // 生成標籤，並指定屬性（第二個參數，為物件）
 // 屬性參數包含：寫入 CSS、className 等等等
 const element = React.createElement('div', {
@@ -25,7 +27,7 @@ const element = React.createElement('div', {
 >
 >// 渲染
 >```
-### children
+## children
 等同於 textContent
 >[[children]]
 

@@ -39,4 +39,13 @@ ReactDom.render(element, document.quertSelector('#root'));
 >rootElement.appendChild(element)
 >```
 
+
+## 補充：元件的渲染
+```jsx
+function App() {
+	return <一些東西 />
+}
+// 原本是這樣寫
+ReactDOM.render(React.createElement(App), document.querySelector('#root'));
+```
 #react #dom #html #js
