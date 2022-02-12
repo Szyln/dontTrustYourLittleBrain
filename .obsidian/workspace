@@ -4,25 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c0d1dfd870bc6aab",
+        "id": "bbc0e18b7980408e",
         "type": "leaf",
-        "dimension": 75.89514066496163,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Delete in React.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "bbc0e18b7980408e",
-        "type": "leaf",
-        "dimension": 24.104859335038363,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "React/React.md",
             "mode": "source"
           }
         }
@@ -131,13 +118,13 @@
     "width": 272.8884582519531,
     "collapsed": true
   },
-  "active": "c0d1dfd870bc6aab",
+  "active": "bbc0e18b7980408e",
   "lastOpenFiles": [
     "Delete in React.md",
+    "React/React.md",
     "Key prop.md",
     "UUID.md",
     "State Lifting.md",
-    "React/React.md",
     "Colocating.md",
     "前端/CSS/scss/7+1 結構.md",
     "React/JSX/JSX HTML 內寫迴圈.md",
