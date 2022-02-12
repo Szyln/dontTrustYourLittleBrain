@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React/環境/Vite.md",
+            "file": "前端/Bootstrap/gulp 環境的客製化.md",
             "mode": "preview"
           }
         }
@@ -48,13 +48,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 202.0107650756836,
-    "collapsed": true
+    "width": 202.0107650756836
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -71,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/環境/Vite.md",
+                "file": "前端/Bootstrap/gulp 環境的客製化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/環境/Vite.md"
+                "file": "前端/Bootstrap/gulp 環境的客製化.md"
               }
             }
           }
@@ -120,15 +118,15 @@
   },
   "active": "545ae14a6fa4d744",
   "lastOpenFiles": [
-    "React/環境/Vite.md",
-    "React/環境/安裝 React.md",
-    "React/React.md",
-    "Dynamic Form in React.md",
-    "Form in React.md",
-    "前端/html/form/label.md",
-    "React/Hook/useEffect Hook.md",
-    "Delete in React.md",
-    "Key prop.md",
-    "JavaScript/資料類型/Object, Array/Array/filter().md"
+    "前端/Bootstrap/gulp 環境的客製化.md",
+    "前端/Bootstrap/Cheatsheet.md",
+    "前端/Bootstrap/Cards.md",
+    "前端/Bootstrap/Font.md",
+    "前端/Bootstrap/Spacer.md",
+    "前端/Bootstrap/utilities API 修改.md",
+    "前端/CSS/scss/SCSS.md",
+    "前端/CSS/scss/7+1 結構.md",
+    "前端/CSS/scss/批次產生樣式 maps + @each.md",
+    "前端/CSS/scss/!default.md"
   ]
 }
