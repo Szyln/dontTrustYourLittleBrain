@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端/Bootstrap/gulp 環境的客製化.md",
+            "file": "後端/Cookie and Session/安全性/node 的 gitignore 設定.md",
             "mode": "preview"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/Bootstrap/gulp 環境的客製化.md",
+                "file": "後端/Cookie and Session/安全性/node 的 gitignore 設定.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/Bootstrap/gulp 環境的客製化.md"
+                "file": "後端/Cookie and Session/安全性/node 的 gitignore 設定.md"
               }
             }
           }
@@ -118,6 +118,7 @@
   },
   "active": "545ae14a6fa4d744",
   "lastOpenFiles": [
+    "後端/Cookie and Session/安全性/node 的 gitignore 設定.md",
     "前端/Bootstrap/gulp 環境的客製化.md",
     "前端/Bootstrap/Cheatsheet.md",
     "前端/Bootstrap/Cards.md",
@@ -126,7 +127,6 @@
     "前端/Bootstrap/utilities API 修改.md",
     "前端/CSS/scss/SCSS.md",
     "前端/CSS/scss/7+1 結構.md",
-    "前端/CSS/scss/批次產生樣式 maps + @each.md",
-    "前端/CSS/scss/!default.md"
+    "前端/CSS/scss/批次產生樣式 maps + @each.md"
   ]
 }
