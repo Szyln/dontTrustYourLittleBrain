@@ -6,19 +6,19 @@
       {
         "id": "c0d1dfd870bc6aab",
         "type": "leaf",
-        "dimension": 62.71637816245007,
+        "dimension": 75.89514066496163,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Delete in React.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       },
       {
         "id": "bbc0e18b7980408e",
         "type": "leaf",
-        "dimension": 37.28362183754994,
+        "dimension": 24.104859335038363,
         "state": {
           "type": "markdown",
           "state": {
@@ -134,14 +134,14 @@
   "active": "c0d1dfd870bc6aab",
   "lastOpenFiles": [
     "Delete in React.md",
-    "React/React.md",
+    "Key prop.md",
+    "UUID.md",
     "State Lifting.md",
+    "React/React.md",
     "Colocating.md",
     "前端/CSS/scss/7+1 結構.md",
     "React/JSX/JSX HTML 內寫迴圈.md",
     "React/Hook/useState Hook.md",
-    "React/Hook/State.md",
-    "React/Hook/useRef Hook.md",
-    "React/Component/Event Handlers.md"
+    "React/Hook/State.md"
   ]
 }
