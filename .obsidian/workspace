@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "bbc0e18b7980408e",
+        "id": "545ae14a6fa4d744",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Form in React.md",
-            "mode": "source"
+            "file": "React/環境/Vite.md",
+            "mode": "preview"
           }
         }
       }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Form in React.md",
+                "file": "React/環境/Vite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Form in React.md"
+                "file": "React/環境/Vite.md"
               }
             }
           }
@@ -118,17 +118,17 @@
     "width": 272.8884582519531,
     "collapsed": true
   },
-  "active": "bbc0e18b7980408e",
+  "active": "545ae14a6fa4d744",
   "lastOpenFiles": [
-    "Form in React.md",
+    "React/環境/Vite.md",
+    "React/環境/安裝 React.md",
     "React/React.md",
+    "Dynamic Form in React.md",
+    "Form in React.md",
+    "前端/html/form/label.md",
     "React/Hook/useEffect Hook.md",
     "Delete in React.md",
     "Key prop.md",
-    "JavaScript/資料類型/Object, Array/Array/filter().md",
-    "UUID.md",
-    "State Lifting.md",
-    "Colocating.md",
-    "前端/CSS/scss/7+1 結構.md"
+    "JavaScript/資料類型/Object, Array/Array/filter().md"
   ]
 }

@@ -1,4 +1,8 @@
 # Form in React
+>[[Form]]
+
+- `for` 為保留字，React 中要用 `htmlFor`
+- `htmlFor` 可以對應 `input` 的 `id` （或是 `name` ）屬性
 ```jsx
 function UsernameForm() {
   function handleSubmit(event) {
@@ -23,25 +27,29 @@ function UsernameForm() {
   )
 }
 ```
+>## 使用 for 佳
+>```jsx
+>// 有很多寫法，使用 htmlFor(for) 佳，有唯一性
+>const username = event.target.elements.usernameInput.value
+>```
+>
+>### 依照非唯一性的指標不優
+>```jsx
+>// input 不優，通常會有很多個，建議多 for
+>const username = document.querySelector('input').value
+>// 用 [指定 index] 不優，程式碼元素順序改變的時候會跑掉
+>const username = event.target[0].value
+>const username = event.target.elements[0].value 
+>```
+>### useRef 視狀況用
+>```jsx
+>// 如果沒必要不用用 useRef
+>const usernameInputRef = React.useRef()
+>// useRef
+>const username = usernameInputRef.current.value
+>```
+>```jsx
+><input ref={usernameInputRef} />
+>```
 
-```jsx
-// 有很多寫法，使用 htmlFor(for) 佳，有唯一性
-const username = event.target.elements.usernameInput.value
-```
-```jsx
-// input 不優，通常會有很多個
-const username = document.querySelector('input').value
-// 用 [指定 index] 不優，程式碼元素順序改變的時候會跑掉
-const username = event.target[0].value
-const username = event.target.elements[0].value 
-```
-
-```jsx
-// 如果沒必要不用用 useRef
-const usernameInputRef = React.useRef()
-// useRef
-const username = usernameInputRef.current.value
-```
-```jsx
-<input ref={usernameInputRef} />
-```
+#react #js #form #html 
