@@ -1,5 +1,5 @@
 ### filter ()
-回傳符合條件的所有元素
+Return all 符合條件 element
 ```js
 let array = [1, 2, 4, 6];  
 let newArray = array.filter(function(item){  
