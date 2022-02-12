@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "後端/Cookie and Session/安全性/node 的 gitignore 設定.md",
+            "file": "react-router-dom.md",
             "mode": "preview"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202.0107650756836
+    "width": 202.0107650756836,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "後端/Cookie and Session/安全性/node 的 gitignore 設定.md",
+                "file": "react-router-dom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "後端/Cookie and Session/安全性/node 的 gitignore 設定.md"
+                "file": "react-router-dom.md"
               }
             }
           }
@@ -118,15 +119,15 @@
   },
   "active": "545ae14a6fa4d744",
   "lastOpenFiles": [
-    "後端/Cookie and Session/安全性/node 的 gitignore 設定.md",
-    "前端/Bootstrap/gulp 環境的客製化.md",
-    "前端/Bootstrap/Cheatsheet.md",
-    "前端/Bootstrap/Cards.md",
-    "前端/Bootstrap/Font.md",
-    "前端/Bootstrap/Spacer.md",
-    "前端/Bootstrap/utilities API 修改.md",
-    "前端/CSS/scss/SCSS.md",
-    "前端/CSS/scss/7+1 結構.md",
-    "前端/CSS/scss/批次產生樣式 maps + @each.md"
+    "react-router-dom.md",
+    "React/React.md",
+    "react-router-dom 版本差異.md",
+    "後端/Node.js/Node.js.md",
+    "React/UUID.md",
+    "React/List/Delete in React.md",
+    "React/JSX/上層多包一個標籤.md",
+    "React/JSX/同時生成多個標籤.md",
+    "React/環境/檔案變多之後的模組運用.md",
+    "未命名.md"
   ]
 }

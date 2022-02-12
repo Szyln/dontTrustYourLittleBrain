@@ -1,20 +1,4 @@
 {
-  "app:toggle-left-sidebar": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "B"
-    }
-  ],
-  "app:toggle-right-sidebar": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "N"
-    }
-  ],
   "editor:insert-tag": [
     {
       "modifiers": [
@@ -73,6 +57,31 @@
         "Shift"
       ],
       "key": "U"
+    }
+  ],
+  "editor:toggle-bold": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "B"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "B"
     }
   ]
 }
