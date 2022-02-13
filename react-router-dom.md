@@ -3,10 +3,14 @@
 npm install react-router-dom
 ```
 
+- Routing
+- Link (`a` 標籤)
+
 >[[react-router-dom 版本差異]]
 
 ---
 
+## Routing
 可以在 React 操作 Routing
 
 ```jsx
@@ -24,7 +28,7 @@ ReactDOM.render(
 );
 ```
 
-`<Route />` 內寫入 path（路徑）, element（頁面.jsx）
+`<Route />` 內寫入 `path`（路徑）, `element`（頁面.jsx）
 ```jsx
 // 匯入 React, Nav, HomePage, About, Footer, {Routes, Route} (react-router-dom)
 function App() {
@@ -45,5 +49,12 @@ function App() {
 export default App;
 
 ```
+
+## Link
+`<a>` 標籤建議用 [[react-router-dom]]	的 `Link` 元件代替
+```jsx
+<Link to="/">首頁</Link>
+```
+
 
 #react #npm #module #routing 
