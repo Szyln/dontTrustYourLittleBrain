@@ -54,6 +54,6 @@
 - [[react-router-dom]]
 	- [[react-router-dom 版本差異]]
 
-
-
+## Fetch API
+- [[Pexals API with React]]
 #framework #frontend #js #css #html #node #jsx

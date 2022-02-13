@@ -15,7 +15,9 @@ npm install react-router-dom
 
 ```jsx
 // main.jsx(負責 render)
-// 匯入 React, ReactDOM, App, {BrowserRouter}(react-router-dom)
+// 匯入 React, ReactDOM, App
+import { BrowserRouter } from 'react-router-dom'
+
 ReactDOM.render(
   <React.StrictMode>
     {/* 用 BrowserRouter 包住 */}
@@ -30,7 +32,9 @@ ReactDOM.render(
 
 `<Route />` 內寫入 `path`（路徑）, `element`（頁面.jsx）
 ```jsx
-// 匯入 React, Nav, HomePage, About, Footer, {Routes, Route} (react-router-dom)
+// 匯入 React, Nav, HomePage, About, Footer
+import { Routes, Route } from 'react-router-dom'
+
 function App() {
   return (
     <>
@@ -47,7 +51,10 @@ function App() {
 }
 export default App;
 ```
+## Link
+取代 `<a>` ，`App()` 中的 `Routes` 元件就是透過這裡做回應
 ```jsx
+// 匯入 React
 import { Link } from "react-router-dom";
 
 const Nav = () => {
@@ -67,11 +74,6 @@ const Nav = () => {
 };
 ```
 
-## Link
-`<a>` 標籤建議用 [[react-router-dom]]	的 `Link` 元件代替
-```jsx
-<Link to="/">首頁</Link>
-```
 
 
 #react #npm #module #routing 

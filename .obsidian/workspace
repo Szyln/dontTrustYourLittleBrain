@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "react-router-dom.md",
-            "mode": "preview"
+            "file": "Pexals API with React.md",
+            "mode": "source"
           }
         }
       }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "react-router-dom.md",
+                "file": "Pexals API with React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "react-router-dom.md"
+                "file": "Pexals API with React.md"
               }
             }
           }
@@ -119,15 +119,15 @@
   },
   "active": "b87d78a39a4bbaa1",
   "lastOpenFiles": [
+    "Pexals API with React.md",
+    "React/React.md",
     "react-router-dom.md",
     "React/Styling/SCSS(JSX).md",
     "react-router-dom 版本差異.md",
     "React/Styling/Styling in JSX.md",
-    "React/React.md",
     "後端/Node.js/Node.js.md",
     "React/UUID.md",
     "React/List/Delete in React.md",
-    "React/JSX/上層多包一個標籤.md",
-    "React/JSX/同時生成多個標籤.md"
+    "React/JSX/上層多包一個標籤.md"
   ]
 }
