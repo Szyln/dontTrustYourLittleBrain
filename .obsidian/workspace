@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "545ae14a6fa4d744",
+        "id": "b87d78a39a4bbaa1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "react-router-dom.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -117,17 +117,17 @@
     "width": 272.8884582519531,
     "collapsed": true
   },
-  "active": "545ae14a6fa4d744",
+  "active": "b87d78a39a4bbaa1",
   "lastOpenFiles": [
     "react-router-dom.md",
-    "React/React.md",
+    "React/Styling/SCSS(JSX).md",
     "react-router-dom 版本差異.md",
+    "React/Styling/Styling in JSX.md",
+    "React/React.md",
     "後端/Node.js/Node.js.md",
     "React/UUID.md",
     "React/List/Delete in React.md",
     "React/JSX/上層多包一個標籤.md",
-    "React/JSX/同時生成多個標籤.md",
-    "React/環境/檔案變多之後的模組運用.md",
-    "未命名.md"
+    "React/JSX/同時生成多個標籤.md"
   ]
 }

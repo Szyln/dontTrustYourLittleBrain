@@ -37,17 +37,34 @@ function App() {
       <Nav />
       {/* 使用 Routes 包住 Route */}
       <Routes>
+				{/* Route 決定點連結之後會產生的內容 */}
         <Route path="/" element={<HomePage />} />
         <Route path="/about" element={<About />} />
       </Routes>
-      <HomePage />
       <Footer />
     </>
   );
 }
-
 export default App;
+```
+```jsx
+import { Link } from "react-router-dom";
 
+const Nav = () => {
+  return (
+    <nav >
+      <ul>
+        <li>
+          {/* 因為有設定 Route，所以這個點下去後 Routes 區塊的內容就會隨著 Link 影響*/}
+          <Link to="/">首頁</Link>
+        </li>
+        <li>
+          <Link to="/about">關於我們</Link>
+        </li>
+      </ul>
+    </nav>
+  );
+};
 ```
 
 ## Link
