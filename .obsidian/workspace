@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他/硬體、生產力/VsCode/Editor 快捷鍵.md",
-            "mode": "source"
+            "file": "前端/CSS/container.md",
+            "mode": "preview"
           }
         }
       }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202.0107650756836
+    "width": 202.0107650756836,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/硬體、生產力/VsCode/Editor 快捷鍵.md",
+                "file": "前端/CSS/container.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/硬體、生產力/VsCode/Editor 快捷鍵.md"
+                "file": "前端/CSS/container.md"
               }
             }
           }
@@ -119,15 +120,15 @@
   },
   "active": "b87d78a39a4bbaa1",
   "lastOpenFiles": [
+    "前端/CSS/container.md",
+    "未命名.md",
+    "html lang.md",
     "其他/硬體、生產力/VsCode/Editor 快捷鍵.md",
     "Pexals API with React.md",
     "後端/API/AJAX/Promise.md",
     "React/React.md",
     "後端/API/Promise/Fetch.md",
     "react-router-dom.md",
-    "React/Styling/SCSS(JSX).md",
-    "react-router-dom 版本差異.md",
-    "React/Styling/Styling in JSX.md",
-    "後端/Node.js/Node.js.md"
+    "React/Styling/SCSS(JSX).md"
   ]
 }
