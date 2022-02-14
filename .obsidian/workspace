@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "後端/API/Promise/Fetch.md",
-            "mode": "preview"
+            "file": "Pexals API with React.md",
+            "mode": "source"
           }
         }
       }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "後端/API/Promise/Fetch.md",
+                "file": "Pexals API with React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "後端/API/Promise/Fetch.md"
+                "file": "Pexals API with React.md"
               }
             }
           }
@@ -119,15 +119,15 @@
   },
   "active": "b87d78a39a4bbaa1",
   "lastOpenFiles": [
-    "後端/API/Promise/Fetch.md",
-    "React/React.md",
     "Pexals API with React.md",
+    "後端/API/AJAX/Promise.md",
+    "React/React.md",
+    "後端/API/Promise/Fetch.md",
     "react-router-dom.md",
     "React/Styling/SCSS(JSX).md",
     "react-router-dom 版本差異.md",
     "React/Styling/Styling in JSX.md",
     "後端/Node.js/Node.js.md",
-    "React/UUID.md",
-    "React/List/Delete in React.md"
+    "React/UUID.md"
   ]
 }
