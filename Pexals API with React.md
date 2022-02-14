@@ -28,6 +28,7 @@ const Homepage = () => {
 
 	const auth = '金鑰'
 	const initialPhotoURL = '<精選照片 endpoint>'
+	// lift
 	const searchPhotoURL = `<搜尋相片 endpoint，path 要依照 input （搜尋結果）state>`
 	// 傳下去給 Search 用
 	const searchClick = async () => {
