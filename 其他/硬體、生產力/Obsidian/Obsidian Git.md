@@ -8,3 +8,6 @@
 - [裝GCM(沒有解決)](https://docs.github.com/en/get-started/getting-started-with-git/caching-your-github-credentials-in-git)
 - [GCM repo](https://github.com/GitCredentialManager/git-credential-manager)
 - 可能重開機可以解決救命到底是什麼時候解決ㄉ
+
+- Push 的人不是我
+- 

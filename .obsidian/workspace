@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "其他/硬體、生產力/Obsidian/Obsidian Git.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -115,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.8884582519531,
-    "collapsed": true
+    "width": 272.8884582519531
   },
   "active": "b87d78a39a4bbaa1",
   "lastOpenFiles": [
