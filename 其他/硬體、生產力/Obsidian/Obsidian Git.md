@@ -9,5 +9,5 @@
 - [GCM repo](https://github.com/GitCredentialManager/git-credential-manager)
 - 可能重開機可以解決救命到底是什麼時候解決ㄉ
 
-- Push 的人不是我
+- Push 的人不是我 why
 - https://docs.github.com/en/pull-requests/committing-changes-to-your-project/troubleshooting-commits/why-are-my-commits-linked-to-the-wrong-user
