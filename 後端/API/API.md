@@ -1,4 +1,4 @@
-# API(Application Programming Interface)
+# API (Application Programming Interface)
 > - [應用程式介面（英語：Application Programming Interface）](https://zh.wikipedia.org/wiki/%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E6%8E%A5%E5%8F%A3)
 >- [API 是什麼，能吃嗎？](https://hackmd.io/NnnTQ3gLQIagIsqsp9CiQQ)
 > - [[API 範例：TDX API]]

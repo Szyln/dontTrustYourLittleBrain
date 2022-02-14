@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端/CSS/object-fit.md",
-            "mode": "preview"
+            "file": "Pexals API with React.md",
+            "mode": "source"
           }
         }
       }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/CSS/object-fit.md",
+                "file": "Pexals API with React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/CSS/object-fit.md"
+                "file": "Pexals API with React.md"
               }
             }
           }
@@ -120,15 +120,15 @@
   },
   "active": "b87d78a39a4bbaa1",
   "lastOpenFiles": [
+    "Pexals API with React.md",
+    "後端/API/API.md",
+    "React/React.md",
     "前端/CSS/object-fit.md",
     "前端/Bootstrap/bs grid system.md",
     "前端/CSS/Grid 格線系統.md",
     "前端/CSS/container.md",
     "未命名.md",
     "html lang.md",
-    "其他/硬體、生產力/VsCode/Editor 快捷鍵.md",
-    "Pexals API with React.md",
-    "後端/API/AJAX/Promise.md",
-    "React/React.md"
+    "其他/硬體、生產力/VsCode/Editor 快捷鍵.md"
   ]
 }
