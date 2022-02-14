@@ -37,12 +37,12 @@ alt(option) + shift
 - [x] [Update Image Size](https://docs.emmet.io/actions/update-image-size/)：直接用 `cmd + shift + P` 輸入
 可以自動更新圖片的 width, height（在 html, css 都適用
 
-    > height 寫與不寫的差別，是差在 [loading 的時候](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/img)
-    > 如果有寫，html 會預留 img 的欄位
-    > 圖片還沒 loading 完之前，以下的內容才不會擠上來
-    > [name=Sz 分享][color=#BB84F5] 
-    >> Use both width and height to set the intrinsic size of the image, allowing it to take up space before it loads, to mitigate content layout shifts. 
-    >> [name= MDN]
+> height 寫與不寫的差別，是差在 [loading 的時候](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/img)
+> 如果有寫，html 會預留 img 的欄位
+> 圖片還沒 loading 完之前，以下的內容才不會擠上來
+> [name=Sz 分享][color=#BB84F5] 
+>> Use both width and height to set the intrinsic size of the image, allowing it to take up space before it loads, to mitigate content layout shifts. 
+>> [name= MDN]
 
 
 - [x] wrap with abbreviation -> 自訂 `cmd + shift + a`
