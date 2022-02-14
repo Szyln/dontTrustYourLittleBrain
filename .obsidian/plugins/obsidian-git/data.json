@@ -1,5 +1,5 @@
 {
-  "commitMessage": "m vault backup: {{date}}",
+  "commitMessage": "定時同步 {{date}} {{hostname}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 60,
   "autoPullInterval": 0,
