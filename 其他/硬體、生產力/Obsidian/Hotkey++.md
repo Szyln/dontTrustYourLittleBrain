@@ -4,3 +4,5 @@
 ```
 option + shift + 方向鍵
 ```
+
+#obisidian 

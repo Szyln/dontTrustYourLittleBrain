@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Hotkey++.md",
+            "file": "Pexals API with React.md",
             "mode": "source"
           }
         }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hotkey++.md",
+                "file": "Pexals API with React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hotkey++.md"
+                "file": "Pexals API with React.md"
               }
             }
           }
@@ -119,15 +118,15 @@
   },
   "active": "b87d78a39a4bbaa1",
   "lastOpenFiles": [
-    "Hotkey++.md",
+    "Pexals API with React.md",
+    "前端/html/文字排版/pre.md",
+    "前端/html/文字排版/文字排版標籤.md",
+    "其他/硬體、生產力/Obsidian/Hotkey++.md",
     "JavaScript/資料類型/Object, Array/Array/條件判定陣列的元素.md",
     "React/List/Key prop.md",
     "JavaScript/資料類型/Object, Array/Array/陣列的循環 for, forEach, map.md",
     "React/React.md",
     "React/Form/Dynamic Form in React.md",
-    "react-router-dom 版本差異.md",
-    "前端/CSS/font-family.md",
-    "letter-spacing 字距.md",
-    "前端/html/form/Form.md"
+    "react-router-dom 版本差異.md"
   ]
 }
