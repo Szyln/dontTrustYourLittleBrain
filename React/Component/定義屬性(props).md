@@ -5,8 +5,8 @@
 
 ---
 
-- 屬性的定義有兩種方法，效果一樣
-	- 用 JS 寫值本身（單一資料）
+- 屬性的定義有兩種方法，效果一樣 ^1bd0ac
+	- 用 JS 寫值本身（單一資料） ^8d0c66
 	- 用 JS 寫整個屬性（物件、[[Key-Value Pair]]）
 
 ## 只用 JS 定義屬性的值 Value
@@ -54,3 +54,6 @@ const element = <div id="app-root" {...props} />
 // 寫在 props 後
 const element = <div {...props} className="not-container" />
 ```
+
+
+#js #react #component 

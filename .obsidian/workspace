@@ -12,44 +12,7 @@
             "file": "給 Markdown 檔案新增別名：alias.md",
             "mode": "source"
           }
-        },
-        "group": "f1b3051e7914b226"
-      },
-      {
-        "id": "706c224a6267884c",
-        "type": "leaf",
-        "state": {
-          "type": "localgraph",
-          "state": {
-            "file": "給 Markdown 檔案新增別名：alias.md",
-            "options": {
-              "collapse-filter": false,
-              "search": "",
-              "localJumps": 1,
-              "localBacklinks": true,
-              "localForelinks": true,
-              "localInterlinks": false,
-              "showTags": true,
-              "showAttachments": false,
-              "hideUnresolved": false,
-              "collapse-color-groups": false,
-              "colorGroups": [],
-              "collapse-display": false,
-              "showArrow": false,
-              "textFadeMultiplier": 0,
-              "nodeSizeMultiplier": 1,
-              "lineSizeMultiplier": 1,
-              "collapse-forces": false,
-              "centerStrength": 0.518713248970312,
-              "repelStrength": 10,
-              "linkStrength": 1,
-              "linkDistance": 250,
-              "scale": 1.0918251805370012,
-              "close": false
-            }
-          }
-        },
-        "group": "f1b3051e7914b226"
+        }
       }
     ],
     "direction": "vertical"
@@ -76,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#js",
+                "query": "#react",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202.0107650756836
+    "width": 310.0021228790283
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -150,19 +113,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 633.4686889648438
+    "width": 240.4686279296875,
+    "collapsed": true
   },
-  "active": "706c224a6267884c",
+  "active": "3b776faac4ce4665",
   "lastOpenFiles": [
     "給 Markdown 檔案新增別名：alias.md",
+    "React/Component/定義屬性(props).md",
+    "React/UUID.md",
+    "React/React.md",
     "前端/html/skeleton/CDN.md",
     "Pexals API with React.md",
     "前端/html/文字排版/pre.md",
     "前端/html/文字排版/文字排版標籤.md",
     "其他/硬體、生產力/Obsidian/Hotkey++.md",
-    "JavaScript/資料類型/Object, Array/Array/條件判定陣列的元素.md",
-    "React/List/Key prop.md",
-    "JavaScript/資料類型/Object, Array/Array/陣列的循環 for, forEach, map.md",
-    "React/React.md"
+    "JavaScript/資料類型/Object, Array/Array/條件判定陣列的元素.md"
   ]
 }
