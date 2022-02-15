@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他/硬體、生產力/Obsidian/Obsidian Git.md",
+            "file": "Push, Commit 的人不是我 why.md",
             "mode": "source"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/硬體、生產力/Obsidian/Obsidian Git.md",
+                "file": "Push, Commit 的人不是我 why.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/硬體、生產力/Obsidian/Obsidian Git.md"
+                "file": "Push, Commit 的人不是我 why.md"
               }
             }
           }
@@ -120,6 +120,7 @@
   },
   "active": "b87d78a39a4bbaa1",
   "lastOpenFiles": [
+    "Push, Commit 的人不是我 why.md",
     "其他/硬體、生產力/Obsidian/Obsidian Git.md",
     "Pexals API with React.md",
     "後端/API/API.md",
@@ -128,7 +129,6 @@
     "前端/Bootstrap/bs grid system.md",
     "前端/CSS/Grid 格線系統.md",
     "前端/CSS/container.md",
-    "未命名.md",
-    "html lang.md"
+    "未命名.md"
   ]
 }
