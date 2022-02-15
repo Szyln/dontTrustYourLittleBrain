@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端/CSS/font-family.md",
-            "mode": "preview"
+            "file": "React/List/Key prop.md",
+            "mode": "source"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/CSS/font-family.md",
+                "file": "React/List/Key prop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/CSS/font-family.md"
+                "file": "React/List/Key prop.md"
               }
             }
           }
@@ -118,15 +118,15 @@
   },
   "active": "b87d78a39a4bbaa1",
   "lastOpenFiles": [
+    "React/List/Key prop.md",
+    "React/React.md",
+    "React/Form/Dynamic Form in React.md",
+    "react-router-dom 版本差異.md",
     "前端/CSS/font-family.md",
     "letter-spacing 字距.md",
-    "React/Form/Dynamic Form in React.md",
     "前端/html/form/Form.md",
     "Pexals API with React.md",
     "html lang.md",
-    "其他/硬體、生產力/Obsidian/Obsidian Git.md",
-    "其他/硬體、生產力/Obsidian/Push, Commit 的人不是我 why.md",
-    "react-router-dom.md",
-    "react-router-dom 版本差異.md"
+    "其他/硬體、生產力/Obsidian/Obsidian Git.md"
   ]
 }
