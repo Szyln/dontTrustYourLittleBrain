@@ -10,3 +10,5 @@
 - 可能重開機可以解決救命到底是什麼時候解決ㄉ
 
 [[Push, Commit 的人不是我 why]]
+
+#obisidian #git 

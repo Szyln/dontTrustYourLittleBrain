@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/資料類型/Object, Array/變數簡寫語法糖.md",
-            "mode": "source"
+            "file": "React/Form/Dynamic Form in React.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "```",
+                "query": "prevent",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/資料類型/Object, Array/變數簡寫語法糖.md",
+                "file": "React/Form/Dynamic Form in React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/資料類型/Object, Array/變數簡寫語法糖.md"
+                "file": "React/Form/Dynamic Form in React.md"
               }
             }
           }
@@ -118,15 +119,15 @@
   },
   "active": "b87d78a39a4bbaa1",
   "lastOpenFiles": [
+    "React/Form/Dynamic Form in React.md",
+    "前端/html/form/Form.md",
+    "Pexals API with React.md",
+    "html lang.md",
+    "其他/硬體、生產力/Obsidian/Obsidian Git.md",
+    "其他/硬體、生產力/Obsidian/Push, Commit 的人不是我 why.md",
+    "react-router-dom.md",
+    "react-router-dom 版本差異.md",
     "JavaScript/資料類型/Object, Array/變數簡寫語法糖.md",
-    "JavaScript/資料類型/Object, Array/物件傳參考.md",
-    "其他/作品與目標/接案好好賺？.md",
-    "後端/Node.js/模組/使用/整合模組匯出匯入.md",
-    "後端/EJS/gulp/新增新的 HTML（套用 EJS 模版）.md",
-    "後端/Node.js/模組/取得或生成/自製模組(Node.js).md",
-    "前端/CSS/視差滾動.md",
-    "後端/Node.js/模組/npm/指令/指令(npm).md",
-    "後端/EJS/gulp/使用 gulp.md",
-    "其他/聲學/Resonance Audio/建立 Web 環境.md"
+    "JavaScript/資料類型/Object, Array/物件傳參考.md"
   ]
 }
