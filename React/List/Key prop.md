@@ -4,6 +4,9 @@
 >與 [[Delete in React]] 同一個範例，做完 key prop 就可以做 delete 功能了
 
 ## 取得 list 資料 -> 存到 array（state）
+
+^3083f9
+
 React 會因為在 render `array` （例如用 [[陣列的循環 for, forEach, map]] 功能）的時候，沒有加上 `key` 這個唯一性的屬性而跳出警示
 可以自己寫也可以使用 [[UUID]] 來自動生成
 ```jsx
