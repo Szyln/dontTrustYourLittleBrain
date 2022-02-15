@@ -4,11 +4,11 @@
 
 ## Github 部屬（每次更新都要重新執行）
 生產模式
-```
+```shell
 gulp build
 ```
 客戶端看到的畫面部屬 [[Github Pages]]（頁面顯示可能要等一下
-```
+```shell
 gulp deploy  
 ```
 客戶只會看到 dist 裡（編譯後）的檔案

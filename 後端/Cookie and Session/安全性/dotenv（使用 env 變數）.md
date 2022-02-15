@@ -4,7 +4,7 @@
 
 在使用 [[process(node)]] 的時候可以使用自訂的 env 變數
 
-```
+```shell
 npm install dotenv
 ```
 
@@ -15,7 +15,7 @@ require('dotenv').config()
 ```
 
 ## 專案新增 .env 檔案
-```
+```shell
 // 可以照著這個格式新增 env 變數
 // 變數名=變數內容
 // string 不用加 '' or ""

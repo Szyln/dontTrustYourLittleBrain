@@ -1,5 +1,5 @@
 # 提交
-```
+```shell
 git commit -m <提交訊息>
 ```
 

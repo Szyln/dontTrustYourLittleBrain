@@ -2,7 +2,7 @@
 [passport-google-oauth20](https://www.passportjs.org/packages/passport-google-oauth20/)
 
 ## 安裝模組
-```
+```shell
 npm install passport passport-google-oauth20
 ```
 

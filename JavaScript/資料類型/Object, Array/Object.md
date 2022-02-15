@@ -24,7 +24,7 @@ console.log(people, students);
 ## 讀取物件
 -   點記法 Dot notation
 -   中括號 Bracket notation
-```
+```js
 person.name;
 person[’name’];
 ```

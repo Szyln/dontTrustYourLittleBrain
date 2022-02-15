@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Push, Commit 的人不是我 why.md",
+            "file": "JavaScript/資料類型/Object, Array/變數簡寫語法糖.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "emmet",
+                "query": "```",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,13 +48,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 202.0107650756836,
-    "collapsed": true
+    "width": 202.0107650756836
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -71,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Push, Commit 的人不是我 why.md",
+                "file": "JavaScript/資料類型/Object, Array/變數簡寫語法糖.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Push, Commit 的人不是我 why.md"
+                "file": "JavaScript/資料類型/Object, Array/變數簡寫語法糖.md"
               }
             }
           }
@@ -120,15 +118,15 @@
   },
   "active": "b87d78a39a4bbaa1",
   "lastOpenFiles": [
-    "Push, Commit 的人不是我 why.md",
-    "其他/硬體、生產力/Obsidian/Obsidian Git.md",
-    "Pexals API with React.md",
-    "後端/API/API.md",
-    "React/React.md",
-    "前端/CSS/object-fit.md",
-    "前端/Bootstrap/bs grid system.md",
-    "前端/CSS/Grid 格線系統.md",
-    "前端/CSS/container.md",
-    "未命名.md"
+    "JavaScript/資料類型/Object, Array/變數簡寫語法糖.md",
+    "JavaScript/資料類型/Object, Array/物件傳參考.md",
+    "其他/作品與目標/接案好好賺？.md",
+    "後端/Node.js/模組/使用/整合模組匯出匯入.md",
+    "後端/EJS/gulp/新增新的 HTML（套用 EJS 模版）.md",
+    "後端/Node.js/模組/取得或生成/自製模組(Node.js).md",
+    "前端/CSS/視差滾動.md",
+    "後端/Node.js/模組/npm/指令/指令(npm).md",
+    "後端/EJS/gulp/使用 gulp.md",
+    "其他/聲學/Resonance Audio/建立 Web 環境.md"
   ]
 }

@@ -3,11 +3,11 @@
 
 ## 引入
 ### cdn
-```
+```html
 <script src="https://cdn.jsdelivr.net/npm/resonance-audio/build/resonance-audio.min.js"></script>
 ```
 ### 客製化
-```
+```html
 <script src="node_modules/resonance-audio/build/resonance-audio.min.js"></script>
 ```
 

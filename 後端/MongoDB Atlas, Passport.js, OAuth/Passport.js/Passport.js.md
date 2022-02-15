@@ -2,7 +2,7 @@
 [npm](https://www.npmjs.com/package/passport)
 [Passport Stretegies](https://www.passportjs.org/packages/)
 Passport 提供 node 伺服器端使用各平台 OAuth 來登入
-```
+```shell
 // passport 模組跟 + 使用的特定平台 stretegy
 npm install passport <看你要用什麼平台登入>
 ```

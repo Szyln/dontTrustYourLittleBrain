@@ -1,5 +1,5 @@
 # react-router-dom
-```
+```shell
 npm install react-router-dom
 ```
 

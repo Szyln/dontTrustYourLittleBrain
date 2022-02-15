@@ -1,11 +1,11 @@
 # 指令(npm)
 
 ## 安裝
-```
+```shell
 npm i {模組名稱}
 ```
 ### global 安裝（全部的專案都可以用）
-```
+```shell
 npm install -g {名稱}
 ```
 專案會出現 `node_modules` 資料夾

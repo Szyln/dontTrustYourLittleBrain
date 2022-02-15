@@ -1,12 +1,12 @@
 ## [[環境建立#該資料夾]]
 ## 該資料夾
 在該資料夾安裝 plug-in
-```
+```shell
 npm install
 ```
 
 在該資料夾執行 gulp 
-```
+```shell
 gulp
 ```
 

@@ -5,7 +5,7 @@
 ---
 
 ## npm install
-```
+```shell
 $ npm install cookie-parser
 ```
 ## import

@@ -1,7 +1,7 @@
 # app.set()
 [doc](https://expressjs.com/en/4x/api.html#app.set)
 
-```javascript
+```js
 app.set('title', 'My Site')
 app.get('title') // "My Site"
 ```

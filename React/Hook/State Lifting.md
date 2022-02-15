@@ -7,7 +7,7 @@
 >[[State]]：每個元件都有自己獨立的 state, props，彼此不影響
 
 >未來學到 [[Redux]] 就可以解決這問題了，如果專案大了會需要用到
-```
+```shell
 // 每個元件都有自己的 state, props
 <App />
 |	|- props: X
@@ -19,7 +19,7 @@
 |			|- props: X
 |			|- state: X
 ```
-```
+```shell
 // 每個元件都有自己的 state, props
 <App />
 |	|- props: X

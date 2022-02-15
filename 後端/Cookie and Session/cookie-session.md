@@ -1,6 +1,6 @@
 # cookie-session
 [npm](https://www.npmjs.com/package/cookie-session)
-```
+```shell
 npm i cookie-session
 ```
 

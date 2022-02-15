@@ -5,7 +5,7 @@
     -   TDX 伺服器回應我對應的 JSON 格式資料
     -   [範例 Code](https://codepen.io/hexschool/pen/dyRjQRW?editors=1010)
 
-```
+```js
 let data;
 
 

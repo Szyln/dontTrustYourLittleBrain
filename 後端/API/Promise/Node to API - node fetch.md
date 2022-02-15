@@ -30,7 +30,7 @@ app.get('/:city', async (req, res) => {
 });
 ```
 ## 沒有裝的話
-```
+```shell
 UnhandledPromiseRejectionWarning: ReferenceError: fetch is not defined
 ```
 

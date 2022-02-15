@@ -3,7 +3,7 @@
 >[[安裝 Node.js]]
 
 ## 在專案
-```
+```shell
 npm init vite@latest
 ```
 ## 會被問
@@ -13,7 +13,7 @@ npm init vite@latest
 - variant
 
 
-```
+```shell
 // 移動到該專案
 cd test-project
 npm install

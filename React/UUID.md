@@ -2,7 +2,7 @@
 自動新增隨機的 UUID
 >[npm](https://www.npmjs.com/package/uuid)
 
-```
+```shell
 npm i UUID
 ```
 

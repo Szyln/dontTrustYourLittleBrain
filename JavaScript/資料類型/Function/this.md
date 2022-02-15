@@ -74,7 +74,7 @@ console.log(obj.callSomeone() === obj2.callSomeone());	// false
 
 #### Object 中還有 Object
 
-````
+```js
 var wrapObj = {
   someone: '外層物件',
   callSomeone(),          // wrapObj 的 function
@@ -84,13 +84,13 @@ var wrapObj = {
   }
 }
 wrapObj.innerObj.callSomeone();
-````
+```
 
 #### Object 裡面的 function 硬要呼叫全域 function
 
 callSomeone 還是全域的 funciton
 
-````
+```js
 var obj3 = {
   someone: '物件 3',
   fn() {
@@ -98,14 +98,14 @@ var obj3 = {
   }
 }
 obj3.fn();
-````
+```
 
 #### callback function：避免用
 
 使用 callback function（像是在forEach裡），大部分就是把一個定義好的 function 簡化放到 callback funciton 裡面
 所以他還是一個全域的 function
 
-````
+```js
 var obj4 = {
   someone: '物件 4',
   fn() {
@@ -115,7 +115,7 @@ var obj4 = {
   }
 }
 obj4.fn();
-````
+```
 
 
 #js #vue #advanceJs

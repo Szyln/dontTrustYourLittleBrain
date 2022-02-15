@@ -3,7 +3,7 @@
 
 >[[Passport.js]]
 
-```
+```shell
 npm install passport-local
 ```
 ```js
