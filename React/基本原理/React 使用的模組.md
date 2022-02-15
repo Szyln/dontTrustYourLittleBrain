@@ -11,4 +11,4 @@ import ReactDOM from 'react-dom';
 
 >[[檔案變多之後的模組運用]]：[[Hook]], [[Component：可重複利用、自定參數的元件]] 讀到之後會自然懂
 
-#react #js #module 
+#js/react #js #module 

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "3b776faac4ce4665",
+        "id": "0427761907a21050",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "給 Markdown 檔案新增別名：alias.md",
+            "file": "React/Component/Event Handlers.md",
             "mode": "source"
           }
         }
@@ -39,8 +39,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#react",
-                "matchingCase": true,
+                "query": "tag:#js",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -62,7 +61,7 @@
       {
         "id": "ed7247eca8f61bb5",
         "type": "tabs",
-        "dimension": 75.9493670886076,
+        "dimension": 44.303797468354425,
         "children": [
           {
             "id": "76f2a5cf1326ec6e",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "給 Markdown 檔案新增別名：alias.md",
+                "file": "React/Component/Event Handlers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +85,7 @@
       {
         "id": "3447da7e14cdde29",
         "type": "tabs",
-        "dimension": 24.050632911392405,
+        "dimension": 55.69620253164557,
         "children": [
           {
             "id": "c9ff595e8eb56324",
@@ -95,7 +94,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -105,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "給 Markdown 檔案新增別名：alias.md"
+                "file": "React/Component/Event Handlers.md"
               }
             }
           }
@@ -113,20 +112,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.4686279296875,
-    "collapsed": true
+    "width": 240.4686279296875
   },
-  "active": "3b776faac4ce4665",
+  "active": "0427761907a21050",
   "lastOpenFiles": [
-    "給 Markdown 檔案新增別名：alias.md",
+    "React/Component/Event Handlers.md",
+    "React/Component/Rerender a React Application：有效率的重新渲染.md",
+    "React/Component/PropTypes：元件參數的 Vaildator.md",
+    "React/Component/Component：可重複利用、自定參數的元件.md",
     "React/Component/定義屬性(props).md",
+    "給 Markdown 檔案新增別名：alias.md",
     "React/UUID.md",
     "React/React.md",
     "前端/html/skeleton/CDN.md",
-    "Pexals API with React.md",
-    "前端/html/文字排版/pre.md",
-    "前端/html/文字排版/文字排版標籤.md",
-    "其他/硬體、生產力/Obsidian/Hotkey++.md",
-    "JavaScript/資料類型/Object, Array/Array/條件判定陣列的元素.md"
+    "Pexals API with React.md"
   ]
 }

@@ -6,5 +6,5 @@
 > Vscode Plugin 推薦安裝：ES7+ React/Redux/React-Native snippets
 > [[React Snippet]]
 
-#react #js 
+#js/react #js 
 

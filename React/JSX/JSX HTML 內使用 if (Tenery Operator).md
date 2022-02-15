@@ -11,4 +11,4 @@ function CharacterCount({text}) {
 }
 ```
 
-#js #react 
+#js #js/react 

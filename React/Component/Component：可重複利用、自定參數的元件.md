@@ -66,4 +66,4 @@ const element = (
 [[生成標籤：React.createElement()]]
 
 
-#react #html #js #component #function 
+#js/react/component #js/function #js/object #html #html

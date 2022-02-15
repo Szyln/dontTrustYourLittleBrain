@@ -15,4 +15,4 @@ function Car() {
   return <h2>Hi, I am a Car!</h2>;
 }
 ```
-#react #js
+#js/react #js

@@ -46,4 +46,4 @@ ReactDOM.render(<Greeting />, document.querySelector('#root'))
 ><label htmlFor="name">Name: </label>
 > `` `
 
-#react #js #hook
+#js/react #js #hook

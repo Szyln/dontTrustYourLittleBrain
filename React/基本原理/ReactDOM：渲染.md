@@ -59,4 +59,4 @@ ReactDOM.render(App(), document.querySelector('#root'));
 // 搭配 JSX 這樣寫即可：[[JSX]] 再講
 ReactDOM.render(<App />, document.querySelector('#root'));
 ```
-#react #dom #html #js
+#js/react #dom #html #js

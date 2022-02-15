@@ -34,4 +34,4 @@ setInterval(tick, 1000)
 >setInterval(tick, 1000)
 >```
 
-#react #js
+#js/react/component

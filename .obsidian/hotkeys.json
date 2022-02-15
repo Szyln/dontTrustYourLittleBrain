@@ -126,5 +126,14 @@
       ],
       "key": "ArrowUp"
     }
+  ],
+  "editor:open-search-replace": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "F"
+    }
   ]
 }

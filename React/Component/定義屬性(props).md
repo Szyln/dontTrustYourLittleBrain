@@ -56,4 +56,4 @@ const element = <div {...props} className="not-container" />
 ```
 
 
-#js #react #component 
+#js/react/component #js/function #js/object #html
