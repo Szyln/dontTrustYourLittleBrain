@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/資料類型/Object, Array/Array/條件判定陣列的元素.md",
-            "mode": "preview"
+            "file": "Hotkey++.md",
+            "mode": "source"
           }
         }
       }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/資料類型/Object, Array/Array/條件判定陣列的元素.md",
+                "file": "Hotkey++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/資料類型/Object, Array/Array/條件判定陣列的元素.md"
+                "file": "Hotkey++.md"
               }
             }
           }
@@ -119,6 +119,7 @@
   },
   "active": "b87d78a39a4bbaa1",
   "lastOpenFiles": [
+    "Hotkey++.md",
     "JavaScript/資料類型/Object, Array/Array/條件判定陣列的元素.md",
     "React/List/Key prop.md",
     "JavaScript/資料類型/Object, Array/Array/陣列的循環 for, forEach, map.md",
@@ -127,7 +128,6 @@
     "react-router-dom 版本差異.md",
     "前端/CSS/font-family.md",
     "letter-spacing 字距.md",
-    "前端/html/form/Form.md",
-    "Pexals API with React.md"
+    "前端/html/form/Form.md"
   ]
 }
