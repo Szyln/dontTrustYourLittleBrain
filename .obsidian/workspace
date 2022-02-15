@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React/Form/Dynamic Form in React.md",
+            "file": "前端/CSS/font-family.md",
             "mode": "preview"
           }
         }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Form/Dynamic Form in React.md",
+                "file": "前端/CSS/font-family.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Form/Dynamic Form in React.md"
+                "file": "前端/CSS/font-family.md"
               }
             }
           }
@@ -119,6 +118,8 @@
   },
   "active": "b87d78a39a4bbaa1",
   "lastOpenFiles": [
+    "前端/CSS/font-family.md",
+    "letter-spacing 字距.md",
     "React/Form/Dynamic Form in React.md",
     "前端/html/form/Form.md",
     "Pexals API with React.md",
@@ -126,8 +127,6 @@
     "其他/硬體、生產力/Obsidian/Obsidian Git.md",
     "其他/硬體、生產力/Obsidian/Push, Commit 的人不是我 why.md",
     "react-router-dom.md",
-    "react-router-dom 版本差異.md",
-    "JavaScript/資料類型/Object, Array/變數簡寫語法糖.md",
-    "JavaScript/資料類型/Object, Array/物件傳參考.md"
+    "react-router-dom 版本差異.md"
   ]
 }
