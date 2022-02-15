@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React/List/Key prop.md",
-            "mode": "source"
+            "file": "JavaScript/資料類型/Object, Array/Array/條件判定陣列的元素.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "prevent",
+                "query": "find(",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/List/Key prop.md",
+                "file": "JavaScript/資料類型/Object, Array/Array/條件判定陣列的元素.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/List/Key prop.md"
+                "file": "JavaScript/資料類型/Object, Array/Array/條件判定陣列的元素.md"
               }
             }
           }
@@ -118,15 +119,15 @@
   },
   "active": "b87d78a39a4bbaa1",
   "lastOpenFiles": [
+    "JavaScript/資料類型/Object, Array/Array/條件判定陣列的元素.md",
     "React/List/Key prop.md",
+    "JavaScript/資料類型/Object, Array/Array/陣列的循環 for, forEach, map.md",
     "React/React.md",
     "React/Form/Dynamic Form in React.md",
     "react-router-dom 版本差異.md",
     "前端/CSS/font-family.md",
     "letter-spacing 字距.md",
     "前端/html/form/Form.md",
-    "Pexals API with React.md",
-    "html lang.md",
-    "其他/硬體、生產力/Obsidian/Obsidian Git.md"
+    "Pexals API with React.md"
   ]
 }
