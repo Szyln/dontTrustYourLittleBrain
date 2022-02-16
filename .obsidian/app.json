@@ -28,7 +28,7 @@
     "downscalePercent": 100
   },
   "strictLineBreaks": false,
-  "showFrontmatter": false,
+  "showFrontmatter": true,
   "useTab": true,
   "smartIndentList": true
 }

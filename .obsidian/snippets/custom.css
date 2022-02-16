@@ -38,3 +38,20 @@ code {
   padding-right: 0 !important;
   padding-left: 0 !important;
 }
+
+.side-dock-ribbon {
+  display: none;
+}
+.nav-buttons-container {
+  justify-content: space-evenly;
+}
+
+.workspace-split.mod-left-split > .workspace-leaf-resize-handle, .workspace-split.mod-right-split > .workspace-leaf-resize-handle {
+  height: inherit;
+  width: 0.1rem;
+}
+
+.workspace-tabs {
+  padding-right: 0.1rem;
+}
+
