@@ -1,6 +1,6 @@
 # secret 的變數設定
 為了加密內容，secret 不該直接寫入字串，需要將其隱藏，需透過下列三項來達成
-- [[Node.js]] 內建全域物件：[[process(node)]]
+- [[Node]] 內建全域物件：[[process(node)]]
 - [[dotenv（使用 env 變數）]] 模組：使用與設定 env 變數 
 - [[node 的 gitignore 設定]]：隱藏 env 檔案
 

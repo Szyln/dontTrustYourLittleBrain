@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他/硬體、生產力/Obsidian/Obsidian Git.md",
+            "file": "JavaScript/實作流程相關/comment.md",
             "mode": "preview"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/硬體、生產力/Obsidian/Obsidian Git.md",
+                "file": "JavaScript/實作流程相關/comment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/硬體、生產力/Obsidian/Obsidian Git.md"
+                "file": "JavaScript/實作流程相關/comment.md"
               }
             }
           }
@@ -118,15 +118,15 @@
   },
   "active": "fd8dda4232c7dfc4",
   "lastOpenFiles": [
-    "其他/硬體、生產力/Obsidian/Obsidian Git.md",
-    "Pexals API with React.md",
+    "JavaScript/實作流程相關/comment.md",
+    "後端/Node.js/建置/安裝 Node.js.md",
+    "後端/Node.js/Node.md",
     "其他/硬體、生產力/Obsidian/給 Markdown 檔案新增別名：alias.md",
-    "其他/硬體、生產力/Obsidian/利用搜尋功能建立目錄.md",
-    "其他/硬體、生產力/Obsidian/嵌入其他 markdown 檔案.md",
-    "其他/硬體、生產力/Obsidian/我是其他檔案.md",
-    "其他/硬體、生產力/Obsidian/Hotkey++.md",
-    "React/List/Key prop.md",
-    "後端/Express with Database/Express and Mongoose.md",
-    "後端/Express.js/Middleware/Error Handling（Routing 後面）.md"
+    "node.md",
+    "後端/Cookie and Session/安全性/node 的 gitignore 設定.md",
+    "React/環境/Vite.md",
+    "React/環境/安裝 React.md",
+    "React/React.md",
+    "Obsidian 遠端、發佈相關.md"
   ]
 }
