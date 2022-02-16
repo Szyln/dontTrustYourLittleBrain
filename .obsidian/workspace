@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React/Component/Event Handlers.md",
+            "file": "React/環境/檔案變多之後的模組運用.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Component/Event Handlers.md",
+                "file": "React/環境/檔案變多之後的模組運用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Component/Event Handlers.md"
+                "file": "React/環境/檔案變多之後的模組運用.md"
               }
             }
           }
@@ -116,15 +116,15 @@
   },
   "active": "0427761907a21050",
   "lastOpenFiles": [
-    "React/Component/Event Handlers.md",
-    "React/Component/Rerender a React Application：有效率的重新渲染.md",
-    "React/Component/PropTypes：元件參數的 Vaildator.md",
-    "React/Component/Component：可重複利用、自定參數的元件.md",
-    "React/Component/定義屬性(props).md",
-    "給 Markdown 檔案新增別名：alias.md",
-    "React/UUID.md",
-    "React/React.md",
-    "前端/html/skeleton/CDN.md",
-    "Pexals API with React.md"
+    "React/環境/檔案變多之後的模組運用.md",
+    "React/環境/React Snippet.md",
+    "React/環境/React 環境.md",
+    "React/環境/Vite.md",
+    "React/環境/安裝 React.md",
+    "React/Styling/用元件處理 CSS Styling.md",
+    "React/Styling/SCSS(JSX).md",
+    "React/Styling/Inline styling(JSX).md",
+    "React/Styling/Styling in JSX.md",
+    "React/List/Key prop.md"
   ]
 }

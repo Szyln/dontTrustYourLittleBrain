@@ -44,4 +44,4 @@ const Create = ({message, setMessage}) => {
 >}
 > ```
 
-#js #js/react #html 
+#js/react 

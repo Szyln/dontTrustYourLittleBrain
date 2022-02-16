@@ -7,4 +7,4 @@
 - [[class 或是 className]]
 
 
-#js/react #js #css 
+#js/react #css/scss #css

@@ -11,4 +11,4 @@ function CharacterCount({text}) {
 }
 ```
 
-#js #js/react 
+#js/react/jsx #js/logic

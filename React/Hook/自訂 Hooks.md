@@ -33,5 +33,5 @@ function Greeting() {
 }
 ```
 
-#js/react #hook #js
+#js/react/hook
 

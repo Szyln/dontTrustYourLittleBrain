@@ -15,3 +15,5 @@ function App() {
 	)
 }
 ```
+
+#js/react/jsx

@@ -18,4 +18,4 @@ const HelloElement = React.createElement(
 >標籤內文寫法參照：[[children]]
 >等同於 textContent
 
-#js/react #html #js
+#js/react/jsx

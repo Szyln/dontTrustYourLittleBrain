@@ -20,3 +20,5 @@ npm install
 // localhost
 npm run dev
 ```
+
+#js/react #vite
