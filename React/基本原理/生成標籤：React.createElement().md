@@ -16,6 +16,7 @@ const element = React.createElement('div', {
 
 // 渲染：[[ReactDOM：渲染]]
 ```
+
 >### 原生 JS 作法
 >```js
 >// 生成標籤
@@ -28,6 +29,4 @@ const element = React.createElement('div', {
 >```
 
 
-
-
-#js/react #dom #html #js
+#js/react/jsx #js/dom #html

@@ -16,4 +16,4 @@
 		- [[EJS 使用 Mongoose 取得數據庫資料作為變數]]（事前知識： [[Mongoose]],[[Promise]]）
 - port listening([[後端/Express.js/建置/Express Life Cycle 生命週期]])
 
-#npm #gulp #html #js #ejs #expressJs 
+#node/npm #gulp #html #node/ejs #node/express

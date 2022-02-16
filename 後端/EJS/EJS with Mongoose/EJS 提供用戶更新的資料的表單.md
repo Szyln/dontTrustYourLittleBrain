@@ -26,4 +26,6 @@ app.get('/students/edit/:id', async (req, res) =>
 </form>
 ```
 
-#js #npm #node #expressJs #mongoose #database #form #ejs #backEnd #crud
+#database/mongoose #form #crud
+
+ #backEnd #node/npm #gulp #html #node/ejs #node/express 

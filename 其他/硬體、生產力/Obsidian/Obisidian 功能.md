@@ -2,4 +2,4 @@
 	- 建議加上 tag 才不會造成過大的連結性
 
 
-#obisidian
+#obsidian

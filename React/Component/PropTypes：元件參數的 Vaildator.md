@@ -34,4 +34,4 @@ const element = <SayHello firstName={false} />
  optionalSymbol: PropTypes.symbol,
 }
 ```
-#js/react/component #html #validators #node/npm #js/module
+#js/react/component #html #validators #node/npm

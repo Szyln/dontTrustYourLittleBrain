@@ -22,4 +22,5 @@ app.get('/', (req, res) => {
 	res.send('Hi, ' + req.flash('success_msg'));
 })
 ```
-#js #backEnd #server #storage #expressJs #session #npm #module 
+#server #storage #session
+#backEnd #node/express #node/npm

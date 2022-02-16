@@ -11,4 +11,4 @@
 
 [[Push, Commit 的人不是我 why]]
 
-#obisidian #git 
+#obsidian #git 

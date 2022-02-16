@@ -17,4 +17,4 @@ email@example.com
 ## 還是怪怪的話再做這個
 [Adding an email address to your GitHub account](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-email-preferences/adding-an-email-address-to-your-github-account)
 
-#git #obisidian 
+#git #obsidian 

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React/環境/檔案變多之後的模組運用.md",
-            "mode": "source"
+            "file": "Pexals API with React.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#js",
+                "query": "tag:#expressJs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/環境/檔案變多之後的模組運用.md",
+                "file": "Pexals API with React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/環境/檔案變多之後的模組運用.md"
+                "file": "Pexals API with React.md"
               }
             }
           }
@@ -112,19 +112,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.4686279296875
+    "width": 240.4686279296875,
+    "collapsed": true
   },
   "active": "0427761907a21050",
   "lastOpenFiles": [
-    "React/環境/檔案變多之後的模組運用.md",
-    "React/環境/React Snippet.md",
-    "React/環境/React 環境.md",
-    "React/環境/Vite.md",
-    "React/環境/安裝 React.md",
-    "React/Styling/用元件處理 CSS Styling.md",
-    "React/Styling/SCSS(JSX).md",
-    "React/Styling/Inline styling(JSX).md",
-    "React/Styling/Styling in JSX.md",
-    "React/List/Key prop.md"
+    "Pexals API with React.md",
+    "其他/硬體、生產力/Obsidian/給 Markdown 檔案新增別名：alias.md",
+    "其他/硬體、生產力/Obsidian/利用搜尋功能建立目錄.md",
+    "其他/硬體、生產力/Obsidian/嵌入其他 markdown 檔案.md",
+    "其他/硬體、生產力/Obsidian/我是其他檔案.md",
+    "其他/硬體、生產力/Obsidian/Hotkey++.md",
+    "React/List/Key prop.md",
+    "後端/Express with Database/Express and Mongoose.md",
+    "後端/Express.js/Middleware/Error Handling（Routing 後面）.md",
+    "後端/EJS/EJS with Mongoose/EJS 對超連結使用變數.md"
   ]
 }

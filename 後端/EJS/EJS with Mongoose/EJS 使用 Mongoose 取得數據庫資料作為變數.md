@@ -12,4 +12,5 @@ app.get('/students', async (req, res) => {
 	res.render('students.ejs', { data });
 })
 ```
-#npm #gulp #html #js #ejs #expressJs #mongoose #database #promise #ajax 
+#database/mongoose #js/promise #ajax 
+#node/npm #gulp #html #node/ejs #node/express 

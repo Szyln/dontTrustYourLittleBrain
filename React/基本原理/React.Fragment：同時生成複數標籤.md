@@ -40,4 +40,4 @@ const element = React.createElement(
 )
 ```
 
-#js/react #html #js
+#js/react/jsx #js/dom #html

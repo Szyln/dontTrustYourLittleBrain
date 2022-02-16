@@ -55,4 +55,4 @@ Jump into selected backlink     |   | `Alt/Opt-Enter`
 
 
 
-#obisidian
+#obsidian
