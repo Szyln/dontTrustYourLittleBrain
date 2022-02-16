@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/實作流程相關/comment.md",
+            "file": "前端/Bootstrap/客製化 Sass.md",
             "mode": "preview"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/實作流程相關/comment.md",
+                "file": "前端/Bootstrap/客製化 Sass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/實作流程相關/comment.md"
+                "file": "前端/Bootstrap/客製化 Sass.md"
               }
             }
           }
@@ -118,6 +118,7 @@
   },
   "active": "fd8dda4232c7dfc4",
   "lastOpenFiles": [
+    "前端/Bootstrap/客製化 Sass.md",
     "JavaScript/實作流程相關/comment.md",
     "後端/Node.js/建置/安裝 Node.js.md",
     "後端/Node.js/Node.md",
@@ -126,7 +127,6 @@
     "後端/Cookie and Session/安全性/node 的 gitignore 設定.md",
     "React/環境/Vite.md",
     "React/環境/安裝 React.md",
-    "React/React.md",
-    "Obsidian 遠端、發佈相關.md"
+    "React/React.md"
   ]
 }
