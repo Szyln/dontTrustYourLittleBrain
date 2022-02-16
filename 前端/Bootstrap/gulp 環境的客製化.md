@@ -91,7 +91,7 @@ $body-color: #111;
 ```
 ###  修改 map 既有子變數
 bs 裡，map 裡出現過的變數，都可以找到額外設定一個獨立的變數  
-> map 是什麼？[Sass maps｜SCSS 筆記 by Sz](/rLynGg0LTjKOkKanXSDHgA)  
+> map 是什麼？[[批次產生樣式 maps + @each]], [[Maps]]
 
 而 map 裡的變數都會從獨立變數匯入  
 想要更改 map 就必須從獨立變數改起，map 則維持原樣  
@@ -143,4 +143,4 @@ $theme-colors: map-remove($theme-colors, "info", "light", "dark");
 @import "../node_modules/bootstrap/scss/type";
 // etc
 ```
-#gulp #bs #scss 
+#gulp #bs/customize  

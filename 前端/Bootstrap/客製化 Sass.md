@@ -44,4 +44,4 @@ $custom-colors: (
 // 合併到原本的 map
 **$theme-colors: map-merge($theme-colors, $custom-colors);**
 ```
-#bs #scss #sass
+#bs/customize #css/scss/customize

@@ -22,4 +22,4 @@
 -   gutters%%
 
 
-#bs #grid 
+#bs/grid 

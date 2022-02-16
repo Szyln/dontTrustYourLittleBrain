@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端/Bootstrap/Modal.md",
-            "mode": "source"
+            "file": "前端/Bootstrap/Font.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "|-|",
+                "query": "#bs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/Bootstrap/Modal.md",
+                "file": "前端/Bootstrap/Font.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/Bootstrap/Modal.md"
+                "file": "前端/Bootstrap/Font.md"
               }
             }
           }
@@ -117,15 +117,15 @@
   },
   "active": "73c0711dc52f1061",
   "lastOpenFiles": [
-    "前端/Bootstrap/Modal.md",
-    "前端/Bootstrap/image.md",
-    "前端/Bootstrap/background (util).md",
-    "前端/Bootstrap/position.md",
-    "前端/Bootstrap/ratio.md",
-    "前端/Bootstrap/utilities API 修改.md",
-    "前端/Bootstrap/Cards.md",
-    "前端/Bootstrap/Spacer.md",
     "前端/Bootstrap/Font.md",
-    "前端/Bootstrap/Size.md"
+    "前端/Bootstrap/客製化 Sass.md",
+    "前端/Bootstrap/utilities API 修改.md",
+    "前端/Bootstrap/gulp 環境的客製化.md",
+    "前端/Bootstrap/Bootstrap.md",
+    "前端/Bootstrap/BS 元件一覽 Cheatsheet.md",
+    "前端/Bootstrap/ratio.md",
+    "前端/Bootstrap/position.md",
+    "前端/Bootstrap/background (util).md",
+    "前端/Bootstrap/image.md"
   ]
 }

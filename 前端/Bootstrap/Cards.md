@@ -72,4 +72,4 @@
 如果不想群組化要等高的話，要在 card 層加上 h-100
 
 ###### tags: `CSS` `bs` `component`
-#bs #css/scss #bs/component
+#css/scss #bs/component
