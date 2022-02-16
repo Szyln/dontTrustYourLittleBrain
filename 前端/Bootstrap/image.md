@@ -3,4 +3,4 @@
 
 ## 縮圖連結
 `.img-thumbnail`
-###### tags: `CSS` `image`
+#bs #css/scss

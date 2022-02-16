@@ -49,4 +49,4 @@ property|必要|屬性的名稱，可以是字串或是字串陣列 ( 例如，�
 |print|可選|用於指示是否要生成 print 類別的布林值。預設值為 false。
 |rtl|可選|用於指示是否要將通用類別保留於 RTL 中的布林值。預設值為 true。|
 
-#bs #api
+#bs/customize 
