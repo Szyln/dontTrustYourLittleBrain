@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "navbar.md",
-            "mode": "source"
+            "file": "navbar 內放入 form 元素（button, input...）.md",
+            "mode": "preview"
           }
         }
       }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "navbar.md",
+                "file": "navbar 內放入 form 元素（button, input...）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "navbar.md"
+                "file": "navbar 內放入 form 元素（button, input...）.md"
               }
             }
           }
@@ -118,15 +117,15 @@
   },
   "active": "73c0711dc52f1061",
   "lastOpenFiles": [
+    "navbar 內放入 form 元素（button, input...）.md",
     "navbar.md",
-    "前端/Bootstrap/background (util).md",
-    "前端/CSS/container.md",
-    "vscode 自動換行 word wrap.md",
-    "前端/Bootstrap/Font.md",
-    "前端/Bootstrap/客製化 Sass.md",
-    "前端/Bootstrap/utilities API 修改.md",
-    "前端/Bootstrap/gulp 環境的客製化.md",
-    "前端/Bootstrap/Bootstrap.md",
-    "前端/Bootstrap/BS 元件一覽 Cheatsheet.md"
+    "navbar-nav.md",
+    "nav-item.md",
+    "navbar-toggler.md",
+    "nav-link.md",
+    "navbar-brand.md",
+    "其他/硬體、生產力/VsCode/vscode 自動換行 word wrap.md",
+    "React/React.md",
+    "其他/硬體、生產力/Obsidian/Obsidian 遠端、發佈相關.md"
   ]
 }
