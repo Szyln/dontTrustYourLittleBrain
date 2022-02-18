@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端/Bootstrap/navbar/navbar 內放入 form 元素（button, input...）.md",
+            "file": "前端/CSS/flexbox.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/Bootstrap/navbar/navbar 內放入 form 元素（button, input...）.md",
+                "file": "前端/CSS/flexbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/Bootstrap/navbar/navbar 內放入 form 元素（button, input...）.md"
+                "file": "前端/CSS/flexbox.md"
               }
             }
           }
@@ -117,6 +117,7 @@
   },
   "active": "73c0711dc52f1061",
   "lastOpenFiles": [
+    "前端/CSS/flexbox.md",
     "前端/Bootstrap/navbar/navbar 內放入 form 元素（button, input...）.md",
     "Color(theme-color).md",
     "前端/Bootstrap/navbar/navbar.md",
@@ -125,7 +126,6 @@
     "前端/Bootstrap/navbar/navbar-toggler.md",
     "前端/Bootstrap/navbar/nav-link.md",
     "前端/Bootstrap/navbar/navbar-brand.md",
-    "其他/硬體、生產力/VsCode/vscode 自動換行 word wrap.md",
-    "React/React.md"
+    "其他/硬體、生產力/VsCode/vscode 自動換行 word wrap.md"
   ]
 }
