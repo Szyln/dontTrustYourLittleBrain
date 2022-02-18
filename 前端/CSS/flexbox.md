@@ -18,24 +18,14 @@
 ## 外容器與內容
 
 ### 容器
-# display: flex
-內容取消 inline 設定
-# flex-flow
-- flex-direction：流向
-- flex-wrap：出血後是否換行
+- [[d-flex]]
+- flex-flow：
+	- flex-direction：流向
+	- flex-wrap：出血後是否換行
+ - justify-content：分配每個內容的主軸寬度
+- align-items：每個內容自有交錯軸內的定位（不影響內容物彼此）
+- align-content： `flex-wrap` 設定後有效（交錯軸上出現其他內容），分配每個內容在交錯軸的寬度
 
-# justify-content
-內容物互搶空間
-# align-items
-內容物自己空間的規劃
-# align-content
-
-- 主軸：跟其他兄弟姊妹搶空間
-    - `justify-content`
-- 交錯軸：你的人生你自己可以決定
-    - `align-items`
-    - 兄弟姊妹半路殺出來干擾你的人生：`wrap`
-        - `align-content` ：再跟他們搶人生
 ### 內容
 # flex
 -  `flex-grow` 
@@ -53,6 +43,7 @@
 內容物的寬度下 %
 
 ---
+
 ![](https://i.imgur.com/DtbIkHM.png)
 
 #css
