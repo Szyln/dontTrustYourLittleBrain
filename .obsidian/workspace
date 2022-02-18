@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端/CSS/flexbox.md",
+            "file": "前端/CSS/background.md",
             "mode": "preview"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.5
+    "width": 207.5,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/CSS/flexbox.md",
+                "file": "前端/CSS/background.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/CSS/flexbox.md"
+                "file": "前端/CSS/background.md"
               }
             }
           }
@@ -117,6 +118,8 @@
   },
   "active": "73c0711dc52f1061",
   "lastOpenFiles": [
+    "前端/CSS/background.md",
+    "background-attachment.md",
     "前端/CSS/flexbox.md",
     "前端/CSS/container.md",
     "前端/Bootstrap/gulp 環境的客製化.md",
@@ -124,8 +127,6 @@
     "前端/Bootstrap/codepen環境.md",
     "前端/Bootstrap/客製化 Sass.md",
     "d-flex.md",
-    "flex-flow.md",
-    "前端/Bootstrap/navbar/navbar 內放入 form 元素（button, input...）.md",
-    "Color(theme-color).md"
+    "flex-flow.md"
   ]
 }
