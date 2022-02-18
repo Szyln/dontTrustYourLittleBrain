@@ -32,7 +32,7 @@
 -  `flex-grow` 
 -  `flex-shrink`
 -  `flex-basis`
-# align-self
+# align-selfÏ
 # order
 
 
