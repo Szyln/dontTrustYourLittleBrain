@@ -1,7 +1,6 @@
 # Bootstrap
 
 - [[background (util)]]
-- [[Bootstrap]]
 - [[bs grid system]]
 - [[BS 元件一覽 Cheatsheet]]
 - [[Cards]]

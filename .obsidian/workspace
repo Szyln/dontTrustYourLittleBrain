@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端/CSS/flexbox.md",
-            "mode": "preview"
+            "file": "前端/Bootstrap/Bootstrap.md",
+            "mode": "source"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/CSS/flexbox.md",
+                "file": "前端/Bootstrap/Bootstrap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/CSS/flexbox.md"
+                "file": "前端/Bootstrap/Bootstrap.md"
               }
             }
           }
@@ -117,15 +117,15 @@
   },
   "active": "73c0711dc52f1061",
   "lastOpenFiles": [
+    "前端/Bootstrap/Bootstrap.md",
+    "前端/Bootstrap/codepen環境.md",
+    "前端/Bootstrap/客製化 Sass.md",
     "前端/CSS/flexbox.md",
     "d-flex.md",
     "flex-flow.md",
     "前端/Bootstrap/navbar/navbar 內放入 form 元素（button, input...）.md",
     "Color(theme-color).md",
     "前端/Bootstrap/navbar/navbar.md",
-    "前端/Bootstrap/navbar/navbar-nav.md",
-    "前端/Bootstrap/navbar/nav-item.md",
-    "前端/Bootstrap/navbar/navbar-toggler.md",
-    "前端/Bootstrap/navbar/nav-link.md"
+    "前端/Bootstrap/navbar/navbar-nav.md"
   ]
 }

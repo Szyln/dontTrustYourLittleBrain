@@ -15,16 +15,17 @@
 -   a: d-block, padding（一致）, 連結的互動設定
 -   img: d-block, m-auto
 
-## 外容器與內容
+## 外容器
+[[d-flex]]
 
-### 容器
-- [[d-flex]]
-- flex-flow：
-	- flex-direction：流向
-	- flex-wrap：出血後是否換行
- - justify-content：分配每個內容的主軸寬度
-- align-items：每個內容自有交錯軸內的定位（不影響內容物彼此）
-- align-content： `flex-wrap` 設定後有效（交錯軸上出現其他內容），分配每個內容在交錯軸的寬度
+| display         | flex                                   |
+| --------------- | -------------------------------------- |
+| flex-flow       | `<flex-direction>` `<flex-wrap>` 縮寫  |
+| flex-direction  | 流向                                   |
+| flex-wrap       | 出血後是否換行（影響交錯軸）           |
+| justify-content | 分配各內容的主軸空間                   |
+| align-items     | 內容在交錯軸的定位（不影響主軸）       |
+| align-content   | flex-wrap 設定後有效，分配交錯軸的空間 |
 
 ### 內容
 # flex
