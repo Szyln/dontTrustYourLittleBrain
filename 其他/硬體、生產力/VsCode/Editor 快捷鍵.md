@@ -53,4 +53,6 @@ alt(option) + shift
     * 目前還沒想到要用哪個快捷鍵好，暫時不用
 - [ ] [Select Item](https://docs.emmet.io/actions/select-item/)：`ctrl + shift + , and .`
     * 可以直接左右移動選取標籤
+
+
 #vscode
