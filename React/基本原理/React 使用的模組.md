@@ -6,6 +6,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 ```
+
+^19ab2a
+
 >[[ReactDOM：渲染]]
 
 

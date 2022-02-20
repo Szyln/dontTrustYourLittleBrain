@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他/硬體、生產力/VsCode/Editor 快捷鍵.md",
-            "mode": "preview"
+            "file": "React/基本原理/ReactDOM：渲染.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "editor",
+                "query": "reactdom",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/硬體、生產力/VsCode/Editor 快捷鍵.md",
+                "file": "React/基本原理/ReactDOM：渲染.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/硬體、生產力/VsCode/Editor 快捷鍵.md"
+                "file": "React/基本原理/ReactDOM：渲染.md"
               }
             }
           }
@@ -118,6 +118,8 @@
   },
   "active": "73c0711dc52f1061",
   "lastOpenFiles": [
+    "React/基本原理/ReactDOM：渲染.md",
+    "React/基本原理/React 使用的模組.md",
     "其他/硬體、生產力/VsCode/Editor 快捷鍵.md",
     "前端/CSS/background.md",
     "background-attachment.md",
@@ -125,8 +127,6 @@
     "前端/CSS/container.md",
     "前端/Bootstrap/gulp 環境的客製化.md",
     "前端/Bootstrap/Bootstrap.md",
-    "前端/Bootstrap/codepen環境.md",
-    "前端/Bootstrap/客製化 Sass.md",
-    "d-flex.md"
+    "前端/Bootstrap/codepen環境.md"
   ]
 }

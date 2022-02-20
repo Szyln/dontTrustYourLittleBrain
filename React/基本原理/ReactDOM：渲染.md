@@ -1,9 +1,11 @@
 # ReactDOM
+![[React 使用的模組#^19ab2a]]
+
 React 遵循 [[5.關注點分離]]的規則，JS 的內容寫完後渲染到畫面指定位置上
 
 ```js
 // 可以直接簡寫成：
-ReactDom.render('要渲染的內容', document.quertSelector('#渲染位置'));
+ReactDom. render('要渲染的內容', document. querySelector('#渲染位置'));
 // <要渲染的內容> 只能有一個：[[同時生成多個標籤]]
 ```
 ---
