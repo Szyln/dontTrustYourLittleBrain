@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React/Styling/Styling in JSX.md",
+            "file": "React/環境/Vite.md",
             "mode": "preview"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Styling/Styling in JSX.md",
+                "file": "React/環境/Vite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Styling/Styling in JSX.md"
+                "file": "React/環境/Vite.md"
               }
             }
           }
@@ -118,11 +118,11 @@
   },
   "active": "73c0711dc52f1061",
   "lastOpenFiles": [
+    "React/環境/Vite.md",
     "React/Styling/Styling in JSX.md",
     "React/Styling/用元件處理 CSS Styling.md",
     "前端/CSS/scss/批次產生樣式 maps + @each.md",
     "react-bootstrap.md",
-    "React/環境/Vite.md",
     "React/Routing/react-router-dom.md",
     "React/Routing/react-router-dom 版本差異.md",
     "React/React.md",
