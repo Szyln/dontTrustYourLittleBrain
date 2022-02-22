@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端/CSS/scss/批次產生樣式 maps + @each.md",
+            "file": "React/Styling/Styling in JSX.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "@each",
+                "query": "styling",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/CSS/scss/批次產生樣式 maps + @each.md",
+                "file": "React/Styling/Styling in JSX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/CSS/scss/批次產生樣式 maps + @each.md"
+                "file": "React/Styling/Styling in JSX.md"
               }
             }
           }
@@ -118,6 +118,8 @@
   },
   "active": "73c0711dc52f1061",
   "lastOpenFiles": [
+    "React/Styling/Styling in JSX.md",
+    "React/Styling/用元件處理 CSS Styling.md",
     "前端/CSS/scss/批次產生樣式 maps + @each.md",
     "react-bootstrap.md",
     "React/環境/Vite.md",
@@ -125,8 +127,6 @@
     "React/Routing/react-router-dom 版本差異.md",
     "React/React.md",
     "React/基本原理/ReactDOM：渲染.md",
-    "React/基本原理/React 使用的模組.md",
-    "其他/硬體、生產力/VsCode/Editor 快捷鍵.md",
-    "前端/CSS/background.md"
+    "React/基本原理/React 使用的模組.md"
   ]
 }
