@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React/Fetch/Pexals API with React.md",
+            "file": "React/Styling/用元件處理 CSS Styling.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "&&",
+                "query": "styling",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Fetch/Pexals API with React.md",
+                "file": "React/Styling/用元件處理 CSS Styling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Fetch/Pexals API with React.md"
+                "file": "React/Styling/用元件處理 CSS Styling.md"
               }
             }
           }
@@ -118,15 +118,15 @@
   },
   "active": "73c0711dc52f1061",
   "lastOpenFiles": [
+    "React/Styling/用元件處理 CSS Styling.md",
+    "React/Component/Component：可重複利用、自定參數的元件.md",
+    "React/基本原理/children.md",
     "React/Fetch/Pexals API with React.md",
     "React/React.md",
     "後端/Restful API/API 提供更新資料的管道.md",
     "後端/Authentication and Cryptography/Authentication/登入頁面.md",
     "JavaScript/邏輯、條件、比較/條件/邏輯運算子.md",
     "React/環境/Vite.md",
-    "React/Styling/Styling in JSX.md",
-    "React/Styling/用元件處理 CSS Styling.md",
-    "前端/CSS/scss/批次產生樣式 maps + @each.md",
-    "react-bootstrap.md"
+    "React/Styling/Styling in JSX.md"
   ]
 }
