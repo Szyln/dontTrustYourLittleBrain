@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "73c0711dc52f1061",
+        "id": "5fe5d884eea179a1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React/Styling/用元件處理 CSS Styling.md",
-            "mode": "preview"
+            "file": "Accordion 手風琴.md",
+            "mode": "source"
           }
         }
       }
@@ -48,13 +48,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 207.5,
-    "collapsed": true
+    "width": 207.5
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -71,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Styling/用元件處理 CSS Styling.md",
+                "file": "Accordion 手風琴.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Styling/用元件處理 CSS Styling.md"
+                "file": "Accordion 手風琴.md"
               }
             }
           }
@@ -117,17 +115,17 @@
     "width": 240.4686279296875,
     "collapsed": true
   },
-  "active": "73c0711dc52f1061",
+  "active": "5fe5d884eea179a1",
   "lastOpenFiles": [
-    "React/Styling/用元件處理 CSS Styling.md",
-    "React/Component/Component：可重複利用、自定參數的元件.md",
-    "React/基本原理/children.md",
-    "React/Fetch/Pexals API with React.md",
-    "React/React.md",
-    "後端/Restful API/API 提供更新資料的管道.md",
-    "後端/Authentication and Cryptography/Authentication/登入頁面.md",
-    "JavaScript/邏輯、條件、比較/條件/邏輯運算子.md",
-    "React/環境/Vite.md",
-    "React/Styling/Styling in JSX.md"
+    "Accordion 手風琴.md",
+    "React/react-bootstrap.md",
+    "Color(theme-color).md",
+    "前端/CSS/background/background-attachment.md",
+    "前端/Bootstrap/background (util).md",
+    "前端/CSS/background/background-clip.md",
+    "前端/CSS/background/background-position.md",
+    "前端/CSS/background/background-size.md",
+    "前端/Bootstrap/flexbox/d-flex.md",
+    "React/Styling/用元件處理 CSS Styling.md"
   ]
 }
