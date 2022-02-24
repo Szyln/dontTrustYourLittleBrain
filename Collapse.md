@@ -1,5 +1,8 @@
 # Collapse
-```html
+分為兩部分
+- 按鈕：`<button>`, `<a>`
+- 將展開的內容：預設 `height: 0`，`class="collaspe"`
+
 ```html
 <p>
   <a class="btn btn-primary" data-bs-toggle="collapse" href="#multiCollapseExample1" role="button" aria-expanded="false" aria-controls="multiCollapseExample1">Toggle first element</a>
@@ -23,5 +26,5 @@
   </div>
 </div>
 ```
-```
+
 #bs/component/collapse
