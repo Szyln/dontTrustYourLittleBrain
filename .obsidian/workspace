@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "5fe5d884eea179a1",
+        "id": "621f7614149fc074",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -116,9 +116,10 @@
     "width": 240.4686279296875,
     "collapsed": true
   },
-  "active": "5fe5d884eea179a1",
+  "active": "621f7614149fc074",
   "lastOpenFiles": [
     "Collapse.md",
+    "刪除線寫法 ~~內文內文~~.md",
     "Accordion 手風琴.md",
     "React/react-bootstrap.md",
     "Color(theme-color).md",
@@ -126,7 +127,6 @@
     "前端/Bootstrap/background (util).md",
     "前端/CSS/background/background-clip.md",
     "前端/CSS/background/background-position.md",
-    "前端/CSS/background/background-size.md",
-    "前端/Bootstrap/flexbox/d-flex.md"
+    "前端/CSS/background/background-size.md"
   ]
 }
