@@ -1,7 +1,7 @@
 # Cards
 
 ## 基本結構
-`card`不包含 `margin`，預設寬度適應父層
+`card` 不包含 `margin`，預設寬度適應父層
 ```html
 <!-- card，寬度可自訂 -->
 <div class="card">
@@ -18,9 +18,9 @@
 </div>
 ```
 
-## 上層
+## 父層
 - `card`
-- 
+
 ## 子層
 ### 卡片結構
 有頁頭、頁尾、內文，除了文字的頁頭頁尾，也有圖像的頁頭頁尾
@@ -71,5 +71,4 @@
 ### 對卡片加上等高設定
 如果不想群組化要等高的話，要在 card 層加上 h-100
 
-###### tags: `CSS` `bs` `component`
-#css/scss #bs/component
+#css/scss  #bs/component/card
