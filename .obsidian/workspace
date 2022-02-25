@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Collapse.md",
+            "file": "其他/聲學/Spatial Audio/Ambisonics.md",
             "mode": "preview"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.5,
-    "collapsed": true
+    "width": 207.5
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Collapse.md",
+                "file": "其他/聲學/Spatial Audio/Ambisonics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Collapse.md"
+                "file": "其他/聲學/Spatial Audio/Ambisonics.md"
               }
             }
           }
@@ -118,6 +117,7 @@
   },
   "active": "621f7614149fc074",
   "lastOpenFiles": [
+    "其他/聲學/Spatial Audio/Ambisonics.md",
     "Collapse.md",
     "刪除線寫法 ~~內文內文~~.md",
     "Accordion 手風琴.md",
@@ -126,7 +126,6 @@
     "前端/CSS/background/background-attachment.md",
     "前端/Bootstrap/background (util).md",
     "前端/CSS/background/background-clip.md",
-    "前端/CSS/background/background-position.md",
-    "前端/CSS/background/background-size.md"
+    "前端/CSS/background/background-position.md"
   ]
 }
