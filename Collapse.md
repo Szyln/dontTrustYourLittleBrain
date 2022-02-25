@@ -1,12 +1,12 @@
 # Collapse
 
-| 作用               | 按鈕                                            | 展開內容                                   |
-| ------------------ | ----------------------------------------------- | ------------------------------------------ |
-| 添加元件           | `data-bs-toggle="collapse"`                     | `class="collapse"`                         |
-| 指定展開誰         | `href="#展開 id" role="button"`                 | `id="展開id"`                              |
-| 一對多控制         | `href=".multi-collapse"  role="button"`         | `class="multi-collapse"`(對應多個展開內容) |
+| 作用               | 按鈕                                            | 展開內容                                        |
+| ------------------ | ----------------------------------------------- | ----------------------------------------------- |
+| 添加元件           | `data-bs-toggle="collapse"`                     | `class="collapse"`                              |
+| 指定展開誰         | `href="#展開 id" role="button"`                 | `id="展開id"`                                   |
+| 一對多控制         | `href=".multi-collapse"  role="button"`         | `class="multi-collapse"`(對應多個展開內容)      |
 | 親和性，初始狀態   | `aria-expanded="boolean"`                       | true: `.collapse.show` <br/> false: `.collapse` |
-| 親和性，說明展開誰 | `aria-controls="將展開內容 id(有多個就寫多個)"` | `id="展開id"`                              |
+| 親和性，說明展開誰 | `aria-controls="將展開內容 id(有多個就寫多個)"` | `id="展開id"`                                   |
 
 ## 結構
 ### 按鈕
