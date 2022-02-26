@@ -1,6 +1,7 @@
 # MongoDB Atlas
 雲端版本的 [[MongoDB]]
 
+
 ## Network Access
 Current 跟 Anywhere IP 都新增
 
