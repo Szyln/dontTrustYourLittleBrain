@@ -23,7 +23,7 @@ DB_CONNECT=mongodb+srv://sz:<換成密碼>@cluster0.hk85a.mongodb.net/<數據庫
 ```js
 // URI 應該放到 .env 裡面
 mongoose.connect(process.env.DB_CONNECT)
-	.then(() => {
+	. then(() => {
 		console.log('Connected to MongoDB Atlas.');
 	})
 
