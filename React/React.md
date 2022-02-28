@@ -5,6 +5,10 @@
 - Component：可重複利用的元件
 - [[Hook]]
 
+>- 最淺顯易懂：[w3schools: React](https://www.w3schools.com/react/default.asp)
+>- 很多範例：[egghead: the-beginner-s-guide-to-react](https://egghead.io/courses/the-beginner-s-guide-to-react)
+>- 註：官方文件還保留很多先今不太常用的寫法，不建議先看官方文件
+
 ---
 
 ## 環境
@@ -31,6 +35,7 @@
 
 ## 樣式
 - [[Styling in JSX]]
+- （選用） [[dart-sass(sass) 建置]]
 
 ## Hooks
 - [[Event Handlers]]

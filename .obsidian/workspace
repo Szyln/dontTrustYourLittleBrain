@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "dart-sass(sass) 建置.md",
-            "mode": "source"
+            "file": "React/React.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,16 +39,17 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#mogodb",
+                "query": "script",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dart-sass(sass) 建置.md",
+                "file": "React/React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dart-sass(sass) 建置.md"
+                "file": "React/React.md"
               }
             }
           }
@@ -118,15 +119,15 @@
   },
   "active": "e9c7c55d9e60ba87",
   "lastOpenFiles": [
+    "React/React.md",
     "dart-sass(sass) 建置.md",
+    "後端/Node.js/介紹/介紹 Node.js.md",
     "前端/Bootstrap/Cards.md",
     "後端/Database/noSQL/Mongoose/Mongoose Atlas/MongoDB Atlas.md",
     "後端/MongoDB Atlas, Passport.js, OAuth/MongoDB Atlas, Passport.js, OAuth.md",
     "後端/Middlewares, Error Handling, Cookies, Sessions.md",
-    "React/React.md",
     "React/Fetch/Pexals API with React.md",
     "後端/Express.js/Routing/res.redirect().md",
-    "前端/CSS/flexbox.md",
-    "Material icon Outlined 用法.md"
+    "前端/CSS/flexbox.md"
   ]
 }
