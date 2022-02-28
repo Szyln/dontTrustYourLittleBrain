@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Swiper(React 環境).md",
-            "mode": "source"
+            "file": "React/List/Key prop.md",
+            "mode": "preview"
           }
         }
       }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Swiper(React 環境).md",
+                "file": "React/List/Key prop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Swiper(React 環境).md"
+                "file": "React/List/Key prop.md"
               }
             }
           }
@@ -119,15 +119,15 @@
   },
   "active": "e9c7c55d9e60ba87",
   "lastOpenFiles": [
+    "React/List/Key prop.md",
+    "React/UUID.md",
+    "前端/Bootstrap/ratio.md",
     "Swiper(React 環境).md",
     "其他/硬體、生產力/mac/mac 快捷鍵.md",
     "React/JSX/JSX HTML 內寫迴圈.md",
     "React/JSX/JSX 內的 HTML 加入 JS 程式碼.md",
     "React/React.md",
     "JavaScript/資料類型/Object, Array/Destructing Assignment.md",
-    "取代 @import 的 @use, @forword.md",
-    "dart-sass(sass) 建置.md",
-    "後端/Node.js/介紹/介紹 Node.js.md",
-    "前端/Bootstrap/Cards.md"
+    "取代 @import 的 @use, @forword.md"
   ]
 }
