@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "未命名.md",
+            "file": "Swiper(React 環境).md",
             "mode": "source"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "Swiper(React 環境).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "Swiper(React 環境).md"
               }
             }
           }
@@ -119,7 +119,8 @@
   },
   "active": "e9c7c55d9e60ba87",
   "lastOpenFiles": [
-    "未命名.md",
+    "Swiper(React 環境).md",
+    "其他/硬體、生產力/mac/mac 快捷鍵.md",
     "React/JSX/JSX HTML 內寫迴圈.md",
     "React/JSX/JSX 內的 HTML 加入 JS 程式碼.md",
     "React/React.md",
@@ -127,7 +128,6 @@
     "取代 @import 的 @use, @forword.md",
     "dart-sass(sass) 建置.md",
     "後端/Node.js/介紹/介紹 Node.js.md",
-    "前端/Bootstrap/Cards.md",
-    "後端/Database/noSQL/Mongoose/Mongoose Atlas/MongoDB Atlas.md"
+    "前端/Bootstrap/Cards.md"
   ]
 }
