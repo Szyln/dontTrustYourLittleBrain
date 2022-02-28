@@ -19,12 +19,20 @@ import 'swiper/css/scrollbar';
 JS 的話：
 ```js
 // 第一個是預計放入 Swiper 的容器（這裡是用一個 html class 裝）
-// 第二個放入這個 Swiper 的自訂屬性自訂
 const swiper = new Swiper('.swiper', {
+	// 第二個放入這個 Swiper 的自訂 Parameters
   speed: 400,
   spaceBetween: 100,
 });
 ```
+>請參照[Parameters](https://swiperjs.com/swiper-api#parameters)
+```js
+const swiper = document.querySelector('.swiper').swiper;
+
+// 建立 swiper 實例後就可以. 各種 Method, property 來使用
+swiper.slideNext();
+```
+>請參照[Methods & Properties](https://swiperjs.com/swiper-api#methods-and-properties)
 ```jsx
 export default () => {
   return (
