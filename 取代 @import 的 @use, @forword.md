@@ -1,4 +1,7 @@
 # 取代 @import 的 @use, @forword
+
+>[Kevin Powell 解釋影片](https://www.youtube.com/watch?v=CR-a8upNjJ0)
+
 `@import` 的特性會全域污染，導致不同 `.sass` / `.scss` 檔案中若有命名重複的變數會撞名
 官方建議使用 `@use`, `@forword` 取代
 ## @import
@@ -23,7 +26,8 @@ h1 {
 
 ```
 ## 集中匯出：@forword
-
+使用 `@forword` 可以集中分散的檔案到一個 `index.scss` 內
+這個檔案就可以集中匯出給不同的檔案使用
 ```scss
 // abstract/index.scss
 @forword `../abstract/font`;
@@ -37,3 +41,5 @@ h1 {
 	font-size: abstract.$font-size-1;
 }
 ```
+
+#css/scss 
