@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git/基礎/遠端 Repository/git pull.md",
-            "mode": "preview"
+            "file": "Swiper Parameters.md",
+            "mode": "source"
           }
         }
       }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 198.5
+    "width": 198.5,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/基礎/遠端 Repository/git pull.md",
+                "file": "Swiper Parameters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/基礎/遠端 Repository/git pull.md"
+                "file": "Swiper Parameters.md"
               }
             }
           }
@@ -118,15 +119,15 @@
   },
   "active": "e9c7c55d9e60ba87",
   "lastOpenFiles": [
+    "Swiper Parameters.md",
+    "Swiper(React 環境).md",
     "Git/基礎/遠端 Repository/git pull.md",
     "React/List/Key prop.md",
     "React/UUID.md",
     "前端/Bootstrap/ratio.md",
-    "Swiper(React 環境).md",
     "其他/硬體、生產力/mac/mac 快捷鍵.md",
     "React/JSX/JSX HTML 內寫迴圈.md",
     "React/JSX/JSX 內的 HTML 加入 JS 程式碼.md",
-    "React/React.md",
-    "JavaScript/資料類型/Object, Array/Destructing Assignment.md"
+    "React/React.md"
   ]
 }

@@ -25,7 +25,7 @@ const swiper = new Swiper('.swiper', {
   spaceBetween: 100,
 });
 ```
->請參照[Parameters](https://swiperjs.com/swiper-api#parameters)
+>請參照 [[Swiper Parameters]]
 ```js
 const swiper = document.querySelector('.swiper').swiper;
 
@@ -33,6 +33,9 @@ const swiper = document.querySelector('.swiper').swiper;
 swiper.slideNext();
 ```
 >請參照[Methods & Properties](https://swiperjs.com/swiper-api#methods-and-properties)
+
+## React 預設
+Swiper 元件不要放到 container 中，會跑版
 ```jsx
 export default () => {
   return (
@@ -58,4 +61,4 @@ export default () => {
 };
 ```
 
-#js/react #api 
+#js/react #api #swiper 
