@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端/html/form/label.md",
+            "file": "JavaScript/資料類型/Object, Array/Array/條件判定陣列的元素.md",
             "mode": "preview"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/html/form/label.md",
+                "file": "JavaScript/資料類型/Object, Array/Array/條件判定陣列的元素.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/html/form/label.md"
+                "file": "JavaScript/資料類型/Object, Array/Array/條件判定陣列的元素.md"
               }
             }
           }
@@ -119,6 +119,8 @@
   },
   "active": "e9c7c55d9e60ba87",
   "lastOpenFiles": [
+    "JavaScript/資料類型/Object, Array/Array/條件判定陣列的元素.md",
+    "JavaScript/資料類型/Object, Array/Array/find().md",
     "前端/html/form/label.md",
     "Swiper Parameters.md",
     "Swiper(React 環境).md",
@@ -126,8 +128,6 @@
     "React/List/Key prop.md",
     "React/UUID.md",
     "前端/Bootstrap/ratio.md",
-    "其他/硬體、生產力/mac/mac 快捷鍵.md",
-    "React/JSX/JSX HTML 內寫迴圈.md",
-    "React/JSX/JSX 內的 HTML 加入 JS 程式碼.md"
+    "其他/硬體、生產力/mac/mac 快捷鍵.md"
   ]
 }
