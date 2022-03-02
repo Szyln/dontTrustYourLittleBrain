@@ -3,6 +3,6 @@
 
 - [[JSX HTML 內使用變數]]
 - [[JSX HTML 內寫迴圈]]
-- [[JSX HTML 內使用 if (Tenery Operator)]]
+- [[JSX HTML 內使用 if (Tenary Operator)]]
 
 #js/react/jsx

@@ -1,4 +1,4 @@
-## JSX HTML 內使用 if (Tenery Operator)
+## JSX HTML 內使用 if (Conditional (ternary) operator)
 在 JSX 內可以寫 JS，但是有限制的，必須寫表現式
 ```jsx
 function CharacterCount({text}) {
