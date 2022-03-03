@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端/CSS/flexbox.md",
+            "file": "JavaScript/資料類型/資料類型.md",
             "mode": "preview"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/CSS/flexbox.md",
+                "file": "JavaScript/資料類型/資料類型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/CSS/flexbox.md"
+                "file": "JavaScript/資料類型/資料類型.md"
               }
             }
           }
@@ -119,15 +119,15 @@
   },
   "active": "e9c7c55d9e60ba87",
   "lastOpenFiles": [
+    "JavaScript/資料類型/資料類型.md",
+    "JavaScript/資料類型/原始資料類型 Primitive Data Types.md",
+    "JavaScript/資料類型/Object, Array/Array/Array.md",
+    "JavaScript/資料類型/string.md",
+    "前端/Bootstrap/Modal.md",
+    "Collapse.md",
     "前端/CSS/flexbox.md",
     "前端/Bootstrap/Cards.md",
     "Swiper(React 環境).md",
-    "前端/Bootstrap/utilities API 修改.md",
-    "前端/Bootstrap/position.md",
-    "前端/CSS/Position.md",
-    "React/JSX/JSX HTML 內使用 if (Tenary Operator).md",
-    "React/Styling/用元件處理 CSS Styling.md",
-    "JavaScript/資料類型/Object, Array/Array/陣列的循環 for, forEach, map.md",
-    "JavaScript/邏輯、條件、比較/運算/運算符號 numbers operators.md"
+    "前端/Bootstrap/utilities API 修改.md"
   ]
 }
