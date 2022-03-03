@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/資料類型/資料類型.md",
+            "file": "前端/Bootstrap/Modal.md",
             "mode": "preview"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/資料類型/資料類型.md",
+                "file": "前端/Bootstrap/Modal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/資料類型/資料類型.md"
+                "file": "前端/Bootstrap/Modal.md"
               }
             }
           }
@@ -119,11 +119,11 @@
   },
   "active": "e9c7c55d9e60ba87",
   "lastOpenFiles": [
+    "前端/Bootstrap/Modal.md",
     "JavaScript/資料類型/資料類型.md",
     "JavaScript/資料類型/原始資料類型 Primitive Data Types.md",
     "JavaScript/資料類型/Object, Array/Array/Array.md",
     "JavaScript/資料類型/string.md",
-    "前端/Bootstrap/Modal.md",
     "Collapse.md",
     "前端/CSS/flexbox.md",
     "前端/Bootstrap/Cards.md",

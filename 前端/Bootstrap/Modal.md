@@ -5,14 +5,29 @@
 - 除 html, css 也需要 js 才能運作
 - 啟動時無法滾動 `body` 內容
 - 只能一個同時用單一 `modal`
+- 點擊背景會關閉視窗：（`.modal` 上寫 `data-bs-backdrop="static"` 可取消)
+- 內容過長時可滾動視窗（ `.modal>.modal-dialog`加上`.modal-dialog-scrollable`可不滾動視窗只滾動 `modal` 內文）
 
 ## 基本組合
 
-| 屬性 | 按鈕                   | Modal |
-| ---- | ---------------------- | ----- |
-|      | `data-bs-toggle=modal` | ``      |
+| 屬性                 | 按鈕                                              | Modal（`.modal`）           | `.modal>.modal-dialog`     |
+| -------------------- | ------------------------------------------------- | --------------------------- | -------------------------- |
+| 成立 Modal 元件      | `data-bs-toggle=modal`<br/>`data-bs-target="#id"` | `.modal`   `id="id"`        |
+| 阻止點擊背景關閉視窗 |                                                   | `data-bs-backdrop="static"` |
+| 內文可滾動           |                                                   |                             | `.modal-dialog-scrollable` |
+| Modal 置中於視窗     |                                                   |                             | `.modal-dialog-centered`   |
 
 
+- 按鈕：
+- Modal：`.modal`
+  - `.modal-dialog`：modal 內文
+    - `.modal-content`
+      - `modal-header`
+      - `modal-body`：下層使用 `container-fluid` 可以使用網格系統
+      - `modal-footer`
+
+- `modal-title` `h*`
+- 
 ```html
 <!-- 啟動 modal 按鈕 -->
 <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
