@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端/Bootstrap/utilities API 修改.md",
+            "file": "前端/Bootstrap/Cards.md",
             "mode": "preview"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/Bootstrap/utilities API 修改.md",
+                "file": "前端/Bootstrap/Cards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/Bootstrap/utilities API 修改.md"
+                "file": "前端/Bootstrap/Cards.md"
               }
             }
           }
@@ -119,6 +119,8 @@
   },
   "active": "e9c7c55d9e60ba87",
   "lastOpenFiles": [
+    "前端/Bootstrap/Cards.md",
+    "Swiper(React 環境).md",
     "前端/Bootstrap/utilities API 修改.md",
     "前端/Bootstrap/position.md",
     "前端/CSS/Position.md",
@@ -126,8 +128,6 @@
     "React/Styling/用元件處理 CSS Styling.md",
     "JavaScript/資料類型/Object, Array/Array/陣列的循環 for, forEach, map.md",
     "JavaScript/邏輯、條件、比較/運算/運算符號 numbers operators.md",
-    "前端/Bootstrap/Cards.md",
-    "前端/CSS/flexbox.md",
-    "JavaScript/資料類型/Object, Array/Array/find().md"
+    "前端/CSS/flexbox.md"
   ]
 }
