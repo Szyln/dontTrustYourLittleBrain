@@ -1,4 +1,6 @@
 # position
+- 參考對象：`position-relative`
+- 本體：`position-absolute`
 
 
 ## 參考點中心
