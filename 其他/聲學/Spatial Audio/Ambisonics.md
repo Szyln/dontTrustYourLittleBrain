@@ -231,7 +231,7 @@ https://hahow.in/courses/5d1ba52a0d5f3b0021dbb996/main
 ## sony 360 reality audio
 [Sony 360 Reality Audio review: This headphone-virtualization system expands music beyond your head](https://www.techhive.com/article/3519268/sony-360-reality-audio-review.html)
 ## free daw which is cool
-[tracktion](https://www.tracktion.com/)
+[tracktion](https://www.tracktion.co-m/)
 LMMS
 ## 把手機當成頭部追蹤器 
 目前 mac 好像沒有在支援
