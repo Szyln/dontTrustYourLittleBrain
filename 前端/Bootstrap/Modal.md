@@ -12,7 +12,7 @@
 
 | 屬性                 | 按鈕                                              | Modal（`.modal`）           | `.modal>.modal-dialog`     |
 | -------------------- | ------------------------------------------------- | --------------------------- | -------------------------- |
-| 成立 Modal 元件      | `data-bs-toggle=modal`<br/>`data-bs-target="#id"` | `.modal`   `id="id"`        |
+| 成立 Modal 元件      | `data-bs-toggle="modal"` <br/> `data-bs-target="#id"` | `.modal`   `id="id"`        |
 | 阻止點擊背景關閉視窗 |                                                   | `data-bs-backdrop="static"` |
 | 內文可滾動           |                                                   |                             | `.modal-dialog-scrollable` |
 | Modal 置中於視窗     |                                                   |                             | `.modal-dialog-centered`   |
