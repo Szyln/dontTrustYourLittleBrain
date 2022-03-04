@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端/Bootstrap/Cards.md",
-            "mode": "source"
+            "file": "前端/Bootstrap/Modal.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/Bootstrap/Cards.md",
+                "file": "前端/Bootstrap/Modal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/Bootstrap/Cards.md"
+                "file": "前端/Bootstrap/Modal.md"
               }
             }
           }
@@ -117,8 +117,8 @@
   },
   "active": "e9c7c55d9e60ba87",
   "lastOpenFiles": [
-    "前端/Bootstrap/Cards.md",
     "前端/Bootstrap/Modal.md",
+    "前端/Bootstrap/Cards.md",
     "其他/聲學/Spatial Audio/簡介.md",
     "其他/聲學/Resonance Audio/簡介.md",
     "其他/聲學/Resonance Audio/與人耳的互動 (HRTFs) - 事前知識.md",
