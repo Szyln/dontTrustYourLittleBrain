@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端/Bootstrap/Cards.md",
+            "file": "其他/聲學/Spatial Audio/Ambisonics.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dataset",
+                "query": "tra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -48,13 +48,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 198.5,
-    "collapsed": true
+    "width": 198.5
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -71,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/Bootstrap/Cards.md",
+                "file": "其他/聲學/Spatial Audio/Ambisonics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/Bootstrap/Cards.md"
+                "file": "其他/聲學/Spatial Audio/Ambisonics.md"
               }
             }
           }
@@ -119,15 +117,15 @@
   },
   "active": "e9c7c55d9e60ba87",
   "lastOpenFiles": [
+    "其他/聲學/Spatial Audio/Ambisonics.md",
+    "其他/聲學/Resonance Audio/建立 Web 環境.md",
+    "其他/聲學/Resonance Audio/Audio Design 指南.md",
+    "其他/聲學/Resonance Audio/用 Resonance Audio 開發.md",
+    "其他/聲學/Resonance Audio/與環境的互動 - 事前知識.md",
+    "其他/聲學/Resonance Audio/與人耳的互動 (HRTFs) - 事前知識.md",
+    "其他/聲學/Resonance Audio/簡介.md",
+    "其他/聲學/Spatial Audio/簡介.md",
     "前端/Bootstrap/Cards.md",
-    "前端/Bootstrap/Modal.md",
-    "前端/html/form/Form.md",
-    "JavaScript/Vue/vue 學前必備觀念/5.關注點分離.md",
-    "前端/Bootstrap/navbar/navbar-toggler.md",
-    "前端/Bootstrap/navbar/nav-item.md",
-    "前端/CSS/視差滾動.md",
-    "前端/html/form/select & datalist 選單.md",
-    "前端/html/form/input.md",
-    "JavaScript/DOM/DOM 簡要.md"
+    "前端/Bootstrap/Modal.md"
   ]
 }
