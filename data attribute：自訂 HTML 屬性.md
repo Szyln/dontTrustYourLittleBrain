@@ -5,9 +5,8 @@
 ```html
 <article
   id="文章"
-  data-columns="3"
-  data-index-number="12314"
-  data-parent="cars">
+  data-bunch-of-numbers="12314"
+>
 ...
 </article>
 ```
@@ -21,11 +20,22 @@
 var article = document.querySelector('#文章');
 
 // 記得原本用 - 連接的字要用 camelCase 拼
-article.dataset.columns // "3"
-article.dataset.indexNumber // "12314"
-article.dataset.parent // "cars"
+article.dataset.bunchOfNumbers // "12314"
 ```
 
 
-## 用 CSS z; 3jp4
+## 用 CSS 訪問
+### 讀取
+```css
+article::before {
+  content: attr(data-bunch-of-numbers);
+}
+```
+### 當作屬性選擇器
+```css
+article[data-bunch-of-numbers='12314'] {
+  width: 400px;
+}
+
+```
 #html #js #js/dom 
