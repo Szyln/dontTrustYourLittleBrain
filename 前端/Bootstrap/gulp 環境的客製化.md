@@ -47,7 +47,7 @@ your-project/
 // 4. 匯入「新增或刪除」的自訂變數
 @improt "刪除或新增 map 的 scss";
 
-// 4. 匯入選用的 bs 檔案（專案有用到的部份）
+//　5. 匯入選用的 bs 檔案（專案有用到的部份）
 @import "../node_modules/bootstrap/scss/root";
 @import "../node_modules/bootstrap/scss/reboot";
 @import "../node_modules/bootstrap/scss/type";
@@ -55,7 +55,7 @@ your-project/
 @import "../node_modules/bootstrap/scss/containers";
 @import "../node_modules/bootstrap/scss/grid";
 
-// 5. 匯入其餘自訂的 scss 檔案
+// 6. 匯入其餘自訂的 scss 檔案
 @import "其他手刻檔案";
 ```
 
