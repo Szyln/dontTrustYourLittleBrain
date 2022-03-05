@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React/React-bootstrap.md",
+            "file": "前端/Bootstrap/gulp 環境的客製化.md",
             "mode": "source"
           }
         }
@@ -48,12 +48,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 198.5
+    "width": 454.5
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/React-bootstrap.md",
+                "file": "前端/Bootstrap/gulp 環境的客製化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/React-bootstrap.md"
+                "file": "前端/Bootstrap/gulp 環境的客製化.md"
               }
             }
           }
@@ -118,15 +117,15 @@
   },
   "active": "e9c7c55d9e60ba87",
   "lastOpenFiles": [
+    "前端/Bootstrap/gulp 環境的客製化.md",
+    "前端/Bootstrap/客製化 Sass.md",
     "React/React-bootstrap.md",
+    "React/Swiper/Swiper(React 環境).md",
+    "React/React.md",
+    "後端/Node.js/Node.md",
+    "前端/Google font, Material icon 安裝.md",
+    "前端/Bootstrap/Accordion 手風琴.md",
     "前端/Bootstrap/Modal.md",
-    "前端/html/base/heading(h).md",
-    "想學的框架.md",
-    "前端/Bootstrap/Cards.md",
-    "其他/聲學/Spatial Audio/簡介.md",
-    "其他/聲學/Resonance Audio/簡介.md",
-    "其他/聲學/Resonance Audio/與人耳的互動 (HRTFs) - 事前知識.md",
-    "其他/聲學/Resonance Audio/與環境的互動 - 事前知識.md",
-    "其他/聲學/Resonance Audio/用 Resonance Audio 開發.md"
+    "前端/html/base/heading(h).md"
   ]
 }
