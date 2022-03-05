@@ -6,5 +6,16 @@
 
 - [[React-bootstrap 建置]]
 
-
+# 'as' prop
+```jsx
+<Row className="mx-0">
+  <Button as={Col} variant="primary">Button #1</Button>
+  <Button as={Col} variant="secondary" className="mx-2">Button #2</Button>
+  <Button as={Col} variant="success">Button #3</Button>
+</Row>
+```
+```jsx
+// as 的部分渲染後長這樣
+<div role="button" tabindex="0" class="btn btn-primary col">Button #1</div>
+```
 #js/react/bs 
