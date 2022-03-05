@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端/Bootstrap/Modal.md",
+            "file": "JavaScript/資料類型/Object, Array/Array/陣列的循環 for, forEach, map.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "heading",
+                "query": "tag:#oop",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 454.5,
-    "collapsed": true
+    "width": 454.5
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/Bootstrap/Modal.md",
+                "file": "JavaScript/資料類型/Object, Array/Array/陣列的循環 for, forEach, map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/Bootstrap/Modal.md"
+                "file": "JavaScript/資料類型/Object, Array/Array/陣列的循環 for, forEach, map.md"
               }
             }
           }
@@ -118,15 +117,15 @@
   },
   "active": "e9c7c55d9e60ba87",
   "lastOpenFiles": [
+    "JavaScript/資料類型/Object, Array/Array/陣列的循環 for, forEach, map.md",
+    "JavaScript/物件導向 OOP/物件導向 OOP.md",
+    "JavaScript/物件導向 OOP/繼承/原始資料類型使用 Prototype Inheritance 的功能.md",
+    "JavaScript/物件導向 OOP/new.md",
+    "JavaScript/物件導向 OOP/繼承/create().md",
+    "JavaScript/物件導向 OOP/繼承/Class.md",
     "前端/Bootstrap/Modal.md",
     "前端/Bootstrap/gulp 環境的客製化.md",
     "前端/Bootstrap/客製化 Sass.md",
-    "React/React-bootstrap.md",
-    "React/Swiper/Swiper(React 環境).md",
-    "React/React.md",
-    "後端/Node.js/Node.md",
-    "前端/Google font, Material icon 安裝.md",
-    "前端/Bootstrap/Accordion 手風琴.md",
-    "前端/html/base/heading(h).md"
+    "React/React-bootstrap.md"
   ]
 }
