@@ -44,6 +44,6 @@ ReactDOM.render(<Greeting />, document.querySelector('#root'))
 >```jsx
 >for 要寫 htmlFor 避免與 js 的 for 衝突
 ><label htmlFor="name">Name: </label>
-> `` `
+> ```
 
 #js/react/hook
