@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端/Bootstrap/Modal.md",
-            "mode": "preview"
+            "file": "前端/html/資料/table.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#oop",
+                "query": "<th>",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/Bootstrap/Modal.md",
+                "file": "前端/html/資料/table.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/Bootstrap/Modal.md"
+                "file": "前端/html/資料/table.md"
               }
             }
           }
@@ -118,15 +119,15 @@
   },
   "active": "e9c7c55d9e60ba87",
   "lastOpenFiles": [
+    "前端/html/資料/table.md",
+    "colgroup 表格縱向群組產生樣式.md",
+    "未命名.md",
     "前端/Bootstrap/Modal.md",
     "React/React.md",
     "React/Hook/useState Hook.md",
     "React/React-bootstrap.md",
     "前端/Bootstrap/gulp 環境的客製化.md",
     "React-bootstrap 建置.md",
-    "JavaScript/資料類型/Object, Array/Array/陣列的循環 for, forEach, map.md",
-    "JavaScript/物件導向 OOP/物件導向 OOP.md",
-    "JavaScript/物件導向 OOP/繼承/原始資料類型使用 Prototype Inheritance 的功能.md",
-    "JavaScript/物件導向 OOP/new.md"
+    "JavaScript/資料類型/Object, Array/Array/陣列的循環 for, forEach, map.md"
   ]
 }
