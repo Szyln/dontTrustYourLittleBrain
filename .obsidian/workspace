@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React/UUID.md",
+            "file": "前端/Bootstrap/Collapse.md",
             "mode": "preview"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/UUID.md",
+                "file": "前端/Bootstrap/Collapse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/UUID.md"
+                "file": "前端/Bootstrap/Collapse.md"
               }
             }
           }
@@ -119,6 +119,7 @@
   },
   "active": "e9c7c55d9e60ba87",
   "lastOpenFiles": [
+    "前端/Bootstrap/Collapse.md",
     "React/UUID.md",
     "JavaScript/資料類型/Object, Array/Array/條件判定陣列的元素.md",
     "JavaScript/資料類型/Object, Array/Array/find().md",
@@ -127,7 +128,6 @@
     "caption 表格標題.md",
     "colgroup 表格縱向群組產生樣式.md",
     "未命名.md",
-    "前端/Bootstrap/Modal.md",
-    "React/React.md"
+    "前端/Bootstrap/Modal.md"
   ]
 }
