@@ -19,8 +19,10 @@
 function Tilt() {
   // 這變數存有一個 object，其中有 current 屬性可以使用，可以顯示當前 DOM node
   const tilteRef = React.useRef()
+	
   // 這樣用 current 不會成功，因為還沒有渲染 return 裡面的內容
   console.log(tiltRef.current)
+	
   // useEffect 使這個在 render 完後執行
   React.useEffect(() => {
 		// tilt.current 代表該 ref 的 dom node
