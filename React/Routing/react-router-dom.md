@@ -12,7 +12,7 @@ npm install react-router-dom
 
 ## Routing
 可以在 React 操作 Routing
-
+### BrowserRouter：URL 將 React 專案連接上瀏覽器的網址
 ```jsx
 // main.jsx(負責 render)
 // 匯入 React, ReactDOM, App

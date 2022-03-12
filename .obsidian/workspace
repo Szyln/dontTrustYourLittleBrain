@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/DOM/DOM 新舊對比.md",
-            "mode": "preview"
+            "file": "React/Routing/react-router-dom.md",
+            "mode": "source"
           }
         }
       }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/DOM/DOM 新舊對比.md",
+                "file": "React/Routing/react-router-dom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/DOM/DOM 新舊對比.md"
+                "file": "React/Routing/react-router-dom.md"
               }
             }
           }
@@ -119,6 +119,7 @@
   },
   "active": "e9c7c55d9e60ba87",
   "lastOpenFiles": [
+    "React/Routing/react-router-dom.md",
     "JavaScript/DOM/DOM 新舊對比.md",
     "前端/Bootstrap/Collapse.md",
     "前端/html/base/heading(h).md",
@@ -127,7 +128,6 @@
     "JavaScript/資料類型/Object, Array/Array/新增與刪除.md",
     "JavaScript/資料類型/Object, Array/Array/Array.md",
     "React/Hook/State Lifting.md",
-    "React/Hook/useState Hook.md",
-    "JavaScript/DOM/stopPropagation.md"
+    "React/Hook/useState Hook.md"
   ]
 }
