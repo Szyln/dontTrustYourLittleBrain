@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端/Bootstrap/Collapse.md",
+            "file": "JavaScript/DOM/DOM 新舊對比.md",
             "mode": "preview"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/Bootstrap/Collapse.md",
+                "file": "JavaScript/DOM/DOM 新舊對比.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/Bootstrap/Collapse.md"
+                "file": "JavaScript/DOM/DOM 新舊對比.md"
               }
             }
           }
@@ -119,9 +119,9 @@
   },
   "active": "e9c7c55d9e60ba87",
   "lastOpenFiles": [
+    "JavaScript/DOM/DOM 新舊對比.md",
     "前端/Bootstrap/Collapse.md",
     "前端/html/base/heading(h).md",
-    "JavaScript/DOM/DOM 新舊對比.md",
     "JavaScript/DOM/DOM 需要知道的 methods, properties.md",
     "刪除或取代（string）：replace().md",
     "JavaScript/資料類型/Object, Array/Array/新增與刪除.md",
