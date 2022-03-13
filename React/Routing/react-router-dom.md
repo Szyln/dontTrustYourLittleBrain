@@ -51,6 +51,7 @@ function App() {
 }
 export default App;
 ```
+>[[Nested Routes]]
 ## Link
 取代 `<a>` ，`App()` 中的 `Routes` 元件就是透過這裡做回應
 ```jsx

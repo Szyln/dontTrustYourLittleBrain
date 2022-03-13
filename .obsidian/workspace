@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React/Routing/react-router-dom.md",
+            "file": "React/Hook/useEffect Hook.md",
             "mode": "preview"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Routing/react-router-dom.md",
+                "file": "React/Hook/useEffect Hook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Routing/react-router-dom.md"
+                "file": "React/Hook/useEffect Hook.md"
               }
             }
           }
@@ -119,15 +119,15 @@
   },
   "active": "6639f5270c830968",
   "lastOpenFiles": [
+    "React/Hook/useEffect Hook.md",
     "React/Routing/react-router-dom.md",
+    "Nested Routes.md",
     "JavaScript/DOM/DOM 新舊對比.md",
     "前端/Bootstrap/Collapse.md",
     "前端/html/base/heading(h).md",
     "JavaScript/DOM/DOM 需要知道的 methods, properties.md",
     "刪除或取代（string）：replace().md",
     "JavaScript/資料類型/Object, Array/Array/新增與刪除.md",
-    "JavaScript/資料類型/Object, Array/Array/Array.md",
-    "React/Hook/State Lifting.md",
-    "React/Hook/useState Hook.md"
+    "JavaScript/資料類型/Object, Array/Array/Array.md"
   ]
 }
