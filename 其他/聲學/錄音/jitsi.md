@@ -43,4 +43,4 @@ config.audioQuality.opusMaxAverageBitrate=128000
 config.enableNoisyMicDetection=false
 
 
-https://jitsi.pdis.dev/JojiTest5#config.enableNoisyMicDetection=false&config.stereo=true&config.audioQuality.opusMaxAverageBitrate=108000&config.startAudioOnly=true&config.prejoinPageEnabled=true&config.enableWelcomePage=true
+https://jitsi.pdis.dev/JojiTest5#config.enableNoisyMicDetection=false&config.stereo=true&config.audioQuality.opusMaxAverageBitrate=128000&config.startAudioOnly=true&config.prejoinPageEnabled=true&config.enableWelcomePage=true&config.disableNS=true
