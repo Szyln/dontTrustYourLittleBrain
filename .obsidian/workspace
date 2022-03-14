@@ -120,14 +120,14 @@
   "active": "6639f5270c830968",
   "lastOpenFiles": [
     "後端/Node.js/Node.md",
+    "後端/Node.js/介紹/介紹 Node.js.md",
+    "後端/Node.js/介紹/REPL.md",
+    "後端/Node.js/介紹/Node 指令.md",
+    "其他/硬體、生產力/terminal/常用指令.md",
     "React/Hook/useEffect Hook.md",
     "其他/聲學/錄音/jitsi.md",
     "React/Routing/react-router-dom.md",
     "Nested Routes.md",
-    "JavaScript/DOM/DOM 新舊對比.md",
-    "前端/Bootstrap/Collapse.md",
-    "前端/html/base/heading(h).md",
-    "JavaScript/DOM/DOM 需要知道的 methods, properties.md",
-    "刪除或取代（string）：replace().md"
+    "JavaScript/DOM/DOM 新舊對比.md"
   ]
 }
