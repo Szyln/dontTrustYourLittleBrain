@@ -29,10 +29,9 @@
 
 - jitsi 就算沒有自己架站的知識背景，也可以用現成
 
-https://jitsi.pdis.dev/設定QQ#config.stereo=true&config.audioQuality.opusMaxAverageBitrate=128000&config.startAudioOnly=true&config.prejoinPageEnabled=true
 
 config.audioQuality.stereo=true
-- `disableAP`：以下三項全關
+- `disableAP` ：以下三項全關
 - `disableAGC`：Auto Gain Control
 - `disableAEC`：Acoustic Echo Cancellation
 - `disableNS`：Noise Suppression（降噪）
@@ -42,5 +41,4 @@ config.audioQuality.stereo=true
 config.audioQuality.opusMaxAverageBitrate=128000
 config.enableNoisyMicDetection=false
 
-
-https://jitsi.pdis.dev/JojiTest5#config.enableNoisyMicDetection=false&config.stereo=true&config.audioQuality.opusMaxAverageBitrate=128000&config.startAudioOnly=true&config.prejoinPageEnabled=true&config.enableWelcomePage=true&config.disableNS=true
+https://jitsi.pdis.dev/設定QQ#config.enableNoisyMicDetection=false&config.stereo=true&config.audioQuality.opusMaxAverageBitrate=320000&config.p2p.enabled=false&config.startAudioOnly=true&config.prejoinPageEnabled=true&config.enableWelcomePage=true
