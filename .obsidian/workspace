@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "後端/Node.js/Node.md",
-            "mode": "preview"
+            "file": "其他/聲學/錄音/jitsi.md",
+            "mode": "source"
           }
         }
       }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "後端/Node.js/Node.md",
+                "file": "其他/聲學/錄音/jitsi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "後端/Node.js/Node.md"
+                "file": "其他/聲學/錄音/jitsi.md"
               }
             }
           }
@@ -119,13 +119,13 @@
   },
   "active": "6639f5270c830968",
   "lastOpenFiles": [
+    "其他/聲學/錄音/jitsi.md",
     "後端/Node.js/Node.md",
     "後端/Node.js/介紹/介紹 Node.js.md",
     "後端/Node.js/介紹/REPL.md",
     "後端/Node.js/介紹/Node 指令.md",
     "其他/硬體、生產力/terminal/常用指令.md",
     "React/Hook/useEffect Hook.md",
-    "其他/聲學/錄音/jitsi.md",
     "React/Routing/react-router-dom.md",
     "Nested Routes.md",
     "JavaScript/DOM/DOM 新舊對比.md"

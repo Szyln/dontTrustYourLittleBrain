@@ -29,7 +29,7 @@
 
 - jitsi 就算沒有自己架站的知識背景，也可以用現成
 
-https://jitsi.pdis.dev/新年快樂八千#config.stereo=true&config.audioQuality.opusMaxAverageBitrate=128000&config.startAudioOnly=true&config.prejoinPageEnabled=true
+https://jitsi.pdis.dev/設定QQ#config.stereo=true&config.audioQuality.opusMaxAverageBitrate=128000&config.startAudioOnly=true&config.prejoinPageEnabled=true
 
 config.audioQuality.stereo=true
 - `disableAP`：以下三項全關
@@ -43,5 +43,4 @@ config.audioQuality.opusMaxAverageBitrate=128000
 config.enableNoisyMicDetection=false
 
 
-
-
+https://jitsi.pdis.dev/JojiTest5#config.enableNoisyMicDetection=false&config.stereo=true&config.audioQuality.opusMaxAverageBitrate=108000&config.startAudioOnly=true&config.prejoinPageEnabled=true&config.enableWelcomePage=true
