@@ -41,4 +41,4 @@ config.audioQuality.stereo=true
 config.audioQuality.opusMaxAverageBitrate=128000
 config.enableNoisyMicDetection=false
 
-https://jitsi.pdis.dev/設定QQ#config.enableNoisyMicDetection=false&config.stereo=true&config.audioQuality.opusMaxAverageBitrate=320000&config.p2p.enabled=false&config.startAudioOnly=true&config.prejoinPageEnabled=true&config.enableWelcomePage=true
+https://jitsi.pdis.dev/風中殘竹#config.enableNoisyMicDetection=false&config.stereo=true&config.audioQuality.opusMaxAverageBitrate=128000&config.p2p.enabled=false&config.startAudioOnly=true&config.prejoinPageEnabled=true&config.enableWelcomePage=true

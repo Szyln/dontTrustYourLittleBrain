@@ -33,6 +33,7 @@
 	- `form-select-尺寸` (sm, lg)
 
 # checks & radios
+ - `form.form-check-inline` ：input + label 成 inline 狀態
 - `form.form-check`
 	- `input.form-check-input` `type="checkbox"`
 	- `label.form-check-label`
