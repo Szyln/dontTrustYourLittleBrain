@@ -27,23 +27,23 @@
 4. aria-label
 5. placeholder
 
-# select & datalist
+# select & datalist(bs)
 [[select & datalist 選單]]
 - `select.form-select`
 	- `form-select-尺寸` (sm, lg)
 
 # checks & radios
- - `form.form-check-inline` ：input + label 成 inline 狀態
-- `form.form-check`
+ - `div.form-check-inline` ：input + label 成 inline 狀態
+- `div.form-check`
 	- `input.form-check-input` `type="checkbox"`
 	- `label.form-check-label`
 
-- `form.form-check`
+- `div.form-check`
 	- `input.form-check-input` `type="radio"`
 	- `label.form-check-label`
 
 # switch
-- `form.form-check.form-switch`
+- `div.form-check.form-switch`
 	- `input.form-check-input` `type="checkbox" role="switch"`
 	- `label.form-check-label`
 #bs/form #form

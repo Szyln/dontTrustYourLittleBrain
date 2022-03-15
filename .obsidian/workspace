@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他/聲學/錄音/jitsi.md",
+            "file": "form(bootstrap).md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/聲學/錄音/jitsi.md",
+                "file": "form(bootstrap).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/聲學/錄音/jitsi.md"
+                "file": "form(bootstrap).md"
               }
             }
           }
@@ -118,8 +118,8 @@
   },
   "active": "6639f5270c830968",
   "lastOpenFiles": [
-    "其他/聲學/錄音/jitsi.md",
     "form(bootstrap).md",
+    "其他/聲學/錄音/jitsi.md",
     "前端/html/form/select & datalist 選單.md",
     "fieldset.md",
     "前端/Bootstrap/Bootstrap.md",
