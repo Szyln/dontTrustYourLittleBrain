@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "後端/Node.js/Node.md",
-            "mode": "preview"
+            "file": "form(bootstrap).md",
+            "mode": "source"
           }
         }
       }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "後端/Node.js/Node.md",
+                "file": "form(bootstrap).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "後端/Node.js/Node.md"
+                "file": "form(bootstrap).md"
               }
             }
           }
@@ -118,15 +118,15 @@
   },
   "active": "6639f5270c830968",
   "lastOpenFiles": [
+    "form(bootstrap).md",
+    "前端/Bootstrap/Bootstrap.md",
+    "前端/html/form/Form.md",
     "後端/Node.js/Node.md",
     "其他/聲學/錄音/jitsi.md",
     "後端/Node.js/介紹/介紹 Node.js.md",
     "後端/Node.js/介紹/REPL.md",
     "後端/Node.js/介紹/Node 指令.md",
     "其他/硬體、生產力/terminal/常用指令.md",
-    "React/Hook/useEffect Hook.md",
-    "React/Routing/react-router-dom.md",
-    "Nested Routes.md",
-    "JavaScript/DOM/DOM 新舊對比.md"
+    "React/Hook/useEffect Hook.md"
   ]
 }
