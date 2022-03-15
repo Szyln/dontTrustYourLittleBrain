@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他/聲學/錄音/jitsi.md",
-            "mode": "source"
+            "file": "後端/Node.js/Node.md",
+            "mode": "preview"
           }
         }
       }
@@ -48,13 +48,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 174,
-    "collapsed": true
+    "width": 150
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -71,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/聲學/錄音/jitsi.md",
+                "file": "後端/Node.js/Node.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/聲學/錄音/jitsi.md"
+                "file": "後端/Node.js/Node.md"
               }
             }
           }
@@ -119,8 +117,8 @@
   },
   "active": "6639f5270c830968",
   "lastOpenFiles": [
-    "其他/聲學/錄音/jitsi.md",
     "後端/Node.js/Node.md",
+    "其他/聲學/錄音/jitsi.md",
     "後端/Node.js/介紹/介紹 Node.js.md",
     "後端/Node.js/介紹/REPL.md",
     "後端/Node.js/介紹/Node 指令.md",
