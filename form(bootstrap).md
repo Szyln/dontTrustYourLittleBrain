@@ -6,7 +6,27 @@
 			- `aria-describedby="註解"`
 		- `input.form-control`
 			- 屬性：type, id（對應 `label` 的 `for` ）
-		- `div.form-text#註解`
+		- `div.form-text#註解` （不想用 block 元素的話可以用 `span`, `small`, `p` 都可 ）
+			- id 對應 label 的 `aria-describedby`
+
+## input
+- `class="form-control"`
+	- `form-control-尺寸` （sm, lg） 
+- type
+- id(對應 label for)
+- disabled
+- readonly：搭配 `.form-control-plaintext` 可使 input 取消樣式（外框），僅保留文字
+
+![[fieldset#^c9e148]]
+
+### 親和性
+可以使用的
+1. label
+2. aria-labelledby
+3. title
+4. aria-label
+5. placeholder
+
 
 
 #bs/form #form

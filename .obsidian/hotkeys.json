@@ -152,5 +152,14 @@
       ],
       "key": "Enter"
     }
+  ],
+  "editor:toggle-numbered-list": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "Enter"
+    }
   ]
 }

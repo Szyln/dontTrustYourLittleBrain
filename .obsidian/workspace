@@ -119,6 +119,7 @@
   "active": "6639f5270c830968",
   "lastOpenFiles": [
     "form(bootstrap).md",
+    "fieldset.md",
     "前端/Bootstrap/Bootstrap.md",
     "前端/html/form/Form.md",
     "後端/Node.js/Node.md",
@@ -126,7 +127,6 @@
     "後端/Node.js/介紹/介紹 Node.js.md",
     "後端/Node.js/介紹/REPL.md",
     "後端/Node.js/介紹/Node 指令.md",
-    "其他/硬體、生產力/terminal/常用指令.md",
-    "React/Hook/useEffect Hook.md"
+    "其他/硬體、生產力/terminal/常用指令.md"
   ]
 }
