@@ -119,6 +119,7 @@
   "active": "6639f5270c830968",
   "lastOpenFiles": [
     "form(bootstrap).md",
+    "前端/html/form/select & datalist 選單.md",
     "fieldset.md",
     "前端/Bootstrap/Bootstrap.md",
     "前端/html/form/Form.md",
@@ -126,7 +127,6 @@
     "其他/聲學/錄音/jitsi.md",
     "後端/Node.js/介紹/介紹 Node.js.md",
     "後端/Node.js/介紹/REPL.md",
-    "後端/Node.js/介紹/Node 指令.md",
-    "其他/硬體、生產力/terminal/常用指令.md"
+    "後端/Node.js/介紹/Node 指令.md"
   ]
 }

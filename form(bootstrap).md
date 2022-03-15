@@ -9,7 +9,7 @@
 		- `div.form-text#註解` （不想用 block 元素的話可以用 `span`, `small`, `p` 都可 ）
 			- id 對應 label 的 `aria-describedby`
 
-## input
+## input(bootstrap)
 - `class="form-control"`
 	- `form-control-尺寸` （sm, lg） 
 - type
@@ -20,13 +20,18 @@
 ![[fieldset#^c9e148]]
 
 ### 親和性
-可以使用的
+可以使用的（推薦 -> 還可以）
 1. label
 2. aria-labelledby
 3. title
 4. aria-label
 5. placeholder
 
+# select & datalist
+[[select & datalist 選單]]
+- `select.form-select`
+	- `form-select-尺寸` (sm, lg)
 
-
+# checks & radios
+- `input.form-check`
 #bs/form #form
