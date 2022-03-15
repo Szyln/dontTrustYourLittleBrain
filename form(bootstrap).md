@@ -33,5 +33,16 @@
 	- `form-select-尺寸` (sm, lg)
 
 # checks & radios
-- `input.form-check`
+- `form.form-check`
+	- `input.form-check-input` `type="checkbox"`
+	- `label.form-check-label`
+
+- `form.form-check`
+	- `input.form-check-input` `type="radio"`
+	- `label.form-check-label`
+
+# switch
+- `form.form-check.form-switch`
+	- `input.form-check-input` `type="checkbox" role="switch"`
+	- `label.form-check-label`
 #bs/form #form
