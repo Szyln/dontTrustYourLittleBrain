@@ -138,6 +138,7 @@ show password 需要寫 JS
 ### date 不建議使用
 格式、時區不一樣，通常會用套件
 例如 datepicker (jQuery)
-
+> [[vanillajs-datepicker]]
+>![[vanillajs-datepicker#^e804de]]
 
 #form #html 
