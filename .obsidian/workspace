@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端/html/form/input.md",
+            "file": "form(bootstrap).md",
             "mode": "source"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/html/form/input.md",
+                "file": "form(bootstrap).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/html/form/input.md"
+                "file": "form(bootstrap).md"
               }
             }
           }
@@ -119,8 +119,8 @@
   },
   "active": "6639f5270c830968",
   "lastOpenFiles": [
-    "前端/html/form/input.md",
     "form(bootstrap).md",
+    "前端/html/form/input.md",
     "前端/html/form/select & datalist 選單.md",
     "前端/html/form/Form.md",
     "vanillajs-datepicker.md",
