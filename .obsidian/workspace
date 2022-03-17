@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端/html/form/input.md",
+            "file": "form(bootstrap).md",
             "mode": "preview"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/html/form/input.md",
+                "file": "form(bootstrap).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/html/form/input.md"
+                "file": "form(bootstrap).md"
               }
             }
           }
@@ -119,12 +119,12 @@
   },
   "active": "6639f5270c830968",
   "lastOpenFiles": [
+    "form(bootstrap).md",
+    "前端/html/form/Form.md",
     "前端/html/form/input.md",
     "vanillajs-datepicker.md",
-    "前端/html/form/Form.md",
     "其他/作品與目標/作業/w5.form.md",
     "React/Fetch/Pexals API with React.md",
-    "form(bootstrap).md",
     "後端/API/API.md",
     "後端/API/AJAX/AJAX.md",
     "前端/html/form/select & datalist 選單.md",
