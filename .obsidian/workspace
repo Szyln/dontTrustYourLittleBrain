@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "想法/歌詞練習簿.md",
+            "file": "form(bootstrap).md",
             "mode": "source"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 150
+    "width": 150,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "想法/歌詞練習簿.md",
+                "file": "form(bootstrap).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "想法/歌詞練習簿.md"
+                "file": "form(bootstrap).md"
               }
             }
           }
@@ -117,9 +118,9 @@
   },
   "active": "6639f5270c830968",
   "lastOpenFiles": [
+    "form(bootstrap).md",
     "想法/歌詞練習簿.md",
     "想產出.md",
-    "form(bootstrap).md",
     "前端/html/form/input.md",
     "前端/html/form/select & datalist 選單.md",
     "前端/html/form/Form.md",
