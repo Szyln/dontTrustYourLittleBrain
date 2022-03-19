@@ -8,6 +8,7 @@
 		- [[Request handling（搭配數據庫CRUD）]]（進階）
 - [[Database 數據庫#架構]]
 - [[Mongoose CRUD]]
+- [[MongoDB Atlas]]
 
 ## [[使用與操作 Mongoose]]
 
@@ -15,7 +16,7 @@
 - [[Mongoose Method]]
 - [[Promise and Query (Mongoose)]]
 
-## 進階應用
+## 其他應用
 - [[用資料夾管理 Mongoose models 模組]]
 
 

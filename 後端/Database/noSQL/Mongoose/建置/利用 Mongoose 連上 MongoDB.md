@@ -15,6 +15,8 @@ mongoose.connect('mongodb://localhost:27017/exampleDB')
 	})
 ```
 
+^86a132
+
 >`mongoose.connect()`連結到名為 `exampleDB` 的 database
 
 >原本 mongoose 5 在 mongoose.connect 有第二個參數，[已經建議刪除](https://mongoosejs.com/docs/migrating_to_6.html#version-requirements)

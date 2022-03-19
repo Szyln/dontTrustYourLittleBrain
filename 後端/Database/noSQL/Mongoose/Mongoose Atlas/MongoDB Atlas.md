@@ -21,16 +21,11 @@ DB_CONNECT=mongodb+srv://sz:<換成密碼>@cluster0.hk85a.mongodb.net/<數據庫
 
 ### [[利用 Mongoose 連上 MongoDB]]
 ```js
-// URI 應該放到 .env 裡面
+// 以下 DB 記得改成用 env 存取 atlas 版本
 mongoose.connect(process.env.DB_CONNECT)
-	.then(() => {
-		console.log('Connected to MongoDB Atlas.');
-	})
-
-	.catch((err) => {
-		console.log('Failed.');
-		console.log(err);
-	})
 ```
+
+![[利用 Mongoose 連上 MongoDB#^86a132]]
+
 
 #js #json #expressJs #mongoose #mogodb 
