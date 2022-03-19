@@ -10,7 +10,7 @@ npm install dotenv
 
 ## 設定
 ```js
-// 最頂端
+// app.js 最頂端
 require('dotenv').config()
 ```
 

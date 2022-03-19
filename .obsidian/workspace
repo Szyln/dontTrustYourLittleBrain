@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6639f5270c830968",
+        "id": "b7da7aa771af0a29",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "form(bootstrap).md",
+            "file": "後端/Database/noSQL/Mongoose/Mongoose Atlas/MongoDB Atlas.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "form(bootstrap).md",
+                "file": "後端/Database/noSQL/Mongoose/Mongoose Atlas/MongoDB Atlas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "form(bootstrap).md"
+                "file": "後端/Database/noSQL/Mongoose/Mongoose Atlas/MongoDB Atlas.md"
               }
             }
           }
@@ -116,8 +116,10 @@
     "width": 240.4686279296875,
     "collapsed": true
   },
-  "active": "6639f5270c830968",
+  "active": "b7da7aa771af0a29",
   "lastOpenFiles": [
+    "後端/Database/noSQL/Mongoose/Mongoose Atlas/MongoDB Atlas.md",
+    "後端/Cookie and Session/安全性/dotenv（使用 env 變數）.md",
     "form(bootstrap).md",
     "想法/歌詞練習簿.md",
     "想產出.md",
@@ -125,8 +127,6 @@
     "前端/html/form/select & datalist 選單.md",
     "前端/html/form/Form.md",
     "vanillajs-datepicker.md",
-    "其他/作品與目標/作業/w5.form.md",
-    "React/Fetch/Pexals API with React.md",
-    "後端/API/API.md"
+    "其他/作品與目標/作業/w5.form.md"
   ]
 }
