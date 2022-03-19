@@ -15,7 +15,7 @@ Current 跟 Anywhere IP 都新增
 這段的 URI 貼到 `.env` 裡面後把他貼到 mongoose.connect 裡面
 ```
 // .env 檔
-DB_CONNECT=mongodb+srv://sz:<換成密碼>@cluster0.hk85a.mongodb.net/<數據庫命名>?retryWrites=true&w=majority
+DB_CONNECT=mongodb+srv://sz:<換成密碼>@cluster0.hk85a.mongodb.net/<數據庫命名>? retryWrites=true&w=majority
 ```
 >[[dotenv（使用 env 變數）]]
 
@@ -23,7 +23,7 @@ DB_CONNECT=mongodb+srv://sz:<換成密碼>@cluster0.hk85a.mongodb.net/<數據庫
 ```js
 // URI 應該放到 .env 裡面
 mongoose.connect(process.env.DB_CONNECT)
-	. then(() => {
+	.then(() => {
 		console.log('Connected to MongoDB Atlas.');
 	})
 

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "後端/Database/noSQL/Mongoose/Mongoose Atlas/MongoDB Atlas.md",
-            "mode": "source"
+            "file": "後端/Database/noSQL/Mongoose/Mongoose.md",
+            "mode": "preview"
           }
         }
       }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "後端/Database/noSQL/Mongoose/Mongoose Atlas/MongoDB Atlas.md",
+                "file": "後端/Database/noSQL/Mongoose/Mongoose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "後端/Database/noSQL/Mongoose/Mongoose Atlas/MongoDB Atlas.md"
+                "file": "後端/Database/noSQL/Mongoose/Mongoose.md"
               }
             }
           }
@@ -118,6 +118,8 @@
   },
   "active": "b7da7aa771af0a29",
   "lastOpenFiles": [
+    "後端/Database/noSQL/Mongoose/Mongoose.md",
+    "後端/Database/noSQL/Mongoose/建置/利用 Mongoose 連上 MongoDB.md",
     "後端/Database/noSQL/Mongoose/Mongoose Atlas/MongoDB Atlas.md",
     "後端/Cookie and Session/安全性/dotenv（使用 env 變數）.md",
     "form(bootstrap).md",
@@ -125,8 +127,6 @@
     "想產出.md",
     "前端/html/form/input.md",
     "前端/html/form/select & datalist 選單.md",
-    "前端/html/form/Form.md",
-    "vanillajs-datepicker.md",
-    "其他/作品與目標/作業/w5.form.md"
+    "前端/html/form/Form.md"
   ]
 }
