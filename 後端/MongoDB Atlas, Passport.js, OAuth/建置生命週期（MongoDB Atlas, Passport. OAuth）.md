@@ -6,6 +6,10 @@
 ## 匯入
 >- [[匯入模組]]
 >- [[dotenv（使用 env 變數）]]
+>- [[Express 匯入]]
+>- [[Mongoose 建置]]
+
+
 ```js
 // index.js
 // import express, app, mongoose, dotenv
