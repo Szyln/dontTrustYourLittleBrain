@@ -1,6 +1,7 @@
 # 建置生命週期（MongoDB Atlas, Passport. OAuth）
 >- [ ] 為什麼是叫 index.js 而不是 app.js？
 >- [ ] `app.use(express.json());` 是做什麼的？
+>[What Does `app.use(express.json())` Do in Express?](https://masteringjs.io/tutorials/express/express-json)
 
 ## 匯入
 >- [[匯入模組]]
@@ -34,7 +35,9 @@ mongoose.connect(process.env.DB_CONNECT).then(() => {
 >- [[auth-route]]：設定 local 或是 OAuth 登入
 >- [[profile-route]]：登入後畫面的設定
 ```js
+// ejs
 app.set('view engine, 'ejs);
+// body-parser
 app.use(express.json());
 app.use(express.urlencoded({extend: true}));
 ```

@@ -9,6 +9,7 @@
 const bodyParser = require("body-parser");
 
 // middleware 收到請求一定會被執行
+app.use(express.json());
 app.use(bodyParser.urlencoded(
 	{ extended: true }
 ));
