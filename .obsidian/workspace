@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "後端/Node.js/模組/內建模組/body-parser.md",
+            "file": "後端/Database/noSQL/Mongoose/Mongoose Atlas/MongoDB Atlas.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "express.json",
+                "query": "app.list",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "後端/Node.js/模組/內建模組/body-parser.md",
+                "file": "後端/Database/noSQL/Mongoose/Mongoose Atlas/MongoDB Atlas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "後端/Node.js/模組/內建模組/body-parser.md"
+                "file": "後端/Database/noSQL/Mongoose/Mongoose Atlas/MongoDB Atlas.md"
               }
             }
           }
@@ -119,15 +119,15 @@
   },
   "active": "b7da7aa771af0a29",
   "lastOpenFiles": [
-    "後端/Node.js/模組/內建模組/body-parser.md",
-    "後端/MongoDB Atlas, Passport.js, OAuth/建置生命週期（MongoDB Atlas, Passport. OAuth）.md",
-    "後端/Express.js/Express.js.md",
-    "MERN.md",
-    "後端/Node.js/Node.md",
     "後端/Database/noSQL/Mongoose/Mongoose Atlas/MongoDB Atlas.md",
-    "後端/Node.js/模組/npm/指令/npm 建置與指令.md",
-    "npm uninstall：裝錯模組取消安裝.md",
-    "後端/Node.js/模組/npm/指令/npm install 尋找想要的 npm 模組.md",
-    "後端/Database/noSQL/Mongoose/Mongoose.md"
+    "MERN.md",
+    "後端/Database/noSQL/Mongoose/建置/利用 Mongoose 連上 MongoDB.md",
+    "後端/Database/noSQL/Mongoose/Mongoose.md",
+    "後端/Node.js/模組/npm/推薦模組/nodemon.md",
+    "後端/MongoDB Atlas, Passport.js, OAuth/建置生命週期（MongoDB Atlas, Passport. OAuth）.md",
+    "後端/Express.js/建置/Express Life Cycle 生命週期.md",
+    "Express Life Cycle 生命週期^.md",
+    "後端/Node.js/模組/內建模組/body-parser.md",
+    "後端/Express.js/Express.js.md"
   ]
 }

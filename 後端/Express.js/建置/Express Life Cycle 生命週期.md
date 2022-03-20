@@ -15,16 +15,24 @@
 // app.js
 const express = require('express')
 const app = express()
-
+```
+```js
 // middleware
 app.use(express.static('public'));
-
+```
+```js
 // request handling(routing)
 app.get('/', function (req, res) {	// 參數：網址，建立 server
 	res.send('Hello World')			// 顯示文字
 })
-
-// port listening
-app.listen(3000)					// 監聽 port
 ```
+```js
+// port listening
+app.listen(3000, () => {
+	console.log('Server running on port 3000.')
+})					// 監聽 port
+```
+
+^cafd08
+
 #js #advanceJs #library #framework #nodeJs #backEnd #module #expressJs #npm #server 

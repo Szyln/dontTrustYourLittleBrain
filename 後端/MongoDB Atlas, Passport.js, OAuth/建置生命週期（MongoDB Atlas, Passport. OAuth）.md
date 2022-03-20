@@ -14,6 +14,7 @@
 // 匯入 auth-route
 // 匯入 profileRoute
 ```
+
 ## 數據庫連接
 >- [[利用 Mongoose 連上 MongoDB]]
 >	- [[MongoDB Atlas]]
@@ -52,3 +53,6 @@ app.get('/', (req, res) => {
 })
 ```
 
+
+## Listen
+![[Express Life Cycle 生命週期#^cafd08]]
