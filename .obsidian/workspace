@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MERN.md",
+            "file": "後端/Node.js/模組/npm/指令/npm 建置與指令.md",
             "mode": "source"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MERN.md",
+                "file": "後端/Node.js/模組/npm/指令/npm 建置與指令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MERN.md"
+                "file": "後端/Node.js/模組/npm/指令/npm 建置與指令.md"
               }
             }
           }
@@ -119,6 +119,8 @@
   },
   "active": "b7da7aa771af0a29",
   "lastOpenFiles": [
+    "後端/Node.js/模組/npm/指令/npm 建置與指令.md",
+    "後端/Node.js/Node.md",
     "MERN.md",
     "後端/Database/noSQL/Mongoose/Mongoose Atlas/MongoDB Atlas.md",
     "後端/Database/noSQL/Mongoose/Mongoose.md",
@@ -126,8 +128,6 @@
     "後端/Cookie and Session/安全性/dotenv（使用 env 變數）.md",
     "form(bootstrap).md",
     "想法/歌詞練習簿.md",
-    "想產出.md",
-    "前端/html/form/input.md",
-    "前端/html/form/select & datalist 選單.md"
+    "想產出.md"
   ]
 }
