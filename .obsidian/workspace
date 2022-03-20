@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "後端/Express.js/Routing/Routing for pattern 回應有規律的網址.md",
+            "file": "後端/Database/noSQL/Mongoose/Schema Type/Enum(指定 string, number).md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "app.list",
+                "query": "enum",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 150,
-    "collapsed": true
+    "width": 150
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "後端/Express.js/Routing/Routing for pattern 回應有規律的網址.md",
+                "file": "後端/Database/noSQL/Mongoose/Schema Type/Enum(指定 string, number).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "後端/Express.js/Routing/Routing for pattern 回應有規律的網址.md"
+                "file": "後端/Database/noSQL/Mongoose/Schema Type/Enum(指定 string, number).md"
               }
             }
           }
@@ -119,6 +118,7 @@
   },
   "active": "40dd5d2994453c6d",
   "lastOpenFiles": [
+    "後端/Database/noSQL/Mongoose/Schema Type/Enum(指定 string, number).md",
     "後端/Express.js/Routing/Routing for pattern 回應有規律的網址.md",
     "後端/Express.js/建置/Routing.md",
     "沒辦法全域安裝 npm 模組：code EACCES.md",
@@ -127,7 +127,6 @@
     "後端/Express.js/建置/Express 匯入.md",
     "後端/Database/noSQL/Mongoose/Mongoose Atlas/MongoDB Atlas.md",
     "後端/Node.js/模組/npm/推薦模組/nodemon.md",
-    "nvm.md",
-    "前端/Bootstrap/navbar/nav-item.md"
+    "nvm.md"
   ]
 }
