@@ -1,4 +1,11 @@
 ## 尋找想要的 npm 模組
+```shell
+// install 可以用 i 簡寫
+npm install <模組名稱，有多個用空白鍵隔開> 
+```
+
+---
+
 ![](https://i.imgur.com/i1Utpw3.png)
 [[npm 推薦模組]]
 
