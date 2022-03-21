@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React/Hook/useRef Hook.md",
+            "file": "後端/Cookie and Session/Cookies and Sessions.md",
             "mode": "preview"
           }
         }
@@ -48,13 +48,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 150,
-    "collapsed": true
+    "width": 150
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -71,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Hook/useRef Hook.md",
+                "file": "後端/Cookie and Session/Cookies and Sessions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Hook/useRef Hook.md"
+                "file": "後端/Cookie and Session/Cookies and Sessions.md"
               }
             }
           }
@@ -119,15 +117,15 @@
   },
   "active": "40dd5d2994453c6d",
   "lastOpenFiles": [
+    "後端/Cookie and Session/Cookies and Sessions.md",
+    "後端/Cookie and Session/Cookie/Signing a Cookie.md",
+    "後端/Cookie and Session/Cookie/Cookie.md",
     "React/Hook/useRef Hook.md",
     "JavaScript/DOM/Dynamic Header.md",
     "後端/Database/noSQL/Mongoose/Schema Type/Enum(指定 string, number).md",
     "後端/Express.js/Routing/Routing for pattern 回應有規律的網址.md",
     "後端/Express.js/建置/Routing.md",
     "沒辦法全域安裝 npm 模組：code EACCES.md",
-    "後端/MongoDB Atlas, Passport.js, OAuth/建置生命週期（MongoDB Atlas, Passport. OAuth）.md",
-    "後端/Database/noSQL/Mongoose/建置/Mongoose 建置.md",
-    "後端/Express.js/建置/Express 匯入.md",
-    "後端/Database/noSQL/Mongoose/Mongoose Atlas/MongoDB Atlas.md"
+    "後端/MongoDB Atlas, Passport.js, OAuth/建置生命週期（MongoDB Atlas, Passport. OAuth）.md"
   ]
 }
