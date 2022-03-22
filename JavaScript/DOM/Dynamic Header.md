@@ -23,4 +23,9 @@ window.addEventListener("scroll", () => {
 })
 ```
 
+---
+## React 寫法
+- https://kyleamathews.github.io/react-headroom/
+- https://www.cluemediator.com/animated-sticky-header-on-scroll-in-react
+
 #js #dom
