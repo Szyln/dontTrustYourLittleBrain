@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端/html/base/button.md",
-            "mode": "source"
+            "file": "前端/Bootstrap/Cards.md",
+            "mode": "preview"
           }
         }
       }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/html/base/button.md",
+                "file": "前端/Bootstrap/Cards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/html/base/button.md"
+                "file": "前端/Bootstrap/Cards.md"
               }
             }
           }
@@ -118,6 +118,7 @@
   },
   "active": "40dd5d2994453c6d",
   "lastOpenFiles": [
+    "前端/Bootstrap/Cards.md",
     "前端/html/base/button.md",
     "JavaScript/DOM/Dynamic Header.md",
     "後端/Cookie and Session/Cookies and Sessions.md",
@@ -126,7 +127,6 @@
     "React/Hook/useRef Hook.md",
     "後端/Database/noSQL/Mongoose/Schema Type/Enum(指定 string, number).md",
     "後端/Express.js/Routing/Routing for pattern 回應有規律的網址.md",
-    "後端/Express.js/建置/Routing.md",
-    "沒辦法全域安裝 npm 模組：code EACCES.md"
+    "後端/Express.js/建置/Routing.md"
   ]
 }
