@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/資料類型/Object, Array/Array/filter().md",
+            "file": "前端/CSS/object-fit.md",
             "mode": "preview"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 305.5,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/資料類型/Object, Array/Array/filter().md",
+                "file": "前端/CSS/object-fit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/資料類型/Object, Array/Array/filter().md"
+                "file": "前端/CSS/object-fit.md"
               }
             }
           }
@@ -117,6 +118,7 @@
   },
   "active": "40dd5d2994453c6d",
   "lastOpenFiles": [
+    "前端/CSS/object-fit.md",
     "JavaScript/資料類型/Object, Array/Array/filter().md",
     "JavaScript/資料類型/Object, Array/Array/Array.md",
     "前端/CSS/flexbox.md",
@@ -125,7 +127,6 @@
     "JavaScript/DOM/Dynamic Header.md",
     "後端/Cookie and Session/Cookies and Sessions.md",
     "後端/Cookie and Session/Cookie/Signing a Cookie.md",
-    "後端/Cookie and Session/Cookie/Cookie.md",
-    "React/Hook/useRef Hook.md"
+    "後端/Cookie and Session/Cookie/Cookie.md"
   ]
 }
