@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端/Bootstrap/Cards.md",
+            "file": "前端/CSS/flexbox.md",
             "mode": "preview"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/Bootstrap/Cards.md",
+                "file": "前端/CSS/flexbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/Bootstrap/Cards.md"
+                "file": "前端/CSS/flexbox.md"
               }
             }
           }
@@ -118,6 +118,7 @@
   },
   "active": "40dd5d2994453c6d",
   "lastOpenFiles": [
+    "前端/CSS/flexbox.md",
     "前端/Bootstrap/Cards.md",
     "前端/html/base/button.md",
     "JavaScript/DOM/Dynamic Header.md",
@@ -126,7 +127,6 @@
     "後端/Cookie and Session/Cookie/Cookie.md",
     "React/Hook/useRef Hook.md",
     "後端/Database/noSQL/Mongoose/Schema Type/Enum(指定 string, number).md",
-    "後端/Express.js/Routing/Routing for pattern 回應有規律的網址.md",
-    "後端/Express.js/建置/Routing.md"
+    "後端/Express.js/Routing/Routing for pattern 回應有規律的網址.md"
   ]
 }
