@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他/聲學/錄音/jitsi.md",
-            "mode": "source"
+            "file": "計算機/網路/註解/OSI 開放式通訊系統互連參考模型的七層架構.md",
+            "mode": "preview"
           }
         }
       }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/聲學/錄音/jitsi.md",
+                "file": "計算機/網路/註解/OSI 開放式通訊系統互連參考模型的七層架構.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/聲學/錄音/jitsi.md"
+                "file": "計算機/網路/註解/OSI 開放式通訊系統互連參考模型的七層架構.md"
               }
             }
           }
@@ -118,15 +118,15 @@
   },
   "active": "40dd5d2994453c6d",
   "lastOpenFiles": [
+    "計算機/網路/註解/OSI 開放式通訊系統互連參考模型的七層架構.md",
+    "計算機/網路/註解/TCP IP.md",
+    "計算機/網路/網路請求.md",
+    "計算機/網路/HTTP.md",
+    "計算機/網路/網路(Internet)基本原理.md",
     "其他/聲學/錄音/jitsi.md",
     "JavaScript/資料類型/Object, Array/Array/陣列的循環 for, forEach, map.md",
     "前端/CSS/flexbox.md",
     "前端/CSS/object-fit.md",
-    "JavaScript/資料類型/Object, Array/Array/filter().md",
-    "JavaScript/資料類型/Object, Array/Array/Array.md",
-    "前端/Bootstrap/Cards.md",
-    "前端/html/base/button.md",
-    "JavaScript/DOM/Dynamic Header.md",
-    "後端/Cookie and Session/Cookies and Sessions.md"
+    "JavaScript/資料類型/Object, Array/Array/filter().md"
   ]
 }
