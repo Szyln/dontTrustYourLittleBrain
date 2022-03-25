@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端/CSS/object-fit.md",
+            "file": "前端/CSS/flexbox.md",
             "mode": "preview"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/CSS/object-fit.md",
+                "file": "前端/CSS/flexbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/CSS/object-fit.md"
+                "file": "前端/CSS/flexbox.md"
               }
             }
           }
@@ -118,10 +118,10 @@
   },
   "active": "40dd5d2994453c6d",
   "lastOpenFiles": [
+    "前端/CSS/flexbox.md",
     "前端/CSS/object-fit.md",
     "JavaScript/資料類型/Object, Array/Array/filter().md",
     "JavaScript/資料類型/Object, Array/Array/Array.md",
-    "前端/CSS/flexbox.md",
     "前端/Bootstrap/Cards.md",
     "前端/html/base/button.md",
     "JavaScript/DOM/Dynamic Header.md",
