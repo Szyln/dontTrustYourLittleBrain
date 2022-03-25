@@ -2,8 +2,8 @@
 Return all 符合條件 element
 ```js
 let array = [1, 2, 4, 6];  
-let newArray = array.filter(function(item){  
-return item !== 6
+let newArray = array.filter(function(item) {  
+	return item !== 6
 });  
 console.log(newArray);  
   
