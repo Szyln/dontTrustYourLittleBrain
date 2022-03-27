@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "40dd5d2994453c6d",
+        "id": "7619139db3ab5624",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "JavaScript/物件導向 OOP/繼承/Class.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -52,7 +49,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 148.5
+    "width": 148.5,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -69,7 +67,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/物件導向 OOP/繼承/Class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,9 +100,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JavaScript/物件導向 OOP/繼承/Class.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -115,17 +110,17 @@
     "width": 240.4686279296875,
     "collapsed": true
   },
-  "active": "40dd5d2994453c6d",
+  "active": "7619139db3ab5624",
   "lastOpenFiles": [
+    "前端/CSS/flexbox.md",
+    "後端/Authentication and Cryptography/Authentication/註冊頁面.md",
+    "後端/Authentication and Cryptography/Authentication and Cryptography.md",
     "JavaScript/物件導向 OOP/繼承/Class.md",
     "React/JSX/Babel.md",
     "JavaScript/資料類型/Object, Array/Array/條件判定陣列的元素.md",
     "JavaScript/資料類型/Object, Array/Array/filter().md",
     "MERN.md",
     "後端/Cookie and Session/Cookies and Sessions.md",
-    "後端/Cookie and Session/安全性/Cookies and Sessions 的安全性措施.md",
-    "JavaScript/資料類型/Object, Array/Window Object/Storage.md",
-    "JavaScript/資料類型/Object, Array/Window Object/Local Storage.md",
-    "React/Hook/useEffect Hook.md"
+    "後端/Cookie and Session/安全性/Cookies and Sessions 的安全性措施.md"
   ]
 }
