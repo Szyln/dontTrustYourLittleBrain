@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "7619139db3ab5624",
+        "id": "f1719558419b4a0d",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "破版樣式.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -67,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "破版樣式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "破版樣式.md"
+              }
             }
           }
         ]
@@ -110,8 +116,10 @@
     "width": 240.4686279296875,
     "collapsed": true
   },
-  "active": "7619139db3ab5624",
+  "active": "f1719558419b4a0d",
   "lastOpenFiles": [
+    "破版樣式.md",
+    "React/Swiper/Swiper(React 環境).md",
     "前端/CSS/flexbox.md",
     "後端/Authentication and Cryptography/Authentication/註冊頁面.md",
     "後端/Authentication and Cryptography/Authentication and Cryptography.md",
@@ -119,8 +127,6 @@
     "React/JSX/Babel.md",
     "JavaScript/資料類型/Object, Array/Array/條件判定陣列的元素.md",
     "JavaScript/資料類型/Object, Array/Array/filter().md",
-    "MERN.md",
-    "後端/Cookie and Session/Cookies and Sessions.md",
-    "後端/Cookie and Session/安全性/Cookies and Sessions 的安全性措施.md"
+    "MERN.md"
   ]
 }
