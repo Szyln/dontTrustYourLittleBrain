@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "破版樣式.md",
-            "mode": "source"
+            "file": "前端/CSS/background.md",
+            "mode": "preview"
           }
         }
       }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "破版樣式.md",
+                "file": "前端/CSS/background.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "破版樣式.md"
+                "file": "前端/CSS/background.md"
               }
             }
           }
@@ -118,6 +118,7 @@
   },
   "active": "f1719558419b4a0d",
   "lastOpenFiles": [
+    "前端/CSS/background.md",
     "破版樣式.md",
     "React/Swiper/Swiper(React 環境).md",
     "前端/CSS/flexbox.md",
@@ -126,7 +127,6 @@
     "JavaScript/物件導向 OOP/繼承/Class.md",
     "React/JSX/Babel.md",
     "JavaScript/資料類型/Object, Array/Array/條件判定陣列的元素.md",
-    "JavaScript/資料類型/Object, Array/Array/filter().md",
-    "MERN.md"
+    "JavaScript/資料類型/Object, Array/Array/filter().md"
   ]
 }
