@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "react-router-dom 導向新頁面時不會回到頁面頂端.md",
-            "mode": "preview"
+            "file": "carl.gg 建立身分組防止discord洗版.md",
+            "mode": "source"
           }
         }
       }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "react-router-dom 導向新頁面時不會回到頁面頂端.md",
+                "file": "carl.gg 建立身分組防止discord洗版.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "react-router-dom 導向新頁面時不會回到頁面頂端.md"
+                "file": "carl.gg 建立身分組防止discord洗版.md"
               }
             }
           }
@@ -118,6 +118,7 @@
   },
   "active": "f1719558419b4a0d",
   "lastOpenFiles": [
+    "carl.gg 建立身分組防止discord洗版.md",
     "react-router-dom 導向新頁面時不會回到頁面頂端.md",
     "React/Styling/用元件處理 CSS Styling.md",
     "前端/CSS/flexbox.md",
@@ -126,7 +127,6 @@
     "React/Swiper/Swiper(React 環境).md",
     "後端/Authentication and Cryptography/Authentication/註冊頁面.md",
     "後端/Authentication and Cryptography/Authentication and Cryptography.md",
-    "JavaScript/物件導向 OOP/繼承/Class.md",
-    "React/JSX/Babel.md"
+    "JavaScript/物件導向 OOP/繼承/Class.md"
   ]
 }
