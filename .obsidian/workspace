@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "carl.gg 建立身分組防止discord洗版.md",
-            "mode": "source"
+            "file": "React/Hook/useState Hook.md",
+            "mode": "preview"
           }
         }
       }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "carl.gg 建立身分組防止discord洗版.md",
+                "file": "React/Hook/useState Hook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "carl.gg 建立身分組防止discord洗版.md"
+                "file": "React/Hook/useState Hook.md"
               }
             }
           }
@@ -118,6 +118,7 @@
   },
   "active": "f1719558419b4a0d",
   "lastOpenFiles": [
+    "React/Hook/useState Hook.md",
     "carl.gg 建立身分組防止discord洗版.md",
     "react-router-dom 導向新頁面時不會回到頁面頂端.md",
     "React/Styling/用元件處理 CSS Styling.md",
@@ -126,7 +127,6 @@
     "破版樣式.md",
     "React/Swiper/Swiper(React 環境).md",
     "後端/Authentication and Cryptography/Authentication/註冊頁面.md",
-    "後端/Authentication and Cryptography/Authentication and Cryptography.md",
-    "JavaScript/物件導向 OOP/繼承/Class.md"
+    "後端/Authentication and Cryptography/Authentication and Cryptography.md"
   ]
 }
