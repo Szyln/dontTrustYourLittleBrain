@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "f1719558419b4a0d",
+        "id": "82b46759fe349ee7",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -12,7 +12,20 @@
             "file": "carl.gg 建立身分組防止discord洗版.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "24fae920aee0f251"
+      },
+      {
+        "id": "c88b12b4db2db2e5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "carl.gg 建立身分組防止discord洗版.md",
+            "mode": "source"
+          }
+        },
+        "group": "24fae920aee0f251"
       }
     ],
     "direction": "vertical"
@@ -116,7 +129,7 @@
     "width": 240.4686279296875,
     "collapsed": true
   },
-  "active": "f1719558419b4a0d",
+  "active": "c88b12b4db2db2e5",
   "lastOpenFiles": [
     "carl.gg 建立身分組防止discord洗版.md",
     "React/Hook/useState Hook.md",
