@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端/CSS/flexbox.md",
+            "file": "前端/Material icon Outlined 用法.md",
             "mode": "preview"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/CSS/flexbox.md",
+                "file": "前端/Material icon Outlined 用法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/CSS/flexbox.md"
+                "file": "前端/Material icon Outlined 用法.md"
               }
             }
           }
@@ -118,15 +118,15 @@
   },
   "active": "82b46759fe349ee7",
   "lastOpenFiles": [
+    "前端/Material icon Outlined 用法.md",
+    "前端/Google font, Material icon 安裝.md",
+    "前端/CSS/scss/SCSS.md",
     "前端/CSS/flexbox.md",
     "React/Form/Form in React.md",
     "carl.gg 建立身分組防止discord洗版.md",
     "React/Hook/useState Hook.md",
     "react-router-dom 導向新頁面時不會回到頁面頂端.md",
     "React/Styling/用元件處理 CSS Styling.md",
-    "前端/CSS/background.md",
-    "破版樣式.md",
-    "React/Swiper/Swiper(React 環境).md",
-    "後端/Authentication and Cryptography/Authentication/註冊頁面.md"
+    "前端/CSS/background.md"
   ]
 }
