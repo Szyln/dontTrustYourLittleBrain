@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端/CSS/scss/SCSS.md",
+            "file": "其他/生活/人.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/CSS/scss/SCSS.md",
+                "file": "其他/生活/人.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/CSS/scss/SCSS.md"
+                "file": "其他/生活/人.md"
               }
             }
           }
@@ -117,6 +117,7 @@
   },
   "active": "82b46759fe349ee7",
   "lastOpenFiles": [
+    "其他/生活/人.md",
     "前端/CSS/scss/SCSS.md",
     "a anchor tag 超連結.md",
     "carl.gg 建立身分組防止 discord 洗版.md",
@@ -125,7 +126,6 @@
     "前端/CSS/flexbox.md",
     "React/Form/Form in React.md",
     "React/Hook/useState Hook.md",
-    "react-router-dom 導向新頁面時不會回到頁面頂端.md",
-    "React/Styling/用元件處理 CSS Styling.md"
+    "react-router-dom 導向新頁面時不會回到頁面頂端.md"
   ]
 }
