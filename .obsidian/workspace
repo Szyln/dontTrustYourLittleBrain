@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他/生活/職缺.md",
-            "mode": "preview"
+            "file": "rollup-plugin-copy.md",
+            "mode": "source"
           }
         }
       }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/生活/職缺.md",
+                "file": "rollup-plugin-copy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/生活/職缺.md"
+                "file": "rollup-plugin-copy.md"
               }
             }
           }
@@ -118,6 +118,7 @@
   },
   "active": "82b46759fe349ee7",
   "lastOpenFiles": [
+    "rollup-plugin-copy.md",
     "其他/生活/職缺.md",
     "其他/生活/履歷.md",
     "vite gh發布.md",
@@ -126,7 +127,6 @@
     "a anchor tag 超連結.md",
     "carl.gg 建立身分組防止 discord 洗版.md",
     "前端/Material icon Outlined 用法.md",
-    "前端/Google font, Material icon 安裝.md",
-    "前端/CSS/flexbox.md"
+    "前端/Google font, Material icon 安裝.md"
   ]
 }
