@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "rollup-plugin-copy.md",
-            "mode": "source"
+            "file": "其他/生活/職缺.md",
+            "mode": "preview"
           }
         }
       }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rollup-plugin-copy.md",
+                "file": "其他/生活/職缺.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rollup-plugin-copy.md"
+                "file": "其他/生活/職缺.md"
               }
             }
           }
@@ -118,8 +118,8 @@
   },
   "active": "82b46759fe349ee7",
   "lastOpenFiles": [
-    "rollup-plugin-copy.md",
     "其他/生活/職缺.md",
+    "rollup-plugin-copy.md",
     "其他/生活/履歷.md",
     "vite gh發布.md",
     "其他/生活/人.md",
