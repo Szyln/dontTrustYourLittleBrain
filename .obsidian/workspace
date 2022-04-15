@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他/生活/鍋.md",
+            "file": "webpack.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "鍋",
+                "query": "gitignore",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/生活/鍋.md",
+                "file": "webpack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/生活/鍋.md"
+                "file": "webpack.md"
               }
             }
           }
@@ -117,15 +118,15 @@
   },
   "active": "82b46759fe349ee7",
   "lastOpenFiles": [
+    "webpack.md",
+    "Git/基礎/Repository/gitignore.md",
+    "後端/Cookie and Session/安全性/node 的 gitignore 設定.md",
     "其他/生活/鍋.md",
     "其他/生活/職缺.md",
     "rollup-plugin-copy.md",
     "其他/生活/履歷.md",
     "vite gh發布.md",
     "其他/生活/人.md",
-    "前端/CSS/scss/SCSS.md",
-    "a anchor tag 超連結.md",
-    "carl.gg 建立身分組防止 discord 洗版.md",
-    "前端/Material icon Outlined 用法.md"
+    "前端/CSS/scss/SCSS.md"
   ]
 }
