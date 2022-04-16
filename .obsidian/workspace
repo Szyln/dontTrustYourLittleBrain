@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端/CSS/scss/dart-sass(sass) 建置.md",
-            "mode": "preview"
+            "file": "webpack Get Started.md",
+            "mode": "source"
           }
         }
       }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 167
+    "width": 167,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/CSS/scss/dart-sass(sass) 建置.md",
+                "file": "webpack Get Started.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/CSS/scss/dart-sass(sass) 建置.md"
+                "file": "webpack Get Started.md"
               }
             }
           }
@@ -118,8 +119,8 @@
   },
   "active": "82b46759fe349ee7",
   "lastOpenFiles": [
-    "前端/CSS/scss/dart-sass(sass) 建置.md",
     "webpack Get Started.md",
+    "前端/CSS/scss/dart-sass(sass) 建置.md",
     "webpack.md",
     "Git/基礎/Repository/gitignore.md",
     "後端/Cookie and Session/安全性/node 的 gitignore 設定.md",
