@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "webpack Get Started.md",
+            "file": "其他/生活/履歷.md",
             "mode": "source"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "webpack Get Started.md",
+                "file": "其他/生活/履歷.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "webpack Get Started.md"
+                "file": "其他/生活/履歷.md"
               }
             }
           }
@@ -119,6 +119,7 @@
   },
   "active": "82b46759fe349ee7",
   "lastOpenFiles": [
+    "其他/生活/履歷.md",
     "webpack Get Started.md",
     "前端/CSS/scss/dart-sass(sass) 建置.md",
     "webpack.md",
@@ -127,7 +128,6 @@
     "其他/生活/鍋.md",
     "其他/生活/職缺.md",
     "rollup-plugin-copy.md",
-    "其他/生活/履歷.md",
     "vite gh發布.md"
   ]
 }
