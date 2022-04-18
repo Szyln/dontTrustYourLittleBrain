@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "5710075bfd452b20",
+        "id": "b93f9d2f3d2e3a5f",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -117,9 +117,10 @@
     "width": 240.4686279296875,
     "collapsed": true
   },
-  "active": "5710075bfd452b20",
+  "active": "b93f9d2f3d2e3a5f",
   "lastOpenFiles": [
     "其他/生活/履歷.md",
+    "其他/生活/職缺.md",
     "未命名.md",
     "webpack Get Started.md",
     "前端/CSS/scss/dart-sass(sass) 建置.md",
@@ -127,7 +128,6 @@
     "Git/基礎/Repository/gitignore.md",
     "後端/Cookie and Session/安全性/node 的 gitignore 設定.md",
     "其他/生活/鍋.md",
-    "其他/生活/職缺.md",
     "rollup-plugin-copy.md"
   ]
 }
