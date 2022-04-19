@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他/生活/履歷.md",
+            "file": "rollup-plugin-copy.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gitignore",
+                "query": "rollup-plugin-copy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 167,
-    "collapsed": true
+    "width": 414
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/生活/履歷.md",
+                "file": "rollup-plugin-copy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/生活/履歷.md"
+                "file": "rollup-plugin-copy.md"
               }
             }
           }
@@ -119,6 +118,8 @@
   },
   "active": "d200819755de29cd",
   "lastOpenFiles": [
+    "rollup-plugin-copy.md",
+    "vite gh發布.md",
     "其他/生活/履歷.md",
     "其他/生活/職缺.md",
     "未命名.md",
@@ -126,8 +127,6 @@
     "前端/CSS/scss/dart-sass(sass) 建置.md",
     "webpack.md",
     "Git/基礎/Repository/gitignore.md",
-    "後端/Cookie and Session/安全性/node 的 gitignore 設定.md",
-    "其他/生活/鍋.md",
-    "rollup-plugin-copy.md"
+    "後端/Cookie and Session/安全性/node 的 gitignore 設定.md"
   ]
 }
