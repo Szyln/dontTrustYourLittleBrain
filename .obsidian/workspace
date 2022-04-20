@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git/Git.md",
+            "file": "其他/生活/履歷.md",
             "mode": "preview"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Git.md",
+                "file": "其他/生活/履歷.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Git.md"
+                "file": "其他/生活/履歷.md"
               }
             }
           }
@@ -118,13 +118,13 @@
   },
   "active": "d200819755de29cd",
   "lastOpenFiles": [
+    "其他/生活/履歷.md",
     "Git/Git.md",
     "vite gh發布.md",
     "Git/基礎/遠端 Repository/git pull.md",
     "Git/基礎/Repository/gitignore.md",
     "react-router-dom 導向新頁面時不會回到頁面頂端.md",
     "rollup-plugin-copy.md",
-    "其他/生活/履歷.md",
     "其他/生活/職缺.md",
     "未命名.md",
     "webpack Get Started.md"
