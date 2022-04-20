@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git/基礎/Repository/gitignore.md",
-            "mode": "preview"
+            "file": "vite gh發布.md",
+            "mode": "source"
           }
         }
       }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414
+    "width": 414,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/基礎/Repository/gitignore.md",
+                "file": "vite gh發布.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/基礎/Repository/gitignore.md"
+                "file": "vite gh發布.md"
               }
             }
           }
@@ -117,15 +118,15 @@
   },
   "active": "d200819755de29cd",
   "lastOpenFiles": [
-    "Git/基礎/Repository/gitignore.md",
     "vite gh發布.md",
+    "Git/基礎/遠端 Repository/git pull.md",
+    "Git/Git.md",
+    "Git/基礎/Repository/gitignore.md",
     "react-router-dom 導向新頁面時不會回到頁面頂端.md",
     "rollup-plugin-copy.md",
     "其他/生活/履歷.md",
     "其他/生活/職缺.md",
     "未命名.md",
-    "webpack Get Started.md",
-    "前端/CSS/scss/dart-sass(sass) 建置.md",
-    "webpack.md"
+    "webpack Get Started.md"
   ]
 }
