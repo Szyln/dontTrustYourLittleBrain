@@ -26,3 +26,6 @@ import Button from 'react-bootstrap/Button';
 ```jsx
 import "../node_modules/react-bootstrap/dist/react-boostrap.js";
 ```
+
+
+#js/react #bs 

@@ -17,7 +17,7 @@
 - disabled
 - readonly：搭配 `.form-control-plaintext` 可使 input 取消樣式（外框），僅保留文字
 
-![[fieldset#^c9e148]]
+![[fieldset(form)#^c9e148]]
 
 ### 親和性
 可以使用的（推薦 -> 還可以）
@@ -46,4 +46,6 @@
 - `div.form-check.form-switch`
 	- `input.form-check-input` `type="checkbox" role="switch"`
 	- `label.form-check-label`
+
+
 #bs/form #form

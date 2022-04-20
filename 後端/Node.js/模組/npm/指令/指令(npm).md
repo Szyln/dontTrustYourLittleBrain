@@ -10,4 +10,7 @@ npm install -g {名稱}
 ```
 專案會出現 `node_modules` 資料夾
 
+## 其他指令
+- [[npm uninstall：裝錯模組取消安裝]]
+
 #js #advanceJs #library #framework #nodeJs #backEnd #module #npm

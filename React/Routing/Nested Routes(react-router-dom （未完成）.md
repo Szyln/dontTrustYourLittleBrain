@@ -1,4 +1,5 @@
 ## Nested Routes
+>[[react-router-dom]]
 
 You may have noticed when clicking the links that the layout in `App` disappears. Repeating shared layouts is a pain in the neck. We've learned that most UI is a series of nested layouts that almost always map to segments of the URL so this idea is baked right in to React Router.
 
@@ -62,3 +63,6 @@ export default function App() {
 Now click around again. The parent route (`App.js`) persists while the `<Outlet>` swaps between the two child routes (`<Invoices>` and `<Expenses>`)!
 
 As we'll see later, this works at _any level_ of the route hierarchy and is incredibly powerful.
+
+
+#js/react #routing #未完成 

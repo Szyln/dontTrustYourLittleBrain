@@ -32,3 +32,5 @@ ReactDOM.render(
   document.getElementById("root")
 );
 ```
+
+#js/react #routing

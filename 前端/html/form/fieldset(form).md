@@ -1,5 +1,6 @@
 # fieldset
 `<fieldset>` 搭配 `disabled` 可以一次禁用整個區域 ^c9e148
+
 ```html
 <form>
   <fieldset disabled>
@@ -31,4 +32,5 @@
 如果有自訂的按鈕元素在 fieldset 內，則需要額外再加入
 - `tabindex="-1"` ：防止用鍵盤聚焦
 - `aria-disabled="disabled"` ：輔助技術傳達狀態
+
 #html #bs/form #form

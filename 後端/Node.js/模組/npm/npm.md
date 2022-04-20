@@ -5,4 +5,7 @@
 	- [[指令(npm)]]
 - [[npm 推薦模組]]
 
+## 遭遇狀況
+- [[沒辦法全域安裝 npm 模組：code EACCES]]：[[nvm]]
+- 
 #js #advanceJs #library #framework #nodeJs #backEnd #module #npm
