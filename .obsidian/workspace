@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "vite gh發布.md",
-            "mode": "source"
+            "file": "Git/Git.md",
+            "mode": "preview"
           }
         }
       }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vite gh發布.md",
+                "file": "Git/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vite gh發布.md"
+                "file": "Git/Git.md"
               }
             }
           }
@@ -118,9 +118,9 @@
   },
   "active": "d200819755de29cd",
   "lastOpenFiles": [
+    "Git/Git.md",
     "vite gh發布.md",
     "Git/基礎/遠端 Repository/git pull.md",
-    "Git/Git.md",
     "Git/基礎/Repository/gitignore.md",
     "react-router-dom 導向新頁面時不會回到頁面頂端.md",
     "rollup-plugin-copy.md",
