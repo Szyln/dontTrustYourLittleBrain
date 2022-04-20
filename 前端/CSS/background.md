@@ -11,15 +11,14 @@
 -   [[background-attachment]]：fixed, local, scroll
 -   image：url()
 -   [[background-position]] / [[background-size]] ：圖片比範圍小的時候好用的定位
--   repeat: repeat, space, round, no-repeat, repeat-x, repeat-y
+-   backgroud-repeat: repeat, space, round, no-repeat, repeat-x, repeat-y
 
 只寫一個代表兩個都一樣，寫兩個的話第一個是 origin，第二個是 clip
 - `<origin>`：padding-box, border-box (左上角起始座標)
 - [[background-clip]]：padding-box, border-box （整個圖片的座標）
 	
-
-
-
+## background-size 設定
+![[object-fit#^1ffb45]]
 
 
 ## 

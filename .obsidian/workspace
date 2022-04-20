@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "後端/Database/noSQL/Mongoose/Mongoose Atlas/MongoDB Atlas.md",
-            "mode": "preview"
+            "file": "前端/CSS/background.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#vite",
+                "query": "出血",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "後端/Database/noSQL/Mongoose/Mongoose Atlas/MongoDB Atlas.md",
+                "file": "前端/CSS/background.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "後端/Database/noSQL/Mongoose/Mongoose Atlas/MongoDB Atlas.md"
+                "file": "前端/CSS/background.md"
               }
             }
           }
@@ -117,15 +118,15 @@
   },
   "active": "d200819755de29cd",
   "lastOpenFiles": [
+    "前端/CSS/background.md",
+    "前端/CSS/background/background-size.md",
+    "前端/CSS/object-fit.md",
     "後端/Database/noSQL/Mongoose/Mongoose Atlas/MongoDB Atlas.md",
     "後端/Database/noSQL/Mongoose/建置/利用 Mongoose 連上 MongoDB.md",
     "其他/生活/職缺.md",
     "其他/生活/履歷.md",
     "webpack/webpack Get Started.md",
     "webpack/webpack（未完成）.md",
-    "Pasted image 20220418174104.png",
-    "Pasted image 20220418173828.png",
-    "React/環境/Vite/rollup-plugin-copy（未完成）.md",
-    "React/環境/Vite/vite gh發布.md"
+    "Pasted image 20220418174104.png"
   ]
 }

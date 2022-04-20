@@ -9,6 +9,8 @@ https://developer.mozilla.org/ja/docs/Web/CSS/object-fit
 |contain|X|X|O|
 |none|*|*|O|
 
+^1ffb45
+
 ## cover
 ```html
 <!-- bs 例子：外框 1x1，內部填滿不出血不變形-->
