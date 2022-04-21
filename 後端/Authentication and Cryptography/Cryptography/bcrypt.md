@@ -14,7 +14,7 @@ const saltRounds = 10;				// cost factor：執行 2 的幾次方次
 bcrypt.genSalt(saltRounds, function(err, salt) {
 		// myPlaintextPassword 這裡應該輸入原始密碼
 		// 例如用戶註冊 post 過來的資訊
-		// hash 是已經加密好的 cipher，這個舊可以存到 DB 了
+		// hash 是已經加密好的 cipher，這個就可以存到 DB 了
     bcrypt.hash(myPlaintextPassword, salt, function(err, hash) {
         // Store hash in your password DB.
     });
