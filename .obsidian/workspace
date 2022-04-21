@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他/生活/履歷.md",
+            "file": "color-scheme 暗黑模式.md",
             "mode": "source"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/生活/履歷.md",
+                "file": "color-scheme 暗黑模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/生活/履歷.md"
+                "file": "color-scheme 暗黑模式.md"
               }
             }
           }
@@ -119,6 +119,7 @@
   },
   "active": "d200819755de29cd",
   "lastOpenFiles": [
+    "color-scheme 暗黑模式.md",
     "其他/生活/履歷.md",
     "joi.md",
     "後端/Restful API/使用 Postman 發出表單請求.md",
@@ -127,7 +128,6 @@
     "後端/Authentication and Cryptography/Cryptography/bcrypt.md",
     "後端/Database/noSQL/Mongoose/method/Middleware(Mongoose).md",
     "前端/CSS/background.md",
-    "前端/CSS/background/background-size.md",
-    "前端/CSS/object-fit.md"
+    "前端/CSS/background/background-size.md"
   ]
 }
