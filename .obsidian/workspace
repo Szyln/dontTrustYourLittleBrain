@@ -10,9 +10,22 @@
           "type": "markdown",
           "state": {
             "file": "其他/生活/履歷.md",
+            "mode": "source"
+          }
+        },
+        "group": "a30d77cf4dfe58ba"
+      },
+      {
+        "id": "ff822f6da3e7a24f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "其他/生活/履歷.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "a30d77cf4dfe58ba"
       }
     ],
     "direction": "vertical"
@@ -117,7 +130,7 @@
     "width": 240.4686279296875,
     "collapsed": true
   },
-  "active": "d200819755de29cd",
+  "active": "ff822f6da3e7a24f",
   "lastOpenFiles": [
     "其他/生活/履歷.md",
     "joi.md",
