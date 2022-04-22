@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "後端/MongoDB Atlas, Passport.js, OAuth/Stateless Authentication(JWT).md",
-            "mode": "source"
+            "file": "後端/Node.js/模組/使用/匯入模組.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stateless",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "後端/MongoDB Atlas, Passport.js, OAuth/Stateless Authentication(JWT).md",
+                "file": "後端/Node.js/模組/使用/匯入模組.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "後端/MongoDB Atlas, Passport.js, OAuth/Stateless Authentication(JWT).md"
+                "file": "後端/Node.js/模組/使用/匯入模組.md"
               }
             }
           }
@@ -118,6 +119,7 @@
   },
   "active": "d200819755de29cd",
   "lastOpenFiles": [
+    "後端/Node.js/模組/使用/匯入模組.md",
     "後端/MongoDB Atlas, Passport.js, OAuth/Stateless Authentication(JWT).md",
     "後端/Database/noSQL/Mongoose/Mongoose.md",
     "後端/MongoDB Atlas, Passport.js, OAuth/Passport.js/Passport.js.md",
@@ -126,7 +128,6 @@
     "後端/MongoDB Atlas, Passport.js, OAuth/MongoDB Atlas, Passport.js, OAuth.md",
     "後端/Authentication and Cryptography/Authentication and Cryptography.md",
     "後端/Cookie and Session/cookie-session.md",
-    "後端/MongoDB Atlas, Passport.js, OAuth/Passport.js/Authenticate Requests.md",
-    "後端/MongoDB Atlas, Passport.js, OAuth/Stateful Authentication.md"
+    "後端/MongoDB Atlas, Passport.js, OAuth/Passport.js/Authenticate Requests.md"
   ]
 }
