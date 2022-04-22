@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他/硬體、生產力/Obsidian/Obsidian 遠端、發佈相關.md",
+            "file": "後端/Cookie and Session/Cookies and Sessions.md",
             "mode": "source"
           }
         }
@@ -48,13 +48,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 414,
-    "collapsed": true
+    "width": 414
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -71,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/硬體、生產力/Obsidian/Obsidian 遠端、發佈相關.md",
+                "file": "後端/Cookie and Session/Cookies and Sessions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/硬體、生產力/Obsidian/Obsidian 遠端、發佈相關.md"
+                "file": "後端/Cookie and Session/Cookies and Sessions.md"
               }
             }
           }
@@ -119,15 +117,15 @@
   },
   "active": "d200819755de29cd",
   "lastOpenFiles": [
+    "後端/Cookie and Session/Cookies and Sessions.md",
+    "其他/Affinity.md",
+    "後端/Cookie and Session/Session/Session.md",
+    "後端/Middlewares, Error Handling, Cookies, Sessions.md",
+    "後端/Authentication and Cryptography/Authentication and Cryptography.md",
     "其他/硬體、生產力/Obsidian/Obsidian 遠端、發佈相關.md",
     "前端/CSS/視差滾動.md",
     "後端/Node.js/模組/使用/匯入模組.md",
     "後端/MongoDB Atlas, Passport.js, OAuth/Stateless Authentication(JWT).md",
-    "後端/Database/noSQL/Mongoose/Mongoose.md",
-    "後端/MongoDB Atlas, Passport.js, OAuth/Passport.js/Passport.js.md",
-    "後端/Cookie and Session/Cookies and Sessions.md",
-    "後端/Middlewares, Error Handling, Cookies, Sessions.md",
-    "後端/MongoDB Atlas, Passport.js, OAuth/MongoDB Atlas, Passport.js, OAuth.md",
-    "後端/Authentication and Cryptography/Authentication and Cryptography.md"
+    "後端/Database/noSQL/Mongoose/Mongoose.md"
   ]
 }

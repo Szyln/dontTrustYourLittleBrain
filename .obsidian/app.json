@@ -30,5 +30,6 @@
   "strictLineBreaks": false,
   "showFrontmatter": true,
   "useTab": true,
-  "smartIndentList": true
+  "smartIndentList": true,
+  "newLinkFormat": "absolute"
 }
