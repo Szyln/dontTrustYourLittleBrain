@@ -14,7 +14,9 @@
     "DVCs",
     "Darcs",
     "BitKeeper",
-    "cd"
+    "cd",
+    "Github",
+    "repo"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",

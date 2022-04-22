@@ -8,9 +8,6 @@
 
 obsidian 發布之後 `[[]]` 會失效
 
-# jekyll
-[Setting up your own digital garden with Jekyll](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)
-[digital-garden-jekyll-template](https://github.com/maximevaillancourt/digital-garden-jekyll-template)
 
 # Publish your Obsidian Vault Online for Free with Quartz
 
