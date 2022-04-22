@@ -16,6 +16,13 @@
 ```shell
 npm install jsonwebtoken passport-jwt passport-local
 ```
+
+```js
+// 匯入
+var jwt = require('jsonwebtoken');
+// 使用
+var token = jwt.sign({ foo: 'bar' }, 'shhhhh');
+```
 ## 優點
 - 不佔用伺服器資源：token 儲存在客戶端
 - 後端無權限刪除資料：token 儲存在客戶端，後端無法修改

@@ -119,6 +119,7 @@
   "active": "d200819755de29cd",
   "lastOpenFiles": [
     "後端/MongoDB Atlas, Passport.js, OAuth/Stateless Authentication(JWT).md",
+    "後端/Database/noSQL/Mongoose/Mongoose.md",
     "後端/MongoDB Atlas, Passport.js, OAuth/Passport.js/Passport.js.md",
     "後端/Cookie and Session/Cookies and Sessions.md",
     "後端/Middlewares, Error Handling, Cookies, Sessions.md",
@@ -126,7 +127,6 @@
     "後端/Authentication and Cryptography/Authentication and Cryptography.md",
     "後端/Cookie and Session/cookie-session.md",
     "後端/MongoDB Atlas, Passport.js, OAuth/Passport.js/Authenticate Requests.md",
-    "後端/MongoDB Atlas, Passport.js, OAuth/Stateful Authentication.md",
-    "還沒建立前端前，用 Postman POST 請求.md"
+    "後端/MongoDB Atlas, Passport.js, OAuth/Stateful Authentication.md"
   ]
 }
