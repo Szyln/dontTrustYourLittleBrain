@@ -7,4 +7,7 @@
 
 [[Cookies and Sessions 的安全性措施]]
 
+- [[Stateful Authentication]]
+- [[Stateless Authentication(JWT)]]
+
 #backEnd #server #storage #node/express #session 

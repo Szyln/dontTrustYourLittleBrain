@@ -8,5 +8,5 @@
 - 很難擴充：如果伺服器佔滿了，要擴充新的伺服器，要為了新的伺服器寫不同的規則
 - 安全性：cookies 可以透過客戶端修改，可能真的試出別人的資料
 
->[[Stateless Authentication]]
+>[[Stateless Authentication(JWT)]]
 #session #authentication #oauth 

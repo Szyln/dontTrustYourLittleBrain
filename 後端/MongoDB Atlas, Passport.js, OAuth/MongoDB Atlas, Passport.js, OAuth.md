@@ -27,9 +27,6 @@
 	- [[user-model]]
 	- [[post-model.js]]
 
-
-
-
 - [[EJS]] 檔案
 	- index.ejs
 	- login.ejs
@@ -38,4 +35,4 @@
 
 ## 認證類型
 - [[Stateful Authentication]]
-- [[Stateless Authentication]]
+- [[Stateless Authentication(JWT)]]
