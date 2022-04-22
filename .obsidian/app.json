@@ -1,6 +1,6 @@
 {
   "obsidianCss": true,
-  "spellcheck": false,
+  "spellcheck": true,
   "readableLineLength": false,
   "foldHeading": true,
   "foldIndent": true,
@@ -31,5 +31,6 @@
   "showFrontmatter": true,
   "useTab": true,
   "smartIndentList": true,
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true
 }

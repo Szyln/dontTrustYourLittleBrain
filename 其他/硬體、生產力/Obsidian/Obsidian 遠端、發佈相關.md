@@ -16,7 +16,7 @@ obsidian 發布之後 `[[]]` 會失效
 
 >[Publish your Obsidian Vault Online for Free with Quartz](https://youtu.be/ITiiuBNVue0)
 
-- [ ] [Quartz](https://github.com/jackyzha0/quartz)
+- [Quartz](https://github.com/jackyzha0/quartz)
 	- 都是公開的話裝這個就好了
 	- hugo
 - [obsidian-export](https://github.com/zoni/obsidian-export)
