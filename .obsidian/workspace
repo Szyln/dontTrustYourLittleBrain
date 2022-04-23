@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端/html/skeleton/html lang.md",
+            "file": "其他/硬體、生產力/Obsidian/Obsidian 遠端、發佈相關.md",
             "mode": "preview"
           }
         }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 174.0107650756836
+    "width": 174.0107650756836,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/html/skeleton/html lang.md",
+                "file": "其他/硬體、生產力/Obsidian/Obsidian 遠端、發佈相關.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/html/skeleton/html lang.md"
+                "file": "其他/硬體、生產力/Obsidian/Obsidian 遠端、發佈相關.md"
               }
             }
           }
@@ -118,11 +119,11 @@
   },
   "active": "6c7629f68082f7cb",
   "lastOpenFiles": [
-    "前端/html/skeleton/html lang.md",
+    "其他/硬體、生產力/Obsidian/Obsidian 遠端、發佈相關.md",
     "Quartz 發布 obsidian.md",
+    "前端/html/skeleton/html lang.md",
     "後端/EJS/SSG/Eleventy.md",
     "後端/Node.js/模組/npm/nvm.md",
-    "其他/硬體、生產力/Obsidian/Obsidian 遠端、發佈相關.md",
     "Git/基礎/Repository/git add(track).md",
     "Fork.md",
     "Quartz 特性.md",

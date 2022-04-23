@@ -23,8 +23,12 @@ git clone https://github.com/jackyzha0/quartz.git
 
 ## 管理、新增筆記
 建議使用 Obsidian，以下用 Obsidian 示範
-### 連結既有 repo 筆記
+### 連結既有 repo 筆記 submodule
+
 [git submodule 教學](https://kmsheng.medium.com/git-submodule-%E6%95%99%E5%AD%B8-96ab0255c88c)
+
+https://github.com/shiftyp/submodule-gh-pages-example
+[Obsidian 遠端、發佈相關](其他/硬體、生產力/Obsidian/Obsidian%20遠端、發佈相關.md)
 ### Obsidian 設定
 將一個 vault 放到 `/content` 資料夾內，必須的設定如下
 ![](https://i.imgur.com/YEir2BK.png)
