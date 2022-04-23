@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "後端/EJS/SSG/Eleventy.md",
-            "mode": "source"
+            "file": "前端/html/skeleton/html lang.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ssg",
+                "query": "lang",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "後端/EJS/SSG/Eleventy.md",
+                "file": "前端/html/skeleton/html lang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "後端/EJS/SSG/Eleventy.md"
+                "file": "前端/html/skeleton/html lang.md"
               }
             }
           }
@@ -118,15 +118,15 @@
   },
   "active": "6c7629f68082f7cb",
   "lastOpenFiles": [
+    "前端/html/skeleton/html lang.md",
+    "Quartz 發布 obsidian.md",
     "後端/EJS/SSG/Eleventy.md",
     "後端/Node.js/模組/npm/nvm.md",
     "其他/硬體、生產力/Obsidian/Obsidian 遠端、發佈相關.md",
-    "Quartz 發布 obsidian.md",
     "Git/基礎/Repository/git add(track).md",
     "Fork.md",
     "Quartz 特性.md",
     "Q.md",
-    "後端/Cookie and Session/Cookies and Sessions.md",
-    "其他/Affinity.md"
+    "後端/Cookie and Session/Cookies and Sessions.md"
   ]
 }
