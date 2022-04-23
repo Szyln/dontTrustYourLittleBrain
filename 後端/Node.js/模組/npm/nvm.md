@@ -13,6 +13,7 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
 command -v nvm
 ```
 
+## 指定安裝版本
 ```shell
 nvm install node # 最新版
 ```
@@ -22,7 +23,7 @@ nvm install 14.7.0 # or 指定版本
 ```
 
 ---
-
+## 安裝過程大概長這樣
 ```shell
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
