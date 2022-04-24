@@ -21,7 +21,8 @@
     "gsap",
     "js",
     "npm",
-    "WebGL"
+    "WebGL",
+    "keyframes"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",

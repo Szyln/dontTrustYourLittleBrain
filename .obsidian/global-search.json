@@ -1,5 +1,5 @@
 {
-  "showFullPath": true,
-  "linkStyle": "markdown",
+  "showFullPath": false,
+  "linkStyle": "wikilink",
   "listStyle": "-"
 }

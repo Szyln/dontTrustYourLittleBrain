@@ -34,13 +34,24 @@ gsap.to({填入作用目標}, { // 可以是選擇器、物件、陣列、變數
 - `gsap.fromTo`
 
 
-## 設定
+## 設定（tween 的第二個參數）
+### 時間
 - [[Staggers]]：設定每個動畫的時間差
-- [[設定起始點隨機]]
+- [[Control Methods 控制功能]]：控制時間軸的功能
+- [[GSAP keyframes]]
+#### timeline()
+- [[Sequencing with Timelines 讓動畫按照順序播]]
+	- [[為時間間格加入標籤]]
+	- [[重複播放 timeline]]
+	- [[倒帶 timeline]]
+	- [[動畫間加入時間間格]]
+
+
+### 位置
+- [[設定位置起始點隨機]]
 ### 目錄
 - [可以使用 GSAP 的資料類型](可以使用%20GSAP%20的資料類型.md)
 - [GSAP 觸發事件](GSAP%20觸發事件.md)
-- [[Control Methods 控制功能]]：控制時間軸的功能
 
 
 #js/gsap #animation #css
