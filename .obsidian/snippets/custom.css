@@ -39,9 +39,9 @@ code {
   padding-left: 0 !important;
 }
 
-/* .side-dock-ribbon {
+.side-dock-ribbon {
   display: none;
-} */
+}
 .nav-buttons-container {
   justify-content: space-evenly;
 }

@@ -19,7 +19,9 @@
     "repo",
     "css",
     "gsap",
-    "js"
+    "js",
+    "npm",
+    "WebGL"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",
