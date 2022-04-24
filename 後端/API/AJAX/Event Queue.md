@@ -1,3 +1,8 @@
+---
+title: "Event Queue"
+tag: 
+- 
+---
 # Event Queue
 JS 屬於 single-[[thread]]	的語言，一次只能處理一件事
 

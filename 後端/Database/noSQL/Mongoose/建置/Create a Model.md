@@ -1,3 +1,8 @@
+---
+title: "Create a Model"
+tag: 
+- 
+---
 ### create a model
 model 就可以當成一個 [[MongoDB]] 的 collection 用了（[[MongoDB CRUD]]）
 ```js

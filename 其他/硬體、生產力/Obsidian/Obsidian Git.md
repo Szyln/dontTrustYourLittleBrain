@@ -1,3 +1,8 @@
+---
+title: "Obsidian Git"
+tag: 
+- 
+---
 # Obsidian Git
 1. [[使用 gulp#git]]（git 的部份就好）
  1. [Day 26 : 插件篇 05 — 做好筆記備份，使用 Obsidian Git自動備份筆記到 Github](https://ithelp.ithome.com.tw/articles/10280373)

@@ -1,4 +1,9 @@
-## 搭配[[Database 數據庫]]
+---
+title: "EJS 搭配 Database"
+tag: 
+- 
+---
+## 搭配 [[Database 數據庫]]
 [[Mongoose]]
 ```js
 app.get("/", (req, res) => {

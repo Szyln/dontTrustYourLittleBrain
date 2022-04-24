@@ -1,3 +1,8 @@
+---
+title: "vanillajs-datepicker"
+tag: 
+- 
+---
 # vanillajs-datepicker
 >[vanillajs-datepicker](https://mymth.github.io/vanillajs-datepicker/#/?id=other-frameworks)
 

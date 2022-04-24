@@ -1,3 +1,8 @@
+---
+title: "Number"
+tag: 
+- 
+---
 # Number
 - NaN: not a number
 - Infinity: 無限大

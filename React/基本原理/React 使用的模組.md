@@ -1,3 +1,8 @@
+---
+title: "React 使用的模組"
+tag: 
+- 
+---
 # React 使用的模組
 >[[匯入模組]]
 
@@ -12,6 +17,10 @@ import ReactDOM from 'react-dom';
 >[[ReactDOM：渲染]]
 
 
->[[檔案變多之後的模組運用]]：[[Hook]], [[Component：可重複利用、自定參數的元件]] 讀到之後會自然懂
+>[[檔案變多之後的模組運用---
+title: "React 使用的模組"
+tag: 
+- 
+---
 
 #js/react #js/module 

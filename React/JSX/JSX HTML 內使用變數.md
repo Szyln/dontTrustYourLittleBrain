@@ -1,3 +1,8 @@
+---
+title: "JSX HTML 內使用變數"
+tag: 
+- 
+---
 ## JSX HTML 內使用變數
 JSX 可以讓 html 像 js 一樣重複利用，更可以在 JSX 標籤內帶入 JS 程式碼
 

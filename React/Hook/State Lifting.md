@@ -1,3 +1,8 @@
+---
+title: "State Lifting"
+tag: 
+- 
+---
 # State Lifting
 當元件一多的時候，會遇到需要跨元件共享同一個資料的狀況
 - [[State Lifting]]	做的就是將子層元件的 state 提升到母層

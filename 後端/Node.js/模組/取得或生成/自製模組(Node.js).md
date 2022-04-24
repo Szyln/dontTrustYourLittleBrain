@@ -1,3 +1,9 @@
+---
+title: "自製模組(Node.js)"
+tag: 
+- 
+---
+
 # 自製 Node.js [[模組]]
 會利用到 [[Module Wrapper]] 的預設參數 [[Module Wrapper#exports require module]]
 

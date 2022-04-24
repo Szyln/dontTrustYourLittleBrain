@@ -1,4 +1,9 @@
-## GET([[Form]])
+---
+title: "GET 表單(express)"
+tag: 
+- 
+---
+## GET ([[Form]])
 跟一般的請求回應一樣都是使用 `.get()` 來回應對方的表單
 ```html
 // index.html

@@ -1,4 +1,9 @@
-# Minlength(number) (Mongoose)
+---
+title: "Minlength(number)"
+tag: 
+- 
+---
+# Minlength (number) (Mongoose)
 [[String 用 Validators]]
 ```js
 // define a schema

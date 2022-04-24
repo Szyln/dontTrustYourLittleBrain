@@ -1,3 +1,8 @@
+---
+title: "object-fit"
+tag: 
+- 
+---
 # object-fit
 https://developer.mozilla.org/ja/docs/Web/CSS/object-fit
 

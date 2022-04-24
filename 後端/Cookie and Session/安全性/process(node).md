@@ -1,4 +1,9 @@
-# process(node)
+---
+title: "process(node)"
+tag: 
+- 
+---
+# process (node)
 [javaTpoint](https://www.javatpoint.com/nodejs-process)
 
 一個 [[Node]] 的全域物件，可以檢視目前的 platform, version 等

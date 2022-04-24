@@ -1,3 +1,8 @@
+---
+title: "for of loop"
+tag: 
+- 
+---
 # for of
 - 增加易讀性
 

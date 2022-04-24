@@ -1,3 +1,8 @@
+---
+title: "Error Handling  同步的寫法"
+tag: 
+- 
+---
 ## Error Handling 同步的寫法
 ```js
 // routing 沒有使用 promise 的話

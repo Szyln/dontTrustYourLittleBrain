@@ -1,3 +1,8 @@
+---
+title: "Destructing Assignment"
+tag: 
+- 
+---
 # Destructing Assignment
 ```js
 // array

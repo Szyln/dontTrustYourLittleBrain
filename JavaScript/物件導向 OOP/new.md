@@ -1,3 +1,8 @@
+---
+title: "new"
+tag: 
+- 
+---
 # new
 一種 JS 的 reserved word
 

@@ -1,3 +1,8 @@
+---
+title: "SQL create 製作表格"
+tag: 
+- 
+---
 # 製作表格
 ```sql
 create table employee(				-- 生成表單

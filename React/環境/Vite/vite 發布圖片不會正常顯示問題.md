@@ -1,3 +1,8 @@
+---
+title: "vite 發布圖片不會正常顯示問題"
+tag: 
+- 
+---
 # vite 發布 gh-page 圖片不會正常顯示
 ## css background 的解決方式
 - 建立  `<root>/public` 路徑，圖放這裡

@@ -1,3 +1,8 @@
+---
+title: "display"
+tag: 
+- 
+---
 # display
 ## block / inline
 `block`：左右填滿

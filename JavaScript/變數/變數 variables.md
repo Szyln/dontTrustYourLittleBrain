@@ -1,3 +1,8 @@
+---
+title: "變數 variables"
+tag: 
+- 
+---
 # 變數
 有三種變數
 ## declaration 宣告

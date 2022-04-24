@@ -1,3 +1,8 @@
+---
+title: "transition"
+tag: 
+- 
+---
 ```css
 h1 {
 // property name(屬性), duration(時間), timing function(加速度)

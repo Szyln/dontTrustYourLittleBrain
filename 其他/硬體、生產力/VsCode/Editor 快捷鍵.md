@@ -1,4 +1,9 @@
-`ctrl`/`cmd` +
+---
+title: "Editor 快捷鍵"
+tag: 
+- 
+---
+`ctrl` / `cmd` +
 - P：找檔案
 - K+W 關所有檔案
 - N 開新檔（已使用 advance file 取代

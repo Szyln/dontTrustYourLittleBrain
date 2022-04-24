@@ -1,4 +1,9 @@
-# POST([[Form]])
+---
+title: "POST 表單(express)"
+tag: 
+- 
+---
+# POST ([[Form]])
 - HTML：form 標籤要設定 `method="POST"`
 - [[body-parser]] 可以讓後端使用客戶填入的內容
 - req.body：[[POST 表單(express)#使用用戶填入的資訊]]

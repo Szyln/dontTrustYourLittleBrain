@@ -1,3 +1,8 @@
+---
+title: "透過 Mongoose 存入 MongoDB(Save)"
+tag: 
+- 
+---
 ### save Jon to DB
 ```js
 Jon.save()

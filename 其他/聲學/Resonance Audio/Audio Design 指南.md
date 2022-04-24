@@ -1,3 +1,8 @@
+---
+title: "Audio Design 指南"
+tag: 
+- 
+---
 ## 聲音物件 Sound sources (point sources)
 一個發聲源，存在在空間中
 通常為 mono 的格式，透過設定聲音指向與聲音特性做表現

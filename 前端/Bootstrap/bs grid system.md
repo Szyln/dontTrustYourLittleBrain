@@ -1,3 +1,8 @@
+---
+title: "bs grid system"
+tag: 
+- 
+---
 ## 配置規則
 -   row 底下只能是 column
 -   column 之上只能是 row

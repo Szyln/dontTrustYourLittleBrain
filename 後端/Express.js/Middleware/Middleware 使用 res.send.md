@@ -1,3 +1,8 @@
+---
+title: "Middleware 使用 res.send"
+tag: 
+- 
+---
 ## Middleware 使用 res.send
 大型專案很實用的功能，可以在還沒有 [[Routing]] 的情況下 send
 ```js

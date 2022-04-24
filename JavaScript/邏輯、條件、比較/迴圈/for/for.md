@@ -1,3 +1,8 @@
+---
+title: "for"
+tag: 
+- 
+---
 # for
 ```js
 for ( start; stop; step ) { // let i = 0, i < 10, i++

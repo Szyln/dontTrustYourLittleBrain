@@ -1,4 +1,9 @@
-288章 JS setup
+---
+title: "icon 設定 pointer event none"
+tag: 
+- 
+---
+288 章 JS setup
 
 按鈕裡面只點得到icon 但點不到 btn，
 ```css

@@ -1,4 +1,9 @@
-# 透過 Postman 刪除數據庫資料(API)
+---
+title: "透過 Postman 刪除數據庫資料"
+tag: 
+- 
+---
+# 透過 Postman 刪除數據庫資料 (API)
 >[[HTTP request]]：DELETE
 
 除了用 Postman 發出 delete 請求之外，也可以用[[表單更新數據庫既有資料]]的方法刪除

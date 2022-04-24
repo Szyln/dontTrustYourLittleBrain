@@ -1,3 +1,8 @@
+---
+title: "Global Execution Context"
+tag: 
+- 
+---
 # Global Execution Context 全域執行環境
 為 [[Execution Phase]] 的其中一種
 

@@ -1,3 +1,8 @@
+---
+title: "使用 Routing for pattern 顯示特定數據庫物件"
+tag: 
+- 
+---
 # 使用 Routing for pattern 顯示特定數據庫物件
 >[[Routing for pattern 回應有規律的網址]]
 >[[Find(Read)]]

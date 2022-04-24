@@ -1,3 +1,8 @@
+---
+title: "Hash Function"
+tag: 
+- 
+---
 # Hash Function
 >[[bcrypt]]
 

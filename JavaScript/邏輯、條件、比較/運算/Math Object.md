@@ -1,3 +1,8 @@
+---
+title: "Math Object"
+tag: 
+- 
+---
 # Math
 [](https://i.imgur.com/2aWzzz5.png)
 ## property

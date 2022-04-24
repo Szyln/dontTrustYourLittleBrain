@@ -1,3 +1,8 @@
+---
+title: "批次產生樣式 maps + @each"
+tag: 
+- 
+---
 # 批次產生樣式 @each
 
 [@each+Sass Maps批次產生各元素樣式](https://github.com/gonsakon/Learn-Sass-in-90-days/blob/master/docs/Sass/%40each%2BSass%20Maps%E6%89%B9%E6%AC%A1%E7%94%A2%E7%94%9F%E5%90%84%E5%85%83%E7%B4%A0%E6%A8%A3%E5%BC%8F.markdown)

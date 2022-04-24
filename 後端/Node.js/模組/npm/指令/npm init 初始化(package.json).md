@@ -1,4 +1,9 @@
-# 初始化(package.json)
+---
+title: "npm init 初始化(package.json)"
+tag: 
+- 
+---
+# 初始化 (package.json)
 當專案要做 npm 的使用時，都必須先初始化環境，製作一個 `package.json` 的檔案，有這個檔案才能上 npm 去使用別人的模組
 ```shell
 // 專案資料夾

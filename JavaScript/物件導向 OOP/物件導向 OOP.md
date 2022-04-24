@@ -1,3 +1,8 @@
+---
+title: "物件導向 OOP"
+tag: 
+- 
+---
 # 物件導向
 ## [[Execution Context]]
 - Global Execution Context

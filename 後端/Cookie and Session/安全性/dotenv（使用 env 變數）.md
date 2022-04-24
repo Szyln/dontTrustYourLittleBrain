@@ -1,3 +1,8 @@
+---
+title: "dotenv（使用 env 變數）"
+tag: 
+- 
+---
 # dotenv
 [npm](https://www.npmjs.com/package/dotenv)
 使用[[Cookies and Sessions]] 的時候，應該將 [[cookie-parser]] 跟 [[express-session]] 的內容加密並且隱藏

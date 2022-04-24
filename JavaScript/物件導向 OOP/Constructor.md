@@ -1,3 +1,8 @@
+---
+title: "Constructor"
+tag: 
+- 
+---
  # Constructor Function
 可以重複生成相似物件的功能
 

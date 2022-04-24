@@ -1,3 +1,8 @@
+---
+title: "從物件中提取屬性到變數中 Destructing an object"
+tag: 
+- 
+---
 # 從物件中提取屬性到變數中 Destructing an object
 >[[Destructing Assignment]]
 

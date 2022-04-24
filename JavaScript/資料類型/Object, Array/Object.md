@@ -1,3 +1,8 @@
+---
+title: "Object"
+tag: 
+- 
+---
 # 物件 Object
 - [[物件字面值]]內可以包含多個屬性 (properties)
 每個屬性通常都是以 [[Key-Value Pair]] 的形式出現，value 可以為其他的[[原始資料類型 Primitive Data Types]]，或是 [[Function]]、[[Array]]、甚至是 [[Object]]，另外在 ES6 有規範了 [[Function 簡寫語法糖]]

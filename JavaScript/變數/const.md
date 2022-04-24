@@ -1,3 +1,8 @@
+---
+title: "const"
+tag: 
+- 
+---
 # const
 命名習慣：開頭大寫
 ```js

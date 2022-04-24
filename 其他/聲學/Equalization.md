@@ -1,3 +1,8 @@
+---
+title: "Equalization"
+tag: 
+- 
+---
 [Parametric Equalization](https://webtet.net/apcl/#/parametric)
 
 | EQ      | Sound                             |

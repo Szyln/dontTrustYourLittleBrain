@@ -1,3 +1,8 @@
+---
+title: "navbar 內放入 form 元素（button, input...）"
+tag: 
+- 
+---
 ## navbar 內放入 form 元素（button, input...）
 也可以放入表單、按鈕等內容，視有沒有收合需求放入 `.navbar-nav` 內
 ```html

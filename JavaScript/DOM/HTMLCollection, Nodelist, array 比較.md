@@ -1,3 +1,8 @@
+---
+title: "HTMLCollection, Nodelist, array 比較"
+tag: 
+- 
+---
 # HTMLCollection, Nodelist 與 array 類似之處
 ## 比較
 在比較新的功能出來之後，`HTMLCollection` 的侷限多，漸漸不再被使用

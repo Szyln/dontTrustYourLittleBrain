@@ -1,3 +1,8 @@
+---
+title: "Function"
+tag: 
+- 
+---
 # 函數｜function
 一種物件
 ```js

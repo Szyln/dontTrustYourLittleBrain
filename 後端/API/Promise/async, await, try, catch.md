@@ -1,3 +1,8 @@
+---
+title: "async, await, try, catch"
+tag: 
+- 
+---
 # async, await, try, catch
 [[Promise#改寫 Callback Hell]] 還可以再改寫
 ## async, await

@@ -1,3 +1,8 @@
+---
+title: "Prototype"
+tag: 
+- 
+---
 # Prototype
 一個物件，包含共用的 properties 和 methods，可以供所有繼承的[[物件實例]](instances) 讀取（都放在同一個記憶體）
 

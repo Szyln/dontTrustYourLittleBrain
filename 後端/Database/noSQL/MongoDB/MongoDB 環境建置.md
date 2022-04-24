@@ -1,3 +1,8 @@
+---
+title: "MongoDB 環境建置"
+tag: 
+- 
+---
 [Install MongoDB Community Edition on macOS](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/)
 
 > 現行版本 10.14 以上都支援，但 homebrew 有限支援，10.14 測試可以安裝，可能會需要更新 command line

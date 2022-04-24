@@ -1,3 +1,8 @@
+---
+title: "Instance Method"
+tag: 
+- 
+---
 # Instance Method
 [[Mongoose Method]]
 

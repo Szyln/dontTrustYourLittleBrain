@@ -1,3 +1,8 @@
+---
+title: "falsy value"
+tag: 
+- 
+---
 ## falsy value
 -   false	
 -   null：宣告裡面沒有東西

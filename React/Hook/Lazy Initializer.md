@@ -1,3 +1,8 @@
+---
+title: "Lazy Initializer"
+tag: 
+- 
+---
 ## Lazy Initializer
 >[[useState Hook]]
 >[[useEffect Hook]]

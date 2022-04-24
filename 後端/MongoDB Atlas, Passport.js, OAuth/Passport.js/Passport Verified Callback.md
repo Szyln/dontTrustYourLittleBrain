@@ -1,3 +1,8 @@
+---
+title: "Passport Verified Callback"
+tag: 
+- 
+---
 # Passport Verified Callback
 [[Configure Strategy]] 中的最後一段，設定用戶用 google 登入後的行為
 

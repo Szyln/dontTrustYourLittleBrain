@@ -1,3 +1,8 @@
+---
+title: "Array"
+tag: 
+- 
+---
 # Array
 [陣列功能一覽](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Array)
 [JavaScript 陣列處理方法 [filter(), find(), forEach(), map(), every(),](https://courses.hexschool.com/blog/168210/javascript-for)

@@ -1,3 +1,8 @@
+---
+title: "use-strict 嚴格模式"
+tag: 
+- 
+---
 # 嚴格模式 use strict
 [JavaScript 的嚴格模式 "use strict"](https://ithelp.ithome.com.tw/articles/10191736)
 使撰寫語法的時候，如果用了不嚴謹的寫法，會跳出錯誤提示

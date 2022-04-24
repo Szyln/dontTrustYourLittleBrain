@@ -1,3 +1,8 @@
+---
+title: "MongoDB CRUD"
+tag: 
+- 
+---
 # MongoDB CRUD
 [[DBMS(RDBMS)]] 都有一套自己的 [[Database 數據庫#C R U D]]
 [CRUD](https://docs.mongodb.com/manual/crud/)

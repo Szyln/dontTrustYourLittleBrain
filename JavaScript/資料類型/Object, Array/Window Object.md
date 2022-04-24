@@ -1,3 +1,8 @@
+---
+title: "Window Object"
+tag: 
+- 
+---
 # Window Object
 ## Properties
 - Console

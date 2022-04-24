@@ -1,3 +1,8 @@
+---
+title: "API 提供特定資料"
+tag: 
+- 
+---
 # API 提供特定資料
 >[[使用 Routing for pattern 顯示特定數據庫物件]]
 ```js

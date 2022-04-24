@@ -1,3 +1,8 @@
+---
+title: "Node.js 的預設參數"
+tag: 
+- 
+---
 ## Node.js 的預設參數
 [[Module Wrapper]] 帶有幾個參數可以使用，平常在瀏覽器運作時是不會有這些參數的
 

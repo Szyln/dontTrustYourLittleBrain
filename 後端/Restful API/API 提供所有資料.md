@@ -1,3 +1,8 @@
+---
+title: "API 提供所有資料"
+tag: 
+- 
+---
 # API 提供所有資料
 [[將數據庫資料顯示於網頁]]
 >[[send 和 sendFile 回應(express)#回應物件的話]]

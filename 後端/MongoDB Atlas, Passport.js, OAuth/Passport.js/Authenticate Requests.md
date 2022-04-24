@@ -1,3 +1,8 @@
+---
+title: "Authenticate Requests"
+tag: 
+- 
+---
 # Authenticate Requests
 - [[middleware(Authenticate Requests)]]：auth-route 的前置 middleware
 - [[auth-route]]：設定登入時的流程（透過 google, local login）

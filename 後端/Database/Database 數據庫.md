@@ -1,3 +1,8 @@
+---
+title: "Database 數據庫"
+tag: 
+- 
+---
 # Database
 - 發出請求後，（可能有加密），有確定好就會從數據庫 [[Database 數據庫]] 抓檔案（html, css, js）發給你
 

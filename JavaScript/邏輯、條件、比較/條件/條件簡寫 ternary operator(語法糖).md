@@ -1,3 +1,8 @@
+---
+title: "條件簡寫 ternary operator(語法糖)"
+tag: 
+- 
+---
 # 條件簡寫（三元運算符 ternary operator）
 可以簡寫[[if, switch#if if else else if]]
 `()?`為判斷句 condition ，`:` 代表 else

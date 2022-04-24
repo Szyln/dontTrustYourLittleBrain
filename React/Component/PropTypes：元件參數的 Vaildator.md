@@ -1,3 +1,8 @@
+---
+title: "PropTypes：元件參數的 Vaildator"
+tag: 
+- 
+---
 # PropTypes
 React 在使用 [[Component：可重複利用、自定參數的元件]] 的時候，參數可以透過 `PropTypes` 來定義規範，避免每次使用元件時，造成非預期的結果
 

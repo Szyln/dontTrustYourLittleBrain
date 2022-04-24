@@ -1,3 +1,13 @@
+---
+title: "push"
+tag: 
+- 
+---
+---
+title: "push"
+tag: 
+- 
+---
 # push 到遠端 repository
 ```
 git remote add origin https://github.com/Szyln/Joanne.CV.git

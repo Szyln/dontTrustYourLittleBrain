@@ -1,3 +1,8 @@
+---
+title: "指定特定 Route 之前的 Middleware（Route 前面）"
+tag: 
+- 
+---
 ## 指定特定 Route 之前的 Middleware（Route 前面）
 跟 [[Routing]] 的功能類似，也可以限定使用
 ```js

@@ -1,3 +1,8 @@
+---
+title: "通用的 Validators"
+tag: 
+- 
+---
 ## 通用的 Validators
 所有 [[Schema Type]] 都可以用：
 - [[required]]：必填

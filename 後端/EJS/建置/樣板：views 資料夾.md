@@ -1,3 +1,8 @@
+---
+title: "樣板：views 資料夾"
+tag: 
+- 
+---
 ### 樣板：views 資料夾
 取代一般的 html 的 ejs 檔案必須都放在 `views` 資料夾下
 ```js

@@ -1,3 +1,8 @@
+---
+title: "nvm"
+tag: 
+- 
+---
 # nvm
 [nvm github](https://github.com/nvm-sh/nvm)：詳細指令請參照
 [nvm：快速安裝、切換不同版本的 Node.js](https://noob.tw/nvm/)

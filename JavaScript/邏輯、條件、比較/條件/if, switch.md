@@ -1,3 +1,8 @@
+---
+title: "if, switch"
+tag: 
+- 
+---
 # 條件語句｜if, switch
 ## 程式的運算思維
 -   流程圖：[Whimsical](https://whimsical.com/)

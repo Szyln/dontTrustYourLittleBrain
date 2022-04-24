@@ -1,4 +1,9 @@
-# React.createElement()
+---
+title: "生成標籤：React.createElement()"
+tag: 
+- 
+---
+# React.createElement ()
 >[[JSX 生成標籤]]
 >[[同時生成多個標籤]]
 

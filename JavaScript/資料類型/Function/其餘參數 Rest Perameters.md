@@ -1,3 +1,8 @@
+---
+title: "其餘參數 Rest Perameters"
+tag: 
+- 
+---
 # 其餘參數 Rest Perameters
 設定 function 在導入之前可以為**不特定數量的參數**，並且將他們視為陣列來處理
 

@@ -1,3 +1,8 @@
+---
+title: "404 Not Found"
+tag: 
+- 
+---
 # 404 Not Found
 使用 [[Routing#Routing for all]] 的方法，將任意輸入的網址都導到[[狀態碼]] 404 頁面
 

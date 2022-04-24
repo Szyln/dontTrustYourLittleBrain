@@ -1,3 +1,8 @@
+---
+title: "函數表達式 function expression"
+tag: 
+- 
+---
 # 函數表達式 function expression 
 將函數儲存進一個變數中
 因牽涉給變數賦值，故不會 hoisting

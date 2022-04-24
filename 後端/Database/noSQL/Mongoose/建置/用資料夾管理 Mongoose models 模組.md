@@ -1,3 +1,8 @@
+---
+title: "用資料夾管理 Mongoose models 模組"
+tag: 
+- 
+---
 ### 管理 Mongoose models 模組（非必要）
 可以建立一個 models 資料夾統一管理，每個 Schema + Model 的建立都分在不同的 js 檔案裡，各自匯出給 app 用
 - 匯入 mongoose 模組：[[匯入模組]]

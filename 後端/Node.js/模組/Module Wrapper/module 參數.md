@@ -1,3 +1,8 @@
+---
+title: "module 參數"
+tag: 
+- 
+---
 ## module
 在終端內可以看到 `module` 也是一個物件（[[Module Wrapper]] 的其中一個參數）
 ```js

@@ -1,3 +1,8 @@
+---
+title: "for in loop"
+tag: 
+- 
+---
 # for in
 
 - array

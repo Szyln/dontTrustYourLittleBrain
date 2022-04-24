@@ -1,3 +1,8 @@
+---
+title: "處理 Validators 錯誤的寫法"
+tag: 
+- 
+---
 # [[Validators]] Error Handling
 Validators 的 error 要透過 crud 的 [[Promise]] (`.catch`) 來完成，Handling 成功的話回傳給網頁一個 error object
 

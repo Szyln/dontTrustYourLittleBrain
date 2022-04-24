@@ -1,3 +1,8 @@
+---
+title: "原始資料類型使用 Prototype Inheritance 的功能"
+tag: 
+- 
+---
 # 原始資料類型使用 Prototype Inheritance 的功能
 ## Coercion
 [[原始資料類型 Primitive Data Types]]沒有自己的 methods，但因為 JS 有 Coercion 的特性，就算不是物件，也可以使用物件繼承來的功能。 

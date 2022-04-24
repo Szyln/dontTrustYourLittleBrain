@@ -1,3 +1,8 @@
+---
+title: "Enum(指定 string, number)"
+tag: 
+- 
+---
 # Enum（指定 string, number）
 [[String 用 Validators]]
 > enumerate: 枚舉

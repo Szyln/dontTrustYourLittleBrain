@@ -1,3 +1,8 @@
+---
+title: "Hoisting"
+tag: 
+- 
+---
 # 提昇 Hoisting
 - function 跟 var **宣告**會被提升到**該作用域**的頂部
 - [[初始化(initializer)]]（賦值）之後就不會 Hoisiting

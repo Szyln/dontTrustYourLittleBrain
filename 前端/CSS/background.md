@@ -1,3 +1,8 @@
+---
+title: "background"
+tag: 
+- 
+---
 # background 屬性
 >[mdn](https://developer.mozilla.org/ja/docs/Web/CSS/background)
 

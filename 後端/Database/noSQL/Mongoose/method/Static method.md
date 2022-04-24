@@ -1,3 +1,8 @@
+---
+title: "Static Method"
+tag: 
+- 
+---
 # Static method
 [[Mongoose Method]]
 給 model 用的，[[Instance Method]] 是給 Schema 用的

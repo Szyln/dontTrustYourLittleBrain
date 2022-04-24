@@ -1,4 +1,9 @@
-# Configure Strategy(passport-google)
+---
+title: "Configure Strategy(passport-google)"
+tag: 
+- 
+---
+# Configure Strategy (passport-google)
 >[[Configure Strategy]]
 
 存取（clientID, cilentSecret）導向 [[Configure Strategy]] 設定的 callbackURL

@@ -1,4 +1,9 @@
- # npm(node package manager)
+---
+title: "npm"
+tag: 
+- 
+---
+ # npm (node package manager)
 管理並追蹤他人撰寫的 Node [[模組]]，安裝 [[Node]] 就會一起下載下來囉！
 
 - [[npm 建置與指令]]

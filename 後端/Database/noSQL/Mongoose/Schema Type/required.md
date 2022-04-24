@@ -1,4 +1,9 @@
-## required(Mongoose Validators)
+---
+title: "required"
+tag: 
+- 
+---
+## required (Mongoose Validators)
 值可以是：
 - boolean
 - array: `[true, "沒有填的時候跳出的錯誤提示"]`

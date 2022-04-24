@@ -1,4 +1,9 @@
-# Delete(Mongoose)
+---
+title: "Delete"
+tag: 
+- 
+---
+# Delete (Mongoose)
 ```js
 model.deleteOne();
 model.deleteMany();

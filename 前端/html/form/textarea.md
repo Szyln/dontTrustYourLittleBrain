@@ -1,3 +1,8 @@
+---
+title: "textarea"
+tag: 
+- 
+---
 # textarea
 [mdn](https://developer.mozilla.org/ja/docs/Web/HTML/Element/textarea)
 

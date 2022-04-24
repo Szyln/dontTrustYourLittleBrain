@@ -1,4 +1,9 @@
-# 初始化(initializer)
+---
+title: "初始化(initializer)"
+tag: 
+- 
+---
+# 初始化 (initializer)
 宣告後**賦值**的動作，宣告後沒有初始化的 const 是不能使用的
 ```js
 var a;		// 未初始化

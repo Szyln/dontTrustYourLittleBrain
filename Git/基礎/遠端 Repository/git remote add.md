@@ -1,3 +1,8 @@
+---
+title: "git remote add"
+tag: 
+- 
+---
 ## 現存本機 repo 加入到遠端 repo
 ```shell
 git remote add origin https://github.com/Szyln/Joanne.CV.git

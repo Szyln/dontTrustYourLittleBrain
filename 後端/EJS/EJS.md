@@ -1,4 +1,9 @@
-# EJS(Embedded JavaScript)
+---
+title: "EJS"
+tag: 
+- 
+---
+# EJS (Embedded JavaScript)
 - 一種[[樣板語言]](template language)，可以做樣板管理
 - 中文：嵌入式 JS
 - 一種[[樣板語言]]，在 JS 的環境下寫 HTML

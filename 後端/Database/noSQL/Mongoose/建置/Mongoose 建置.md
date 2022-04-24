@@ -1,3 +1,8 @@
+---
+title: "Mongoose 建置"
+tag: 
+- 
+---
 # [[Mongoose]] 建置
 - npm install: express, ejs, mongoose([[npm 建置與指令]])
 - import：[[取得 Node.js 裡的模組]]

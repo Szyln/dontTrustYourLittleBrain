@@ -1,3 +1,8 @@
+---
+title: "Find(Read)"
+tag: 
+- 
+---
 # Mongoose Find (Read)
 ```js
 Model.find()				// 回傳 array with object

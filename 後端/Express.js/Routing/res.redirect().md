@@ -1,4 +1,9 @@
-# res.redirect()
+---
+title: "res.redirect()"
+tag: 
+- 
+---
+# res.redirect ()
 重導到其他頁面
 ```js
 // 收到 put 更新後，更新數據庫

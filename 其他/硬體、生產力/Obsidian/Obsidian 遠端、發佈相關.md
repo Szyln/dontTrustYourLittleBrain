@@ -1,3 +1,9 @@
+---
+title: "Obsidian 遠端、發佈相關"
+tag: 
+- 
+---
+
 # Obsidian 遠端、發佈相關
 [loseq](https://logseq.com/)
 [foam](https://foambubble.github.io/)
@@ -10,7 +16,7 @@ obsidian 發布之後 `[[]]` 會失效
 
 
 # Publish your Obsidian Vault Online for Free with Quartz
->[詳細](https://brandonkboswell.com/blog/Publishing-your-Obsidian-Vault-Online-with-Quartz/)
+>[詳細](https://bra　ndonkboswell.com/blog/Publishing-your-Obsidian-Vault-Online-with-Quartz/)
 >[Publish your Obsidian Vault Online for Free with Quartz](https://youtu.be/ITiiuBNVue0)
 
 - [Quartz](https://github.com/jackyzha0/quartz)

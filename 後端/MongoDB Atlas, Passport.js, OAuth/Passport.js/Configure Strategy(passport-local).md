@@ -1,4 +1,9 @@
-# Configure Strategy(passport-local)
+---
+title: "Configure Strategy(passport-local)"
+tag: 
+- 
+---
+# Configure Strategy (passport-local)
 >[[Configure Strategy]]
 >- [[bcrypt#檢查密碼]]：登入時加密
 ```js

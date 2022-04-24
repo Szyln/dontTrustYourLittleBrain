@@ -1,3 +1,8 @@
+---
+title: "label"
+tag: 
+- 
+---
 # label tag
 > [[label]] 的 for 屬性內容對應 [[input]] 的 id 屬性內容，互成一組
 - input 的標籤（不強制使用）

@@ -1,3 +1,8 @@
+---
+title: "stopPropagation"
+tag: 
+- 
+---
 ## stopPropagation
 阻止 [[Event Bubbling]] 的方法
 - stopPropagation()

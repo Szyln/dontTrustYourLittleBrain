@@ -1,3 +1,8 @@
+---
+title: "Styling in JSX"
+tag: 
+- 
+---
 # Styling in JSX
 - [[Inline styling(JSX)]]
 - [[SCSS(JSX)]]

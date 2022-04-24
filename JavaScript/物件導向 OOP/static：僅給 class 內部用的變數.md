@@ -1,3 +1,8 @@
+---
+title: "static：僅給 class 內部用的變數"
+tag: 
+- 
+---
 # Static 的 properties, methods
 Static 的屬性與方法僅供 class 內部做呼叫，不會拿來給物件實例做呼叫
 ```js

@@ -1,3 +1,8 @@
+---
+title: "Obsidian 快捷鍵"
+tag: 
+- 
+---
 `cmd-O` 快速搜尋
 `cmd-E` 切換預覽 / 編輯
 `cmd-shift-F` 搜尋

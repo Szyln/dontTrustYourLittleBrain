@@ -1,3 +1,8 @@
+---
+title: "Prototype Inheritance"
+tag: 
+- 
+---
 # Prototype Inheritance
 我們自己可以設定一個 object，但也可以去讀取裡面沒有設定的 methods，原因是因為有從 prototype 的預設功能繼承
 

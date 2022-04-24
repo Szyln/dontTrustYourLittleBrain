@@ -1,3 +1,8 @@
+---
+title: "Babel"
+tag: 
+- 
+---
 # Babel
 - JavaScript [[Compiler]]，可以將 [[JSX]] 編譯成原始的 React 寫法
 - 不用特別裝，VScode

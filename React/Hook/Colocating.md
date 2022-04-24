@@ -1,3 +1,8 @@
+---
+title: "Colocating"
+tag: 
+- 
+---
 # Colocating
 在 [[State Lifting]] 時，因為子層多個元件需要同時用一個 state 資訊，所以將該 state 提升到母層使用，並以 props 的方式下放到子層做使用
 

@@ -1,3 +1,8 @@
+---
+title: "DOM 需要知道的 methods, properties"
+tag: 
+- 
+---
 ![](https://i.imgur.com/42G4N5a.png)
 # Element Object
 - 所有 html 的 element（所有標籤）都可以用這些功能（都從 element object 中繼承而來）

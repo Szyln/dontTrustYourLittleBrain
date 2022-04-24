@@ -1,3 +1,8 @@
+---
+title: "EJS 建置"
+tag: 
+- 
+---
 # EJS 建置
 ## 安裝
 - VS插件：[EJS Language support]

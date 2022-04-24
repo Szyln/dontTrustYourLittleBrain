@@ -1,4 +1,9 @@
-# join()
+---
+title: "join()"
+tag: 
+- 
+---
+# join ()
 將 array 元素合併成字串，可以自訂串連時的連接詞
 ```js
 let fruit = [apple, banana, kiwi];

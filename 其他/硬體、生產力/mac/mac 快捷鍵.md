@@ -1,3 +1,8 @@
+---
+title: "mac 快捷鍵"
+tag: 
+- 
+---
 # 顯示隱藏檔案 cmd+shift+.
 ```
 cmd+shift+.

@@ -1,3 +1,8 @@
+---
+title: "Class Component"
+tag: 
+- 
+---
 ## Class Component
 >現今版本已經不建議使用，參考：[[Component：可重複利用、自定參數的元件]]
 ```jsx

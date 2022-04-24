@@ -1,3 +1,8 @@
+---
+title: "Swiper Parameters"
+tag: 
+- 
+---
 # Swiper Parameters
 [Parameters](https://swiperjs.com/swiper-api#parameters)
 

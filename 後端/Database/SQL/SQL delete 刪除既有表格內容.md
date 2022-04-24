@@ -1,3 +1,8 @@
+---
+title: "SQL delete 刪除既有表格內容"
+tag: 
+- 
+---
 # 刪除既有表格內容
 ```sql
 DELETE FROM employees WHERE employeeID = 107;

@@ -1,3 +1,8 @@
+---
+title: "Floating Point"
+tag: 
+- 
+---
 # Floating Point
 因為電腦的二進位跟小數點的十進位換算有點複雜
 可能會遇到碰上小數點無法正常運算的問題

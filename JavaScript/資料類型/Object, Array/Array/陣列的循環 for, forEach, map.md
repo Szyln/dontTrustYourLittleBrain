@@ -1,3 +1,8 @@
+---
+title: "陣列的循環 for, forEach, map"
+tag: 
+- 
+---
 #  陣列的循環
 - for
 - forEach({callback function})

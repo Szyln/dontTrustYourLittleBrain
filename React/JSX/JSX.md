@@ -1,3 +1,8 @@
+---
+title: "JSX"
+tag: 
+- 
+---
 # JSX (JavaScript eXtension)
 - React 的原始的寫法[[生成標籤：React.createElement()]] 很複雜，通常都是透過 JSX 的功能來寫，再透過 [[Babel]] 編譯回原始寫法
 - 可以讓 JS 寫得像 HTML 一樣 

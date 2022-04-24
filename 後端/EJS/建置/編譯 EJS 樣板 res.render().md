@@ -1,4 +1,9 @@
-# 編譯 EJS 樣板 res.render()
+---
+title: "編譯 EJS 樣板 res.render()"
+tag: 
+- 
+---
+# 編譯 EJS 樣板 res.render ()
 > ejs 檔案要放在[[樣板：views 資料夾]]裡
 ```js
 // 單純編譯

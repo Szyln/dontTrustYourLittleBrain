@@ -1,3 +1,8 @@
+---
+title: "Dynamic Header"
+tag: 
+- 
+---
 # Dynamic Header
 設定黏在頭頂的 navbar，可以隨著滾輪變化（透明度、高度等）
  

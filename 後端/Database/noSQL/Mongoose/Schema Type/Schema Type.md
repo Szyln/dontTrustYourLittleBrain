@@ -1,4 +1,9 @@
-# Schema Type(Mongoose)
+---
+title: "Schema Type"
+tag: 
+- 
+---
+# Schema Type (Mongoose)
 >- [ ] 怎麼設定 primary key
 - [[Create]] 的時候，需要定義資料類型
 - 搭配 [[Validators]] 可以做更複雜的定義規範

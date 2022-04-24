@@ -1,3 +1,8 @@
+---
+title: "原始資料類型 Primitive Data Types"
+tag: 
+- 
+---
 # 原始[[資料類型]] primitive data types
 **不是物件**，沒有自己的屬性與功能
 擁有自己的值，不是參考

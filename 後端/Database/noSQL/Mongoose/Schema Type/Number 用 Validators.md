@@ -1,3 +1,8 @@
+---
+title: "Number 用 Validators"
+tag: 
+- 
+---
 # Number 用 [[Validators]]
 - Min
 - Max

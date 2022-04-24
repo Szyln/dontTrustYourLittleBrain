@@ -1,3 +1,8 @@
+---
+title: "Component：可重複利用、自定參數的元件"
+tag: 
+- 
+---
 # Component
 - 用 `function` 來 `return` HTML 元素，其中可以自訂參數來調整元素，方便重複使用
 - 透過 [[定義屬性(props)#物件定義屬性（ Key-Value Pair ）]]（參數）可以調整每個生成出來的元件

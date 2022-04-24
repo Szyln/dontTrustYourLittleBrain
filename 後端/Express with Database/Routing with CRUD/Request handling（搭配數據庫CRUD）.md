@@ -1,4 +1,9 @@
-# Request handling（搭配數據庫CRUD）
+---
+title: "Request handling（搭配數據庫CRUD）"
+tag: 
+- 
+---
+# Request handling（搭配數據庫 CRUD）
 - 使用數據庫多會用到 [[Promise]] 的功能
 - 需要使用 [[Mongoose]] 進行讀取、存入資料庫的行為
 

@@ -1,3 +1,8 @@
+---
+title: "Closure(Scope Chaining)"
+tag: 
+- 
+---
 # Clousure 閉包 (Scope Chaining)
 執行函數時，呼叫變數會依循
 1. 先在函數內找

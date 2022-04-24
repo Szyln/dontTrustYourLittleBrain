@@ -1,3 +1,8 @@
+---
+title: "MongoDB 指令"
+tag: 
+- 
+---
 # MongoDB 指令
 [[MongoDB 環境建置]] 運行之後
 ```shell

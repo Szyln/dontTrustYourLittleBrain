@@ -1,3 +1,8 @@
+---
+title: "EJS with Express 的基本設定"
+tag: 
+- 
+---
 # EJS with Express
 >取自[官網提供的方法](https://github.com/mde/ejs/wiki/Using-EJS-with-Express)
 

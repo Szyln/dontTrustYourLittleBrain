@@ -1,3 +1,8 @@
+---
+title: "Class"
+tag: 
+- 
+---
 # Class
 
 - 改善 [[Prototype Inheritance]] 的繁複寫法的語法糖，本質不變

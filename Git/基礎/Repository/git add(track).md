@@ -1,3 +1,8 @@
+---
+title: "git add(track)"
+tag: 
+- 
+---
 ## Track
 只有[[git init]]還不會產生效果，需要將裡面的檔案 track 起來，才能追蹤到他們的變化，之後[[git commit]] 的時候就會把他們提交出去了
 ### 全體 track

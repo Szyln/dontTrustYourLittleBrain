@@ -1,3 +1,8 @@
+---
+title: "Update with Validators"
+tag: 
+- 
+---
 # Update with Validators
 [[Validators]] 只有在一開始 set 的時候會做驗證，後續跑像是 [[Update]] 的功能就不會再驗證了，要加入一個內容 `runValidators`
 

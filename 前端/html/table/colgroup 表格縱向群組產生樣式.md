@@ -1,3 +1,8 @@
+---
+title: "colgroup 表格縱向群組產生樣式"
+tag: 
+- 
+---
 # colgroup 表格縱向群組產生樣式
 >[mdn](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element/colgroup)
 

@@ -1,3 +1,8 @@
+---
+title: "Fetch"
+tag: 
+- 
+---
 # Fetch
 - 利用 fetch 可以使用 JS 來連接別人的 [[API]]
 - 是一種 [[Promise]]

@@ -1,3 +1,8 @@
+---
+title: "Ambisonics"
+tag: 
+- 
+---
 # Ambisonics 動手做
 ## Ambisonics in Reaper
 [Ambisonics in Reaper](https://www.youtube.com/watch?v=fc5IXiR4KiQ)

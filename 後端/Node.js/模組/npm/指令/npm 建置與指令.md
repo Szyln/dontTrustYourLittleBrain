@@ -1,3 +1,8 @@
+---
+title: "npm 建置與指令"
+tag: 
+- 
+---
 # [[npm]] 建置與指令
 - [[安裝 Node.js]]（電腦）
 - [[npm init 初始化(package.json)]]（專案）：`package.json` 檔案

@@ -1,4 +1,9 @@
-# Create(Mongoose)
+---
+title: "Create"
+tag: 
+- 
+---
+# Create (Mongoose)
 > - [[建立架構 Define a Schema]] 之後可以利用 model 來建立，可以對 model 進行 [[Mongoose CRUD]]
 > - 更改過後需要存入 DB：[[透過 Mongoose 存入 MongoDB(Save)]]
 

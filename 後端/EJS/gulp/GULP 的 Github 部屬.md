@@ -1,3 +1,8 @@
+---
+title: "GULP 的 Github 部屬"
+tag: 
+- 
+---
 # GULP 的 Github 部屬
 使用 [[Git]] 做版本管理
 > Git 版本管理方法：[[Git#連接遠端版本控制]]

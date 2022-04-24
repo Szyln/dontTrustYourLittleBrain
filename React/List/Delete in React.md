@@ -1,3 +1,8 @@
+---
+title: "Delete in React"
+tag: 
+- 
+---
 # Delete in React
 >用 [[State Lifting]] 的範例
 

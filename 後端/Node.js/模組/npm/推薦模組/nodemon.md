@@ -1,3 +1,8 @@
+---
+title: "nodemon"
+tag: 
+- 
+---
 # nodemon
 [nodemon](https://www.npmjs.com/package/nodemon)
 code 更新後， cmd 會自動重新執行 node.js

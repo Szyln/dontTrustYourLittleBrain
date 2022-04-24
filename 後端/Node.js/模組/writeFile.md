@@ -1,3 +1,8 @@
+---
+title: "writeFile"
+tag: 
+- 
+---
 # writeFile
 
 ```js

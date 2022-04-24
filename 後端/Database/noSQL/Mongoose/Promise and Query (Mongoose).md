@@ -1,3 +1,8 @@
+---
+title: "Promise and Query (Mongoose)"
+tag: 
+- 
+---
 # [[Promise]] and Query (Mongoose)
 [Doc](https://mongoosejs.com/docs/api/model.html#model_Model.deleteMany) 內隨意找個 Model api 來看
 很容易看到 Returns 的欄位寫`<<Promise>>` 或是 `<<Query>>`（[Queries](https://mongoosejs.com/docs/queries.html)）

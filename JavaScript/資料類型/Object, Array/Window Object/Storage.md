@@ -1,3 +1,8 @@
+---
+title: "Storage"
+tag: 
+- 
+---
 # Storage
 - 瀏覽器的暫存空間（不是 [[Database 數據庫]]）
 - 放一些很簡單的資料，跟資安無關的內容

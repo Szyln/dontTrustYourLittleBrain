@@ -1,3 +1,8 @@
+---
+title: "建立 Google 的 OAuth 憑證"
+tag: 
+- 
+---
 # 建立 Google 的 OAuth 憑證
 [Google Cloud Platform](https://console.cloud.google.com/)
 - 在 Google Cloud Platform 建立專案

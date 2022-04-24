@@ -1,3 +1,8 @@
+---
+title: "readFile"
+tag: 
+- 
+---
 ```js
 fs.readFile('./try.txt', 'utf8', (e, data) => {
 	if (e) throw e;

@@ -1,3 +1,8 @@
+---
+title: "Vite"
+tag: 
+- 
+---
 # Vite
 比用 create-react-app 快的工具
 >[[安裝 Node.js]]

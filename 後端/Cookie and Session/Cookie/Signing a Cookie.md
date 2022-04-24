@@ -1,3 +1,8 @@
+---
+title: "Signing a Cookie"
+tag: 
+- 
+---
 # Signing a Cookie
 對 Cookie 進行簽署，辨識客戶端是否更改了 [[Cookie]] 之後傳回來
 

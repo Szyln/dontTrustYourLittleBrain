@@ -1,3 +1,8 @@
+---
+title: "mySQL"
+tag: 
+- 
+---
 # mySQL
 - [[SQL]] 的其中一種 [[DBMS(RDBMS)]]
 - [[mySQL 環境建置]]

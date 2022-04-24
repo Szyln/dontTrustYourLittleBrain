@@ -1,3 +1,8 @@
+---
+title: "Dependency array"
+tag: 
+- 
+---
 # Dependency array
 >[[useEffect Hook]] 
 

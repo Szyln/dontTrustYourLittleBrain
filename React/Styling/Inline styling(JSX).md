@@ -1,3 +1,8 @@
+---
+title: "Inline styling(JSX)"
+tag: 
+- 
+---
 # Inline Styling
 
 

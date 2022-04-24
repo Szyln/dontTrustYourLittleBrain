@@ -1,3 +1,8 @@
+---
+title: "git init"
+tag: 
+- 
+---
 ## 初始化
 針對需要產生 Git 的資料夾執行
 ```shell

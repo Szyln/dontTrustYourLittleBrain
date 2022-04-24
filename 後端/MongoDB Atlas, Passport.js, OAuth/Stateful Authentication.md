@@ -1,3 +1,8 @@
+---
+title: "Stateful Authentication"
+tag: 
+- 
+---
 # Stateful Authentication
 >[[Session]]
 - client 發送的請求時，server 會按照請求在 session memory 中尋找對應的 ID

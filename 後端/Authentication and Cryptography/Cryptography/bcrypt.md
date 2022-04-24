@@ -1,3 +1,8 @@
+---
+title: "bcrypt"
+tag: 
+- 
+---
 # bcrypt
 [npm](https://www.npmjs.com/package/bcrypt)
 業界很有名拿來做 [[Salting]], [[Hash Function]] 的演算法

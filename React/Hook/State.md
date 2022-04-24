@@ -1,3 +1,8 @@
+---
+title: "State"
+tag: 
+- 
+---
 # State
 >[[useState Hook]]
 - 一個狀態，可以拿來設定說這個狀態改變的話哪裡要一起更動

@@ -1,3 +1,8 @@
+---
+title: "secret 的變數設定"
+tag: 
+- 
+---
 # secret 的變數設定
 為了加密內容，secret 不該直接寫入字串，需要將其隱藏，需透過下列三項來達成
 - [[Node]] 內建全域物件：[[process(node)]]

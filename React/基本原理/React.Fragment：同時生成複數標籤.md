@@ -1,3 +1,8 @@
+---
+title: "React.Fragment：同時生成複數標籤"
+tag: 
+- 
+---
 # React.Fragment
 因為 [[ReactDOM：渲染]] 不能[[同時生成多個標籤]]，如果不想要[[上層多包一個標籤]]可以用這個功能
 

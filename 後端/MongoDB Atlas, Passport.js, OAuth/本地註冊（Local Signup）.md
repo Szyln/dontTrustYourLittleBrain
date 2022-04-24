@@ -1,3 +1,8 @@
+---
+title: "本地註冊（Local Signup）"
+tag: 
+- 
+---
 # 本地註冊
 這個註冊完，存到數據庫後不會有 googleID
 ```js

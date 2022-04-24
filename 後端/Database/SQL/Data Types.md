@@ -1,3 +1,8 @@
+---
+title: "Data Types"
+tag: 
+- 
+---
 # Data Types
 ```sql
 -- COMMENT

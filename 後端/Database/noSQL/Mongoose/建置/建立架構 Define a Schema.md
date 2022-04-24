@@ -1,3 +1,8 @@
+---
+title: "建立架構 Define a Schema"
+tag: 
+- 
+---
 ## 建立架構
 ### Define a Schema
 如同 [[SQL create 製作表格]] create table 的動作，Mongoose 也會定義物件的 [[Schema Type]]，之後就可以 [[Create a Model]] 做使用了

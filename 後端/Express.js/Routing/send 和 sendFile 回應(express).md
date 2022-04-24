@@ -1,3 +1,8 @@
+---
+title: "send 和 sendFile 回應(express)"
+tag: 
+- 
+---
 # 回應 html 內容 
 [[Routing]] 內有更多綜合運用
 ## res.send()

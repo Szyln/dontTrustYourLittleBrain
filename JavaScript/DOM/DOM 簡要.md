@@ -1,3 +1,8 @@
+---
+title: "DOM 簡要"
+tag: 
+- 
+---
 # DOM｜Document Object Model
  [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 -   類似 object

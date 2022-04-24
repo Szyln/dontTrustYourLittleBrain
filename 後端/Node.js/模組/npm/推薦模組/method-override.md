@@ -1,3 +1,8 @@
+---
+title: "method-override"
+tag: 
+- 
+---
 # method-override
 >[method-override](https://www.npmjs.com/package/method-override)
 ---

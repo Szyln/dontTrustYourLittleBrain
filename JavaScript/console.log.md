@@ -1,3 +1,8 @@
+---
+title: "console.log"
+tag: 
+- 
+---
 # console.log
 - [Handy Tips on Using console.log()](https://dmitripavlutin.com/console-log-tips/)
 

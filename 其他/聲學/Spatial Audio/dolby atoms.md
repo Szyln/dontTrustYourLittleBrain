@@ -1,3 +1,8 @@
+---
+title: "dolby atoms"
+tag: 
+- 
+---
 # 突破 channel base
 5.1
 7.1

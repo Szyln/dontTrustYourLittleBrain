@@ -1,3 +1,8 @@
+---
+title: "form(bootstrap)"
+tag: 
+- 
+---
 # form (bootstrap)
 - `form`
 	- `div` ：每個 input 都用 div 包住，設定 `mb-*`

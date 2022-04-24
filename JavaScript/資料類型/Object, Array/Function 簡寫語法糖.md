@@ -1,3 +1,8 @@
+---
+title: "Function 簡寫語法糖"
+tag: 
+- 
+---
 # Object 內的 function 簡寫
 原本的[[物件]]字面值的屬性都是以 [[Key-Value Pair]] 的形式出現，ES6 的語法糖中， function 可以如下簡寫：
 ## 原本寫法

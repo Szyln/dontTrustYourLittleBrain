@@ -1,3 +1,8 @@
+---
+title: "Strongly Weakly type Language"
+tag: 
+- 
+---
 # Strongly Weakly type Language
 ## Strongly
 Java, Ruby...

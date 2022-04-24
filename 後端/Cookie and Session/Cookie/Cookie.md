@@ -1,3 +1,8 @@
+---
+title: "Cookie"
+tag: 
+- 
+---
 # Cookie
 - 也是一個儲存資料的地方（類似[[Storage]]）
 - 但跟 [[Storage]] 不同的是，他是為了讓伺服器端讀取的，前者反之

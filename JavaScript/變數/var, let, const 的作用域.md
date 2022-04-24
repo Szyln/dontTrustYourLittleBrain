@@ -1,3 +1,8 @@
+---
+title: "var, let, const 的作用域"
+tag: 
+- 
+---
 # let, const, var 的差異
 [【直播記錄】JavaScript 那個 let, const, var 到底差在哪？](https://www.youtube.com/watch?v=FGdKdn_CnWo)
 [block(javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/block)

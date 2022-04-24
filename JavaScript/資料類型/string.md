@@ -1,3 +1,8 @@
+---
+title: "string"
+tag: 
+- 
+---
 # string
 ## string 的串接
 可以做串接（+），但不能做運算（加減乘除）

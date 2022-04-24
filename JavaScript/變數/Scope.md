@@ -1,3 +1,8 @@
+---
+title: "Scope"
+tag: 
+- 
+---
 # Scope 作用域
 [Scope(作用域)](https://developer.mozilla.org/en-US/docs/Glossary/Scope)
 有三種作用域

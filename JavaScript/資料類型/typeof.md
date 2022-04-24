@@ -1,3 +1,8 @@
+---
+title: "typeof"
+tag: 
+- 
+---
 ## 辨認類型 typeof
 （除[[判斷是否為 Array]]）
 ```js

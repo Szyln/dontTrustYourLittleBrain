@@ -1,4 +1,9 @@
-# HTML skeleton(Boilerplate)
+---
+title: "HTML skeleton"
+tag: 
+- 
+---
+# HTML skeleton (Boilerplate)
 網頁構成的骨架
 - `html`
   - [[<head>]]

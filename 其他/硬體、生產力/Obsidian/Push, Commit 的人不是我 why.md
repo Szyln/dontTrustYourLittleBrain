@@ -1,3 +1,8 @@
+---
+title: "Push, Commit 的人不是我 why"
+tag: 
+- 
+---
 # Push 的人不是我 why
 >[Why are my commits linked to the wrong user?](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/troubleshooting-commits/why-are-my-commits-linked-to-the-wrong-user)
 

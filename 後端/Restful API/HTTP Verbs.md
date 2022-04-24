@@ -1,4 +1,9 @@
-# HTTP Verbs(HTTP Methods)
+---
+title: "HTTP Verbs"
+tag: 
+- 
+---
+# HTTP Verbs (HTTP Methods)
 >[[HTTP request]]
 - GET
 - POST

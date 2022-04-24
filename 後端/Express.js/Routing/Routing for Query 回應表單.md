@@ -1,3 +1,8 @@
+---
+title: "Routing for Query 回應表單"
+tag: 
+- 
+---
 # 回應表單 (Routing for Query)
 回應取代一般的 get ，會使用對應 [[Form]] 的 post 功能
 

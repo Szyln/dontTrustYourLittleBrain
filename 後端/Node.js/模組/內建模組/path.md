@@ -1,4 +1,10 @@
-# [path](https://nodejs.org/dist/latest-v16.x/docs/api/path.html)模組
+---
+title: "path"
+tag: 
+- 
+---
+
+# [path](https://nodejs.org/dist/latest-v16.x/docs/api/path.html) 模組
 [[內建模組(Node.js)]] 之一
 
 >[[Node.js 的預設參數#路徑相關]]：兩者都是顯示「路徑」，無法單純顯示檔名

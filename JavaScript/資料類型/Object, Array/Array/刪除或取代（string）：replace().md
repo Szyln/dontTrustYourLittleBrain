@@ -1,3 +1,8 @@
+---
+title: "刪除或取代（string）：replace()"
+tag: 
+- 
+---
 # 刪除或取代（string）
 ```js
 let str1 = 'I am strring.'

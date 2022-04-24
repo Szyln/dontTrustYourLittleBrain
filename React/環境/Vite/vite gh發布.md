@@ -1,3 +1,8 @@
+---
+title: "vite gh發布"
+tag: 
+- 
+---
 # vite gh-page 發布
 >[Deploying Vite App to GitHub Pages](https://dev.to/shashannkbawa/deploying-vite-app-to-github-pages-3ane)
 ## 步驟
