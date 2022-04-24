@@ -22,7 +22,14 @@
     "js",
     "npm",
     "WebGL",
-    "keyframes"
+    "keyframes",
+    "mern",
+    "bcrypt",
+    "jsonwebtoken",
+    "joi",
+    "Validators",
+    "jwt",
+    "config"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",

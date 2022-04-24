@@ -6,7 +6,7 @@ tag:
 # Quartz 發布 Obsidian
 >[Quartz](https://quartz.jzhao.xyz/)
 
-[[Quartz 特性]]
+[[其他/Obsidian/Quartz/Quartz 特性]]
 
 ## 安裝步驟
 >[Get started](https://quartz.jzhao.xyz/notes/setup/)
@@ -14,7 +14,7 @@ tag:
 >	- [ ] git, Github 基礎理解
 >	- [ ] 終端機基礎操作
 
-### [[Fork]] 原作者的 repo
+### [[其他/Obsidian/Quartz/Fork]] 原作者的 repo
 >[quartz 的 repo](https://github.com/jackyzha0/quartz)
 
 這樣你就會在你的 github 上看到一個內容一樣的檔案
@@ -33,7 +33,7 @@ git clone https://github.com/jackyzha0/quartz.git
 [git submodule 教學](https://kmsheng.medium.com/git-submodule-%E6%95%99%E5%AD%B8-96ab0255c88c)
 
 https://github.com/shiftyp/submodule-gh-pages-example
-[Obsidian 遠端、發佈相關](其他/硬體、生產力/Obsidian/Obsidian%20遠端、發佈相關.md)
+[Obsidian 遠端、發佈相關](其他/Obsidian/Obsidian%20遠端、發佈相關.md)
 ### Obsidian 設定
 將一個 vault 放到 `/content` 資料夾內，必須的設定如下
 ![](https://i.imgur.com/YEir2BK.png)
