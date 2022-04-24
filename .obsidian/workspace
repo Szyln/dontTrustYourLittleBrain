@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Git/Git.md",
+            "file": "GSAP.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Git.md",
+                "file": "GSAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Git.md"
+                "file": "GSAP.md"
               }
             }
           }
@@ -117,15 +117,15 @@
   },
   "active": "6c7629f68082f7cb",
   "lastOpenFiles": [
+    "GSAP.md",
+    "templates/post.md",
+    "其他/硬體、生產力/Obsidian/Obsidian 遠端、發佈相關.md",
+    "Quartz 發布 obsidian.md",
     "Git/Git.md",
     "Discord/carl.gg 建立身分組防止 discord 洗版.md",
-    "Quartz 發布 obsidian.md",
-    "其他/硬體、生產力/Obsidian/Obsidian 遠端、發佈相關.md",
     "前端/html/skeleton/html lang.md",
     "後端/EJS/SSG/Eleventy.md",
     "後端/Node.js/模組/npm/nvm.md",
-    "Git/基礎/Repository/git add(track).md",
-    "Fork.md",
-    "Quartz 特性.md"
+    "Git/基礎/Repository/git add(track).md"
   ]
 }

@@ -16,7 +16,10 @@
     "BitKeeper",
     "cd",
     "Github",
-    "repo"
+    "repo",
+    "css",
+    "gsap",
+    "js"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",
