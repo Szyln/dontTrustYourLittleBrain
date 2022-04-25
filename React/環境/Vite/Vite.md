@@ -4,26 +4,15 @@ tag:
 - 
 ---
 # Vite
-比用 create-react-app 快的工具
+比用 create-react-app 快的工具，念 veet 喔
 >[[安裝 Node.js]]
 
-## 在專案
-```shell
-npm init vite@latest
-```
-## 會被問
-- ok to proceed?
-- project name
-- framework
-- variant
+- [Vite 安裝](Vite%20安裝.md)
+- [dart-sass(sass) 建置](前端/CSS/scss/dart-sass(sass)%20建置.md)
+- [vite gh發布](React/環境/Vite/vite%20gh發布.md)
+- [rollup-plugin-copy（未完成）](React/環境/Vite/rollup-plugin-copy（未完成）.md)
+- [vite 發布圖片不會正常顯示問題](React/環境/Vite/vite%20發布圖片不會正常顯示問題.md)
 
 
-```shell
-// 移動到該專案
-cd test-project
-npm install
-// localhost
-npm run dev
-```
 
 #js/react #vite

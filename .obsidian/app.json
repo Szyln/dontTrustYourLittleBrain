@@ -29,7 +29,10 @@
     "joi",
     "Validators",
     "jwt",
-    "config"
+    "config",
+    "Homebrew",
+    "Chocolatey",
+    "vite"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",
