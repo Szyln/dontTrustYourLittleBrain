@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MERN.md",
-            "mode": "source"
+            "file": "React/Routing/react-router-dom 版本差異.md",
+            "mode": "preview"
           }
         }
       }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MERN.md",
+                "file": "React/Routing/react-router-dom 版本差異.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MERN.md"
+                "file": "React/Routing/react-router-dom 版本差異.md"
               }
             }
           }
@@ -119,6 +119,7 @@
   },
   "active": "e19580b3da9add39",
   "lastOpenFiles": [
+    "React/Routing/react-router-dom 版本差異.md",
     "MERN.md",
     "axios.md",
     "cors.md",
@@ -127,7 +128,6 @@
     "React/環境/Vite/vite gh發布.md",
     "React/Hook/eslint-plugin-react-hooks.md",
     "React/React.md",
-    "React/基本原理/React 使用的模組.md",
-    "前端/CSS/scss/dart-sass(sass) 建置.md"
+    "React/基本原理/React 使用的模組.md"
   ]
 }
