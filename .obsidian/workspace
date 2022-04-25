@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "cors.md",
+            "file": "axios.md",
             "mode": "source"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cors.md",
+                "file": "axios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cors.md"
+                "file": "axios.md"
               }
             }
           }
@@ -119,15 +119,15 @@
   },
   "active": "e19580b3da9add39",
   "lastOpenFiles": [
-    "cors.md",
+    "axios.md",
     "MERN.md",
+    "cors.md",
     "MERN 後端安裝.md",
     "React/環境/Vite/Vite.md",
     "React/環境/Vite/vite gh發布.md",
     "React/Hook/eslint-plugin-react-hooks.md",
     "React/React.md",
     "React/基本原理/React 使用的模組.md",
-    "前端/CSS/scss/dart-sass(sass) 建置.md",
-    "React/環境/Vite/vite 發布圖片不會正常顯示問題.md"
+    "前端/CSS/scss/dart-sass(sass) 建置.md"
   ]
 }
