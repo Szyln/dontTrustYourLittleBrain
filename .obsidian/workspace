@@ -4,18 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "e19580b3da9add39",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "其他/生活/職缺.md",
-            "mode": "preview"
-          }
-        },
-        "group": "7bda89160db68738"
-      },
-      {
         "id": "62d720700003813b",
         "type": "leaf",
         "state": {
@@ -24,8 +12,7 @@
             "file": "其他/生活/職缺.md",
             "mode": "source"
           }
-        },
-        "group": "7bda89160db68738"
+        }
       }
     ],
     "direction": "vertical"
