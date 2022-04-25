@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "62d720700003813b",
+        "id": "1ca1f2e2b2fc13c8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他/生活/職缺.md",
+            "file": "obsidian 大推坑.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "感",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244,
-    "collapsed": true
+    "width": 244
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/生活/職缺.md",
+                "file": "obsidian 大推坑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/生活/職缺.md"
+                "file": "obsidian 大推坑.md"
               }
             }
           }
@@ -117,17 +116,17 @@
     "width": 240.4686279296875,
     "collapsed": true
   },
-  "active": "62d720700003813b",
+  "active": "1ca1f2e2b2fc13c8",
   "lastOpenFiles": [
-    "其他/生活/職缺.md",
-    "React/Routing/react-router-dom 版本差異.md",
-    "MERN.md",
-    "axios.md",
-    "cors.md",
-    "MERN 後端安裝.md",
-    "React/環境/Vite/Vite.md",
-    "React/環境/Vite/vite gh發布.md",
-    "React/Hook/eslint-plugin-react-hooks.md",
-    "React/React.md"
+    "obsidian 大推坑.md",
+    "React/環境/Vite/rollup-plugin-copy（未完成）.md",
+    "後端/Node.js/模組/npm/推薦模組/method-override.md",
+    "建立新文章.md",
+    "React/React.md",
+    "Pasted image 20220425195419.png",
+    "markdown 標題寫法.md",
+    "JavaScript/資料類型/Object, Array/Array/Array.md",
+    "JavaScript/資料類型/Object, Array/Array/find().md",
+    "JavaScript/資料類型/Object, Array/Array/條件判定陣列的元素.md"
   ]
 }

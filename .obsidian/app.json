@@ -36,7 +36,8 @@
     "init",
     "json",
     "cors",
-    "axios"
+    "axios",
+    "html"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",
