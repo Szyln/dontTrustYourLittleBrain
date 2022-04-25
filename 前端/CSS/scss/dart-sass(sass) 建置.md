@@ -22,28 +22,29 @@ npm add -d sass # 在該專案執行
 ```
 
 ### 使用方法
-- 執行指令
-- 
-### 執行指令
+>[npm init 初始化(package.json)](後端/Node.js/模組/npm/指令/npm%20init%20初始化(package.json).md)，"script" 可以加入自訂指令
+
+設定 `build-css` 的指令，直接輸入 `npm run build-css` 即可運行
+```json
+"scripts": {
+	"build-css": "sass -w src/style/scss/all.scss src/style/all.css"
+},
+```
+
+
+#### 原本的寫法是這樣
 運行將 `.sass`, `.scss` 編譯成 `.css` 的指令
 ```shell
 sass <路徑/all.scss> <路徑/all.css>
 ```
 
-### 即時監控更新
+##### 即時監控更新 --w
 每次寫新的 Sass 就要執行一次指令不太實際，可以使用 `-w` （ `--watch` 的縮寫）來執行 
 ```shell
 sass --w <路徑/all.scss> <路徑/all.css>
 ```
 
-#### 簡化指令（選用）
-在使用 [[Node]] 環境下， `package.json` 可以加入 `scripts` 方便執行指令更快速
-舉例這裡新增 `build-css` 的指令後，就可以縮短這整串，直接輸入 `npm run build-css` 即可
-```json
-"scripts": {
-	"build-css": "sass -w src/style/scss/all. scss src/style/all. css"
-},
-```
+
 
 
 #vite #js/react #css/scss #node/npm 

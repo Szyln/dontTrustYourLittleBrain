@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端/CSS/scss/dart-sass(sass) 建置.md",
-            "mode": "source"
+            "file": "React/Hook/eslint-plugin-react-hooks.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vite",
+                "query": "eslin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244,
-    "collapsed": true
+    "width": 244
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/CSS/scss/dart-sass(sass) 建置.md",
+                "file": "React/Hook/eslint-plugin-react-hooks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/CSS/scss/dart-sass(sass) 建置.md"
+                "file": "React/Hook/eslint-plugin-react-hooks.md"
               }
             }
           }
@@ -119,15 +118,15 @@
   },
   "active": "e19580b3da9add39",
   "lastOpenFiles": [
-    "前端/CSS/scss/dart-sass(sass) 建置.md",
-    "其他安裝方式（brew 等）.md",
-    "React/環境/Vite/Vite.md",
+    "React/Hook/eslint-plugin-react-hooks.md",
     "React/React.md",
+    "React/基本原理/React 使用的模組.md",
+    "React/環境/Vite/Vite.md",
+    "前端/CSS/scss/dart-sass(sass) 建置.md",
     "React/環境/Vite/vite 發布圖片不會正常顯示問題.md",
-    "後端/Database/noSQL/Mongoose/CRUD/Delete.md",
-    "後端/Database/noSQL/Mongoose/Schema Type/Update with Validators.md",
-    "後端/Express with Database/Routing with CRUD/使用 Routing for pattern 顯示特定數據庫物件.md",
-    "後端/Restful API/API 提供特定資料.md",
-    "其他/生活/職缺.md"
+    "後端/Node.js/模組/npm/指令/npm init 初始化(package.json).md",
+    "後端/Node.js/介紹/Node 指令.md",
+    "其他安裝方式（brew 等）.md",
+    "後端/Database/noSQL/Mongoose/CRUD/Delete.md"
   ]
 }

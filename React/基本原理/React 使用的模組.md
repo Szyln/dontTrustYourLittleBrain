@@ -16,11 +16,7 @@ import ReactDOM from 'react-dom';
 
 >[[ReactDOM：渲染]]
 
+>[檔案變多之後的模組運用](React/環境/檔案變多之後的模組運用.md)
 
->[[檔案變多之後的模組運用---
-title: "React 使用的模組"
-tag: 
-- 
----
 
 #js/react #js/module 

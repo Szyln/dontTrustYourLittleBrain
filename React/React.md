@@ -18,6 +18,7 @@ tag:
 
 ## 環境
 - [[安裝 React]]
+	- [Vite](React/環境/Vite/Vite.md)
 - [[React 使用的模組]]
 	- [[ReactDOM：渲染]]
 - [[React 環境]]
