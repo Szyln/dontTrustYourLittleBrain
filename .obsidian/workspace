@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "後端/Database/noSQL/Mongoose/Schema Type/Update with Validators.md",
+            "file": "後端/Database/noSQL/Mongoose/CRUD/Delete.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "runVa",
+                "query": "findOneAndD",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "後端/Database/noSQL/Mongoose/Schema Type/Update with Validators.md",
+                "file": "後端/Database/noSQL/Mongoose/CRUD/Delete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "後端/Database/noSQL/Mongoose/Schema Type/Update with Validators.md"
+                "file": "後端/Database/noSQL/Mongoose/CRUD/Delete.md"
               }
             }
           }
@@ -118,6 +118,7 @@
   },
   "active": "e19580b3da9add39",
   "lastOpenFiles": [
+    "後端/Database/noSQL/Mongoose/CRUD/Delete.md",
     "後端/Database/noSQL/Mongoose/Schema Type/Update with Validators.md",
     "後端/Express with Database/Routing with CRUD/使用 Routing for pattern 顯示特定數據庫物件.md",
     "後端/Restful API/API 提供特定資料.md",
@@ -126,7 +127,6 @@
     "GSAP/GSAP + React（還沒寫）.md",
     "React/環境/Vite/Vite.md",
     "GSAP/GSAP(index).md",
-    "MERN.md",
-    "MERN 後端安裝.md"
+    "MERN.md"
   ]
 }
