@@ -34,7 +34,8 @@
     "Chocolatey",
     "vite",
     "init",
-    "json"
+    "json",
+    "cors"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",

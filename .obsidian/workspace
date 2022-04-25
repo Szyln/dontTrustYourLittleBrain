@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React/Hook/eslint-plugin-react-hooks.md",
-            "mode": "preview"
+            "file": "cors.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "eslin",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244
+    "width": 244,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Hook/eslint-plugin-react-hooks.md",
+                "file": "cors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Hook/eslint-plugin-react-hooks.md"
+                "file": "cors.md"
               }
             }
           }
@@ -118,15 +119,15 @@
   },
   "active": "e19580b3da9add39",
   "lastOpenFiles": [
+    "cors.md",
+    "MERN.md",
+    "MERN 後端安裝.md",
+    "React/環境/Vite/Vite.md",
+    "React/環境/Vite/vite gh發布.md",
     "React/Hook/eslint-plugin-react-hooks.md",
     "React/React.md",
     "React/基本原理/React 使用的模組.md",
-    "React/環境/Vite/Vite.md",
     "前端/CSS/scss/dart-sass(sass) 建置.md",
-    "React/環境/Vite/vite 發布圖片不會正常顯示問題.md",
-    "後端/Node.js/模組/npm/指令/npm init 初始化(package.json).md",
-    "後端/Node.js/介紹/Node 指令.md",
-    "其他安裝方式（brew 等）.md",
-    "後端/Database/noSQL/Mongoose/CRUD/Delete.md"
+    "React/環境/Vite/vite 發布圖片不會正常顯示問題.md"
   ]
 }
