@@ -37,7 +37,9 @@
     "json",
     "cors",
     "axios",
-    "html"
+    "html",
+    "Zettelkasten",
+    "firefox"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",
