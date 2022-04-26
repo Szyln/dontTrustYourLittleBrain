@@ -6,12 +6,27 @@
       {
         "id": "1ca1f2e2b2fc13c8",
         "type": "leaf",
+        "dimension": 71.40845070422536,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "MERN.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "fb274e4be8da7554",
+        "type": "leaf",
+        "dimension": 28.591549295774648,
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "其他/生活/行程（完成後刪）.md",
             "mode": "preview"
-          }
+          },
+          "pinned": true
         }
       }
     ],
@@ -116,9 +131,10 @@
     "width": 240.4686279296875,
     "collapsed": true
   },
-  "active": "1ca1f2e2b2fc13c8",
+  "active": "fb274e4be8da7554",
   "lastOpenFiles": [
     "其他/生活/行程（完成後刪）.md",
+    "MERN.md",
     "React/環境/Vite/vite gh發布.md",
     "doyoga整型.md",
     "其他/生活/職缺.md",
@@ -126,7 +142,6 @@
     "Pasted image 20220425195419.png",
     "建立新文章.md",
     "markdown 標題寫法.md",
-    "React/環境/Vite/rollup-plugin-copy（未完成）.md",
-    "後端/Node.js/模組/npm/推薦模組/method-override.md"
+    "React/環境/Vite/rollup-plugin-copy（未完成）.md"
   ]
 }
