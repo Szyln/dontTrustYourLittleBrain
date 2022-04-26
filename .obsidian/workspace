@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他/生活/行程（完成後刪）.md",
-            "mode": "preview"
+            "file": "doyoga整型.md",
+            "mode": "source"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/生活/行程（完成後刪）.md",
+                "file": "doyoga整型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/生活/行程（完成後刪）.md"
+                "file": "doyoga整型.md"
               }
             }
           }
@@ -117,6 +117,7 @@
   },
   "active": "1ca1f2e2b2fc13c8",
   "lastOpenFiles": [
+    "doyoga整型.md",
     "其他/生活/行程（完成後刪）.md",
     "其他/生活/職缺.md",
     "obsidian 大推坑.md",
@@ -125,7 +126,6 @@
     "markdown 標題寫法.md",
     "React/環境/Vite/rollup-plugin-copy（未完成）.md",
     "後端/Node.js/模組/npm/推薦模組/method-override.md",
-    "React/React.md",
-    "JavaScript/資料類型/Object, Array/Array/Array.md"
+    "React/React.md"
   ]
 }
