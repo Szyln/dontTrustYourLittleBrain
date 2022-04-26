@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "doyoga整型.md",
-            "mode": "source"
+            "file": "其他/生活/行程（完成後刪）.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "doyoga整型.md",
+                "file": "其他/生活/行程（完成後刪）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "doyoga整型.md"
+                "file": "其他/生活/行程（完成後刪）.md"
               }
             }
           }
@@ -117,8 +117,8 @@
   },
   "active": "1ca1f2e2b2fc13c8",
   "lastOpenFiles": [
-    "doyoga整型.md",
     "其他/生活/行程（完成後刪）.md",
+    "doyoga整型.md",
     "其他/生活/職缺.md",
     "obsidian 大推坑.md",
     "Pasted image 20220425195419.png",
