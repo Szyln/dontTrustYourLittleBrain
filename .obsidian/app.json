@@ -39,7 +39,10 @@
     "axios",
     "html",
     "Zettelkasten",
-    "firefox"
+    "firefox",
+    "useHistory",
+    "useNavigate",
+    "stackoverflow"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",
