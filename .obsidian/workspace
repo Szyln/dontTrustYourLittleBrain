@@ -4,21 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "1ca1f2e2b2fc13c8",
-        "type": "leaf",
-        "dimension": 71.40845070422536,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "JavaScript/DOM/DOM 新舊對比.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
         "id": "fb274e4be8da7554",
         "type": "leaf",
-        "dimension": 28.591549295774648,
         "pinned": true,
         "state": {
           "type": "markdown",
