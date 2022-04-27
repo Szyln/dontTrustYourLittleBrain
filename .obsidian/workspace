@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/資料類型/類型轉換.md",
+            "file": "其他/生活/行程（完成後刪）.md",
             "mode": "preview"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/資料類型/類型轉換.md",
+                "file": "其他/生活/行程（完成後刪）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/資料類型/類型轉換.md"
+                "file": "其他/生活/行程（完成後刪）.md"
               }
             }
           }
@@ -119,8 +119,8 @@
   },
   "active": "a6318d90ab6aa5fd",
   "lastOpenFiles": [
-    "JavaScript/資料類型/類型轉換.md",
     "其他/生活/行程（完成後刪）.md",
+    "JavaScript/資料類型/類型轉換.md",
     "MERN.md",
     "JavaScript/邏輯、條件、比較/條件/Logic OR.md",
     "後端/API/Node to API.md",
