@@ -4,16 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "fb274e4be8da7554",
+        "id": "a6318d90ab6aa5fd",
         "type": "leaf",
-        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他/生活/行程（完成後刪）.md",
+            "file": "Logic AND(&&).md",
             "mode": "source"
-          },
-          "pinned": true
+          }
         }
       }
     ],
@@ -50,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -73,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/生活/行程（完成後刪）.md",
+                "file": "Logic AND(&&).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/生活/行程（完成後刪）.md"
+                "file": "Logic AND(&&).md"
               }
             }
           }
@@ -119,17 +116,17 @@
     "width": 240.4686279296875,
     "collapsed": true
   },
-  "active": "fb274e4be8da7554",
+  "active": "a6318d90ab6aa5fd",
   "lastOpenFiles": [
+    "Logic AND(&&).md",
+    "JavaScript/邏輯、條件、比較/條件/Logic OR.md",
+    "MERN.md",
     "其他/生活/行程（完成後刪）.md",
     "JavaScript/DOM/DOM 新舊對比.md",
     "JavaScript/DOM/DOM 簡要.md",
     "JavaScript/DOM/DOM 需要知道的 methods, properties.md",
     "JavaScript/資料類型/Object, Array/Array/判斷是否為 Array.md",
     "JavaScript/資料類型/typeof.md",
-    "JavaScript/資料類型/Object, Array/Array/條件判定陣列的元素.md",
-    "JavaScript/資料類型/Object, Array/Array/find().md",
-    "useNavigate Hook(useHistory).md",
-    "useHistory Hook.md"
+    "JavaScript/資料類型/Object, Array/Array/條件判定陣列的元素.md"
   ]
 }

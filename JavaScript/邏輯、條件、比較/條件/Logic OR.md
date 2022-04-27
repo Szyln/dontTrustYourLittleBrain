@@ -1,7 +1,7 @@
 ---
 title: "Logic OR"
 tag: 
-- 
+- js/logic
 ---
 # Logic OR (||)
 > [mdn](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_OR)
