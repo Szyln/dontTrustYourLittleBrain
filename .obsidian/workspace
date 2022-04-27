@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Logic AND(&&).md",
+            "file": "JavaScript/邏輯、條件、比較/條件/Logic OR.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic AND(&&).md",
+                "file": "JavaScript/邏輯、條件、比較/條件/Logic OR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Logic AND(&&).md"
+                "file": "JavaScript/邏輯、條件、比較/條件/Logic OR.md"
               }
             }
           }
@@ -118,15 +118,15 @@
   },
   "active": "a6318d90ab6aa5fd",
   "lastOpenFiles": [
-    "Logic AND(&&).md",
     "JavaScript/邏輯、條件、比較/條件/Logic OR.md",
+    "Logic AND(&&).md",
+    "JavaScript/資料類型/falsy value.md",
     "MERN.md",
     "其他/生活/行程（完成後刪）.md",
     "JavaScript/DOM/DOM 新舊對比.md",
     "JavaScript/DOM/DOM 簡要.md",
     "JavaScript/DOM/DOM 需要知道的 methods, properties.md",
     "JavaScript/資料類型/Object, Array/Array/判斷是否為 Array.md",
-    "JavaScript/資料類型/typeof.md",
-    "JavaScript/資料類型/Object, Array/Array/條件判定陣列的元素.md"
+    "JavaScript/資料類型/typeof.md"
   ]
 }

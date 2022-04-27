@@ -9,15 +9,15 @@ tag:
 ```js
 expr1 && expr2
 ```
-如果 expr1 是真值，傳 expr1，其餘傳 expr2
-- expr1 為真值 --> 如果 expr2 也是真值回傳 expr2
-- 一碰到偽值就回傳
-
+- 第一個碰到的偽值
+- 兩者皆為真值，回傳 expr2
 ```js
 // 偽 && 真
-result = '' && 'foo';  // result is assigned "" (empty string)
+result = '' && 'foo';  // 回傳偽值
 // 真 && 偽
-result = 2 && 0;       // result is assigned 0
-
-result = 'foo' && 4;   // result is assigned 4
+result = 2 && 0;       // 回傳偽值
+// 真 && 真
+result = 'foo' && 4;   // 回傳 expr2
 ```
+
+>[falsy value](JavaScript/資料類型/falsy%20value.md)
