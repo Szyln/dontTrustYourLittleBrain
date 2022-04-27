@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/DOM/DOM 新舊對比.md",
+                "file": "其他/生活/行程（完成後刪）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/DOM/DOM 新舊對比.md"
+                "file": "其他/生活/行程（完成後刪）.md"
               }
             }
           }
@@ -132,8 +132,9 @@
     "width": 240.4686279296875,
     "collapsed": true
   },
-  "active": "1ca1f2e2b2fc13c8",
+  "active": "fb274e4be8da7554",
   "lastOpenFiles": [
+    "其他/生活/行程（完成後刪）.md",
     "JavaScript/DOM/DOM 新舊對比.md",
     "JavaScript/DOM/DOM 簡要.md",
     "JavaScript/DOM/DOM 需要知道的 methods, properties.md",
@@ -142,7 +143,6 @@
     "JavaScript/資料類型/Object, Array/Array/條件判定陣列的元素.md",
     "JavaScript/資料類型/Object, Array/Array/find().md",
     "useNavigate Hook(useHistory).md",
-    "useHistory Hook.md",
-    "MERN.md"
+    "useHistory Hook.md"
   ]
 }
