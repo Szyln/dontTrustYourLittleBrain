@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他/生活/行程（完成後刪）.md",
-            "mode": "source"
+            "file": "JavaScript/資料類型/類型轉換.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dom",
+                "query": "json.parse",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/生活/行程（完成後刪）.md",
+                "file": "JavaScript/資料類型/類型轉換.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/生活/行程（完成後刪）.md"
+                "file": "JavaScript/資料類型/類型轉換.md"
               }
             }
           }
@@ -118,15 +119,15 @@
   },
   "active": "a6318d90ab6aa5fd",
   "lastOpenFiles": [
+    "JavaScript/資料類型/類型轉換.md",
     "其他/生活/行程（完成後刪）.md",
+    "MERN.md",
     "JavaScript/邏輯、條件、比較/條件/Logic OR.md",
+    "後端/API/Node to API.md",
+    "JavaScript/資料類型/Object, Array/深層拷貝、非 string 類型的資料類型轉換.md",
     "Logic AND(&&).md",
     "JavaScript/資料類型/falsy value.md",
-    "MERN.md",
     "JavaScript/DOM/DOM 新舊對比.md",
-    "JavaScript/DOM/DOM 簡要.md",
-    "JavaScript/DOM/DOM 需要知道的 methods, properties.md",
-    "JavaScript/資料類型/Object, Array/Array/判斷是否為 Array.md",
-    "JavaScript/資料類型/typeof.md"
+    "JavaScript/DOM/DOM 簡要.md"
   ]
 }
