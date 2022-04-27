@@ -42,7 +42,8 @@
     "firefox",
     "useHistory",
     "useNavigate",
-    "stackoverflow"
+    "stackoverflow",
+    "Ctrl"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",

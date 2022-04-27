@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React/Hook/useEffect Hook.md",
+            "file": "其他/生活/行程（完成後刪）.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "json.parse",
+                "query": "Ctrl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Hook/useEffect Hook.md",
+                "file": "其他/生活/行程（完成後刪）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Hook/useEffect Hook.md"
+                "file": "其他/生活/行程（完成後刪）.md"
               }
             }
           }
@@ -119,10 +119,10 @@
   },
   "active": "a6318d90ab6aa5fd",
   "lastOpenFiles": [
+    "其他/生活/行程（完成後刪）.md",
     "React/Hook/useEffect Hook.md",
     "React/Hook/useState Hook.md",
     "React/Hook/Lazy Initializer.md",
-    "其他/生活/行程（完成後刪）.md",
     "JavaScript/資料類型/類型轉換.md",
     "MERN.md",
     "JavaScript/邏輯、條件、比較/條件/Logic OR.md",
