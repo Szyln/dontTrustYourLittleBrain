@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他/生活/行程（完成後刪）.md",
+            "file": "其他/生活/行程（未來商務展）.md",
             "mode": "source"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/生活/行程（完成後刪）.md",
+                "file": "其他/生活/行程（未來商務展）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/生活/行程（完成後刪）.md"
+                "file": "其他/生活/行程（未來商務展）.md"
               }
             }
           }
@@ -119,15 +119,15 @@
   },
   "active": "a6318d90ab6aa5fd",
   "lastOpenFiles": [
-    "其他/生活/行程（完成後刪）.md",
+    "其他/生活/行程（未來商務展）.md",
     "React/Hook/useEffect Hook.md",
+    "後端/Cookie and Session/Cookie/Cookie.md",
+    "後端/Cookie and Session/Cookie/req.cookies.md",
+    "後端/Cookie and Session/Cookie/res.cookie.md",
+    "React/Hook/useRef Hook.md",
     "React/Hook/useState Hook.md",
     "React/Hook/Lazy Initializer.md",
     "JavaScript/資料類型/類型轉換.md",
-    "MERN.md",
-    "JavaScript/邏輯、條件、比較/條件/Logic OR.md",
-    "後端/API/Node to API.md",
-    "JavaScript/資料類型/Object, Array/深層拷貝、非 string 類型的資料類型轉換.md",
-    "Logic AND(&&).md"
+    "MERN.md"
   ]
 }
