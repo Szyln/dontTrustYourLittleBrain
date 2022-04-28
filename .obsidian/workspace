@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他/生活/行程（未來商務展）.md",
+            "file": "F2E.md",
             "mode": "source"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/生活/行程（未來商務展）.md",
+                "file": "F2E.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/生活/行程（未來商務展）.md"
+                "file": "F2E.md"
               }
             }
           }
@@ -119,6 +119,7 @@
   },
   "active": "a6318d90ab6aa5fd",
   "lastOpenFiles": [
+    "F2E.md",
     "其他/生活/行程（未來商務展）.md",
     "React/Hook/useEffect Hook.md",
     "後端/Cookie and Session/Cookie/Cookie.md",
@@ -127,7 +128,6 @@
     "React/Hook/useRef Hook.md",
     "React/Hook/useState Hook.md",
     "React/Hook/Lazy Initializer.md",
-    "JavaScript/資料類型/類型轉換.md",
-    "MERN.md"
+    "JavaScript/資料類型/類型轉換.md"
   ]
 }
