@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Debug.md",
+            "file": "React/環境/Vite/Vite.md",
             "mode": "preview"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Debug.md",
+                "file": "React/環境/Vite/Vite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Debug.md"
+                "file": "React/環境/Vite/Vite.md"
               }
             }
           }
@@ -118,6 +118,8 @@
   },
   "active": "c4fafcd7a5be4430",
   "lastOpenFiles": [
+    "React/環境/Vite/Vite.md",
+    "React/環境/Vite/Vite 安裝.md",
     "Debug.md",
     "F2E.md",
     "MERN.md",
@@ -125,8 +127,6 @@
     "JavaScript/邏輯、條件、比較/條件/Logic AND(&&).md",
     "後端/Node.js/Node.md",
     "cors.md",
-    "axios.md",
-    "前端/html/color-scheme 暗黑模式.md",
-    "joi.md"
+    "axios.md"
   ]
 }
