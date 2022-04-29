@@ -51,3 +51,8 @@ eslint --init # 或是 shift + cmd + P 輸入 create eslint configuration
         "no-extra-semi":"error"
     }
 ```
+
+## 修正
+```shell
+eslint filePath --fix
+```

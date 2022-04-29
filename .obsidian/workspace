@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Debug.md",
+            "file": "ESLint.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Debug.md",
+                "file": "ESLint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Debug.md"
+                "file": "ESLint.md"
               }
             }
           }
@@ -118,8 +118,8 @@
   },
   "active": "a7077461192e46ae",
   "lastOpenFiles": [
-    "Debug.md",
     "ESLint.md",
+    "Debug.md",
     "React/Hook/eslint-plugin-react-hooks.md",
     "React/Styling/用元件處理 CSS Styling.md",
     "React/環境/Vite/Vite.md",
