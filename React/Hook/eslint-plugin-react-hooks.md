@@ -4,10 +4,14 @@ tag:
 - js/react/hook
 - node/npm
 ---
-[npm](https://www.npmjs.com/package/eslint-plugin-react-hooks)
+>[npm](https://www.npmjs.com/package/eslint-plugin-react-hooks)
 
 撰寫 [[Hook]] 時的偵錯工具模組
-
+```shell
+npm i eslint-plugin-react-hooks
+```
+## [ESLint](ESLint.md) 設定
+記得要先設定 [ESLint](ESLint.md)
 ```js
 // eslintrt.js
 module.exports = {

@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "c4fafcd7a5be4430",
+        "id": "a7077461192e46ae",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ESLint.md",
-            "mode": "preview"
+            "file": "Debug.md",
+            "mode": "source"
           }
         }
       }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ESLint.md",
+                "file": "Debug.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ESLint.md"
+                "file": "Debug.md"
               }
             }
           }
@@ -116,11 +116,11 @@
     "width": 240.4686279296875,
     "collapsed": true
   },
-  "active": "c4fafcd7a5be4430",
+  "active": "a7077461192e46ae",
   "lastOpenFiles": [
+    "Debug.md",
     "ESLint.md",
     "React/Hook/eslint-plugin-react-hooks.md",
-    "Debug.md",
     "React/Styling/用元件處理 CSS Styling.md",
     "React/環境/Vite/Vite.md",
     "React/環境/Vite/Vite 安裝.md",

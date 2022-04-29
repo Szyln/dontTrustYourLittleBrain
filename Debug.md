@@ -14,4 +14,4 @@ tag:
 
 
 ### Debugger
->
+>[Debug react vite project](https://www.youtube.com/watch?v=7j9zeipQCk4)
