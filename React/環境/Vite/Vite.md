@@ -7,7 +7,7 @@ tag:
 比用 create-react-app 快的工具，念 veet 喔
 >[[安裝 Node.js]]
 
-- [Vite 安裝](Vite%20安裝.md)
+- [Vite 安裝](React/環境/Vite/Vite%20安裝.md)
 - [dart-sass(sass) 建置](前端/CSS/scss/dart-sass(sass)%20建置.md)
 - [vite gh發布](React/環境/Vite/vite%20gh發布.md)
 - [rollup-plugin-copy（未完成）](React/環境/Vite/rollup-plugin-copy（未完成）.md)

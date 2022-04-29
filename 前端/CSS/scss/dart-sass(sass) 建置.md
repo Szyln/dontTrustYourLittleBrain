@@ -13,7 +13,7 @@ tag:
 ```shell
 npm i -g sass
 ```
->- [其他安裝方式（brew 等）](其他安裝方式（brew%20等）.md)
+>- [其他安裝方式（brew 等）](React/環境/Vite/其他安裝方式（brew%20等）.md)
 
 ### 加入到 vite 專案
 

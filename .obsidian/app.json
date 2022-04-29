@@ -44,7 +44,10 @@
     "useNavigate",
     "stackoverflow",
     "Ctrl",
-    "yourator"
+    "yourator",
+    "ESlint",
+    "ESLint",
+    "reactjs"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",

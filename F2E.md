@@ -18,4 +18,4 @@ tag:
 	- [XD](https://xd.adobe.com/view/e76d2e0a-0677-4f13-bdad-fc8164f635a4-b23e/screen/ec6c44ba-1d16-4e7b-9ac4-1f30391e60f5/)
 
 - [Ray Chang](https://2021.thef2e.com/users/6296427084285739362/)
-	- [fig]
+	- [figma](https://www.figma.com/file/YQ0Q6Gbj8YRVSntbVXcTPy/Week-1-%7C-%E5%8F%B0%E7%81%A3%E6%97%85%E9%81%8A%E6%99%AF%E9%BB%9E%E5%B0%8E%E8%A6%BD?node-id=0%3A1)
