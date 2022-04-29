@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ESLint.md",
-            "mode": "source"
+            "file": "僅將字串的第一個字轉為大寫.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Ctrl",
+                "query": "toupper",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -48,12 +48,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 244,
-    "collapsed": true
+    "width": 244
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ESLint.md",
+                "file": "僅將字串的第一個字轉為大寫.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ESLint.md"
+                "file": "僅將字串的第一個字轉為大寫.md"
               }
             }
           }
@@ -118,6 +118,8 @@
   },
   "active": "a7077461192e46ae",
   "lastOpenFiles": [
+    "僅將字串的第一個字轉為大寫.md",
+    "JavaScript/資料類型/類型轉換.md",
     "ESLint.md",
     "Debug.md",
     "React/Hook/eslint-plugin-react-hooks.md",
@@ -125,8 +127,6 @@
     "React/環境/Vite/Vite.md",
     "React/環境/Vite/Vite 安裝.md",
     "F2E.md",
-    "MERN.md",
-    "Pasted image 20220425195419.png",
-    "JavaScript/邏輯、條件、比較/條件/Logic AND(&&).md"
+    "MERN.md"
   ]
 }
