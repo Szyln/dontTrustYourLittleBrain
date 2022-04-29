@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React/環境/Vite/Vite.md",
+            "file": "ESLint.md",
             "mode": "preview"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/環境/Vite/Vite.md",
+                "file": "ESLint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/環境/Vite/Vite.md"
+                "file": "ESLint.md"
               }
             }
           }
@@ -118,15 +118,15 @@
   },
   "active": "c4fafcd7a5be4430",
   "lastOpenFiles": [
+    "ESLint.md",
+    "React/Hook/eslint-plugin-react-hooks.md",
+    "Debug.md",
+    "React/Styling/用元件處理 CSS Styling.md",
     "React/環境/Vite/Vite.md",
     "React/環境/Vite/Vite 安裝.md",
-    "Debug.md",
     "F2E.md",
     "MERN.md",
     "Pasted image 20220425195419.png",
-    "JavaScript/邏輯、條件、比較/條件/Logic AND(&&).md",
-    "後端/Node.js/Node.md",
-    "cors.md",
-    "axios.md"
+    "JavaScript/邏輯、條件、比較/條件/Logic AND(&&).md"
   ]
 }

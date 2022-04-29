@@ -47,7 +47,9 @@
     "yourator",
     "ESlint",
     "ESLint",
-    "reactjs"
+    "reactjs",
+    "Airbnb",
+    "eslint"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",
