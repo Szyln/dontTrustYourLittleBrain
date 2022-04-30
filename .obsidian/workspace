@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端/Bootstrap/form(bootstrap).md",
-            "mode": "source"
+            "file": "前端/CSS/scss/dart-sass(sass) 建置.md",
+            "mode": "preview"
           }
         }
       }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/Bootstrap/form(bootstrap).md",
+                "file": "前端/CSS/scss/dart-sass(sass) 建置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/Bootstrap/form(bootstrap).md"
+                "file": "前端/CSS/scss/dart-sass(sass) 建置.md"
               }
             }
           }
@@ -119,15 +119,15 @@
   },
   "active": "e57038aab286d0f1",
   "lastOpenFiles": [
+    "前端/CSS/scss/dart-sass(sass) 建置.md",
+    "後端/EJS/gulp/使用 gulp.md",
+    "後端/EJS/gulp/GULP.md",
     "前端/Bootstrap/form(bootstrap).md",
     "Label must have associated control.md",
     "前端/html/form/textarea.md",
     "前端/html/form/Form.md",
     "前端/html/form/label.md",
     "React/Hook/useState Hook.md",
-    "React/Hook/State.md",
-    "變數命名使用底線.md",
-    "React/Hook/自訂 Hooks.md",
-    "React/Hook/useEffect Hook.md"
+    "React/Hook/State.md"
   ]
 }
