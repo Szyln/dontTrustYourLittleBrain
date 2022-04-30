@@ -1,9 +1,9 @@
 ---
 title: "useState Hook"
 tag: 
-- 
+- js/react/hook
 ---
-# useState Hook
+## useState Hook
 ```jsx
 import React, { useState } from 'react'
 // 有匯入 useState 的話下面的 React.useState 可簡寫為 useState
@@ -53,4 +53,12 @@ ReactDOM.render(<Greeting />, document.querySelector('#root'))
 ><label htmlFor="name">Name: </label>
 > ```
 
-#js/react/hook
+
+## 不同[資料類型](JavaScript/資料類型/資料類型.md) 對應的空的預設值
+|資料類型|空的預設值([falsy value](JavaScript/資料類型/falsy%20value.md))|
+|-|-|
+|string|''|
+|object|null|
+|number|0|
+
+

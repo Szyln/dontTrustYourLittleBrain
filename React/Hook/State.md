@@ -3,7 +3,7 @@ title: "State"
 tag: 
 - 
 ---
-# State
+## State
 >[[useState Hook]]
 - 一個狀態，可以拿來設定說這個狀態改變的話哪裡要一起更動
 - 元件的狀態
@@ -14,7 +14,7 @@ tag:
 >[[Rerender a React Application：有效率的重新渲染]]
 
 
-## 實例
+### 實例
 ```jsx
 // 這樣不會執行
 const App = () => {
@@ -45,5 +45,8 @@ const App = () => {
 	)
 }
 ```
+
+
+
 
 #js/react/hook

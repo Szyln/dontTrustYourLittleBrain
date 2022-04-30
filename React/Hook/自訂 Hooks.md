@@ -7,7 +7,7 @@ tag:
 >[[Hook]]
 
 - 若有要一起使用的 [[Hook]] 可以把他們加到一個函式內，方便使用
-- 慣例上會以 use 作為開頭命名（[[eslint-plugin-react-hooks]] 會加以辨識）
+- 慣例上會以 use 作為開頭命名（如果有裝 [[eslint-plugin-react-hooks]] 的話會幫你檢查）
 
 ```jsx
 // 將 useState, useEffect 從 Greeting () 元件抽出，組合成一個自訂 Hook
