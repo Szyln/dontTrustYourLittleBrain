@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "前端/Bootstrap/form(bootstrap).md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "form",
+                "query": "textarea",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244
+    "width": 244,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -119,14 +120,14 @@
   "active": "e57038aab286d0f1",
   "lastOpenFiles": [
     "前端/Bootstrap/form(bootstrap).md",
+    "Label must have associated control.md",
+    "前端/html/form/textarea.md",
+    "前端/html/form/Form.md",
     "前端/html/form/label.md",
     "React/Hook/useState Hook.md",
     "React/Hook/State.md",
     "變數命名使用底線.md",
     "React/Hook/自訂 Hooks.md",
-    "React/Hook/useEffect Hook.md",
-    "React/Hook/side-effect.md",
-    "僅將字串的第一個字轉為大寫.md",
-    "JavaScript/資料類型/類型轉換.md"
+    "React/Hook/useEffect Hook.md"
   ]
 }

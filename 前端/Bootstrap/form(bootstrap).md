@@ -52,5 +52,7 @@ tag:
 	- `input.form-check-input` `type="checkbox" role="switch"`
 	- `label.form-check-label`
 
+# textarea(bs)
+- `textarea.form-control`
 
 #bs/form #form
