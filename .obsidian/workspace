@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React/Hook/useState Hook.md",
+            "file": "前端/Bootstrap/form(bootstrap).md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#js/dataType",
+                "query": "form",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244,
-    "collapsed": true
+    "width": 244
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Hook/useState Hook.md",
+                "file": "前端/Bootstrap/form(bootstrap).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Hook/useState Hook.md"
+                "file": "前端/Bootstrap/form(bootstrap).md"
               }
             }
           }
@@ -119,6 +118,8 @@
   },
   "active": "e57038aab286d0f1",
   "lastOpenFiles": [
+    "前端/Bootstrap/form(bootstrap).md",
+    "前端/html/form/label.md",
     "React/Hook/useState Hook.md",
     "React/Hook/State.md",
     "變數命名使用底線.md",
@@ -126,8 +127,6 @@
     "React/Hook/useEffect Hook.md",
     "React/Hook/side-effect.md",
     "僅將字串的第一個字轉為大寫.md",
-    "JavaScript/資料類型/類型轉換.md",
-    "ESLint.md",
-    "Debug.md"
+    "JavaScript/資料類型/類型轉換.md"
   ]
 }
