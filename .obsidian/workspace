@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端/CSS/scss/dart-sass(sass) 建置.md",
-            "mode": "preview"
+            "file": "前端/想學的框架.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "textarea",
+                "query": "gsap",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244,
-    "collapsed": true
+    "width": 244
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/CSS/scss/dart-sass(sass) 建置.md",
+                "file": "前端/想學的框架.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/CSS/scss/dart-sass(sass) 建置.md"
+                "file": "前端/想學的框架.md"
               }
             }
           }
@@ -119,6 +118,7 @@
   },
   "active": "e57038aab286d0f1",
   "lastOpenFiles": [
+    "前端/想學的框架.md",
     "前端/CSS/scss/dart-sass(sass) 建置.md",
     "後端/EJS/gulp/使用 gulp.md",
     "後端/EJS/gulp/GULP.md",
@@ -127,7 +127,6 @@
     "前端/html/form/textarea.md",
     "前端/html/form/Form.md",
     "前端/html/form/label.md",
-    "React/Hook/useState Hook.md",
-    "React/Hook/State.md"
+    "React/Hook/useState Hook.md"
   ]
 }
