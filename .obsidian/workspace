@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mermaid.js  Markdown 的心智圖語法.md",
+            "file": "React/Form/Form in React.md",
             "mode": "preview"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mermaid.js  Markdown 的心智圖語法.md",
+                "file": "React/Form/Form in React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mermaid.js  Markdown 的心智圖語法.md"
+                "file": "React/Form/Form in React.md"
               }
             }
           }
@@ -119,6 +119,8 @@
   },
   "active": "d68a308219cc9ab4",
   "lastOpenFiles": [
+    "React/Form/Form in React.md",
+    "React/Form/Dynamic Form in React.md",
     "Mermaid.js  Markdown 的心智圖語法.md",
     "未命名.md",
     "前端/想學的框架.md",
@@ -126,8 +128,6 @@
     "後端/EJS/gulp/使用 gulp.md",
     "後端/EJS/gulp/GULP.md",
     "前端/Bootstrap/form(bootstrap).md",
-    "Label must have associated control.md",
-    "前端/html/form/textarea.md",
-    "前端/html/form/Form.md"
+    "Label must have associated control.md"
   ]
 }
