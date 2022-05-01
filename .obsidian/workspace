@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "e57038aab286d0f1",
+        "id": "9f3d8a2d52aa7bb6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端/想學的框架.md",
-            "mode": "source"
+            "file": "Mermaid.js  Markdown 的心智圖語法.md",
+            "mode": "preview"
           }
         }
       }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/想學的框架.md",
+                "file": "Mermaid.js  Markdown 的心智圖語法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/想學的框架.md"
+                "file": "Mermaid.js  Markdown 的心智圖語法.md"
               }
             }
           }
@@ -117,8 +117,10 @@
     "width": 240.4686279296875,
     "collapsed": true
   },
-  "active": "e57038aab286d0f1",
+  "active": "9f3d8a2d52aa7bb6",
   "lastOpenFiles": [
+    "Mermaid.js  Markdown 的心智圖語法.md",
+    "未命名.md",
     "前端/想學的框架.md",
     "前端/CSS/scss/dart-sass(sass) 建置.md",
     "後端/EJS/gulp/使用 gulp.md",
@@ -126,8 +128,6 @@
     "前端/Bootstrap/form(bootstrap).md",
     "Label must have associated control.md",
     "前端/html/form/textarea.md",
-    "前端/html/form/Form.md",
-    "前端/html/form/label.md",
-    "React/Hook/useState Hook.md"
+    "前端/html/form/Form.md"
   ]
 }
