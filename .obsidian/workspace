@@ -4,19 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "9f3d8a2d52aa7bb6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Mermaid.js  Markdown 的心智圖語法.md",
-            "mode": "source"
-          }
-        },
-        "group": "2c5ffbd2bb9bff63"
-      },
-      {
-        "id": "b69b31de5ac87bbf",
+        "id": "d68a308219cc9ab4",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -24,8 +12,7 @@
             "file": "Mermaid.js  Markdown 的心智圖語法.md",
             "mode": "preview"
           }
-        },
-        "group": "2c5ffbd2bb9bff63"
+        }
       }
     ],
     "direction": "vertical"
@@ -130,7 +117,7 @@
     "width": 240.4686279296875,
     "collapsed": true
   },
-  "active": "9f3d8a2d52aa7bb6",
+  "active": "d68a308219cc9ab4",
   "lastOpenFiles": [
     "Mermaid.js  Markdown 的心智圖語法.md",
     "未命名.md",
