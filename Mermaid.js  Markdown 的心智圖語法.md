@@ -19,3 +19,8 @@ graph TD
 	G[[已定義流程]] --> E
 	D --> J[(Database)]
 ```
+
+```mermaid
+stateDiagram-v2
+[*] --> A[dddd]
+```
