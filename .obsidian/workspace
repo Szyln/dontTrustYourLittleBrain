@@ -4,33 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "dc902f0e664bdfb9",
-        "type": "split",
-        "children": [
-          {
-            "id": "d68a308219cc9ab4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "健康360 想要做網頁.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "a51b1fac18832bbd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "健康360 想要做網頁.md",
-                "mode": "preview"
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
+        "id": "7a8389c4da6bca88",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -66,13 +45,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 244,
-    "collapsed": true
+    "width": 244
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -89,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "健康360 想要做網頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "健康360 想要做網頁.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -135,17 +109,17 @@
     "width": 240.4686279296875,
     "collapsed": true
   },
-  "active": "d68a308219cc9ab4",
+  "active": "7a8389c4da6bca88",
   "lastOpenFiles": [
-    "健康360 想要做網頁.md",
+    "其他/生活/動作健康360/Pasted image 20220502135535.png",
+    "其他/生活/動作健康360/健康360 想要做網頁.md",
+    "其他/生活/未來商務展/行程（未來商務展）.md",
     "其他/聲學/錄音/jitsi.md",
     "React/Form/Form in React.md",
     "React/Form/Dynamic Form in React.md",
     "Mermaid.js  Markdown 的心智圖語法.md",
     "前端/想學的框架.md",
     "前端/CSS/scss/dart-sass(sass) 建置.md",
-    "後端/EJS/gulp/使用 gulp.md",
-    "後端/EJS/gulp/GULP.md",
-    "前端/Bootstrap/form(bootstrap).md"
+    "後端/EJS/gulp/使用 gulp.md"
   ]
 }
