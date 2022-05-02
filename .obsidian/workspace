@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React Error Boundaries.md",
-            "mode": "source"
+            "file": "後端/Node.js/模組/使用/整合模組匯出匯入.md",
+            "mode": "preview"
           }
         }
       }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React Error Boundaries.md",
+                "file": "後端/Node.js/模組/使用/整合模組匯出匯入.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React Error Boundaries.md"
+                "file": "後端/Node.js/模組/使用/整合模組匯出匯入.md"
               }
             }
           }
@@ -119,6 +119,7 @@
   },
   "active": "7a8389c4da6bca88",
   "lastOpenFiles": [
+    "後端/Node.js/模組/使用/整合模組匯出匯入.md",
     "React Error Boundaries.md",
     "Label must have associated control.md",
     "Mermaid.js  Markdown 的心智圖語法.md",
@@ -127,7 +128,6 @@
     "其他/生活/動作健康360/截圖.md",
     "其他/生活/動作健康360/Pasted image 20220502135535.png",
     "其他/生活/動作健康360/健康360 想要做網頁.md",
-    "其他/生活/未來商務展/行程（未來商務展）.md",
-    "其他/聲學/錄音/jitsi.md"
+    "其他/生活/未來商務展/行程（未來商務展）.md"
   ]
 }
