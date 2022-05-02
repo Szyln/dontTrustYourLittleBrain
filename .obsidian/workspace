@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他/生活/動作健康360/截圖.md",
+            "file": "React Error Boundaries.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gsap",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -48,11 +48,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 244
+    "width": 244,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -69,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/生活/動作健康360/截圖.md",
+                "file": "React Error Boundaries.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/生活/動作健康360/截圖.md"
+                "file": "React Error Boundaries.md"
               }
             }
           }
@@ -117,15 +119,15 @@
   },
   "active": "7a8389c4da6bca88",
   "lastOpenFiles": [
+    "React Error Boundaries.md",
+    "Label must have associated control.md",
+    "Mermaid.js  Markdown 的心智圖語法.md",
+    "其他/生活/動作健康360/Pasted image 20220502143934.png",
+    "其他/生活/動作健康360/Pasted image 20220502143821.png",
     "其他/生活/動作健康360/截圖.md",
     "其他/生活/動作健康360/Pasted image 20220502135535.png",
     "其他/生活/動作健康360/健康360 想要做網頁.md",
     "其他/生活/未來商務展/行程（未來商務展）.md",
-    "其他/聲學/錄音/jitsi.md",
-    "React/Form/Form in React.md",
-    "React/Form/Dynamic Form in React.md",
-    "Mermaid.js  Markdown 的心智圖語法.md",
-    "前端/想學的框架.md",
-    "前端/CSS/scss/dart-sass(sass) 建置.md"
+    "其他/聲學/錄音/jitsi.md"
   ]
 }
