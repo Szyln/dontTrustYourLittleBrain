@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React/Form/Dynamic Form in React.md",
+            "file": "後端/EJS/EJS with Mongoose/EJS 使用網址輸入內容作為變數.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "網址",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244,
-    "collapsed": true
+    "width": 244
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React/Form/Dynamic Form in React.md",
+                "file": "後端/EJS/EJS with Mongoose/EJS 使用網址輸入內容作為變數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React/Form/Dynamic Form in React.md"
+                "file": "後端/EJS/EJS with Mongoose/EJS 使用網址輸入內容作為變數.md"
               }
             }
           }
@@ -119,6 +118,7 @@
   },
   "active": "7a8389c4da6bca88",
   "lastOpenFiles": [
+    "後端/EJS/EJS with Mongoose/EJS 使用網址輸入內容作為變數.md",
     "React/Form/Dynamic Form in React.md",
     "React Error Boundaries.md",
     "後端/Node.js/模組/使用/整合模組匯出匯入.md",
@@ -127,7 +127,6 @@
     "其他/生活/動作健康360/Pasted image 20220502143934.png",
     "其他/生活/動作健康360/Pasted image 20220502143821.png",
     "其他/生活/動作健康360/截圖.md",
-    "其他/生活/動作健康360/Pasted image 20220502135535.png",
-    "其他/生活/動作健康360/健康360 想要做網頁.md"
+    "其他/生活/動作健康360/Pasted image 20220502135535.png"
   ]
 }
