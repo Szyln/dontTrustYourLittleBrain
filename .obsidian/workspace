@@ -7,8 +7,11 @@
         "id": "7a8389c4da6bca88",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "其他/生活/動作健康360/截圖.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "其他/生活/動作健康360/截圖.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "其他/生活/動作健康360/截圖.md"
+              }
             }
           }
         ]
@@ -111,6 +117,7 @@
   },
   "active": "7a8389c4da6bca88",
   "lastOpenFiles": [
+    "其他/生活/動作健康360/截圖.md",
     "其他/生活/動作健康360/Pasted image 20220502135535.png",
     "其他/生活/動作健康360/健康360 想要做網頁.md",
     "其他/生活/未來商務展/行程（未來商務展）.md",
@@ -119,7 +126,6 @@
     "React/Form/Dynamic Form in React.md",
     "Mermaid.js  Markdown 的心智圖語法.md",
     "前端/想學的框架.md",
-    "前端/CSS/scss/dart-sass(sass) 建置.md",
-    "後端/EJS/gulp/使用 gulp.md"
+    "前端/CSS/scss/dart-sass(sass) 建置.md"
   ]
 }
