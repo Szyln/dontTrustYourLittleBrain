@@ -4,6 +4,7 @@
   "cssTheme": "Comfort color dark",
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "custom"
+    "custom",
+    "前端相關vault css"
   ]
 }
