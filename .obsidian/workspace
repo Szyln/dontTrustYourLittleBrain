@@ -7,8 +7,11 @@
         "id": "7a8389c4da6bca88",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Mermaid.js  Markdown 的心智圖語法.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mermaid.js  Markdown 的心智圖語法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Mermaid.js  Markdown 的心智圖語法.md"
+              }
             }
           }
         ]
@@ -111,9 +117,9 @@
   },
   "active": "7a8389c4da6bca88",
   "lastOpenFiles": [
+    "Mermaid.js  Markdown 的心智圖語法.md",
     "動作健康360/動作健康360 想要做網頁.md",
     "其他/生活/動作健康360/健康360 想要做網頁.md",
-    "Mermaid.js  Markdown 的心智圖語法.md",
     "其他/生活/動作健康360/Pasted image 20220502143934.png",
     "其他/生活/動作健康360/Pasted image 20220502143821.png",
     "其他/生活/動作健康360/截圖.md",
