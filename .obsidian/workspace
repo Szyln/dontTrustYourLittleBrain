@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mermaid.js  Markdown 的心智圖語法.md",
+            "file": "axios.md",
             "mode": "preview"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mermaid.js  Markdown 的心智圖語法.md",
+                "file": "axios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mermaid.js  Markdown 的心智圖語法.md"
+                "file": "axios.md"
               }
             }
           }
@@ -117,6 +117,8 @@
   },
   "active": "7a8389c4da6bca88",
   "lastOpenFiles": [
+    "axios.md",
+    "其他/設計/產品設計的核心基礎 - 設計系統 (Design System).md",
     "Mermaid.js  Markdown 的心智圖語法.md",
     "動作健康360/動作健康360 想要做網頁.md",
     "其他/生活/動作健康360/健康360 想要做網頁.md",
@@ -124,8 +126,6 @@
     "其他/生活/動作健康360/Pasted image 20220502143821.png",
     "其他/生活/動作健康360/截圖.md",
     "其他/生活/動作健康360/Pasted image 20220502135535.png",
-    "後端/EJS/EJS with Mongoose/EJS 使用網址輸入內容作為變數.md",
-    "React/Form/Dynamic Form in React.md",
-    "React Error Boundaries.md"
+    "後端/EJS/EJS with Mongoose/EJS 使用網址輸入內容作為變數.md"
   ]
 }
