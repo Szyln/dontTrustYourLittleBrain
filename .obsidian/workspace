@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/變數/Closure(Scope Chaining).md",
+            "file": "其他/作品與目標/參考網站.md",
             "mode": "preview"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244
+    "width": 244,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/變數/Closure(Scope Chaining).md",
+                "file": "其他/作品與目標/參考網站.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/變數/Closure(Scope Chaining).md"
+                "file": "其他/作品與目標/參考網站.md"
               }
             }
           }
@@ -117,10 +118,10 @@
   },
   "active": "b280bca8064fa4fb",
   "lastOpenFiles": [
+    "其他/作品與目標/參考網站.md",
     "JavaScript/變數/Closure(Scope Chaining).md",
     "JavaScript/變數/block.md",
     "JavaScript/變數/Scope.md",
-    "其他/作品與目標/參考網站.md",
     ").md",
     "其他/聲學/Spatial Audio/Ambisonics.md",
     "JavaScript/資料類型/Function/函式表達式 function expression.md",
