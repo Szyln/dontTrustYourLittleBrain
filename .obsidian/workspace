@@ -118,6 +118,7 @@
   "active": "b280bca8064fa4fb",
   "lastOpenFiles": [
     "其他/作品與目標/參考網站.md",
+    ").md",
     "其他/聲學/Spatial Audio/Ambisonics.md",
     "JavaScript/資料類型/Function/函式表達式 function expression.md",
     "JavaScript/資料類型/Function/函式的隱藏的參數.md",
@@ -125,7 +126,6 @@
     "JavaScript/變數/Closure(Scope Chaining).md",
     "JavaScript/變數/block.md",
     "JavaScript/變數/Scope.md",
-    "JavaScript/Execution Context/Global Execution Context.md",
-    "閉包.md"
+    "JavaScript/Execution Context/Global Execution Context.md"
   ]
 }
