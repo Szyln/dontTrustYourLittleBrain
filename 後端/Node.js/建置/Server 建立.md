@@ -100,7 +100,7 @@ res.writeHead(200, {'Content-Type': 'text/plain'});
 建立完 [[Server]] 之後，要設定一個負責接收請求的 [[Port]]，並且監聽他有沒有任何請求傳過來
 ```js
 // 參數 port：設定一個接收請求的 port
-// 箭頭函數：開始監聽後會出現的提示
+// 箭頭函式：開始監聽後會出現的提示
 server.listen(port, hostname, () => {
 });
 ```

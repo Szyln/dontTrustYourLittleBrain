@@ -3,7 +3,7 @@ title: "Function"
 tag: 
 - 
 ---
-# 函數｜function
+# 函式｜function
 一種物件
 ```js
 // function declaration
@@ -33,7 +33,7 @@ function fun(x) {
 
 ### }｜沒有碰到 return 就會執行到 function 的結尾 }
 
-## [[函數表達式 function expression]]
+## [[函式表達式 function expression]]
 ## 原生 function
 ### alert
 ```js

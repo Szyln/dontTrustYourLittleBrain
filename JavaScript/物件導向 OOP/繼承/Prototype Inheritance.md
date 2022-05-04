@@ -26,7 +26,7 @@ let StudentSam = new Student("Sam", 20, 140)	// this 指物件本身
 
 ### [[Prototype]]
 ```js
-// 共用的函數拉出來到 prototype 內
+// 共用的函式拉出來到 prototype 內
 // 注意是 simple call
 Person.prototype.sayHi = function() {
 	console.log(this.name + " says hi.");	// 目前 this 指向全域
@@ -35,7 +35,7 @@ Person.prototype.sayHi = function() {
 
 ## 繼承的
 ### Constructor
-使用[[置換函數的 this 指向#call]] 的方式，繼承[[Prototype Inheritance#原有的#Constructor]]（但目前 Prototype 沒有被繼承）
+使用[[置換函式的 this 指向#call]] 的方式，繼承[[Prototype Inheritance#原有的#Constructor]]（但目前 Prototype 沒有被繼承）
 ```js
 // 從 Person 繼承過來的新 Constructor
 // 用 call 將 Person 繼承過來

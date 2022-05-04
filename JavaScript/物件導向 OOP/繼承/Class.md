@@ -18,7 +18,7 @@ class 原本的 {
 	}
 	
 	// prototype
-	函數() {
+	函式() {
 		// 共用的功能
 	}
 }
@@ -32,7 +32,7 @@ class 繼承的 extends 原本的 {
 	}
 	
 	// prototype
-	新函數() {
+	新函式() {
 		// 新的 class 共用的功能
 	}
 }

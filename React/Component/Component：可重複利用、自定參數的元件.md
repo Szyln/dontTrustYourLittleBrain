@@ -55,13 +55,13 @@ const element = (
 >>[[children]]
 
 
->元件與 [[JSX 內的 HTML 加入 JS 程式碼]]不同有使用參數，變數儲存的內容若是函數（Component），要大寫開頭
+>元件與 [[JSX 內的 HTML 加入 JS 程式碼]]不同有使用參數，變數儲存的內容若是函式（Component），要大寫開頭
 >```js
 >// ！：如果沒有寫大寫，第一參數（HTML 標籤）編譯會無法正常辨識
 >const element = React.createElement('messageEdit', null, 'Hello World')
 > `` `
 >```jsx
->// 有大寫的話，就會辨識為一個函數
+>// 有大寫的話，就會辨識為一個函式
 >const element = React.createElement(MessageEdit, null, 'Hello World')
 >
 >// type: MessageEdit(props)

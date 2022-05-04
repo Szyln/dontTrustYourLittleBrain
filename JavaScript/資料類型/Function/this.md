@@ -9,7 +9,7 @@ tag:
 - this 的幾種狀況
 	- simple call （不太會這樣用）
 	- object 的 function（最常用）
-	- 不同物件中的同個函數
+	- 不同物件中的同個函式
 	- 陷阱題
 		- object 中還有 object
 		- Object 裡面的 function 硬要呼叫全域 function
@@ -17,7 +17,7 @@ tag:
 
 
 ## 特性
-- this 是[[函數的隱藏的參數]]之一
+- this 是[[函式的隱藏的參數]]之一
 - 指向會變動
 -  ** function 是從哪裡宣告的，就是指誰**（ES6 的 this 參照[[4.箭頭函式 arrow function]]）
 - 主流框架都會用到
@@ -25,7 +25,7 @@ tag:
 ## 情況
 看 function 從哪調用
 
-||函數|物件的函數|
+||函式|物件的函式|
 |-|-|-|
 |this 指向|全域|物件|
 
@@ -55,7 +55,7 @@ var obj = {
 obj.callSomeone();
 ```
 
-### 不同物件的擁有同名的函數 
+### 不同物件的擁有同名的函式 
 
 例如由 [[Constructor]] 建立的 instance，每一個物件的參考（[[物件傳參考]] ）不一樣，事實上並不是同一個
 ```js

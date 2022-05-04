@@ -9,7 +9,7 @@ import React, { useState } from 'react'
 // 有匯入 useState 的話下面的 React.useState 可簡寫為 useState
 ```
 ```jsx
-// name: 自訂名稱，setName：name 的更改 state 用函數
+// name: 自訂名稱，setName：name 的更改 state 用函式
 // 初始狀態任意資料類型皆可
 // 更詳細的初始狀態設定：[[Lazy Initializer]]
 const [name, setName] = React.useState('name 初始狀態')

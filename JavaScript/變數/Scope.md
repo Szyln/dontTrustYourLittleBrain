@@ -33,7 +33,7 @@ myName();		// log "Sam"
 ```
 
 ## Function Scope
-Function Scope 的變數，只能在函數內執行
+Function Scope 的變數，只能在函式內執行
 ```js
 function myName() {
 	var age = 14;

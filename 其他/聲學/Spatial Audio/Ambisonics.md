@@ -125,7 +125,7 @@ Linux: _~/ambix/binaural_presets/_
 [Ambisonic data exchange formats](https://en.wikipedia.org/wiki/Ambisonic_data_exchange_formats)
 ### 混亂時期
 在早期的多軌錄音有過格式混亂的時期
-在研究 HOA 的系統時，並沒有一個統一的格式標準，而且在聲學中並還沒有導入太多有關球諧函數的概念，所以有些人透過化學、量子力學、電腦製圖等其他領域去設計格式，導致不同的研究雖然最終是在講同一件事但卻無法相容。
+在研究 HOA 的系統時，並沒有一個統一的格式標準，而且在聲學中並還沒有導入太多有關球諧函式的概念，所以有些人透過化學、量子力學、電腦製圖等其他領域去設計格式，導致不同的研究雖然最終是在講同一件事但卻無法相容。
 ### 格式必須的要件
 - [Component ordering](https://en.wikipedia.org/wiki/Ambisonic_data_exchange_formats#Component_ordering)
 -  [Normalisation](https://en.wikipedia.org/wiki/Ambisonic_data_exchange_formats#Normalisation)

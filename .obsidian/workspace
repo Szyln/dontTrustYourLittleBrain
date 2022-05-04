@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/變數/Closure(Scope Chaining).md",
-            "mode": "preview"
+            "file": "其他/作品與目標/參考網站.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "閉包",
+                "query": "網站",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/變數/Closure(Scope Chaining).md",
+                "file": "其他/作品與目標/參考網站.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/變數/Closure(Scope Chaining).md"
+                "file": "其他/作品與目標/參考網站.md"
               }
             }
           }
@@ -118,15 +117,15 @@
   },
   "active": "b280bca8064fa4fb",
   "lastOpenFiles": [
+    "其他/作品與目標/參考網站.md",
+    "其他/聲學/Spatial Audio/Ambisonics.md",
+    "JavaScript/資料類型/Function/函式表達式 function expression.md",
+    "JavaScript/資料類型/Function/函式的隱藏的參數.md",
+    "JavaScript/資料類型/Function/置換函式的 this 指向.md",
     "JavaScript/變數/Closure(Scope Chaining).md",
     "JavaScript/變數/block.md",
     "JavaScript/變數/Scope.md",
     "JavaScript/Execution Context/Global Execution Context.md",
-    "閉包.md",
-    "其他/Affinity.md",
-    "其他/設計/產品設計的核心基礎 - 設計系統 (Design System).md",
-    "Mermaid.js  Markdown 的心智圖語法.md",
-    "axios.md",
-    "動作健康360/動作健康360 想要做網頁.md"
+    "閉包.md"
   ]
 }

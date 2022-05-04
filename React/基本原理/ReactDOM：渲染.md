@@ -59,7 +59,7 @@ function App() {
 ReactDOM.render(React.createElement(App), document.querySelector('#root'));
 ```
 ```jsx
-// 因為是函數，這樣寫也可
+// 因為是函式，這樣寫也可
 ReactDOM.render(App(), document.querySelector('#root'));
 ```
 ```jsx
