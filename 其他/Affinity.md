@@ -7,6 +7,10 @@ tag:
 X: 正副顏色對調
 D: 切回原本顏色
 
+## 文字轉外框
+[How to Convert Text to Path in Affinity Designer](https://designbundles.net/design-school/how-to-convert-text-to-path-in-affinity-designer)
+Layer --> convert curves
+
 ## 工作區域
 ![](Pasted%20image%2020220503220530.png)
 
