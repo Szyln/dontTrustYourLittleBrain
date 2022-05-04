@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他/Affinity.md",
-            "mode": "source"
+            "file": "JavaScript/變數/Closure(Scope Chaining).md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "網址",
+                "query": "閉包",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -48,7 +48,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/Affinity.md",
+                "file": "JavaScript/變數/Closure(Scope Chaining).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/Affinity.md"
+                "file": "JavaScript/變數/Closure(Scope Chaining).md"
               }
             }
           }
@@ -117,15 +118,15 @@
   },
   "active": "b280bca8064fa4fb",
   "lastOpenFiles": [
+    "JavaScript/變數/Closure(Scope Chaining).md",
+    "JavaScript/變數/block.md",
+    "JavaScript/變數/Scope.md",
+    "JavaScript/Execution Context/Global Execution Context.md",
+    "閉包.md",
     "其他/Affinity.md",
     "其他/設計/產品設計的核心基礎 - 設計系統 (Design System).md",
     "Mermaid.js  Markdown 的心智圖語法.md",
     "axios.md",
-    "動作健康360/動作健康360 想要做網頁.md",
-    "其他/生活/動作健康360/健康360 想要做網頁.md",
-    "其他/生活/動作健康360/Pasted image 20220502143934.png",
-    "其他/生活/動作健康360/Pasted image 20220502143821.png",
-    "其他/生活/動作健康360/截圖.md",
-    "其他/生活/動作健康360/Pasted image 20220502135535.png"
+    "動作健康360/動作健康360 想要做網頁.md"
   ]
 }
