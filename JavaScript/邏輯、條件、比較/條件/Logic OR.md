@@ -21,6 +21,6 @@ o8 = ''    || false      // f || f returns false
 o9 = false || ''         // f || f returns ""
 o10 = false || varObject // f || object returns varObject
 ```
->- [falsy value](JavaScript/資料類型/falsy%20value.md)
+>- [falsy value](JavaScript/資料類型/資料類型/falsy%20value.md)
 >- [Logic AND(&&)](JavaScript/邏輯、條件、比較/條件/Logic%20AND(&&).md)
 #js #logic 

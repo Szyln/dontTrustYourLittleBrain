@@ -6,6 +6,7 @@
       {
         "id": "efdd8c95ed7a3b32",
         "type": "leaf",
+        "dimension": 32.026537997587454,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -19,21 +20,11 @@
       {
         "id": "97973a65c3ecc49a",
         "type": "leaf",
+        "dimension": 67.97346200241255,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/資料類型/Object, Array/Object.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "468a5a6fd7a8c46b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "JavaScript/資料類型/Object, Array/Object/物件傳參考.md",
+            "file": "JavaScript/資料類型/Object, Array/Object/Window Object.md",
             "mode": "source"
           }
         }
@@ -93,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/資料類型/Object, Array/Object.md",
+                "file": "JavaScript/資料類型/Object, Array/Object/Window Object.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/資料類型/Object, Array/Object.md"
+                "file": "JavaScript/資料類型/Object, Array/Object/Window Object.md"
               }
             }
           }
@@ -140,15 +131,15 @@
   },
   "active": "97973a65c3ecc49a",
   "lastOpenFiles": [
-    "JavaScript/資料類型/Object, Array/Object.md",
-    "JavaScript/資料類型/Object, Array/Object/物件傳參考.md",
-    "JavaScript/資料類型/Object, Array/Destructing Assignment.md",
-    "JavaScript/資料類型/Object, Array/深層拷貝、非 string 類型的資料類型轉換.md",
-    "JavaScript/資料類型/Object, Array/從物件中提取屬性到變數中 Destructing an object.md",
-    "JavaScript/資料類型/Object, Array/展開.md",
-    "JavaScript/資料類型/Object, Array/變數簡寫語法糖.md",
     "JavaScript/資料類型/Object, Array/Object/Window Object.md",
-    "JavaScript/資料類型/Object, Array/Object/物件刪除.md",
-    "前端/Bootstrap/utilities API 修改.md"
+    "JavaScript/資料類型/Object, Array/Window Object/removeItem(key).md",
+    "JavaScript/資料類型/Object, Array/Window Object/getItem(key).md",
+    "JavaScript/資料類型/Object, Array/Window Object/setItem(key, value).md",
+    "JavaScript/資料類型/Object, Array/Window Object/Session Storage.md",
+    "JavaScript/資料類型/資料類型 index.md",
+    "JavaScript/JavaScript.md",
+    "JavaScript/資料類型/原始資料類型/原始資料類型 Primitive Data Types.md",
+    "JavaScript/資料類型/資料類型/MDN 資料類型方便查看的連結.md",
+    "JavaScript/資料類型/Object, Array/Object/物件傳參考.md"
   ]
 }

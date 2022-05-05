@@ -70,8 +70,8 @@ app.get('/:city', (req, res) => {
 		});
 })
 ```
->- [[從物件中提取屬性到變數中 Destructing an object]]
->- [[類型轉換#JSON]] JSON.parse(string)：轉成 array
+>- [[JavaScript/資料類型/Object, Array/Object/從物件中提取屬性到變數中 Destructing an object]]
+>- [[JavaScript/資料類型/資料類型/類型轉換#JSON]] JSON.parse(string)：轉成 array
 >- [[EJS#在 HTML 內使用變數：Routing for pattern]]
 > - [[Node to API - node fetch]]
 ### 使用 API

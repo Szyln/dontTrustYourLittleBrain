@@ -20,7 +20,7 @@ app.get("/:name", (req, res) => {
 ```
 
 >- [[Routing#Routing for pattern 回應有規律的網址]]
-> - [[從物件中提取屬性到變數中 Destructing an object]]
+> - [[JavaScript/資料類型/Object, Array/Object/從物件中提取屬性到變數中 Destructing an object]]
 > - `{ name }` 為 `{ name: name }` 的語法糖
 
 #node/npm #gulp #html #node/ejs #node/express 

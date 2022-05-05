@@ -28,7 +28,7 @@ app.get("/response", (req, res) => {
 	res.render("respond.ejs")
 })
 ```
-> [[從物件中提取屬性到變數中 Destructing an object]]
+> [[JavaScript/資料類型/Object, Array/Object/從物件中提取屬性到變數中 Destructing an object]]
 
 ## [[EJS]]
 ```html

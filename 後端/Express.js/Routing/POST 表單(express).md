@@ -43,7 +43,7 @@ app.post('/formHandling', (req, res)) {
 ```
 
 >[[使用路徑的兩種寫法]]：有兩種作法
->- 單純使用[[string#string 的串接]]
+>- 單純使用[[JavaScript/資料類型/原始資料類型/string#string 的串接]]
 >- 使用 path 模組 + [[join()]]
 
 ## 使用用戶填入的資訊
@@ -58,7 +58,7 @@ app.post('/formHandling', (req, res)) {
 	
 }
 ```
-> - 很像物件的變數：[[從物件中提取屬性到變數中 Destructing an object]]
+> - 很像物件的變數：[[JavaScript/資料類型/Object, Array/Object/從物件中提取屬性到變數中 Destructing an object]]
 > - 學到 [[Database 數據庫]]之後會有更複雜的應用：[[Express and Mongoose]]（資料先傳到資料庫再傳回來）
 > 
 

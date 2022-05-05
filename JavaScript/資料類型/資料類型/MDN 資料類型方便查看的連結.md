@@ -1,10 +1,7 @@
----
-title: "資料類型"
-tag: 
-- 
----
-# 資料類型、資料型別
-[JavaScript 的資料型別與資料結構](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Data_structures)
+## MDN
+>[MDN：JavaScript 的資料型別與資料結構](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Data_structures)
+
+以下快速放 mdn 連結，方便自己查看
 
 |型|返値|
 |-|-|
@@ -12,11 +9,11 @@ tag:
 |[Null](https://developer.mozilla.org/ja/docs/Glossary/Null)|`"object"`([備註](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Operators/typeof#typeof_null))|
 |[真偽値](https://developer.mozilla.org/ja/docs/Glossary/Boolean)|`"boolean"`|
 |[数値](https://developer.mozilla.org/ja/docs/Glossary/Number)|`"number"`|
-|[BigInt](https://developer.mozilla.org/ja/docs/Glossary/BigInt) (ECMAScript 2020 の新機能)|`"bigint"`|
+|[BigInt](https://developer.mozilla.org/ja/docs/Glossary/BigInt) (ECMAScript 2020)|`"bigint"`|
 |[文字列](https://developer.mozilla.org/ja/docs/Glossary/String)|`"string"`|
-|[シンボル](https://developer.mozilla.org/ja/docs/Glossary/Symbol) (ECMAScript 2015 の新機能)|`"symbol"`|
-|[Function](https://developer.mozilla.org/ja/docs/Glossary/Function) オブジェクト (implements [[Call]] in ECMA-262 terms)|`"function"`|
-|その他のオブジェクト|`"object"`|
+|[シンボル](https://developer.mozilla.org/ja/docs/Glossary/Symbol) (ECMAScript 2015)|`"symbol"`|
+|[Function](https://developer.mozilla.org/ja/docs/Glossary/Function) Object (implements Call in ECMA-262 terms)|`"function"`|
+|其他 Object|`"object"`|
 最新的 ECMAScript 標準定義了七種資料型別：
 
 -   有六種資料型別是[原始型別 (en-US)](https://developer.mozilla.org/en-US/docs/Glossary/Primitive "Currently only available in English (US)")：
@@ -28,6 +25,3 @@ tag:
     -   [String (en-US)](https://developer.mozilla.org/en-US/docs/Glossary/String "Currently only available in English (US)")
     -   [Symbol (en-US)](https://developer.mozilla.org/en-US/docs/Glossary/Symbol "Currently only available in English (US)")（於 ECMAScript 6 新定義）
 -   另外還有 [Object](https://developer.mozilla.org/zh-TW/docs/Glossary/Object)
-
-
-#js #dataType 

@@ -8,7 +8,7 @@ tag:
 [JavaScript 陣列處理方法 [filter(), find(), forEach(), map(), every(),](https://courses.hexschool.com/blog/168210/javascript-for)
 
 
-不是[[原始資料類型 Primitive Data Types]]
+不是[[JavaScript/資料類型/原始資料類型/原始資料類型 Primitive Data Types]]
 是 object 的一種
 
 ## 讀取長度

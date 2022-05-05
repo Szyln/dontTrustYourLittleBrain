@@ -20,4 +20,4 @@ result = 2 && 0;       // 回傳偽值
 result = 'foo' && 4;   // 回傳 expr2
 ```
 
->[falsy value](JavaScript/資料類型/falsy%20value.md)
+>[falsy value](JavaScript/資料類型/資料類型/falsy%20value.md)

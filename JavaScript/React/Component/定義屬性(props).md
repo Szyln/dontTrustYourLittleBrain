@@ -30,7 +30,7 @@ const element = <div className={className}>{children}</div>
 
 ## 物件定義屬性（ [[JavaScript/資料類型/Object, Array/Object/Key-Value Pair]] ）
 >寫 [[JavaScript/React/Component/Component：可重複利用、自定參數的元件]]的時候會把參數拉出來寫
->>[[Destructing Assignment]]
+>>[[JavaScript/資料類型/Object, Array/Object/Destructing Assignment]]
 >```jsx
 >// 將物件內容轉換成網頁顯示
 >const friend = ({name, age, desc}) => {
@@ -49,7 +49,7 @@ HTML 屬性中，重複的屬性，後者會蓋過前者
 const props = { children: 'Hello', className: 'container' }
 const element = <div {...props} />
 ```
->[[物件不要傳參考的時候：深層、淺層拷貝]]
+>[[JavaScript/資料類型/Object, Array/Object/物件不要傳參考的時候：深層、淺層拷貝]]
 
 ### 增加屬性（物件以外）
 ```jsx

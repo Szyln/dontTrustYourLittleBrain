@@ -4,7 +4,7 @@ tag:
 - 
 ---
 # 從物件中提取屬性到變數中 Destructing an object
->[[Destructing Assignment]]
+>[[JavaScript/資料類型/Object, Array/Object/Destructing Assignment]]
 
 
 - 長相像有大括號的變數

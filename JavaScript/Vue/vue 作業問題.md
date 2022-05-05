@@ -7,7 +7,7 @@ tag:
 - [x] `${}`的方法在 {{}} 裡面也有嗎
 
 
-href="`mailto:${ item.email }`" 有混文字記得用[[Template literals (Template strings)]]
+href="`mailto:${ item.email }`" 有混文字記得用[[JavaScript/資料類型/資料類型/Template literals (Template strings)]]
 
 :src="item.picture.large" 只有點記法的話不用${}
 #vue 

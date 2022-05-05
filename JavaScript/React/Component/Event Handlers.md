@@ -66,7 +66,7 @@ renderApp();
 
 ## 使用 [[JavaScript/React/Hook/Hook]] 改寫
 >[[JavaScript/React/Hook/Hook]]：[[JavaScript/React/Hook/useState Hook]]
->[[Destructing Assignment]]
+>[[JavaScript/資料類型/Object, Array/Object/Destructing Assignment]]
 ```jsx	
 function App() { 
 	const [ count, setCount ] = React.useState(0);
@@ -109,6 +109,6 @@ function setState(newState) {
 	renderApp()
 }
 ```
->[[物件不要傳參考的時候：深層、淺層拷貝#淺層拷貝 Shallow Copy]]
+>[[JavaScript/資料類型/Object, Array/Object/物件不要傳參考的時候：深層、淺層拷貝#淺層拷貝 Shallow Copy]]
 
  #js/react/component #js/function #js/event

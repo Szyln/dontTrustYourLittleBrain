@@ -1,7 +1,7 @@
 ---
 title: "Floating Point"
 tag: 
-- 
+- js/dataType/primitiveDataType
 ---
 # Floating Point
 因為電腦的二進位跟小數點的十進位換算有點複雜
@@ -14,4 +14,3 @@ console.log(0.2 + 0.1 == 0.3); // false
 ```js
 console.log((0.2 + 0.1).toFixed(1) == 0.3.toFixed(1)); // false 
 ```
-#js #dataType #primitiveDataType

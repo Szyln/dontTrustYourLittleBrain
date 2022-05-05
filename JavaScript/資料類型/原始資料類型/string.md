@@ -1,11 +1,13 @@
 ---
 title: "string"
 tag: 
-- 
+- js/dataType/primitiveDataType 
 ---
 # string
 ## string 的串接
 可以做串接（+），但不能做運算（加減乘除）
+
+
 ### string concatenate 串接
 concatenate 簡稱 concat
 ```js
@@ -34,7 +36,7 @@ let str = `hi` + ", I am fine."
 ## 其他功能
 -   扣除字尾空白｜.trim（不更改原字串）
 
-### 組合字與變數｜[[Template literals (Template strings)]](ES6)
+### 組合字與變數[[JavaScript/資料類型/資料類型/Template literals (Template strings)]](ES6)
 
 
 ## 邏輯
@@ -46,4 +48,3 @@ string 可以做邏輯判斷，只看字首順序
 
 ```
 
-#js #dataType 

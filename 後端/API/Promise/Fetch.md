@@ -76,7 +76,7 @@ async function getWeather() {
 
 getWeather();
 ```
->[[Template literals (Template strings)]]
+>[[JavaScript/資料類型/資料類型/Template literals (Template strings)]]
 
 ## 搭配後端來寫
 [[Node to API]]

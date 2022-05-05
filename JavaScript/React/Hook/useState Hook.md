@@ -18,7 +18,7 @@ const [name, setName] = React.useState('name 初始狀態')
 const handleChange = event => setName('想要 name 怎麼變')
 ```
 >關於 `[name, setName]` 寫法參照：
->- [[Destructing Assignment]]
+>- [[JavaScript/資料類型/Object, Array/Object/Destructing Assignment]]
 >- [[JavaScript/React/Component/Event Handlers]]
 
 使用 useState [[JavaScript/React/Hook/Hook]]，來控制元件的 [[JavaScript/React/Hook/State]]，並且用 [[JavaScript/React/Component/Event Handlers]] 來規劃如何觸發
@@ -54,8 +54,8 @@ ReactDOM.render(<Greeting />, document.querySelector('#root'))
 > ```
 
 
-## 不同[資料類型](JavaScript/資料類型/資料類型.md) 對應的空的預設值
-|資料類型|空的預設值([falsy value](JavaScript/資料類型/falsy%20value.md))|
+## 不同[資料類型 index](JavaScript/資料類型/資料類型%20index.md) 對應的空的預設值
+|資料類型|空的預設值([falsy value](JavaScript/資料類型/資料類型/falsy%20value.md))|
 |-|-|
 |string|''|
 |object|null|

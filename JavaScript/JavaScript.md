@@ -12,14 +12,11 @@ tag:
 
 ### 變數
 ### 資料類型
-#### Function
-- [Function](JavaScript/資料類型/Function/Function.md)
+[資料類型 index](JavaScript/資料類型/資料類型%20index.md)
+
 #### JSON
 - [JSON](JavaScript/資料類型/JSON/JSON.md)
-#### Number
-- [Number](JavaScript/資料類型/Number/Number.md)
-- [Floating Point](JavaScript/資料類型/Number/Floating%20Point.md)
-#### Object
+
 
 ### 邏輯、條件、比較
 ### Execution Context

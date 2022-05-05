@@ -12,7 +12,7 @@ tag:
 |getElementByClassName|HTMLCollection|
 |querySelectorAll|NodeList|
 
-但實作上還是 array 最實用，取得 NodeList 之後常會透過 [[展開#轉成純陣列]] 的方法來使用陣列功能
+但實作上還是 array 最實用，取得 NodeList 之後常會透過 [[JavaScript/資料類型/Object, Array/Object/展開#轉成純陣列]] 的方法來使用陣列功能
 
 |功能|array|NodeList|HTMLCollection|
 |-|-|-|-|

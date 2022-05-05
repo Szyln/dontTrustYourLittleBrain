@@ -35,7 +35,7 @@ tag:
 
 - [[JavaScript/資料類型/Object, Array/Object/Key-Value Pair]] 的形式
 
-#### Storage 資料的使用（[[深層拷貝、非 string 類型的資料類型轉換]]）
+#### Storage 資料的使用（[[JavaScript/資料類型/Object, Array/Object/深層拷貝、非 string 類型的資料類型轉換]]）
 
 
 

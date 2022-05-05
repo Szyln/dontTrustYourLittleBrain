@@ -52,7 +52,10 @@
     "eslint",
     "charAt",
     "CrossFit",
-    "cdn"
+    "cdn",
+    "typeof",
+    "falsy",
+    "toFixed"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",

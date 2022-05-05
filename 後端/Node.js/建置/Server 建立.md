@@ -58,7 +58,7 @@ const server = http.createServer((req, res) => {
 #### request
 也可以使用 `req` 參數，處理傳過來的資料
 
->- parse：[[物件不要傳參考的時候：深層、淺層拷貝#深層拷貝]]
+>- parse：[[JavaScript/資料類型/Object, Array/Object/物件不要傳參考的時候：深層、淺層拷貝#深層拷貝]]
 >- [[url(module)]]
 
 ```js

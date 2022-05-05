@@ -19,7 +19,7 @@ app.get('/search/:result', (req, res) => {
 })
 ```
 
->[[從物件中提取屬性到變數中 Destructing an object]] 提到可以把物件內容提取出來，增加易讀性
+>[[JavaScript/資料類型/Object, Array/Object/從物件中提取屬性到變數中 Destructing an object]] 提到可以把物件內容提取出來，增加易讀性
 >```js
 >app.get('/search/:result', (req, res) => {
 >	let { result } = res.params;
