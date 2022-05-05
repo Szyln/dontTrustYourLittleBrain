@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/作品與目標/參考網站.md",
+                "file": "JavaScript/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/作品與目標/參考網站.md"
+                "file": "JavaScript/JavaScript.md"
               }
             }
           }
@@ -127,10 +127,10 @@
     "direction": "horizontal",
     "width": 240.4686279296875
   },
-  "active": "79e988e6feddca72",
+  "active": "efdd8c95ed7a3b32",
   "lastOpenFiles": [
-    "其他/作品與目標/參考網站.md",
     "JavaScript/JavaScript.md",
+    "其他/作品與目標/參考網站.md",
     "JavaScript/邏輯、條件、比較/迴圈/for/for of loop.md",
     "JavaScript/邏輯、條件、比較/條件/條件簡寫 ternary operator(語法糖).md",
     "JavaScript/邏輯、條件、比較/運算/運算符號 numbers operators.md",
