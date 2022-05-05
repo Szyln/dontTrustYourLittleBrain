@@ -1,9 +1,9 @@
 ---
-title: "其餘參數 Rest Perameters"
+title: "其餘參數 Rest Parameters"
 tag: 
-- 
+- js/function
 ---
-# 其餘參數 Rest Perameters
+# 其餘參數 Rest Parameters
 設定 function 在導入之前可以為**不特定數量的參數**，並且將他們視為陣列來處理
 
 ```js

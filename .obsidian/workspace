@@ -6,10 +6,23 @@
       {
         "id": "efdd8c95ed7a3b32",
         "type": "leaf",
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/介紹/JavaScript.md",
+            "file": "JavaScript/JavaScript.md",
+            "mode": "source"
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "4d94ab4d8fea1c87",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "JavaScript/資料類型/Function/Function.md",
             "mode": "source"
           }
         }
@@ -69,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/介紹/JavaScript.md",
+                "file": "JavaScript/資料類型/Function/Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/介紹/JavaScript.md"
+                "file": "JavaScript/資料類型/Function/Function.md"
               }
             }
           }
@@ -112,20 +125,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.4686279296875,
-    "collapsed": true
+    "width": 240.4686279296875
   },
-  "active": "efdd8c95ed7a3b32",
+  "active": "4d94ab4d8fea1c87",
   "lastOpenFiles": [
-    "JavaScript/介紹/JavaScript.md",
-    "JavaScript/webpack/webpack Get Started.md",
+    "JavaScript/資料類型/Function/Function.md",
+    "JavaScript/JavaScript.md",
+    "JavaScript/資料類型/JSON/8. Axios 的 API 串接.md",
+    "JavaScript/資料類型/Function/IIFE.md",
+    "JavaScript/資料類型/Function/其餘參數 Rest Parameters.md",
+    "JavaScript/資料類型/Function/this.md",
+    "JavaScript/介紹/JavaScript 介紹.md",
+    "JavaScript/介紹/Strongly Weakly type Language.md",
     "JavaScript/webpack/webpack（未完成）.md",
-    "JavaScript/Vue/關注點分離(SoC).md",
-    "JavaScript/Vue/vue 作業問題.md",
-    "JavaScript/Vue/vue 學前必備觀念/7.Promise 非同步.md",
-    "JavaScript/Vue/vue 學前必備觀念/5.關注點分離.md",
-    "JavaScript/Vue/vue 學前必備觀念/2.ES6 語法糖.md",
-    "JavaScript/Vue/vue 學前必備觀念/1.相關連結.md",
-    "JavaScript/jQuery/基礎使用.md"
+    "JavaScript/webpack/webpack Get Started.md"
   ]
 }

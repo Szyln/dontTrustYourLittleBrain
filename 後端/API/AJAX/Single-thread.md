@@ -4,7 +4,7 @@ tag:
 - 
 ---
 # Single-thread
-[[JavaScript/介紹/JavaScript]] 屬於 [[Single-thread]] 語言，一次只能處理一件事
+[[JavaScript/JavaScript]] 屬於 [[Single-thread]] 語言，一次只能處理一件事
 ```js
 // sync(Synchronous) code 同步
 console.log('a');

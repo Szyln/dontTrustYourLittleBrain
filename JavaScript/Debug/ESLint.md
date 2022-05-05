@@ -5,6 +5,7 @@ tag:
 ---
 ## ESLint
 > [reactjs-tutorial: linting](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial#_linting)
+> - `⇧⌘M` ：開啟 Problems 區塊
 ## 設定
 ### 安裝 ESLint (npm)
 ```shell
