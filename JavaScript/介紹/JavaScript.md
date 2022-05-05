@@ -1,8 +1,9 @@
 ---
 title: "JavaScript"
 tag: 
-- 
+- js
+- index
 ---
 # JavaScript
-- [[JavaScript 介紹]]
+- 
 - 

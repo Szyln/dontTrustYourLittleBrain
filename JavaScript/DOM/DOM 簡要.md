@@ -1,7 +1,7 @@
 ---
 title: "DOM 簡要"
 tag: 
-- 
+- js/dom
 ---
 # DOM｜Document Object Model
  [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
@@ -92,4 +92,3 @@ para.textContent = 'hello world';
 ## 自訂標籤屬性｜data-{自訂名稱}=”自訂內容”
 
   
-#js #dom

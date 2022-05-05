@@ -1,7 +1,8 @@
 ---
 title: "Dynamic Header"
 tag: 
-- 
+- js/dom
+- js/react
 ---
 # Dynamic Header
 設定黏在頭頂的 navbar，可以隨著滾輪變化（透明度、高度等）
@@ -33,4 +34,3 @@ window.addEventListener("scroll", () => {
 - https://kyleamathews.github.io/react-headroom/
 - https://www.cluemediator.com/animated-sticky-header-on-scroll-in-react
 
-#js #dom

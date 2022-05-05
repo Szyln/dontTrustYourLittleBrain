@@ -1,7 +1,7 @@
 ---
 title: "Global Execution Context"
 tag: 
-- 
+- js/executionContext
 ---
 # Global Execution Context 全域執行環境
 為 [[Execution Phase]] 的其中一種
@@ -14,4 +14,3 @@ tag:
 ## Execution Phase
 開始實際一行一行跑程式 (callstack)
 
-#js #window #executionContext

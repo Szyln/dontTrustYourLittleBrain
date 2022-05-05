@@ -1,7 +1,7 @@
 ---
 title: "DOM 需要知道的 methods, properties"
 tag: 
-- 
+- js/dom
 ---
 ![](https://i.imgur.com/42G4N5a.png)
 # Element Object
@@ -96,5 +96,3 @@ title.style.backgroundColor = "Blue";
 // #2
 title.style = "background-color: blue; font-size: 20pt;"
 ```
-
-#js #dom

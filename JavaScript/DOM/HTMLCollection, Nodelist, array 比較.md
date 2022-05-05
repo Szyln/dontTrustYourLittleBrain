@@ -1,7 +1,7 @@
 ---
 title: "HTMLCollection, Nodelist, array 比較"
 tag: 
-- 
+- js/dom
 ---
 # HTMLCollection, Nodelist 與 array 類似之處
 ## 比較
@@ -32,4 +32,3 @@ tag:
 
 
 
-#js #dom

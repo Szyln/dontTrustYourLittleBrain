@@ -1,7 +1,7 @@
 ---
 title: "Event"
 tag: 
-- 
+- js/dom/event
 ---
 # Event
 [事件](https://developer.mozilla.org/zh-TW/docs/Web/Events)
@@ -54,4 +54,3 @@ title.addEventListener(”click”, e => {
 )
 ```
 
-#js #dom #event

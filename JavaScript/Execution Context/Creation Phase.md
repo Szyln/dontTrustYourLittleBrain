@@ -1,7 +1,7 @@
 ---
 title: "Creation Phase"
 tag: 
-- 
+- js/executionContext
 ---
 # Creation Phase
 在 [[Execution Phase]] 之前，後台處理的部份
@@ -16,4 +16,3 @@ tag:
 - 不是 [[Global Execution Context]] 所以不會生成 window object
 - this 生成，但[[4.箭頭函式 arrow function]] 不會
 
-#js #window #executionContext

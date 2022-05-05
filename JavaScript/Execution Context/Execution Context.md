@@ -1,7 +1,7 @@
 ---
 title: "Execution Context"
 tag: 
-- 
+- js/executionContext
 ---
 # Execution Context
 
@@ -13,4 +13,3 @@ tag:
 - [[Global Execution Context]]（會生成 window object）
 - [[Function Execution Context]](不會生成 window object) 
 
-#js #window #executionContext

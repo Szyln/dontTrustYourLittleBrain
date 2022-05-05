@@ -1,7 +1,7 @@
 ---
 title: "stopPropagation"
 tag: 
-- 
+- js/dom/event
 ---
 ## stopPropagation
 阻止 [[Event Bubbling]] 的方法
@@ -12,4 +12,3 @@ tag:
 
 ```
 
-#js #event #dom

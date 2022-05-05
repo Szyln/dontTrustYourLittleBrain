@@ -69,5 +69,6 @@
   "useTab": true,
   "smartIndentList": true,
   "newLinkFormat": "absolute",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "附件"
 }
