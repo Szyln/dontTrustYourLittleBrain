@@ -9,7 +9,7 @@ tag:
 
 ## 類型
 - Global Scope
-- Function Scope
+- Function Scope ^50eb8d
 - [[Block]] Scope
 
 |作用域類型|var|let|const|

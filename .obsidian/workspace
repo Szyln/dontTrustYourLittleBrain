@@ -17,12 +17,23 @@
         }
       },
       {
-        "id": "4d94ab4d8fea1c87",
+        "id": "97973a65c3ecc49a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/資料類型/Function/Function.md",
+            "file": "JavaScript/資料類型/Object, Array/Object.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "468a5a6fd7a8c46b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "JavaScript/資料類型/Object, Array/Object/物件傳參考.md",
             "mode": "source"
           }
         }
@@ -82,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/資料類型/Function/Function.md",
+                "file": "JavaScript/資料類型/Object, Array/Object.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/資料類型/Function/Function.md"
+                "file": "JavaScript/資料類型/Object, Array/Object.md"
               }
             }
           }
@@ -127,17 +138,17 @@
     "direction": "horizontal",
     "width": 240.4686279296875
   },
-  "active": "4d94ab4d8fea1c87",
+  "active": "97973a65c3ecc49a",
   "lastOpenFiles": [
-    "JavaScript/資料類型/Function/Function.md",
-    "JavaScript/JavaScript.md",
-    "JavaScript/資料類型/JSON/8. Axios 的 API 串接.md",
-    "JavaScript/資料類型/Function/IIFE.md",
-    "JavaScript/資料類型/Function/其餘參數 Rest Parameters.md",
-    "JavaScript/資料類型/Function/this.md",
-    "JavaScript/介紹/JavaScript 介紹.md",
-    "JavaScript/介紹/Strongly Weakly type Language.md",
-    "JavaScript/webpack/webpack（未完成）.md",
-    "JavaScript/webpack/webpack Get Started.md"
+    "JavaScript/資料類型/Object, Array/Object.md",
+    "JavaScript/資料類型/Object, Array/Object/物件傳參考.md",
+    "JavaScript/資料類型/Object, Array/Destructing Assignment.md",
+    "JavaScript/資料類型/Object, Array/深層拷貝、非 string 類型的資料類型轉換.md",
+    "JavaScript/資料類型/Object, Array/從物件中提取屬性到變數中 Destructing an object.md",
+    "JavaScript/資料類型/Object, Array/展開.md",
+    "JavaScript/資料類型/Object, Array/變數簡寫語法糖.md",
+    "JavaScript/資料類型/Object, Array/Object/Window Object.md",
+    "JavaScript/資料類型/Object, Array/Object/物件刪除.md",
+    "前端/Bootstrap/utilities API 修改.md"
   ]
 }

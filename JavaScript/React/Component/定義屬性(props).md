@@ -14,7 +14,7 @@ tag:
 
 - 屬性的定義有兩種方法，效果一樣 ^1bd0ac
 	- 用 JS 寫值本身（單一資料） ^8d0c66
-	- 用 JS 寫整個屬性（物件、[[Key-Value Pair]]）
+	- 用 JS 寫整個屬性（物件、[[JavaScript/資料類型/Object, Array/Object/Key-Value Pair]]）
 
 ## 只用 JS 定義屬性的值 Value
 
@@ -28,7 +28,7 @@ const element = <div className={className}>{children}</div>
 ```
 >[[JavaScript/React/基本原理/children]] 還有其他寫法
 
-## 物件定義屬性（ [[Key-Value Pair]] ）
+## 物件定義屬性（ [[JavaScript/資料類型/Object, Array/Object/Key-Value Pair]] ）
 >寫 [[JavaScript/React/Component/Component：可重複利用、自定參數的元件]]的時候會把參數拉出來寫
 >>[[Destructing Assignment]]
 >```jsx

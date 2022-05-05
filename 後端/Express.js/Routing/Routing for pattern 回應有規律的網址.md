@@ -26,3 +26,4 @@ app.get('/search/:result', (req, res) => {
 >	res.send('你要找的是' + result + '嗎？');
 >})
 >```
+

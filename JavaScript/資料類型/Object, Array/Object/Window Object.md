@@ -1,7 +1,7 @@
 ---
 title: "Window Object"
 tag: 
-- 
+- js/object/window
 ---
 # Window Object
 ## Properties

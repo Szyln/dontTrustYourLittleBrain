@@ -12,7 +12,7 @@ tag:
 - [[Boolean]]: falsy value
 - symbol
 
-## [[物件傳參考#傳值 Call By Value]]
+## [[JavaScript/資料類型/Object, Array/Object/物件傳參考#傳值 Call By Value]]
 不會改變原始值（進階的時候才會理解 primitive data types 為什麼不會被改變）
 
 ```js
