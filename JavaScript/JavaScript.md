@@ -22,9 +22,23 @@ tag:
 - [Closure(Scope Chaining)](JavaScript/變數/Closure(Scope%20Chaining).md)
 
 ### 資料類型
-[資料類型 index](JavaScript/資料類型/資料類型%20index.md)
+- [資料類型 index](JavaScript/資料類型/資料類型%20index.md)
 
-### 邏輯、條件、比較
+### 運算
+- [運算符號 numbers operators](JavaScript/邏輯、條件、比較/運算/運算符號%20numbers%20operators.md)
+- [Math Object](JavaScript/邏輯、條件、比較/運算/Math%20Object.md)
+### 條件
+- [條件簡寫 ternary operator(語法糖)](JavaScript/邏輯、條件、比較/條件/條件簡寫%20ternary%20operator(語法糖).md)
+- [if, switch](JavaScript/邏輯、條件、比較/條件/if,%20switch.md)
+- [邏輯運算子](JavaScript/邏輯、條件、比較/條件/邏輯運算子.md)
+- [Logic OR](JavaScript/邏輯、條件、比較/條件/Logic%20OR.md)
+- [Logic AND(&&)](JavaScript/邏輯、條件、比較/條件/Logic%20AND(&&).md)
+### 迴圈
+- [loop 迴圈](JavaScript/邏輯、條件、比較/迴圈/loop%20迴圈.md)
+	- [for of loop](JavaScript/邏輯、條件、比較/迴圈/for/for%20of%20loop.md)
+	- [for in loop](JavaScript/邏輯、條件、比較/迴圈/for/for%20in%20loop.md)
+	- [for](JavaScript/邏輯、條件、比較/迴圈/for/for.md)
+
 ### Execution Context
 - [Execution Context](JavaScript/Execution%20Context/Execution%20Context.md)
 
