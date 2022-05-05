@@ -11,12 +11,18 @@ tag:
 - [Library 跟 Framework 的差別](JavaScript/介紹/Library%20跟%20Framework%20的差別.md)
 
 ### 變數
+- [var, let, const 的作用域](JavaScript/變數/var,%20let,%20const%20的作用域.md)
+- [變數 variables](JavaScript/變數/變數%20variables.md)
+- [block](JavaScript/變數/block.md)
+- [Hoisting](JavaScript/變數/Hoisting.md)
+- [const](JavaScript/變數/const.md)
+- [暫時性死區(TDZ)](JavaScript/變數/暫時性死區(TDZ).md)
+- [初始化(initializer)](JavaScript/變數/初始化(initializer).md)
+- [Scope](JavaScript/變數/Scope.md)
+- [Closure(Scope Chaining)](JavaScript/變數/Closure(Scope%20Chaining).md)
+
 ### 資料類型
 [資料類型 index](JavaScript/資料類型/資料類型%20index.md)
-
-#### JSON
-- [JSON](JavaScript/資料類型/JSON/JSON.md)
-
 
 ### 邏輯、條件、比較
 ### Execution Context
@@ -35,7 +41,10 @@ tag:
 ### 模組
 - [webpack Get Started](JavaScript/webpack/webpack%20Get%20Started.md)
 - [webpack（未完成）](JavaScript/webpack/webpack（未完成）.md)
+
 ### 物件導向 OOP
+- [物件導向 OOP](JavaScript/物件導向%20OOP/物件導向%20OOP.md)
+
 ### Framework and Library
 #### jQuery
 - [基礎使用](JavaScript/jQuery/基礎使用.md)
@@ -54,6 +63,11 @@ tag:
 
 
 ### 實際操作相關、做出想要的功能
+- [comment](JavaScript/實作流程相關/comment.md)
+- [flow](JavaScript/實作流程相關/flow.md)
+- [命名習慣 Naming Convention](JavaScript/實作流程相關/命名習慣%20Naming%20Convention.md)
+- [use-strict 嚴格模式](JavaScript/實作流程相關/use-strict%20嚴格模式.md)
+- [僅將字串的第一個字轉為大寫](JavaScript/實作流程相關/僅將字串的第一個字轉為大寫.md)
 ### Debug
 - [Debug](JavaScript/Debug/Debug.md)
 

@@ -26,11 +26,11 @@ function 名稱(parameter) {
 ---
 
 ### 目錄
-- [return](return.md)
+- [return](JavaScript/資料類型/Function/return.md)
 - [函式表達式 function expression](JavaScript/資料類型/Function/函式表達式%20function%20expression.md)
 - [Higher Order Function](JavaScript/資料類型/Function/Higher%20Order%20Function.md)
 - [IIFE](JavaScript/資料類型/Function/IIFE.md)
-- [原生 function](原生%20function.md)
+- [原生 function](JavaScript/資料類型/Function/原生%20function.md)
 - [console.log](JavaScript/資料類型/Function/console.log.md)
 
 #### this 

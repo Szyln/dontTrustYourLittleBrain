@@ -12,7 +12,7 @@ tag:
 const newObject = JSON.parse(JSON.stringify(object))
 ```
 
-## [[Storage]] 內的資料使用
+## [[JavaScript/資料類型/Object, Array/Object/Window Object/Storage]] 內的資料使用
 #### 非 [[JavaScript/資料類型/原始資料類型/string]] 的資料類型 [[JavaScript/資料類型/資料類型/類型轉換]]
 由於 storage 裡面只會有 string ，其他的[[JavaScript/資料類型/資料類型 index]]都會被轉成 string，如果想要其他的資料提出時還是維持資料原本的類型，可以用以下功能（object, array, boolean 皆可）
 - [[JavaScript/資料類型/資料類型/類型轉換#JSON]]

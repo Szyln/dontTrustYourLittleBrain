@@ -6,7 +6,6 @@
       {
         "id": "efdd8c95ed7a3b32",
         "type": "leaf",
-        "dimension": 32.026537997587454,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -18,13 +17,12 @@
         }
       },
       {
-        "id": "97973a65c3ecc49a",
+        "id": "e928c711de1ef281",
         "type": "leaf",
-        "dimension": 67.97346200241255,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/資料類型/Object, Array/Object/Window Object.md",
+            "file": "JavaScript/變數/var, let, const 的作用域.md",
             "mode": "source"
           }
         }
@@ -84,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/資料類型/Object, Array/Object/Window Object.md",
+                "file": "JavaScript/JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/資料類型/Object, Array/Object/Window Object.md"
+                "file": "JavaScript/JavaScript.md"
               }
             }
           }
@@ -129,17 +127,17 @@
     "direction": "horizontal",
     "width": 240.4686279296875
   },
-  "active": "97973a65c3ecc49a",
+  "active": "efdd8c95ed7a3b32",
   "lastOpenFiles": [
-    "JavaScript/資料類型/Object, Array/Object/Window Object.md",
-    "JavaScript/資料類型/Object, Array/Window Object/removeItem(key).md",
-    "JavaScript/資料類型/Object, Array/Window Object/getItem(key).md",
-    "JavaScript/資料類型/Object, Array/Window Object/setItem(key, value).md",
-    "JavaScript/資料類型/Object, Array/Window Object/Session Storage.md",
-    "JavaScript/資料類型/資料類型 index.md",
     "JavaScript/JavaScript.md",
-    "JavaScript/資料類型/原始資料類型/原始資料類型 Primitive Data Types.md",
-    "JavaScript/資料類型/資料類型/MDN 資料類型方便查看的連結.md",
-    "JavaScript/資料類型/Object, Array/Object/物件傳參考.md"
+    "JavaScript/變數/var, let, const 的作用域.md",
+    "JavaScript/實作流程相關/comment.md",
+    "JavaScript/模組/模組.md",
+    "JavaScript/模組/瀏覽器上運行 ES 模組.md",
+    "JavaScript/物件導向 OOP/物件導向 OOP.md",
+    "JavaScript/資料類型/資料類型 index.md",
+    "JavaScript/物件導向 OOP/繼承/create().md",
+    "JavaScript/物件導向 OOP/繼承/Class.md",
+    "JavaScript/物件導向 OOP/繼承/原始資料類型使用 Prototype Inheritance 的功能.md"
   ]
 }

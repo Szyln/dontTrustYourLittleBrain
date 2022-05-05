@@ -8,7 +8,7 @@ tag:
 - 例如
 	- 網路請求（例如處理 api）
 	- 與第三方溝通
-	- 存取 [[Local Storage]]
+	- 存取 [[JavaScript/資料類型/Object, Array/Object/Window Object/Local Storage]]
 	- 等等等
 
 #js/react/hook

@@ -9,7 +9,7 @@ tag:
 ## 使用情境
 `useEffect` 會在每次 render 時執行，可以使用 [[JavaScript/React/Hook/Dependency array]] 來限定執行時機
 
-## 以儲存資料到 [[Local Storage]] 為例
+## 以儲存資料到 [[JavaScript/資料類型/Object, Array/Object/Window Object/Local Storage]] 為例
 
 >[[JavaScript/React/Hook/自訂 Hooks]]：若有要一起使用的 [[JavaScript/React/Hook/Hook]] （這裡以 [[JavaScript/React/Hook/useEffect Hook]], [[JavaScript/React/Hook/useState Hook]] 為例）可以把他們加到一個函式內，方便使用
 
@@ -27,7 +27,7 @@ const App = () => {
 
 ### name 存入 LocalStorage
 1. 當 `name` 透過 `useState` 更新（自動 re-render 這個 app）
-2. 觸發 `useEffect` 更新 [[Local Storage]]（單向更新）
+2. 觸發 `useEffect` 更新 [[JavaScript/資料類型/Object, Array/Object/Window Object/Local Storage]]（單向更新）
 
 >#### 選用（效能考量）
 >3. [[JavaScript/React/Hook/Dependency array]]：可以讓 [[JavaScript/React/Hook/side-effect]] 的另一端資料與 React 維持雙向同步

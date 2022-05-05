@@ -55,7 +55,9 @@
     "cdn",
     "typeof",
     "falsy",
-    "toFixed"
+    "toFixed",
+    "devtools",
+    "forEach"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",
