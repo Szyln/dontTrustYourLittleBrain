@@ -9,14 +9,14 @@ tag:
 
 |比較內容|var|let|const|
 |-|-|-|-|
-|[[block]] 內使用造成全域污染（不形成作用域）|O|X|X|
-|顯示在 windows 上 |O|X|X|
-|受非同步影響|O|X|X|
-|hoisting|O|X|X|
-|[[暫時性死區(TDZ)]]|X|O|O|
-|再宣告（re-declaration）|O|X|X|
-|再指派（re-assignment 賦值）|O|O|X|
-|未[[初始化(initializer)]]就使用|O|O|X|
+|[[block]] 內使用會造成全域污染（不形成作用域）|是|否|否|
+|顯示在 windows 上 |是|否|否|
+|受非同步影響|是|否|否|
+|hoisting|有|無|無|
+|[[暫時性死區(TDZ)]]|無|有|有|
+|再宣告（re-declaration）|可|否|否|
+|再指派（re-assignment 賦值）|可|可|否|
+|未[[初始化(initializer)]]就使用|可|可|否|
 
 
 
