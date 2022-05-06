@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "網站",
+                "query": "formspree",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -61,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
