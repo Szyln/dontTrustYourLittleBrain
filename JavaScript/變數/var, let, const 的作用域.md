@@ -122,7 +122,7 @@ const a = 1;
 a = 2;        // 不可
 ````
 
-## [[JavaScript/資料類型/Object, Array/Object/物件傳參考]]
+## [物件傳參考](JavaScript/資料類型/Object,%20Array/Object/物件傳參考.md)
 const 如果碰上 object 的話，單純修改裡面的內容是可以的
 但直接改 const 成其他物件是不行的（物件傳參考）
 ```javascript
