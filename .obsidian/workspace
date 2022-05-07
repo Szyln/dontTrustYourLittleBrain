@@ -4,26 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "efdd8c95ed7a3b32",
-        "type": "leaf",
-        "pinned": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "JavaScript/JavaScript.md",
-            "mode": "source"
-          },
-          "pinned": true
-        }
-      },
-      {
         "id": "79e988e6feddca72",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "網頁上放入簡易的表單.md",
-            "mode": "source"
+            "file": "其他/作品與目標/參考網站.md",
+            "mode": "preview"
           }
         }
       }
@@ -65,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 344.5,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -82,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "網頁上放入簡易的表單.md",
+                "file": "其他/作品與目標/參考網站.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "網頁上放入簡易的表單.md"
+                "file": "其他/作品與目標/參考網站.md"
               }
             }
           }
@@ -129,10 +117,10 @@
   },
   "active": "79e988e6feddca72",
   "lastOpenFiles": [
+    "其他/作品與目標/參考網站.md",
+    "JavaScript/JavaScript.md",
     "網頁上放入簡易的表單.md",
     "JavaScript/變數/var, let, const 的作用域.md",
-    "JavaScript/JavaScript.md",
-    "其他/作品與目標/參考網站.md",
     "JavaScript/邏輯、條件、比較/迴圈/for/for of loop.md",
     "JavaScript/邏輯、條件、比較/條件/條件簡寫 ternary operator(語法糖).md",
     "JavaScript/邏輯、條件、比較/運算/運算符號 numbers operators.md",
