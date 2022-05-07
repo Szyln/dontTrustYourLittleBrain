@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/變數/var, let, const 的作用域.md",
+            "file": "網頁上放入簡易的表單.md",
             "mode": "source"
           }
         }
@@ -61,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -83,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/變數/var, let, const 的作用域.md",
+                "file": "網頁上放入簡易的表單.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/變數/var, let, const 的作用域.md"
+                "file": "網頁上放入簡易的表單.md"
               }
             }
           }
@@ -130,6 +129,7 @@
   },
   "active": "79e988e6feddca72",
   "lastOpenFiles": [
+    "網頁上放入簡易的表單.md",
     "JavaScript/變數/var, let, const 的作用域.md",
     "JavaScript/JavaScript.md",
     "其他/作品與目標/參考網站.md",
@@ -138,7 +138,6 @@
     "JavaScript/邏輯、條件、比較/運算/運算符號 numbers operators.md",
     "JavaScript/實作流程相關/comment.md",
     "JavaScript/模組/模組.md",
-    "JavaScript/模組/瀏覽器上運行 ES 模組.md",
-    "JavaScript/物件導向 OOP/物件導向 OOP.md"
+    "JavaScript/模組/瀏覽器上運行 ES 模組.md"
   ]
 }
