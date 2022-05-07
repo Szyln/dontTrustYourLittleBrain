@@ -6,7 +6,7 @@ tag:
 ---
 >[npm](https://www.npmjs.com/package/eslint-plugin-react-hooks)
 
-撰寫 [[JavaScript/React/Hook/Hook]] 時的偵錯工具模組
+撰寫 [[JavaScript/React/Hook/Hook]] 時的偵錯工具模組，[ESLint](JavaScript/Debug/ESLint.md) 安裝時會自動安裝，可以把下面的設定加上去
 ```shell
 npm i eslint-plugin-react-hooks
 ```

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他/作品與目標/參考網站.md",
-            "mode": "preview"
+            "file": "JavaScript/Vue/vue 作業問題.md",
+            "mode": "source"
           }
         }
       }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5,
-    "collapsed": true
+    "width": 344.5
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/作品與目標/參考網站.md",
+                "file": "JavaScript/Vue/vue 作業問題.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/作品與目標/參考網站.md"
+                "file": "JavaScript/Vue/vue 作業問題.md"
               }
             }
           }
@@ -113,19 +112,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.4686279296875
+    "width": 240.4686279296875,
+    "collapsed": true
   },
   "active": "79e988e6feddca72",
   "lastOpenFiles": [
-    "其他/作品與目標/參考網站.md",
-    "JavaScript/JavaScript.md",
-    "網頁上放入簡易的表單.md",
-    "JavaScript/變數/var, let, const 的作用域.md",
-    "JavaScript/邏輯、條件、比較/迴圈/for/for of loop.md",
-    "JavaScript/邏輯、條件、比較/條件/條件簡寫 ternary operator(語法糖).md",
-    "JavaScript/邏輯、條件、比較/運算/運算符號 numbers operators.md",
-    "JavaScript/實作流程相關/comment.md",
-    "JavaScript/模組/模組.md",
-    "JavaScript/模組/瀏覽器上運行 ES 模組.md"
+    "JavaScript/Vue/vue 作業問題.md",
+    "JavaScript/React/React Error Boundaries.md",
+    "JavaScript/React/React.md",
+    "JavaScript/React/Hook/useState Hook.md",
+    "JavaScript/React/環境/安裝 React.md",
+    "JavaScript/React/環境/Vite/Vite.md",
+    "前端/CSS/scss/dart-sass(sass) 建置.md",
+    "JavaScript/React/環境/Vite/Vite 安裝.md",
+    "前端/html/skeleton/html lang.md",
+    "JavaScript/Debug/ESLint.md"
   ]
 }

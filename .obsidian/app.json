@@ -74,7 +74,7 @@
   "showFrontmatter": true,
   "useTab": true,
   "smartIndentList": true,
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "shortest",
   "useMarkdownLinks": true,
   "attachmentFolderPath": "附件"
 }
