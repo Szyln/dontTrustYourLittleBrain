@@ -6,6 +6,8 @@ tag:
 - js/module
 ---
 # webpack（未完成）
+- 整合語法相容性（不擔心用新的語法寫，舊的瀏覽器不相容）
+- 
 https://qiita.com/annaaida/items/f2c372000e8358ea8d8f
 [[webpack Get Started]]
 対してwebpackは、バンドルツールなのでバンドルに特化していて、**モジュール同士の依存関係をうまい具合に、かつ速く一枚のJavaScriptファイルにバンドル**してくれるものです。

@@ -6,21 +6,11 @@
       {
         "id": "79e988e6feddca72",
         "type": "leaf",
+        "dimension": 99.99999999999999,
         "state": {
           "type": "markdown",
           "state": {
             "file": "vh, vw, vmin, vmax 跟視窗尺寸的相對單位.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "2c0840952d58119b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "conflict-files-obsidian-git.md",
             "mode": "source"
           }
         }
@@ -59,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "vh, vw, vmin, vmax 跟視窗尺寸的相對單位.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "vh, vw, vmin, vmax 跟視窗尺寸的相對單位.md"
               }
             }
           }
@@ -128,17 +117,17 @@
     "width": 240.4686279296875,
     "collapsed": true
   },
-  "active": "2c0840952d58119b",
+  "active": "79e988e6feddca72",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "vh, vw, vmin, vmax 跟視窗尺寸的相對單位.md",
+    "text-overflow.md",
+    "JavaScript/webpack/webpack（未完成）.md",
+    "eslint-plugin-react-hooks.md",
+    "conflict-files-obsidian-git.md",
     "JavaScript/React/Hook/eslint-plugin-react-hooks.md",
     "React Context（未寫）.md",
     "Redux（未寫）.md",
     "JavaScript/React/Component/Class Component.md",
-    "JavaScript/React/Hook/Hook.md",
-    "前端/Bootstrap/Font.md",
-    "前端/CSS/font-family.md",
-    "button 的樣式 reset.md"
+    "JavaScript/React/Hook/Hook.md"
   ]
 }
