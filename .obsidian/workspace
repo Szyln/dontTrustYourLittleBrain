@@ -13,6 +13,17 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "2c0840952d58119b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -71,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vh, vw, vmin, vmax 跟視窗尺寸的相對單位.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vh, vw, vmin, vmax 跟視窗尺寸的相對單位.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -117,17 +128,17 @@
     "width": 240.4686279296875,
     "collapsed": true
   },
-  "active": "79e988e6feddca72",
+  "active": "2c0840952d58119b",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "vh, vw, vmin, vmax 跟視窗尺寸的相對單位.md",
+    "JavaScript/React/Hook/eslint-plugin-react-hooks.md",
     "React Context（未寫）.md",
     "Redux（未寫）.md",
     "JavaScript/React/Component/Class Component.md",
     "JavaScript/React/Hook/Hook.md",
     "前端/Bootstrap/Font.md",
     "前端/CSS/font-family.md",
-    "button 的樣式 reset.md",
-    "前端/CSS/flexbox.md",
-    "前端/CSS/container.md"
+    "button 的樣式 reset.md"
   ]
 }
