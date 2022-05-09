@@ -54,6 +54,6 @@ git subtree push --prefix dist origin gh-pages
 ```
 
 ## 靜態資源（assets）問題
-[[JavaScript/React/環境/Vite/vite 發布圖片不會正常顯示問題]]
+[[vite 發布圖片不會正常顯示問題]]
 
 #vite #js/react 

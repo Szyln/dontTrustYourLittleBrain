@@ -20,10 +20,10 @@ let str = `hi` + ", I am fine."
 數字可以串接字串
 
 
-|兩個資料類型|執行動作|
-|-|-|
-|string + 任意|串接|
-|number + number|運算|
+| 兩個資料類型    | 執行動作 |
+| --------------- | -------- |
+| string + 任意   | 串接     |
+| number + number | 運算     |
 ```js
 1 + 100 + "1000" + 3 + 6
 // 答案是：101100036
@@ -36,7 +36,7 @@ let str = `hi` + ", I am fine."
 ## 其他功能
 -   扣除字尾空白｜.trim（不更改原字串）
 
-### 組合字與變數[[JavaScript/資料類型/資料類型/Template literals (Template strings)]](ES6)
+### 組合字與變數[[Template literals (Template strings)]](ES6)
 
 
 ## 邏輯

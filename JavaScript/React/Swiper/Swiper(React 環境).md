@@ -30,7 +30,7 @@ const swiper = new Swiper('.swiper', {
   spaceBetween: 100,
 });
 ```
->請參照 [[JavaScript/React/Swiper/Swiper Parameters]]
+>請參照 [[Swiper Parameters]]
 ```js
 const swiper = document.querySelector('.swiper').swiper;
 

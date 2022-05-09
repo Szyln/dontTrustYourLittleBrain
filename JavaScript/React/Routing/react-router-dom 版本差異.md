@@ -5,7 +5,7 @@ tag:
 ---
 # react-router-dom 版本差異
 Wilson 課程影片是 5，該版本有 Switch 的寫法
-> [[JavaScript/React/Routing/react-router-dom]]
+> [[react-router-dom]]
 ```jsx
 import { Switch, Route } from "react-router-dom";
  

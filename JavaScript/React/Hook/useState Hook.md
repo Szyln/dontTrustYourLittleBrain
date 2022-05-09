@@ -18,14 +18,14 @@ const [name, setName] = React.useState('name 初始狀態')
 const handleChange = event => setName('想要 name 怎麼變')
 ```
 >關於 `[name, setName]` 寫法參照：
->- [[JavaScript/資料類型/Object, Array/Object/Destructing Assignment]]
->- [[JavaScript/React/Component/Event Handlers]]
+>- [[Destructing Assignment]]
+>- [[Event Handlers]]
 
-使用 useState [[JavaScript/React/Hook/Hook]]，來控制元件的 [[JavaScript/React/Hook/State]]，並且用 [[JavaScript/React/Component/Event Handlers]] 來規劃如何觸發
+使用 useState [[Hook]]，來控制元件的 [[State]]，並且用 [[Event Handlers]] 來規劃如何觸發
 
->再用 [[JavaScript/React/Hook/useEffect Hook]] 看如何搭配 [[JavaScript/React/Hook/side-effect]] 來寫更複雜的 [[JavaScript/React/Hook/Hook]]，並且改良 `useState` 的初始值設定 （[[JavaScript/React/Hook/Lazy Initializer]]）
+>再用 [[useEffect Hook]] 看如何搭配 [[side-effect]] 來寫更複雜的 [[Hook]]，並且改良 `useState` 的初始值設定 （[[Lazy Initializer]]）
 
->[[JavaScript/React/Hook/State Lifting]]：寫多層次的 react 專案時會遇到的問題
+>[[State Lifting]]：寫多層次的 react 專案時會遇到的問題
 ---
 
 ```jsx
@@ -55,10 +55,10 @@ ReactDOM.render(<Greeting />, document.querySelector('#root'))
 
 
 ## 不同[資料類型 index](JavaScript/資料類型/資料類型%20index.md) 對應的空的預設值
-|資料類型|空的預設值([falsy value](JavaScript/資料類型/資料類型/falsy%20value.md))|
-|-|-|
-|string|''|
-|object|null|
-|number|0|
+| 資料類型 | 空的預設值([falsy value](JavaScript/資料類型/資料類型/falsy%20value.md)) |
+| -------- | ------------------------------------------------------------------------ |
+| string   | ''                                                                       |
+| object   | null                                                                     |
+| number   | 0                                                                        |
 
 

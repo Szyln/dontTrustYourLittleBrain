@@ -4,8 +4,8 @@ tag:
 - 
 ---
 # 用元件處理 CSS Styling
->[[JavaScript/React/Component/Component：可重複利用、自定參數的元件]]
->[[JavaScript/React/Styling/Styling in JSX]]
+>[[Component：可重複利用、自定參數的元件]]
+>[[Styling in JSX]]
 
 - 會多次出現的類似內容，就可以做成元件
 - 內容若有需要微調的需求，則設定參數供調整
@@ -22,7 +22,7 @@ const element = (
 ```
 
 ## 拉出來做成元件
->[[JavaScript/React/Component/Component：可重複利用、自定參數的元件#生成元件]]
+>[[Component：可重複利用、自定參數的元件#生成元件]]
 ```jsx
 // 建立 Box 元件
 function Box(props) {
@@ -42,7 +42,7 @@ const element = (
 ```
 
 ## 不同的內容則拉出來做自訂參數
-> [[JavaScript/資料類型/原始資料類型/string]]：可以使用 `trim()` 避免 `className` 字串沒有寫額外 `className` 的空白字串
+> [[string]]：可以使用 `trim()` 避免 `className` 字串沒有寫額外 `className` 的空白字串
 ```jsx
 // 預設 className 為空字串，不然會顯示 undefined
 function Box({className = '', ...rest}) {

@@ -6,7 +6,7 @@ tag:
 ## 物件 Object
 - [物件字面值](JavaScript/資料類型/Object,%20Array/Object/物件字面值.md)內可以包含多個屬性 (properties)
 - 每個屬性通常都是以 [Key-Value Pair](JavaScript/資料類型/Object,%20Array/Object/Key-Value%20Pair.md) 的形式出現
-- value 可以是其他的[[JavaScript/資料類型/原始資料類型/原始資料類型 Primitive Data Types]]，或是 [[Function]]、[[JavaScript/資料類型/Object, Array/Array]]、甚至是 [[Object]]
+- value 可以是其他的[[原始資料類型 Primitive Data Types]]，或是 [[Function]]、[[Array]]、甚至是 [[Object]]
 - 另外在 ES6 有規範了 [Function 簡寫語法糖](JavaScript/資料類型/Object,%20Array/Object/Function%20簡寫語法糖.md)
 
 ```js

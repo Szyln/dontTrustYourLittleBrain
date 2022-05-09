@@ -4,10 +4,10 @@ tag:
 - 
 ---
 # React.createElement ()
->[[JavaScript/React/JSX/JSX 生成標籤]]
->[[JavaScript/React/JSX/同時生成多個標籤]]
+>[[JSX 生成標籤]]
+>[[同時生成多個標籤]]
 
-生成標籤的原理，但實際撰寫時會用更方便的方法：[[JavaScript/React/JSX/JSX 生成標籤]]
+生成標籤的原理，但實際撰寫時會用更方便的方法：[[JSX 生成標籤]]
 
 ```js
 // 匯入 [[React 使用的模組]]

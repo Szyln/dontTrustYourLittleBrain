@@ -8,6 +8,7 @@ tag:
 >[[安裝 Node.js]]
 
 - [Vite 安裝](JavaScript/React/環境/Vite/Vite%20安裝.md)
+- [ESLint](JavaScript/Debug/ESLint.md) 安裝
 - [dart-sass(sass) 建置](前端/CSS/scss/dart-sass(sass)%20建置.md)
 - [vite gh發布](JavaScript/React/環境/Vite/vite%20gh發布.md)
 - [rollup-plugin-copy（未完成）](JavaScript/React/環境/Vite/rollup-plugin-copy（未完成）.md)

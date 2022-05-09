@@ -5,7 +5,7 @@ tag:
 ---
 
 # Dynamic Form in React
->[[JavaScript/React/Form/Form in React]]
+>[[Form in React]]
 
 運用 React，讓表單做更即時性的互動
 

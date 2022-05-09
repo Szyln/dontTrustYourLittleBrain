@@ -7,7 +7,7 @@ tag:
 ## 操作流程
 -   拆解任務
 -   流程設計
-- [[JavaScript/資料類型/原始資料類型/原始資料類型 Primitive Data Types]]
+- [[原始資料類型 Primitive Data Types]]
 
 
 ## 撰寫步驟

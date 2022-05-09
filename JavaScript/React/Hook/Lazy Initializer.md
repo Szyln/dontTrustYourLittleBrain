@@ -4,8 +4,8 @@ tag:
 - 
 ---
 ## Lazy Initializer
->[[JavaScript/React/Hook/useState Hook]]
->[[JavaScript/React/Hook/useEffect Hook]]
+>[[useState Hook]]
+>[[useEffect Hook]]
 
 只要每次 `name` 更新就會 re-render 這個 app（ `Greeting()` ），但每次執行時就檢查一次初始值吃效能不實際
 這個功能提供初始狀態只會在需要檢查的時候執行

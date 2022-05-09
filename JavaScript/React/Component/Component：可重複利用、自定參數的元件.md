@@ -5,24 +5,24 @@ tag:
 ---
 # Component
 - 用 `function` 來 `return` HTML 元素，其中可以自訂參數來調整元素，方便重複使用
-- 透過 [[JavaScript/React/Component/定義屬性(props)#物件定義屬性（ Key-Value Pair ）]]（參數）可以調整每個生成出來的元件
+- 透過 [[定義屬性(props)#物件定義屬性（ Key-Value Pair ）]]（參數）可以調整每個生成出來的元件
 - 要大寫開頭
-- 一個元件可以在另一個元件裡（詳細要進一步了解渲染的機制： [[JavaScript/React/Hook/Hook]]）
-- 寫多了元件就：[[JavaScript/React/Component/元件匯出]]
+- 一個元件可以在另一個元件裡（詳細要進一步了解渲染的機制： [[Hook]]）
+- 寫多了元件就：[[元件匯出]]
 
->先今（16.8 版）多是用 Function Component + [[JavaScript/React/Hook/Hook]] 來寫（參照本篇）
->早期主要是用 [[JavaScript/React/Component/Class Component]]，現在已經很少用到
+>先今（16.8 版）多是用 Function Component + [[Hook]] 來寫（參照本篇）
+>早期主要是用 [[Class Component]]，現在已經很少用到
 
->- 單純使用 `{}`  可以重複利用存到變數內的 html：[[JavaScript/React/JSX/JSX HTML 內使用變數]]
+>- 單純使用 `{}`  可以重複利用存到變數內的 html：[[JSX HTML 內使用變數]]
 >- 但要可以調整參數就要學會元件的概念
 
->[[JavaScript/React/Styling/用元件處理 CSS Styling]]
+>[[用元件處理 CSS Styling]]
 ---
 
-元件導入了參數的概念，[[JavaScript/React/Component/定義屬性(props)]] 可以做出更靈活的調整
+元件導入了參數的概念，[[定義屬性(props)]] 可以做出更靈活的調整
 
 ## 生成元件
->如果想限制參數的格式：[[JavaScript/React/Component/PropTypes：元件參數的 Vaildator]]
+>如果想限制參數的格式：[[PropTypes：元件參數的 Vaildator]]
 ```jsx
 // 也可以這樣寫：[[Destructing Assignment]]
 cosnt MessageEdit = {children} => <div>{children}</div>
@@ -52,10 +52,10 @@ const element = (
 >// children 這樣寫可讀性最好
 ><MessageEdit>Hello Japan.</MessageEdit>
 >```
->>[[JavaScript/React/基本原理/children]]
+>>[[children]]
 
 
->元件與 [[JavaScript/React/JSX/JSX 內的 HTML 加入 JS 程式碼]]不同有使用參數，變數儲存的內容若是函式（Component），要大寫開頭
+>元件與 [[JSX 內的 HTML 加入 JS 程式碼]]不同有使用參數，變數儲存的內容若是函式（Component），要大寫開頭
 >```js
 >// ！：如果沒有寫大寫，第一參數（HTML 標籤）編譯會無法正常辨識
 >const element = React.createElement('messageEdit', null, 'Hello World')
@@ -68,7 +68,7 @@ const element = (
 >// 為一個 function 而非標籤
 >console.log(<MessageEdit children="Hello America." />);
 >```
-[[JavaScript/React/基本原理/生成標籤：React.createElement()]]
+[[生成標籤：React.createElement()]]
 
 
 #js/react/component #js/function #js/object #html #html

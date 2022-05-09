@@ -9,11 +9,11 @@ tag:
 >- [搜尋相片 API](https://www.pexels.com/zh-tw/api/documentation/?#photos-search)
 >[[Fetch]]
 
-- `<main.jsx>` ：[[JavaScript/React/基本原理/ReactDOM：渲染]]
-	- `<BrowserRouter>` ：[[JavaScript/React/Routing/react-router-dom]]
+- `<main.jsx>` ：[[ReactDOM：渲染]]
+	- `<BrowserRouter>` ：[[react-router-dom]]
 		- `<App />` ：包含共同區塊的完整頁面
-			- `<Nav />` ：[[JavaScript/React/Routing/react-router-dom#Link]]，提供連結
-			- `<Routes>` ：[[JavaScript/React/Routing/react-router-dom]]，回應連結請求
+			- `<Nav />` ：[[react-router-dom#Link]]，提供連結
+			- `<Routes>` ：[[react-router-dom]]，回應連結請求
 				- `<About />` 
 				- `<Homepage />` ： API 處理，金鑰、lift (input, data（）)，searchClick event 設定、一開啟頁面就先執行一次 searchClick 事件（useEffect）
 					- `<Search searchClick={searchClick} />` ：
@@ -52,4 +52,4 @@ const Homepage = () => {
 }
 ```
 
->[[JavaScript/React/Hook/useEffect Hook]]
+>[[useEffect Hook]]

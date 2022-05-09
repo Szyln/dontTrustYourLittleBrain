@@ -11,7 +11,7 @@ npm install react-router-dom
 - Routing
 - Link (`a` 標籤)
 
->[[JavaScript/React/Routing/react-router-dom 版本差異]]
+>[[react-router-dom 版本差異]]
 
 ---
 
@@ -56,7 +56,7 @@ function App() {
 }
 export default App;
 ```
->[[JavaScript/React/Routing/Nested Routes(react-router-dom （未完成）]]
+>[[Nested Routes(react-router-dom （未完成）]]
 ## Link
 取代 `<a>` ，`App()` 中的 `Routes` 元件就是透過這裡做回應
 ```jsx

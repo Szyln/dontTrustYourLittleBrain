@@ -17,7 +17,7 @@ cosnt element = <p>內文內文</p>
 - 或獨立出來寫在第三個參數內
 - 可以用 array 包住多個 children
 
-> 多個 children 可，但是多個標籤不行，參照：[[JavaScript/React/JSX/同時生成多個標籤]]
+> 多個 children 可，但是多個標籤不行，參照：[[同時生成多個標籤]]
 
 ```js
 // 標籤, {屬性}, children

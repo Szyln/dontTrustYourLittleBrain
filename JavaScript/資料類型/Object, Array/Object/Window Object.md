@@ -7,8 +7,8 @@ tag:
 ## Properties
 - Console
 - Document
-- [[JavaScript/資料類型/Object, Array/Object/Window Object/Storage]]
-	- [[JavaScript/資料類型/Object, Array/Object/Window Object/Local Storage]]
-	- [[JavaScript/資料類型/Object, Array/Object/Window Object/Session Storage]]
+- [[Storage]]
+	- [[Local Storage]]
+	- [[Session Storage]]
 
 #js #window #object

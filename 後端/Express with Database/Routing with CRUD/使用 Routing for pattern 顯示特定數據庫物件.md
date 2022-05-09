@@ -27,7 +27,7 @@ app.get('student/:id', async (req, res) => {
 // 沒有跳出預期的「該 ID 尚未被登錄」
 Cannot read property 'name' of null
 ```
->[[JavaScript/資料類型/資料類型/falsy value]]
+> [[falsy value]]
 
 ```js
 app.get('student/:id', async (req, res) => {

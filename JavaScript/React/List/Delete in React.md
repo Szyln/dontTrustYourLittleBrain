@@ -4,15 +4,15 @@ tag:
 - 
 ---
 # Delete in React
->用 [[JavaScript/React/Hook/State Lifting]] 的範例
+>用 [[State Lifting]] 的範例
 
 目前內容
-- `<App />` ：母層，[[JavaScript/React/Hook/State Lifting]] 有 input, message 的 state
+- `<App />` ：母層，[[State Lifting]] 有 input, message 的 state
 	- `<Create />`：子層，輸入 input 用（存到 message）
 	- `<Info />`：子層，顯示 message
-		- `<Message />` ：孫層，每個 message 條目，需要參照 [[JavaScript/React/List/Key prop]]
+		- `<Message />` ：孫層，每個 message 條目，需要參照 [[Key prop]]
 
->本篇接續 [[JavaScript/React/List/Key prop]]
+>本篇接續 [[Key prop]]
 
 ```jsx
 const Info = ({message, setMessage}) => {

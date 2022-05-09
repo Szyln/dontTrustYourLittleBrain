@@ -6,7 +6,7 @@ tag:
 # Quartz 發布 Obsidian
 >[Quartz](https://quartz.jzhao.xyz/)
 
-[[其他/Obsidian/Quartz/Quartz 特性]]
+[[Quartz 特性]]
 
 ## 安裝步驟
 >[Get started](https://quartz.jzhao.xyz/notes/setup/)
@@ -14,7 +14,7 @@ tag:
 >	- [ ] git, Github 基礎理解
 >	- [ ] 終端機基礎操作
 
-### [[其他/Obsidian/Quartz/Fork]] 原作者的 repo
+### [[Fork]] 原作者的 repo
 >[quartz 的 repo](https://github.com/jackyzha0/quartz)
 
 這樣你就會在你的 github 上看到一個內容一樣的檔案

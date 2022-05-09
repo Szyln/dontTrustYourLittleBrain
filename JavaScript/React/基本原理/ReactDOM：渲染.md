@@ -4,7 +4,7 @@ tag:
 - 
 ---
 # ReactDOM
-![[JavaScript/React/基本原理/React 使用的模組#^19ab2a]]
+![[React 使用的模組#^19ab2a]]
 
 React 遵循 [[5.關注點分離]]的規則，JS 的內容寫完後渲染到畫面指定位置上
 

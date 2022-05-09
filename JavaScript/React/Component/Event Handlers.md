@@ -13,8 +13,8 @@ tag:
 
 
 ## 原始寫法
-可以看到原本的寫法會需要 render 很多次，搭配 [[JavaScript/React/Hook/Hook]] 可以改善這問題
->可以再用 [[JavaScript/React/Hook/useState Hook]] 改良：[[JavaScript/React/Component/Event Handlers#使用 Hook 改寫]]
+可以看到原本的寫法會需要 render 很多次，搭配 [[Hook]] 可以改善這問題
+>可以再用 [[useState Hook]] 改良：[[Event Handlers#使用 Hook 改寫]]
 
 ```jsx
 function App() {
@@ -64,9 +64,9 @@ renderApp();
 >}
 >```
 
-## 使用 [[JavaScript/React/Hook/Hook]] 改寫
->[[JavaScript/React/Hook/Hook]]：[[JavaScript/React/Hook/useState Hook]]
->[[JavaScript/資料類型/Object, Array/Object/Destructing Assignment]]
+## 使用 [[Hook]] 改寫
+>[[Hook]]：[[useState Hook]]
+>[[Destructing Assignment]]
 ```jsx	
 function App() { 
 	const [ count, setCount ] = React.useState(0);
@@ -109,6 +109,6 @@ function setState(newState) {
 	renderApp()
 }
 ```
->[[JavaScript/資料類型/Object, Array/Object/物件不要傳參考的時候：深層、淺層拷貝#淺層拷貝 Shallow Copy]]
+>[[物件不要傳參考的時候：深層、淺層拷貝#淺層拷貝 Shallow Copy]]
 
  #js/react/component #js/function #js/event

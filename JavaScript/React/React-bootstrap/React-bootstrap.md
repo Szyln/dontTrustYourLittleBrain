@@ -9,7 +9,7 @@ tag:
 - 配合 React，將各式各樣的元件已經 Component 化，減少整個程式碼的複雜度。
 
 
-- [[JavaScript/React/React-bootstrap/React-bootstrap 建置]]
+- [[React-bootstrap 建置]]
 
 # 'as' prop
 ```jsx

@@ -5,13 +5,13 @@ tag:
 ---
 # State Lifting
 當元件一多的時候，會遇到需要跨元件共享同一個資料的狀況
-- [[JavaScript/React/Hook/State Lifting]]	做的就是將子層元件的 state 提升到母層
+- [[State Lifting]]	做的就是將子層元件的 state 提升到母層
 - 再下放到子層的 props 做使用
-- 反過來叫做 [[JavaScript/React/Hook/Colocating]]
+- 反過來叫做 [[Colocating]]
 
->[[JavaScript/React/Hook/State]]：每個元件都有自己獨立的 state, props，彼此不影響
+>[[State]]：每個元件都有自己獨立的 state, props，彼此不影響
 
->未來學到 [[Redux]] 就可以解決這問題了，如果專案大了會需要用到
+>未來學到 [[Redux（未寫）]] 就可以解決這問題了，如果專案大了會需要用到
 ```shell
 // 每個元件都有自己的 state, props
 <App />
@@ -82,7 +82,7 @@ const Create = ({message, setMessage}) => {
 }
 export default Create
 ```
->[[JavaScript/React/List/Delete in React]]
+>[[Delete in React]]
 ```jsx
 const Info = ({message, setMessage}) => {
   return (

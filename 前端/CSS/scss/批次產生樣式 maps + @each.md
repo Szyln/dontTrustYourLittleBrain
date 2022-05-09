@@ -8,7 +8,7 @@ tag:
 [@each+Sass Maps批次產生各元素樣式](https://github.com/gonsakon/Learn-Sass-in-90-days/blob/master/docs/Sass/%40each%2BSass%20Maps%E6%89%B9%E6%AC%A1%E7%94%A2%E7%94%9F%E5%90%84%E5%85%83%E7%B4%A0%E6%A8%A3%E5%BC%8F.markdown)
 
 ## BS 的寫法
-原始碼長這樣
+原始碼長這樣（等等講解）
 ```scss
 // 先有個 maps
 $types: (
@@ -18,8 +18,8 @@ $types: (
   warning    :  #f0ad4e,
   danger    :  #d9534f
 ) !default;
-//按鈕
 
+// 按鈕
 // 再用 each 產出樣式
 @each $name, $color in $types {
   .btn-#{$name} {

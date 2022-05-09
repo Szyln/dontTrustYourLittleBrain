@@ -4,7 +4,7 @@ tag:
 - 
 ---
 # Boolean
-- [[JavaScript/資料類型/資料類型/falsy value]]
+- [[falsy value]]
 
 ### null
 ```js

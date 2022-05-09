@@ -10,20 +10,20 @@ tag:
  - 所有的 [[DBMS(RDBMS)]] 一定有的四種語法
  - [[ODM]] / [[ORM]] 也會有類似的功能
 
-|[[DBMS(RDBMS)]] / ODM(ORM)|Create|Read|Update|Delete|
-|-|-|-|-|-|
-|SQL|[[SQL create 製作表格]]|[[SQL read 檢視表格內容]]|[[SQL update 更新既有表格內容]]|[[SQL delete 刪除既有表格內容]]|
-|MongoDB|[[MongoDB CRUD#Insertion create]]|[[MongoDB CRUD#find read]]|[[MongoDB CRUD#Update]]|[[MongoDB CRUD#Delete]]|
-|Mongoose|[[Create]]|[[Find(Read)]]|[[Update]]|[[Delete]]|
+| [[DBMS(RDBMS)]] / ODM(ORM) | Create                            | Read                       | Update                          | Delete                          |
+| -------------------------- | --------------------------------- | -------------------------- | ------------------------------- | ------------------------------- |
+| SQL                        | [[SQL create 製作表格]]           | [[SQL read 檢視表格內容]]  | [[SQL update 更新既有表格內容]] | [[SQL delete 刪除既有表格內容]] |
+| MongoDB                    | [[MongoDB CRUD#Insertion create]] | [[MongoDB CRUD#find read]] | [[MongoDB CRUD#Update]]         | [[MongoDB CRUD#Delete]]         |
+| Mongoose                   | [[Create]]                        | [[Find(Read)]]             | [[Update]]                      | [[Delete]]                      |
 
 ## SQL and NoSQL
-|類型|SQL|NoSQL|
-|-|-|-|
-|定義|Relational DB|SQL 之外|
-|構造|table|object(JSON)|
-|[[DBMS(RDBMS)]]|[[mySQL]]|[[MongoDB]]|
-|優點|高穩定、連結性（歷史久）|高伸縮性、自由度（新）|
-|Scaling|Sequential search（慢）|hash function(快)|
+| 類型            | SQL                      | NoSQL                  |
+| --------------- | ------------------------ | ---------------------- |
+| 定義            | Relational DB            | SQL 之外               |
+| 構造            | table                    | object(JSON)           |
+| [[DBMS(RDBMS)]] | [[mySQL]]                | [[MongoDB]]            |
+| 優點            | 高穩定、連結性（歷史久） | 高伸縮性、自由度（新） |
+| Scaling         | Sequential search（慢）  | hash function(快)      |
 
 >像是個人的檔案資料，每個人會有的內容都不一樣，就適合用 NoSQL，反之，像是產品資訊，有一定規則，就是和 SQL
 
@@ -33,9 +33,9 @@ tag:
 
 ### NoSQL
 
-- [[JavaScript/資料類型/Object, Array/Object/Key-Value Pair]] 的形式
+- [[Key-Value Pair]] 的形式
 
-#### Storage 資料的使用（[[JavaScript/資料類型/Object, Array/Object/深層拷貝、非 string 類型的資料類型轉換]]）
+#### Storage 資料的使用（[[深層拷貝、非 string 類型的資料類型轉換]]）
 
 
 
@@ -45,11 +45,11 @@ tag:
 - [[Mongoose]] 則是會定義 Schema
 
 
-|  (R)DBMS | Start from |
-|:--------:|:----------:|
-| SQL      | Table      |
+| (R)DBMS  | Start from |
+| :------: | :--------: |
+|   SQL    |   Table    |
 | MongoDB  | Collection |
-| Mongoose | Schema     |
+| Mongoose |   Schema   |
 
 
 

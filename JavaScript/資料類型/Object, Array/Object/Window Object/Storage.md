@@ -11,9 +11,9 @@ tag:
 - Storage 資料的使用（[深層拷貝、非 string 類型的資料類型轉換](JavaScript/資料類型/Object,%20Array/Object/深層拷貝、非%20string%20類型的資料類型轉換.md)）
 
 ## Storage 的 CRUD
-- [[JavaScript/資料類型/Object, Array/Object/Window Object/setItem(key, value)]]
-- [[JavaScript/資料類型/Object, Array/Object/Window Object/getItem(key)]]
-- [[JavaScript/資料類型/Object, Array/Object/Window Object/removeItem(key)]]
-- [[JavaScript/資料類型/Object, Array/Object/Window Object/clear()]]
+- [[setItem(key, value)]]
+- [[getItem(key)]]
+- [[removeItem(key)]]
+- [[clear()]]
 
 > key 是不能重複的

@@ -27,7 +27,7 @@ console.log(parsedURL.query);
 // 取得 query 的特定內容
 console.log(parsedURL.query.email);
 ```
->[[JavaScript/資料類型/資料類型/類型轉換#JSON]]：parse() 是 string -> array
+>類型轉換#JSON]]：parse() 是 string -> array
 
 
 - host：[[IP]] + [[Port]]

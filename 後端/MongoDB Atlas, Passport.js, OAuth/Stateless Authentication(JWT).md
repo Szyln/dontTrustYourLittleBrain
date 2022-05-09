@@ -11,7 +11,7 @@ tag:
 客戶端 <-- 認證密碼＆生成 JWT 存到客戶端（LocalStorage）-- 伺服器端
 ```
 
-客戶端成功登入後，server 會將客戶資料加密，回傳給客戶端（token），存在 [[JavaScript/資料類型/Object, Array/Object/Window Object/Local Storage]]（客戶端不能更動）
+客戶端成功登入後，server 會將客戶資料加密，回傳給客戶端（token），存在 [[Local Storage]]（客戶端不能更動）
 之後客戶端傳送請求時，會將這個 token 一併送出，server 將 token 解密認證（[[Passport.js]]），如果認證成功才會發出回應
 
 >相關文章[以 JSON Web Token 替代傳統 Token](https://yami.io/jwt/)

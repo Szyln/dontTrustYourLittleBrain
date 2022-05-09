@@ -19,6 +19,6 @@ tag:
 	- [[生成與使用 EJS 樣板可用的變數]]
 		- [[EJS 使用網址輸入內容作為變數]]
 		- [[EJS 使用 Mongoose 取得數據庫資料作為變數]]（事前知識： [[Mongoose]],[[Promise]]）
-- port listening([[後端/Express.js/建置/Express Life Cycle 生命週期]])
+- port listening([[Express Life Cycle 生命週期]])
 
 #node/npm #gulp #html #node/ejs #node/express

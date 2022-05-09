@@ -14,7 +14,7 @@ import ReactDOM from 'react-dom';
 
 ^19ab2a
 
->[[JavaScript/React/基本原理/ReactDOM：渲染]]
+>[[ReactDOM：渲染]]
 
 >[檔案變多之後的模組運用](JavaScript/React/環境/檔案變多之後的模組運用.md)
 

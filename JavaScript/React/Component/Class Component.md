@@ -4,7 +4,16 @@ tag:
 - 
 ---
 ## Class Component
->現今版本已經不建議使用，參考：[[JavaScript/React/Component/Component：可重複利用、自定參數的元件]]
+>現今版本已經不建議使用，參考：[[Component：可重複利用、自定參數的元件]]
+
+- 生命週期很複雜
+- 目前還沒有被移除的計畫
+- 目前幾乎都是用 function component + hook 來寫為主流
+- hoc
+- [this](this.md) 很可怕
+
+
+
 ```jsx
 // 一定要繼承 React.Component 來寫，結果跟 function component 一樣
 // 這裡面的 render 不等於 ReactDOM.render()

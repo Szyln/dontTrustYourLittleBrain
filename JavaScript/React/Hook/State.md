@@ -4,14 +4,14 @@ tag:
 - 
 ---
 ## State
->[[JavaScript/React/Hook/useState Hook]]
+>[[useState Hook]]
 - 一個狀態，可以拿來設定說這個狀態改變的話哪裡要一起更動
 - 元件的狀態
 - React 當中每個元件都可以獨立處理（不影響其他頁面上的元素）
 - 可以利用這個狀態可以重複使用
 - 每當 State, props 更新，都會自動 re-render
 - 原本要用 DOM 來處理（querySelector, addEventListener 等等）
->[[JavaScript/React/Component/Rerender a React Application：有效率的重新渲染]]
+>[[Rerender a React Application：有效率的重新渲染]]
 
 
 ### 實例
@@ -30,7 +30,7 @@ const App = () => {
 	)
 }
 ```
-要使用 [[JavaScript/React/Hook/useState Hook]] 來寫
+要使用 [[useState Hook]] 來寫
 ```jsx
 const App = () => {
 	let [name, setName] = useState('Wang')

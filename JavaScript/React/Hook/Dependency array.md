@@ -4,17 +4,17 @@ tag:
 - 
 ---
 # Dependency array
->[[JavaScript/React/Hook/useEffect Hook]] 
+>[[useEffect Hook]] 
 
->[[JavaScript/React/Hook/eslint-plugin-react-hooks]] 來幫助自己寫 [[JavaScript/React/Hook/Hook]] 的時候不會東漏一個設定西漏一個設定
+>[[eslint-plugin-react-hooks]] 來幫助自己寫 [[Hook]] 的時候不會東漏一個設定西漏一個設定
 
 ## 使用情境
 - `useEffect` 的第二個可用參數，放入包含需要同步的值
-- 可以讓 [[JavaScript/React/Hook/side-effect]] 的另一端資料與 React 維持雙向同步
+- 可以讓 [[side-effect]] 的另一端資料與 React 維持雙向同步
 - 如果沒有另一端資料不需要被更新，就不會重新執行
 
 ### 每次 render 都執行
-不放 [[JavaScript/React/Hook/Dependency array]]
+不放 [[Dependency array]]
 ```jsx
 useEffect(() => {
   // 每次 render 都執行
@@ -22,7 +22,7 @@ useEffect(() => {
 ```
 
 ### 只在在第一次 render 執行
-空 [[JavaScript/React/Hook/Dependency array]]
+空 [[Dependency array]]
 ```jsx
 useEffect(() => {
   // 只在在第一次 render 執行
@@ -30,7 +30,7 @@ useEffect(() => {
 ```
 
 ### 第一次＋有更新的時候執行
-指定 [[JavaScript/React/Hook/Dependency array]] 的 Props 或 state values
+指定 [[Dependency array]] 的 Props 或 state values
 ```jsx
 useEffect(() => {
 	// 第一次 render 執行

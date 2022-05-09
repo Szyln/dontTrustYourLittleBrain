@@ -57,7 +57,11 @@
     "falsy",
     "toFixed",
     "devtools",
-    "forEach"
+    "forEach",
+    "vh",
+    "vw",
+    "vmin",
+    "vmax"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",
@@ -74,7 +78,7 @@
   "showFrontmatter": true,
   "useTab": true,
   "smartIndentList": true,
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "shortest",
   "useMarkdownLinks": true,
   "attachmentFolderPath": "附件"
 }

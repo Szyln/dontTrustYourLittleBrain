@@ -26,9 +26,9 @@ tl.from('.a', { duration: 1.5 })
 tl.from('.b', { duration: 1 })
 ```
 
-- [[前端/GSAP/動畫間加入時間間格]]
-- [[前端/GSAP/為時間間格加入標籤]]
-- [[前端/GSAP/重複播放 timeline]]
-- [[前端/GSAP/倒帶 timeline]]
+- [[動畫間加入時間間格]]
+- [[為時間間格加入標籤]]
+- [[重複播放 timeline]]
+- [[倒帶 timeline]]
 
 #js/gsap/timeline 

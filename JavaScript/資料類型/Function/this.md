@@ -25,9 +25,9 @@ tag:
 ## 情況
 看 function 從哪調用
 
-||函式|物件的函式|
-|-|-|-|
-|this 指向|全域|物件|
+|           | 函式 | 物件的函式 |
+| --------- | ---- | ---------- |
+| this 指向 | 全域 | 物件       |
 
 ### 不太會這樣用：simple call
 
@@ -57,7 +57,7 @@ obj.callSomeone();
 
 ### 不同物件的擁有同名的函式 
 
-例如由 [[Constructor]] 建立的 instance，每一個物件的參考（[[JavaScript/資料類型/Object, Array/Object/物件傳參考]] ）不一樣，事實上並不是同一個
+例如由 [[Constructor]] 建立的 instance，每一個物件的參考（[[物件傳參考]] ）不一樣，事實上並不是同一個
 ```js
 var obj = {
   someone: '物件',

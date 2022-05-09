@@ -50,8 +50,8 @@ tag:
 	- [[Mongoose]]
 	- [[EJS]]
 - [[dart-sass(sass) 建置]]
-- [[MERN/joi]]
-- [[MERN/cors]]
+- [[joi]]
+- [[cors]]
 - [axios](後端/API/axios.md)
 	
 ### 其他
@@ -70,7 +70,7 @@ tag:
 - [[bcrypt]]：加密
 
 ### React
-- [[JavaScript/React/UUID]]
+- [[UUID]]
 
 
 ## [[Session]]

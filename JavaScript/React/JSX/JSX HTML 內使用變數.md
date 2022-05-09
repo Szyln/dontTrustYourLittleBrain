@@ -6,7 +6,7 @@ tag:
 ## JSX HTML 內使用變數
 JSX 可以讓 html 像 js 一樣重複利用，更可以在 JSX 標籤內帶入 JS 程式碼
 
->如果是要元件重複利用（可以導入參數）：[[JavaScript/React/Component/Component：可重複利用、自定參數的元件]]
+>如果是要元件重複利用（可以導入參數）：[[Component：可重複利用、自定參數的元件]]
 
 ```jsx
 // 可以單純存值
@@ -18,7 +18,7 @@ const className = 'container'
 // 在 JSX 標籤內想寫 JS 程式碼要用 {} 包起來
 const element = <div className={className}>{children}</div>
 ```
->[[JavaScript/React/Component/定義屬性(props)]]
+>[[定義屬性(props)]]
 
 
 ```jsx
