@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "vh, vw, vmin, vmax 跟視窗尺寸的相對單位.md",
+            "file": "styled-components.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "class comp",
+                "query": "字距",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -71,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vh, vw, vmin, vmax 跟視窗尺寸的相對單位.md",
+                "file": "styled-components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vh, vw, vmin, vmax 跟視窗尺寸的相對單位.md"
+                "file": "styled-components.md"
               }
             }
           }
@@ -119,15 +120,15 @@
   },
   "active": "79e988e6feddca72",
   "lastOpenFiles": [
+    "styled-components.md",
+    "JavaScript/React/Styling/用元件處理 CSS Styling.md",
+    "前端/CSS/letter-spacing 字距.md",
     "vh, vw, vmin, vmax 跟視窗尺寸的相對單位.md",
     "text-overflow.md",
     "JavaScript/webpack/webpack（未完成）.md",
     "eslint-plugin-react-hooks.md",
     "conflict-files-obsidian-git.md",
     "JavaScript/React/Hook/eslint-plugin-react-hooks.md",
-    "React Context（未寫）.md",
-    "Redux（未寫）.md",
-    "JavaScript/React/Component/Class Component.md",
-    "JavaScript/React/Hook/Hook.md"
+    "React Context（未寫）.md"
   ]
 }
