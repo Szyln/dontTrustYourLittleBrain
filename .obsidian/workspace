@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "styled-components.md",
+            "file": "FotoSketcher 手繪風濾鏡.md",
             "mode": "source"
           }
         }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "styled-components.md",
+                "file": "FotoSketcher 手繪風濾鏡.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "styled-components.md"
+                "file": "FotoSketcher 手繪風濾鏡.md"
               }
             }
           }
@@ -120,6 +120,7 @@
   },
   "active": "79e988e6feddca72",
   "lastOpenFiles": [
+    "FotoSketcher 手繪風濾鏡.md",
     "styled-components.md",
     "JavaScript/React/Styling/用元件處理 CSS Styling.md",
     "前端/CSS/letter-spacing 字距.md",
@@ -128,7 +129,6 @@
     "JavaScript/webpack/webpack（未完成）.md",
     "eslint-plugin-react-hooks.md",
     "conflict-files-obsidian-git.md",
-    "JavaScript/React/Hook/eslint-plugin-react-hooks.md",
-    "React Context（未寫）.md"
+    "JavaScript/React/Hook/eslint-plugin-react-hooks.md"
   ]
 }

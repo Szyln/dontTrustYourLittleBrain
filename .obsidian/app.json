@@ -62,7 +62,8 @@
     "vw",
     "vmin",
     "vmax",
-    "jsx"
+    "jsx",
+    "FotoSketcher"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",
