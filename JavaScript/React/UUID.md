@@ -9,7 +9,7 @@ tag:
 >[npm](https://www.npmjs.com/package/uuid)
 
 ```shell
-npm i UUID
+npm i uuid
 ```
 
 ```js

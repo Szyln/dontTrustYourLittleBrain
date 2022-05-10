@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端/CSS/flexbox.md",
+            "file": "JavaScript/React/UUID.md",
             "mode": "preview"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "align",
+                "query": "radius",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/CSS/flexbox.md",
+                "file": "JavaScript/React/UUID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/CSS/flexbox.md"
+                "file": "JavaScript/React/UUID.md"
               }
             }
           }
@@ -119,6 +119,7 @@
   },
   "active": "79e988e6feddca72",
   "lastOpenFiles": [
+    "JavaScript/React/UUID.md",
     "前端/CSS/flexbox.md",
     "前端/CSS/權重.md",
     "其他/作品與目標/作業/w3.glasses 助教直播.md",
@@ -127,7 +128,6 @@
     "styled-components.md",
     "JavaScript/React/Styling/用元件處理 CSS Styling.md",
     "前端/CSS/letter-spacing 字距.md",
-    "vh, vw, vmin, vmax 跟視窗尺寸的相對單位.md",
-    "text-overflow.md"
+    "vh, vw, vmin, vmax 跟視窗尺寸的相對單位.md"
   ]
 }
