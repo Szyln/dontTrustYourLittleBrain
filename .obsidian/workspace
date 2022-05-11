@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/React/UUID.md",
+            "file": "其他/作品與目標/參考網站.md",
             "mode": "preview"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "radius",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/React/UUID.md",
+                "file": "其他/作品與目標/參考網站.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/React/UUID.md"
+                "file": "其他/作品與目標/參考網站.md"
               }
             }
           }
@@ -119,6 +119,7 @@
   },
   "active": "79e988e6feddca72",
   "lastOpenFiles": [
+    "其他/作品與目標/參考網站.md",
     "JavaScript/React/UUID.md",
     "前端/CSS/flexbox.md",
     "前端/CSS/權重.md",
@@ -127,7 +128,6 @@
     "FotoSketcher 手繪風濾鏡.md",
     "styled-components.md",
     "JavaScript/React/Styling/用元件處理 CSS Styling.md",
-    "前端/CSS/letter-spacing 字距.md",
-    "vh, vw, vmin, vmax 跟視窗尺寸的相對單位.md"
+    "前端/CSS/letter-spacing 字距.md"
   ]
 }
