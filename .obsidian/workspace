@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他/作品與目標/參考網站.md",
+            "file": "前端/CSS/scss/SCSS.md",
             "mode": "preview"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cheat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261
+    "width": 261,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -71,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/作品與目標/參考網站.md",
+                "file": "前端/CSS/scss/SCSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/作品與目標/參考網站.md"
+                "file": "前端/CSS/scss/SCSS.md"
               }
             }
           }
@@ -119,6 +120,7 @@
   },
   "active": "79e988e6feddca72",
   "lastOpenFiles": [
+    "前端/CSS/scss/SCSS.md",
     "其他/作品與目標/參考網站.md",
     "JavaScript/React/UUID.md",
     "前端/CSS/flexbox.md",
@@ -127,7 +129,6 @@
     "其他/作品與目標/作業/w2 切版助教直播.md",
     "FotoSketcher 手繪風濾鏡.md",
     "styled-components.md",
-    "JavaScript/React/Styling/用元件處理 CSS Styling.md",
-    "前端/CSS/letter-spacing 字距.md"
+    "JavaScript/React/Styling/用元件處理 CSS Styling.md"
   ]
 }
