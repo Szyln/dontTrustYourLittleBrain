@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/React/Hook/Lazy Initializer.md",
-            "mode": "preview"
+            "file": "未命名.md",
+            "mode": "source"
           }
         }
       }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/React/Hook/Lazy Initializer.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/React/Hook/Lazy Initializer.md"
+                "file": "未命名.md"
               }
             }
           }
@@ -120,15 +120,15 @@
   },
   "active": "79e988e6feddca72",
   "lastOpenFiles": [
+    "未命名.md",
+    "未命名 1.md",
+    "其他/接案/動作健康360/動作健康360 想要做網頁.md",
+    "Avatar 大頭貼相關 API.md",
     "JavaScript/React/Hook/Lazy Initializer.md",
     "JavaScript/React/Hook/useEffect Hook.md",
     "useState 不會馬上更新 state.md",
     "JavaScript/React/Hook/useRef Hook.md",
     "JavaScript/React/Hook/useState Hook.md",
-    "JavaScript/React/Hook/State.md",
-    "架站＋金流.md",
-    "JavaScript/React/Swiper/Swiper(React 環境).md",
-    "JavaScript/React/Swiper/Swiper Parameters.md",
-    "Sub-component(react)（未寫）.md"
+    "JavaScript/React/Hook/State.md"
   ]
 }
