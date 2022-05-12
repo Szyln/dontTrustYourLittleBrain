@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "useState 不會馬上更新 state.md",
-            "mode": "source"
+            "file": "JavaScript/React/Hook/Lazy Initializer.md",
+            "mode": "preview"
           }
         }
       }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "useState 不會馬上更新 state.md",
+                "file": "JavaScript/React/Hook/Lazy Initializer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "useState 不會馬上更新 state.md"
+                "file": "JavaScript/React/Hook/Lazy Initializer.md"
               }
             }
           }
@@ -120,6 +120,8 @@
   },
   "active": "79e988e6feddca72",
   "lastOpenFiles": [
+    "JavaScript/React/Hook/Lazy Initializer.md",
+    "JavaScript/React/Hook/useEffect Hook.md",
     "useState 不會馬上更新 state.md",
     "JavaScript/React/Hook/useRef Hook.md",
     "JavaScript/React/Hook/useState Hook.md",
@@ -127,8 +129,6 @@
     "架站＋金流.md",
     "JavaScript/React/Swiper/Swiper(React 環境).md",
     "JavaScript/React/Swiper/Swiper Parameters.md",
-    "Sub-component(react)（未寫）.md",
-    "前端/CSS/scss/SCSS.md",
-    "其他/作品與目標/參考網站.md"
+    "Sub-component(react)（未寫）.md"
   ]
 }
