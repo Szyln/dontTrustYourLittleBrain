@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/React/Hook/useRef Hook.md",
-            "mode": "preview"
+            "file": "useState 不會馬上更新 state.md",
+            "mode": "source"
           }
         }
       }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/React/Hook/useRef Hook.md",
+                "file": "useState 不會馬上更新 state.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/React/Hook/useRef Hook.md"
+                "file": "useState 不會馬上更新 state.md"
               }
             }
           }
@@ -120,6 +120,7 @@
   },
   "active": "79e988e6feddca72",
   "lastOpenFiles": [
+    "useState 不會馬上更新 state.md",
     "JavaScript/React/Hook/useRef Hook.md",
     "JavaScript/React/Hook/useState Hook.md",
     "JavaScript/React/Hook/State.md",
@@ -128,7 +129,6 @@
     "JavaScript/React/Swiper/Swiper Parameters.md",
     "Sub-component(react)（未寫）.md",
     "前端/CSS/scss/SCSS.md",
-    "其他/作品與目標/參考網站.md",
-    "JavaScript/React/UUID.md"
+    "其他/作品與目標/參考網站.md"
   ]
 }
