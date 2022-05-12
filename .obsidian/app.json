@@ -63,7 +63,8 @@
     "vmin",
     "vmax",
     "jsx",
-    "FotoSketcher"
+    "FotoSketcher",
+    "Swiper"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",

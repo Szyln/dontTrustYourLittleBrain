@@ -1,9 +1,10 @@
 ---
 title: "Swiper(React 環境)"
 tag: 
-- 
+- js/react/api/swiper
 ---
-# Swiper
+## Swiper(React 環境)
+> [官網](https://swiperjs.com/)
 ## 匯入
 ### 模組
 ```jsx
