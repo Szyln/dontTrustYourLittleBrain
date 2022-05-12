@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/React/Swiper/Swiper(React 環境).md",
-            "mode": "preview"
+            "file": "架站＋金流.md",
+            "mode": "source"
           }
         }
       }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/React/Swiper/Swiper(React 環境).md",
+                "file": "架站＋金流.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/React/Swiper/Swiper(React 環境).md"
+                "file": "架站＋金流.md"
               }
             }
           }
@@ -120,6 +120,7 @@
   },
   "active": "79e988e6feddca72",
   "lastOpenFiles": [
+    "架站＋金流.md",
     "JavaScript/React/Swiper/Swiper(React 環境).md",
     "JavaScript/React/Swiper/Swiper Parameters.md",
     "Sub-component(react)（未寫）.md",
@@ -128,7 +129,6 @@
     "JavaScript/React/UUID.md",
     "前端/CSS/flexbox.md",
     "前端/CSS/權重.md",
-    "其他/作品與目標/作業/w3.glasses 助教直播.md",
-    "其他/作品與目標/作業/w2 切版助教直播.md"
+    "其他/作品與目標/作業/w3.glasses 助教直播.md"
   ]
 }
