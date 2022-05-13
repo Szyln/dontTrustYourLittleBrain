@@ -65,7 +65,9 @@
     "jsx",
     "FotoSketcher",
     "Swiper",
-    "useState"
+    "useState",
+    "nav",
+    "navbar"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",

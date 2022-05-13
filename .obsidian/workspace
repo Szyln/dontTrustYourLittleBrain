@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Avatar 大頭貼相關 API.md",
+            "file": "滿版 nav 規劃.md",
             "mode": "source"
           }
         }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Avatar 大頭貼相關 API.md",
+                "file": "滿版 nav 規劃.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Avatar 大頭貼相關 API.md"
+                "file": "滿版 nav 規劃.md"
               }
             }
           }
@@ -119,10 +118,10 @@
   },
   "active": "79e988e6feddca72",
   "lastOpenFiles": [
+    "滿版 nav 規劃.md",
+    "未命名 1.md",
     "Avatar 大頭貼相關 API.md",
     "其他/接案/動作健康360/動作健康360 想要做網頁.md",
-    "未命名.md",
-    "未命名 1.md",
     "JavaScript/React/Hook/Lazy Initializer.md",
     "JavaScript/React/Hook/useEffect Hook.md",
     "useState 不會馬上更新 state.md",
