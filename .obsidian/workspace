@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/React/Routing/react-router-dom 導向新頁面時不會回到頁面頂端 ScrollToTop 元件.md",
+            "file": "JavaScript/React/Hook/State.md",
             "mode": "preview"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/React/Routing/react-router-dom 導向新頁面時不會回到頁面頂端 ScrollToTop 元件.md",
+                "file": "JavaScript/React/Hook/State.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/React/Routing/react-router-dom 導向新頁面時不會回到頁面頂端 ScrollToTop 元件.md"
+                "file": "JavaScript/React/Hook/State.md"
               }
             }
           }
@@ -118,6 +118,7 @@
   },
   "active": "79e988e6feddca72",
   "lastOpenFiles": [
+    "JavaScript/React/Hook/State.md",
     "JavaScript/React/Routing/react-router-dom 導向新頁面時不會回到頁面頂端 ScrollToTop 元件.md",
     "後端/Cookie and Session/安全性/dotenv（使用 env 變數）.md",
     "滿版 nav 規劃.md",
@@ -126,7 +127,6 @@
     "其他/接案/動作健康360/動作健康360 想要做網頁.md",
     "JavaScript/React/Hook/Lazy Initializer.md",
     "JavaScript/React/Hook/useEffect Hook.md",
-    "useState 不會馬上更新 state.md",
-    "JavaScript/React/Hook/useRef Hook.md"
+    "useState 不會馬上更新 state.md"
   ]
 }
