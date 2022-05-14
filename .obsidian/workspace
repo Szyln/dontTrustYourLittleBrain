@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "滿版 nav 規劃.md",
-            "mode": "source"
+            "file": "後端/Cookie and Session/安全性/dotenv（使用 env 變數）.md",
+            "mode": "preview"
           }
         }
       }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "滿版 nav 規劃.md",
+                "file": "後端/Cookie and Session/安全性/dotenv（使用 env 變數）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "滿版 nav 規劃.md"
+                "file": "後端/Cookie and Session/安全性/dotenv（使用 env 變數）.md"
               }
             }
           }
@@ -118,6 +118,7 @@
   },
   "active": "79e988e6feddca72",
   "lastOpenFiles": [
+    "後端/Cookie and Session/安全性/dotenv（使用 env 變數）.md",
     "滿版 nav 規劃.md",
     "未命名 1.md",
     "Avatar 大頭貼相關 API.md",
@@ -126,7 +127,6 @@
     "JavaScript/React/Hook/useEffect Hook.md",
     "useState 不會馬上更新 state.md",
     "JavaScript/React/Hook/useRef Hook.md",
-    "JavaScript/React/Hook/useState Hook.md",
-    "JavaScript/React/Hook/State.md"
+    "JavaScript/React/Hook/useState Hook.md"
   ]
 }
