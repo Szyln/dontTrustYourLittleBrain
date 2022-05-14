@@ -1,9 +1,10 @@
 ---
-title: "react-router-dom 導向新頁面時不會回到頁面頂端"
+title: "react-router-dom 導向新頁面時不會回到頁面頂端 ScrollToTop 元件"
 tag: 
-- 
+- js/react/route
+- js/react/component
 ---
-# react-router-dom 導向新頁面時不會回到頁面頂端
+## react-router-dom 導向新頁面時不會回到頁面頂端 ScrollToTop 元件
 >[Scroll Restoration](https://v5.reactrouter.com/web/guides/scroll-restoration)
 
 新增 [scroll 到頂端的元件]((https://v5.reactrouter.com/web/guides/scroll-restoration))
