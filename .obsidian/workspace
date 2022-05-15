@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端/Bootstrap/bs grid system.md",
-            "mode": "preview"
+            "file": "@for(SCSS).md",
+            "mode": "source"
           }
         }
       }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261,
-    "collapsed": true
+    "width": 261
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/Bootstrap/bs grid system.md",
+                "file": "@for(SCSS).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/Bootstrap/bs grid system.md"
+                "file": "@for(SCSS).md"
               }
             }
           }
@@ -119,6 +118,7 @@
   },
   "active": "79e988e6feddca72",
   "lastOpenFiles": [
+    "@for(SCSS).md",
     "前端/Bootstrap/bs grid system.md",
     "前端/CSS/Grid 格線系統.md",
     "其他/接案/網頁報價參考.md",
@@ -127,7 +127,6 @@
     "JavaScript/React/Hook/State.md",
     "JavaScript/React/Routing/react-router-dom 導向新頁面時不會回到頁面頂端 ScrollToTop 元件.md",
     "後端/Cookie and Session/安全性/dotenv（使用 env 變數）.md",
-    "滿版 nav 規劃.md",
-    "未命名 1.md"
+    "滿版 nav 規劃.md"
   ]
 }
