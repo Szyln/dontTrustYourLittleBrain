@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "@for(SCSS).md",
-            "mode": "source"
+            "file": "JavaScript/React/UUID.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"- [websolutions](https://www.mawebcenters.com/home_cht.html)- [映鴻](https://www.wide.com.tw/about/86.html)\"",
+                "query": "uui",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@for(SCSS).md",
+                "file": "JavaScript/React/UUID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@for(SCSS).md"
+                "file": "JavaScript/React/UUID.md"
               }
             }
           }
@@ -118,6 +118,7 @@
   },
   "active": "79e988e6feddca72",
   "lastOpenFiles": [
+    "JavaScript/React/UUID.md",
     "@for(SCSS).md",
     "前端/Bootstrap/bs grid system.md",
     "前端/CSS/Grid 格線系統.md",
@@ -126,7 +127,6 @@
     "其他/接案/金流的方法.md",
     "JavaScript/React/Hook/State.md",
     "JavaScript/React/Routing/react-router-dom 導向新頁面時不會回到頁面頂端 ScrollToTop 元件.md",
-    "後端/Cookie and Session/安全性/dotenv（使用 env 變數）.md",
-    "滿版 nav 規劃.md"
+    "後端/Cookie and Session/安全性/dotenv（使用 env 變數）.md"
   ]
 }
