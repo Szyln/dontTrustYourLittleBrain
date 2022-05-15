@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他/接案/網頁報價參考.md",
-            "mode": "source"
+            "file": "前端/Bootstrap/bs grid system.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"- [websolutions](https://www.mawebcenters.com/home_cht.html)- [映鴻](https://www.wide.com.tw/about/86.html)\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -48,11 +48,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 261
+    "width": 261,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -69,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/接案/網頁報價參考.md",
+                "file": "前端/Bootstrap/bs grid system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/接案/網頁報價參考.md"
+                "file": "前端/Bootstrap/bs grid system.md"
               }
             }
           }
@@ -117,6 +119,8 @@
   },
   "active": "79e988e6feddca72",
   "lastOpenFiles": [
+    "前端/Bootstrap/bs grid system.md",
+    "前端/CSS/Grid 格線系統.md",
     "其他/接案/網頁報價參考.md",
     "其他/接案/印刷廠.md",
     "其他/接案/金流的方法.md",
@@ -124,8 +128,6 @@
     "JavaScript/React/Routing/react-router-dom 導向新頁面時不會回到頁面頂端 ScrollToTop 元件.md",
     "後端/Cookie and Session/安全性/dotenv（使用 env 變數）.md",
     "滿版 nav 規劃.md",
-    "未命名 1.md",
-    "Avatar 大頭貼相關 API.md",
-    "其他/接案/動作健康360/動作健康360 想要做網頁.md"
+    "未命名 1.md"
   ]
 }
