@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/資料類型/Object, Array/Array/find().md",
+            "file": "JavaScript/React/Hook/useEffect Hook.md",
             "mode": "preview"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/資料類型/Object, Array/Array/find().md",
+                "file": "JavaScript/React/Hook/useEffect Hook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/資料類型/Object, Array/Array/find().md"
+                "file": "JavaScript/React/Hook/useEffect Hook.md"
               }
             }
           }
@@ -119,6 +119,7 @@
   },
   "active": "79e988e6feddca72",
   "lastOpenFiles": [
+    "JavaScript/React/Hook/useEffect Hook.md",
     "JavaScript/資料類型/Object, Array/Array/find().md",
     "JavaScript/資料類型/Object, Array/Array/條件判定陣列的元素.md",
     "JavaScript/React/UUID.md",
@@ -127,7 +128,6 @@
     "前端/Bootstrap/bs grid system.md",
     "前端/CSS/Grid 格線系統.md",
     "其他/接案/網頁報價參考.md",
-    "其他/接案/印刷廠.md",
-    "其他/接案/金流的方法.md"
+    "其他/接案/印刷廠.md"
   ]
 }
