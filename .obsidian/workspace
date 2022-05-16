@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/React/Hook/useEffect Hook.md",
+            "file": "JavaScript/資料類型/Object, Array/Array/find().md",
             "mode": "preview"
           }
         }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/React/Hook/useEffect Hook.md",
+                "file": "JavaScript/資料類型/Object, Array/Array/find().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/React/Hook/useEffect Hook.md"
+                "file": "JavaScript/資料類型/Object, Array/Array/find().md"
               }
             }
           }
@@ -119,15 +118,15 @@
   },
   "active": "79e988e6feddca72",
   "lastOpenFiles": [
-    "JavaScript/React/Hook/useEffect Hook.md",
     "JavaScript/資料類型/Object, Array/Array/find().md",
+    "多個 modal 怎麼規劃.md",
+    "JavaScript/React/Hook/useEffect Hook.md",
     "JavaScript/資料類型/Object, Array/Array/條件判定陣列的元素.md",
     "JavaScript/React/UUID.md",
     "JavaScript/React/Hook/useRef Hook.md",
     "@for(SCSS).md",
     "前端/Bootstrap/bs grid system.md",
     "前端/CSS/Grid 格線系統.md",
-    "其他/接案/網頁報價參考.md",
-    "其他/接案/印刷廠.md"
+    "其他/接案/網頁報價參考.md"
   ]
 }
