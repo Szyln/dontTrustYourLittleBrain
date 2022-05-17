@@ -67,7 +67,8 @@
     "Swiper",
     "useState",
     "nav",
-    "navbar"
+    "navbar",
+    "Inshot"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",

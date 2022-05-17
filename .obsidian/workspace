@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/React/Hook/useState Hook.md",
-            "mode": "preview"
+            "file": "iPad 影像編輯軟體.md",
+            "mode": "source"
           }
         }
       }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/React/Hook/useState Hook.md",
+                "file": "iPad 影像編輯軟體.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/React/Hook/useState Hook.md"
+                "file": "iPad 影像編輯軟體.md"
               }
             }
           }
@@ -118,6 +118,7 @@
   },
   "active": "79e988e6feddca72",
   "lastOpenFiles": [
+    "iPad 影像編輯軟體.md",
     "JavaScript/React/Hook/useState Hook.md",
     "JavaScript/React/Hook/State.md",
     "前端/CSS/background.md",
@@ -126,7 +127,6 @@
     "JavaScript/資料類型/Object, Array/Array/find().md",
     "多個 modal 怎麼規劃.md",
     "JavaScript/資料類型/Object, Array/Array/條件判定陣列的元素.md",
-    "JavaScript/React/UUID.md",
-    "@for(SCSS).md"
+    "JavaScript/React/UUID.md"
   ]
 }
