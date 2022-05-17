@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端/CSS/background.md",
+            "file": "JavaScript/React/Hook/useState Hook.md",
             "mode": "preview"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/CSS/background.md",
+                "file": "JavaScript/React/Hook/useState Hook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/CSS/background.md"
+                "file": "JavaScript/React/Hook/useState Hook.md"
               }
             }
           }
@@ -118,6 +118,8 @@
   },
   "active": "79e988e6feddca72",
   "lastOpenFiles": [
+    "JavaScript/React/Hook/useState Hook.md",
+    "JavaScript/React/Hook/State.md",
     "前端/CSS/background.md",
     "JavaScript/React/Hook/useEffect Hook.md",
     "JavaScript/React/Hook/useRef Hook.md",
@@ -125,8 +127,6 @@
     "多個 modal 怎麼規劃.md",
     "JavaScript/資料類型/Object, Array/Array/條件判定陣列的元素.md",
     "JavaScript/React/UUID.md",
-    "@for(SCSS).md",
-    "前端/Bootstrap/bs grid system.md",
-    "前端/CSS/Grid 格線系統.md"
+    "@for(SCSS).md"
   ]
 }
