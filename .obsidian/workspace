@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "後端/Node.js/模組/使用/匯出模組.md",
+            "file": "JavaScript/DOM/Dynamic Header.md",
             "mode": "preview"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "後端/Node.js/模組/使用/匯出模組.md",
+                "file": "JavaScript/DOM/Dynamic Header.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "後端/Node.js/模組/使用/匯出模組.md"
+                "file": "JavaScript/DOM/Dynamic Header.md"
               }
             }
           }
@@ -118,6 +118,7 @@
   },
   "active": "79e988e6feddca72",
   "lastOpenFiles": [
+    "JavaScript/DOM/Dynamic Header.md",
     "後端/Node.js/模組/使用/匯出模組.md",
     "Avatar 大頭貼相關 API.md",
     "iPad 影像編輯軟體.md",
@@ -126,7 +127,6 @@
     "前端/CSS/background.md",
     "JavaScript/React/Hook/useEffect Hook.md",
     "JavaScript/React/Hook/useRef Hook.md",
-    "JavaScript/資料類型/Object, Array/Array/find().md",
-    "多個 modal 怎麼規劃.md"
+    "JavaScript/資料類型/Object, Array/Array/find().md"
   ]
 }
