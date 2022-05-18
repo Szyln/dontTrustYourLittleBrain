@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "iPad 影像編輯軟體.md",
+            "file": "Avatar 大頭貼相關 API.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "iPad 影像編輯軟體.md",
+                "file": "Avatar 大頭貼相關 API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "iPad 影像編輯軟體.md"
+                "file": "Avatar 大頭貼相關 API.md"
               }
             }
           }
@@ -118,6 +118,7 @@
   },
   "active": "79e988e6feddca72",
   "lastOpenFiles": [
+    "Avatar 大頭貼相關 API.md",
     "iPad 影像編輯軟體.md",
     "JavaScript/React/Hook/useState Hook.md",
     "JavaScript/React/Hook/State.md",
@@ -126,7 +127,6 @@
     "JavaScript/React/Hook/useRef Hook.md",
     "JavaScript/資料類型/Object, Array/Array/find().md",
     "多個 modal 怎麼規劃.md",
-    "JavaScript/資料類型/Object, Array/Array/條件判定陣列的元素.md",
-    "JavaScript/React/UUID.md"
+    "JavaScript/資料類型/Object, Array/Array/條件判定陣列的元素.md"
   ]
 }
