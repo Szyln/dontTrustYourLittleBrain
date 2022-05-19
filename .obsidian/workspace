@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ScrollTrigger.md",
+            "file": "iPad 影像編輯軟體.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ScrollTrigger.md",
+                "file": "iPad 影像編輯軟體.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ScrollTrigger.md"
+                "file": "iPad 影像編輯軟體.md"
               }
             }
           }
@@ -118,6 +118,7 @@
   },
   "active": "79e988e6feddca72",
   "lastOpenFiles": [
+    "iPad 影像編輯軟體.md",
     "ScrollTrigger.md",
     "參考物件的細部觸發、停止條件：start, end.md",
     "ScrollTrigger 的參考線：markers.md",
@@ -126,7 +127,6 @@
     "觸發、停止的參考物件 trigger, endTrigger.md",
     "滾動效果網站參考.md",
     "計算機/網路/靜態與動態網頁 Static and Dynamic Website.md",
-    "GSAP 實作相關.md",
-    "JavaScript/DOM/Dynamic Header.md"
+    "GSAP 實作相關.md"
   ]
 }
