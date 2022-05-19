@@ -12,6 +12,9 @@ tag:
 - [GSAP 觸發事件](前端/GSAP/GSAP%20觸發事件.md)
 - [[GSAP + React（還沒寫）]]
 
+### plugin
+- [ScrollTrigger](ScrollTrigger.md)
+- 
 ### Tween
 - [Tween](前端/GSAP/Tween.md)：GSAP 基本語法
 
@@ -30,6 +33,8 @@ tag:
 	- [[重複播放 timeline]]
 	- [[倒帶 timeline]]
 	- [[動畫間加入時間間格]]
+
+
 
 
 
