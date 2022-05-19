@@ -119,14 +119,14 @@
   "active": "79e988e6feddca72",
   "lastOpenFiles": [
     "ScrollTrigger.md",
+    "參考物件的細部觸發、停止條件：start, end.md",
+    "ScrollTrigger 的參考線：markers.md",
+    "Toggle actions：觸發的動畫週期.md",
+    "SrollTrigger 的預設值：trigger.md",
+    "觸發、停止的參考物件 trigger, endTrigger.md",
     "滾動效果網站參考.md",
     "計算機/網路/靜態與動態網頁 Static and Dynamic Website.md",
     "GSAP 實作相關.md",
-    "JavaScript/DOM/Dynamic Header.md",
-    "後端/Node.js/模組/使用/匯出模組.md",
-    "Avatar 大頭貼相關 API.md",
-    "iPad 影像編輯軟體.md",
-    "JavaScript/React/Hook/useState Hook.md",
-    "JavaScript/React/Hook/State.md"
+    "JavaScript/DOM/Dynamic Header.md"
   ]
 }
