@@ -68,7 +68,8 @@
     "useState",
     "nav",
     "navbar",
-    "Inshot"
+    "Inshot",
+    "ScrollTrigger"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",

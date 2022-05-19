@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "滾動效果網站參考.md",
-            "mode": "preview"
+            "file": "ScrollTrigger.md",
+            "mode": "source"
           }
         }
       }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "滾動效果網站參考.md",
+                "file": "ScrollTrigger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "滾動效果網站參考.md"
+                "file": "ScrollTrigger.md"
               }
             }
           }
@@ -118,6 +118,7 @@
   },
   "active": "79e988e6feddca72",
   "lastOpenFiles": [
+    "ScrollTrigger.md",
     "滾動效果網站參考.md",
     "計算機/網路/靜態與動態網頁 Static and Dynamic Website.md",
     "GSAP 實作相關.md",
@@ -126,7 +127,6 @@
     "Avatar 大頭貼相關 API.md",
     "iPad 影像編輯軟體.md",
     "JavaScript/React/Hook/useState Hook.md",
-    "JavaScript/React/Hook/State.md",
-    "前端/CSS/background.md"
+    "JavaScript/React/Hook/State.md"
   ]
 }
