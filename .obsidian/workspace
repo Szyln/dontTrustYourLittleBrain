@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/React/環境/Vite/vite gh發布.md",
-            "mode": "preview"
+            "file": "ScrollTrigger.md",
+            "mode": "source"
           }
         }
       }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/React/環境/Vite/vite gh發布.md",
+                "file": "ScrollTrigger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/React/環境/Vite/vite gh發布.md"
+                "file": "ScrollTrigger.md"
               }
             }
           }
@@ -118,15 +118,15 @@
   },
   "active": "79e988e6feddca72",
   "lastOpenFiles": [
+    "ScrollTrigger.md",
+    "vite github + netlify 發布.md",
     "JavaScript/React/環境/Vite/vite gh發布.md",
     "iPad 影像編輯軟體.md",
-    "ScrollTrigger.md",
     "參考物件的細部觸發、停止條件：start, end.md",
     "ScrollTrigger 的參考線：markers.md",
     "Toggle actions：觸發的動畫週期.md",
     "SrollTrigger 的預設值：trigger.md",
     "觸發、停止的參考物件 trigger, endTrigger.md",
-    "滾動效果網站參考.md",
-    "計算機/網路/靜態與動態網頁 Static and Dynamic Website.md"
+    "滾動效果網站參考.md"
   ]
 }
