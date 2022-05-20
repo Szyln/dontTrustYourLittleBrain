@@ -74,7 +74,11 @@
     "endTrigger",
     "SrollTrigger",
     "github",
-    "scrolltrigger"
+    "scrolltrigger",
+    "gh",
+    "src",
+    "img",
+    "url"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",
