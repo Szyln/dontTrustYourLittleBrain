@@ -119,8 +119,8 @@
   "active": "79e988e6feddca72",
   "lastOpenFiles": [
     "ScrollTrigger.md",
-    "ScrollTrigger 搭配 timeline：滾輪參數綁定總體時間軸.md",
     "滾輪參數綁定動畫時間軸：scrub.md",
+    "ScrollTrigger 搭配 timeline：滾輪參數綁定總體時間軸.md",
     "前端/GSAP/GSAP(index).md",
     "前端/GSAP/為時間間格加入標籤.md",
     "前端/GSAP/動畫間加入時間間格.md",

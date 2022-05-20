@@ -31,5 +31,3 @@ tl.to('.c', {
 })
 // 可以不停串下去
 ```
-
-#js/gsap/scrolltrigger #js/gsap/timeline 
