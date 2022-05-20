@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "json-server 不會後端也可以開 API.md",
-            "mode": "preview"
+            "file": "讓有背景圖的文字更易讀.md",
+            "mode": "source"
           }
         }
       }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "json-server 不會後端也可以開 API.md",
+                "file": "讓有背景圖的文字更易讀.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "json-server 不會後端也可以開 API.md"
+                "file": "讓有背景圖的文字更易讀.md"
               }
             }
           }
@@ -119,6 +119,7 @@
   },
   "active": "75f1a9833eda100f",
   "lastOpenFiles": [
+    "讓有背景圖的文字更易讀.md",
     "json-server 不會後端也可以開 API.md",
     "heroku：免費上線後端伺服器.md",
     "json-server 上線 heroku 的話可以用這個範例.md",
@@ -127,7 +128,6 @@
     "json-server 可用的 query.md",
     "資料大於、小於、不等於、包含：_gte, _lte, _ne, _like.md",
     "SPA.md",
-    "user story 使用者故事.md",
-    "後端/API/endpoint.md"
+    "user story 使用者故事.md"
   ]
 }
