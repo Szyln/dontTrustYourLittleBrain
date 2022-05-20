@@ -31,7 +31,30 @@ gsap.to('.c', {
 - [ScrollTrigger 的參考線：markers](ScrollTrigger%20的參考線：markers.md)
 - [滾輪參數綁定動畫時間軸：scrub](滾輪參數綁定動畫時間軸：scrub.md)
 
+
 - [ScrollTrigger 搭配 timeline：滾輪參數綁定總體時間軸](ScrollTrigger%20搭配%20timeline：滾輪參數綁定總體時間軸.md)
 
-- [滾輪參數綁定物件的 Y 軸，Y 軸數值固定：pin](滾輪參數綁定物件的%20Y%20軸，Y%20軸數值固定：pin.md)
+- [滾輪參數綁定物件的 Y 軸，Y 軸數值固定、滾輪停止影響物件的 Y 軸：pin](滾輪參數綁定物件的%20Y%20軸，Y%20軸數值固定、滾輪停止影響物件的%20Y%20軸：pin.md)
 
+## ScrollTrigger 的另一種使用方法：create 
+> 客製化會講更多（？
+除了放在 tween 裡面，也可以把 timeline 放在 ScrollTrigger 裡
+```js
+gsap.registerPlugin(ScrollTrigger);
+gsap.defaults({ease:'none', duration: 2});
+
+const tl = gsap.timeline();
+tl.from('.a-fullpage', {xPercent: -100})
+	.from('.b-fullpage', {xPercent: 100})
+	.from('.c-fullpage', {yPercent: -100});
+
+ScrollTrigger.create({
+	animation: tl,
+	trigger: '#container',
+	start: 'top top',
+	end: '+=4000',
+	scrub: true,
+	pin: true,
+	anticipatePin: 1
+})
+```
