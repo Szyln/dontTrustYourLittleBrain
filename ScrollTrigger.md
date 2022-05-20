@@ -6,6 +6,7 @@ tag:
 
 ##  ScrollTrigger
 >[官方說明](https://greensock.com/docs/v3/Plugins/ScrollTrigger)
+>[react-gsap](https://bitworking.github.io/react-gsap/src-components-scroll-trigger#basic-usage)：還沒看
 ```js
 // 基本的樣子
 // 使用外掛 ScrollTrigger
