@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SPA",
+                "query": "getById",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261,
-    "collapsed": true
+    "width": 261
   },
   "right": {
     "id": "b130aeabdd85c272",

@@ -38,6 +38,7 @@ gsap.to('.c', {
 
 ## ScrollTrigger 的另一種使用方法：create 
 > 客製化會講更多（？
+
 除了放在 tween 裡面，也可以把 timeline 放在 ScrollTrigger 裡
 ```js
 gsap.registerPlugin(ScrollTrigger);
@@ -57,4 +58,99 @@ ScrollTrigger.create({
 	pin: true,
 	anticipatePin: 1
 })
+```
+
+## 產生類似多個 position-sticky 區塊的效果：取消 pinSpacing
+```js
+gsap.registerPlugin(ScrollTrigger);
+
+ScrollTrigger.create({
+	// 一塊寬100%高沒有100%的區塊
+	trigger: '#一塊',
+	start: 'top top'.
+	// 因為 pin，一塊下面會產生 300px 的 padding，直到動畫結束
+	end: '+=300px',
+	// 承上，如果取消 pinSpacing 的話會產生類似連續 position-sticky 的效果，後來的區塊會疊加在原來的區塊
+	pinSpacing: false,
+	// #一塊啟動時 Y 軸固定，不受滾輪影響
+	pin: true,
+})
+```
+
+## 用滾輪綁定 X 軸
+>好難，不太懂
+
+先取消 X 捲軸
+```css
+body {
+	// 取消頁面的 X 軸捲軸
+	overflow-x: hidden;
+}
+```
+
+```js
+gsap.registerPlugin(ScrollTrigger);
+
+let sections = gsap.utils.toArray('.panel')
+
+gsap.to(sections, {
+	xPercentL -100 * (sections.length - 1),
+	ease: 'none',
+	scrollTrigger: {
+		trigger: '.container',
+		pin: true,
+		scrub: 1,
+		// 沒有移到精準的區塊上的話，會自動移到最接近的區塊
+		snap: 1 / (sections.length - 1),
+		end: () => "+=" +
+		doucment.querySelector('.container').offstWidth
+	}
+})
+```
+
+
+## 把 ScrollTrigger 當作 callback 用
+除了用來作動畫，還可以把 ScrollTrigger 當成程式碼的參數來用，像是拿來 toggleClass, log, 等等
+```js
+gsap.registerPlugin(ScrollTrigger);
+
+ScrollTrigger.defaults({
+	toggleActions: 'restart pause resume none',
+	markers: true
+	
+})
+
+ScrollTrigger.create({
+	trigger: '.c',
+	start: 'top center',
+	end: 'top 100px',
+	// 可以這樣用
+	onEnter: () => console.log('enter!'),
+	onLeave: () => console.log('leave'),
+	onEnterBack: () => console.log('enter back'),
+	onLeaveBack: () => console.log('all the way back'),
+	// 這個的功用不是很懂
+	// self.progress 是一個 0~1 的數值，用 toFixed 限制顯示小數點下幾位
+	onUpdate: (self) => console.log('update', self.progress.toFixed(3))
+	// 會切換 boolean
+	onToggle: (self) => console.log('toggled', self.isActive)
+	// 可以拿來設定切換要不要加入指定的 class 
+	toggleClass: 'active',
+	// marker 用的 id
+	id: 'my-id'
+})
+
+// 可以拿來做為選擇器
+let trigger = ScrollTrigger.getById('my-id')
+```
+
+
+```js
+// 取代 viewport
+scroller: '#container'
+```
+
+```js
+// SrollTrigger 預設是看垂直捲軸，也可以改成橫向捲軸
+horizontal: true,
 ```

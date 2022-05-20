@@ -78,7 +78,8 @@
     "gh",
     "src",
     "img",
-    "url"
+    "url",
+    "pinSpacing"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",
