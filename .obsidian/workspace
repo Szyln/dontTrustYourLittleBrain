@@ -119,6 +119,7 @@
   "active": "79e988e6feddca72",
   "lastOpenFiles": [
     "ScrollTrigger.md",
+    "滾輪參數綁定物件的 Y 軸，Y 軸數值固定：pin.md",
     "滾輪參數綁定動畫時間軸：scrub.md",
     "ScrollTrigger 搭配 timeline：滾輪參數綁定總體時間軸.md",
     "前端/GSAP/GSAP(index).md",
@@ -126,7 +127,6 @@
     "前端/GSAP/動畫間加入時間間格.md",
     "前端/GSAP/Sequencing with Timelines 讓動畫按照順序播.md",
     "ScrollTrigger 的參考線：markers.md",
-    "SrollTrigger 的預設值：trigger.md",
-    "vite github + netlify 發布.md"
+    "SrollTrigger 的預設值：trigger.md"
   ]
 }
