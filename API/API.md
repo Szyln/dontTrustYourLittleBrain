@@ -20,4 +20,9 @@ tag:
 - [[endpoint]] 
 
 
+## 好用的 API
+- [網頁上放入簡易的表單](網頁上放入簡易的表單.md)
+- [Avatar 大頭貼相關 API](Avatar%20大頭貼相關%20API.md)
+- [json-server 不會後端也可以開 API](json-server%20不會後端也可以開%20API.md)
+
 #js #api #async 

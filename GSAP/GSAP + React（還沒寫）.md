@@ -9,7 +9,7 @@ tag:
 
 ### 建置
 - [安裝 React](JavaScript/React/環境/安裝%20React.md)
-- [GSAP 安裝](前端/GSAP/GSAP%20安裝.md)
+- [GSAP 安裝](GSAP%20安裝.md)
 
 #### 我遇到的問題
 `dev`模式下  GSAP 的動畫很不精準，到 `build` 發布模式會解決，why
@@ -106,6 +106,11 @@ function App() {
   return <div className="box" ref={boxRef}>Hello</div>;
 }
 ```
+
+### timeline
+>- [Sequencing with Timelines 讓動畫按照順序播](Sequencing%20with%20Timelines%20讓動畫按照順序播.md)
+>- [useRef Hook](useRef%20Hook.md)
+
 
 
 #js/gsap #js/react 

@@ -6,7 +6,7 @@ tag:
 - js/ajax
 ---
 ## axios
->- [AJAX](後端/API/AJAX/AJAX.md)
+>- [AJAX](AJAX.md)
 >- [npm](https://www.npmjs.com/package/axios)
 
 ### 或是掛 cdn 的方法

@@ -10,6 +10,7 @@ tag:
 -  Facebook 製作，2013 公開，2018 大更新
 - Component：可重複利用的元件
 - [Hook](Hook.md)
+- [SPA](SPA.md)
 
 >- 最淺顯易懂：[w3schools: React](https://www.w3schools.com/react/default.asp)
 >- 很多範例：[egghead: the-beginner-s-guide-to-react](https://egghead.io/courses/the-beginner-s-guide-to-react)
@@ -40,16 +41,22 @@ tag:
 	- [用元件處理 CSS Styling](用元件處理%20CSS%20Styling.md)（搭配 [Styling in JSX](Styling%20in%20JSX.md)）
 - [Rerender a React Application：有效率的重新渲染](Rerender%20a%20React%20Application：有效率的重新渲染.md)
 
+#### 進階
+- [React Context（未寫）](React%20Context（未寫）.md)
+- [Redux（未寫）](Redux（未寫）.md)
+- [Sub-component(react)（未寫）](Sub-component(react)（未寫）.md)
+
 ### 樣式
 - [Styling in JSX](Styling%20in%20JSX.md)
 - 要用 SCSS 的話：[dart-sass(sass) 建置](dart-sass(sass)%20建置.md)
-
+- [styled-components（未寫）](styled-components（未寫）.md)
 
 ### Hooks
 - [Event Handlers](Event%20Handlers.md)
 - [State](State.md)
 - [Hook](Hook.md)
 	- [useState Hook](useState%20Hook.md)
+		- [useState 不會馬上更新 state](useState%20不會馬上更新%20state.md)
 		- [State Lifting](State%20Lifting.md)
 		- [Colocating](Colocating.md)
 	- [useEffect Hook](useEffect%20Hook.md)
@@ -85,7 +92,9 @@ tag:
 	- [React-bootstrap 建置](React-bootstrap%20建置.md)]
 
 ### Debug
-- [React Error Boundaries](JavaScript/React/React%20Error%20Boundaries.md)
+- [React Error Boundaries](React%20Error%20Boundaries.md)
+- [ESLint](ESLint.md)
+	- [eslint-plugin-react-hooks](eslint-plugin-react-hooks.md)
 
 
 

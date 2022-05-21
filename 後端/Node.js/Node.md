@@ -52,7 +52,7 @@ tag:
 - [[dart-sass(sass) 建置]]
 - [[joi]]
 - [[cors]]
-- [axios](後端/API/axios.md)
+- [axios](axios.md)
 	
 ### 其他
 - [[nodemon]]
