@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/React/環境/Vite/Vite.md",
-            "mode": "preview"
+            "file": "前端/GSAP/GSAP + React（還沒寫）.md",
+            "mode": "source"
           }
         }
       }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/React/環境/Vite/Vite.md",
+                "file": "前端/GSAP/GSAP + React（還沒寫）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/React/環境/Vite/Vite.md"
+                "file": "前端/GSAP/GSAP + React（還沒寫）.md"
               }
             }
           }
@@ -119,15 +119,15 @@
   },
   "active": "75f1a9833eda100f",
   "lastOpenFiles": [
-    "JavaScript/React/環境/Vite/Vite.md",
     "前端/GSAP/GSAP + React（還沒寫）.md",
+    "JavaScript/React/環境/安裝 React.md",
+    "JavaScript/React/環境/Vite/Vite.md",
     "前端/GSAP/GSAP(index).md",
     "ScrollTrigger.md",
     "滾輪參數綁定物件的 Y 軸，Y 軸數值固定、滾輪停止影響物件的 Y 軸：pin.md",
     "讓有背景圖的文字更易讀.md",
     "json-server 不會後端也可以開 API.md",
     "heroku：免費上線後端伺服器.md",
-    "json-server 上線 heroku 的話可以用這個範例.md",
-    "Postman 測試 API.md"
+    "json-server 上線 heroku 的話可以用這個範例.md"
   ]
 }

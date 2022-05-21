@@ -79,7 +79,9 @@
     "src",
     "img",
     "url",
-    "pinSpacing"
+    "pinSpacing",
+    "useRef",
+    "utils"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",

@@ -6,7 +6,7 @@ tag:
 # 安裝 React
 
 >- 事前需要：[[安裝 Node.js]]
->- [[Vite]]
+>- 或是用很快很快樂的： [[Vite]]
 ```shell
 npx create-react-app <專案名稱>
 ```
