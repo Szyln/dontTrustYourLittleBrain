@@ -81,7 +81,8 @@
     "url",
     "pinSpacing",
     "useRef",
-    "utils"
+    "utils",
+    "useEffect"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",

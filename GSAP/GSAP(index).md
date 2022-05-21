@@ -10,7 +10,7 @@ tag:
 - [GSAP 安裝](GSAP%20安裝.md)
 - [可以使用 GSAP 的資料類型](可以使用%20GSAP%20的資料類型.md)
 - [GSAP 觸發事件](GSAP%20觸發事件.md)
-- [[GSAP + React（還沒寫）]]
+- [[GSAP + React]]
 
 ### plugin
 - [ScrollTrigger](ScrollTrigger.md)

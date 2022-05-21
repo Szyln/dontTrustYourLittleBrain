@@ -30,5 +30,5 @@ tl.from('.b', { duration: 1 })
 - [[為時間間格加入標籤]]
 - [[重複播放 timeline]]
 - [[倒帶 timeline]]
-
+- [[Timeline 的功能]]
 #js/gsap/timeline 

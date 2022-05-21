@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GSAP/GSAP + React（還沒寫）.md",
+            "file": "GSAP/GSAP + React.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GSAP/GSAP + React（還沒寫）.md",
+                "file": "GSAP/GSAP + React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GSAP/GSAP + React（還沒寫）.md"
+                "file": "GSAP/GSAP + React.md"
               }
             }
           }
@@ -118,15 +118,15 @@
   },
   "active": "75f1a9833eda100f",
   "lastOpenFiles": [
-    "GSAP/GSAP + React（還沒寫）.md",
+    "GSAP/GSAP + React.md",
+    "GSAP/Sequencing with Timelines 讓動畫按照順序播.md",
+    "Timeline 的功能.md",
     "GSAP/GSAP(index).md",
     "GSAP/SrollTrigger/觸發、停止的參考物件 trigger, endTrigger.md",
     "JavaScript/React/React.md",
     "前端/靜態網站上線/網頁上線部屬、發布.md",
     "後端/伺服器上線/heroku：免費上線後端伺服器.md",
     "API/好用的 API/json-server/json-server 不會後端也可以開 API.md",
-    "API/API.md",
-    "API/好用的 API/json-server/json-server 安裝與建置.md",
-    "API/好用的 API/json-server/排序：_sort, _order.md"
+    "API/API.md"
   ]
 }
