@@ -15,17 +15,94 @@ tag:
 - [依照元件的 state 狀態要怎麼觸發動畫：useEffect](依照元件的%20state%20狀態要怎麼觸發動畫：useEffect.md)
 - [互動式動畫](互動式動畫.md)
 
-## Avoiding flash of unstyled content (FOUC) 
->[Avoiding flash of unstyled content (FOUC)](https://greensock.com/react#avoidingFlashOfUnstyledContentFOUC)
+## 網站讀取時，避開非預期的物件閃現 FOUC
+>- [Avoiding flash of unstyled content (FOUC)](https://greensock.com/react#avoidingFlashOfUnstyledContentFOUC)
+>- [useEffect vs useLayoutEffect](https://kentcdodds.com/blog/useeffect-vs-uselayouteffect).
 
-As `useEffect` fires after the DOM has been painted, when fading in elements you may notice an undesired flash of unstyled content.
+- `useEffect` 會在 DOM 生成後執行
+- 可以用 `useLayoutEffect` 取代，唯一的差別就是他是在 DOM 生成前執行
 
 ![longerfouc.gif](https://greensock.com/uploads/monthly_2021_08/longerfouc.gif.29308cf3ff539b4ec3ed291e726cb210.gif)
 
-In order to avoid the flash, we can replace useEffect with useLayoutEffect. `useLayoutEffect` functions exactly the same as `useEffect`, but runs before the DOM has been painted.
+### 會用到的時刻
+- DOM measurements
+- [ScrollTrigger](ScrollTrigger.md) plugin
+- [FLIP](https://greensock.com/docs/v3/Plugins/Flip) plugin
 
->[codepen](https://codepen.io/GreenSock/pen/XWRBbYZ)
 
-`useLayoutEffect` is especially useful when you need to make DOM measurements, so we highly recommend it when using our [ScrollTrigger](https://greensock.com/docs/v3/Plugins/ScrollTrigger) and [FLIP](https://greensock.com/docs/v3/Plugins/Flip) plugins.
+### 範例
+>- [codepen](https://codepen.io/GreenSock/pen/XWRBbYZ)
+```jsx
+// simulate loading data from a server
+function fetchFakeData() {
+  return new Promise(resolve => {
+    setTimeout(() => {
+      resolve([
+        { id: 1, color: "blue" },
+        { id: 2, color: "red" },
+        { id: 3, color: "purple" },
+      ]);
+    }, 2000);
+  });  
+}
+```
+```jsx
+function App() {
+  const el = useRef();
+  const q = gsap.utils.selector(el);
+  
+  const [data, setData] = useState([]);
+	// loading 代表正在從資料庫（透過 api）取得資料
+  const [loadingState, setLoadingState] = useState();
+  
+  useEffect(() => {
+    
+    if (loadingState !== "start") return;
+    
+    const loadData = async () => {
+      const data = await fetchFakeData();
+      setData(data);
+      setLoadingState("complete");
+    }
+    loadData();    
+    
+  }, [loadingState]);
+  // 動畫用 useLayoutEffect 執行
+  useLayoutEffect(() => {
+    
+    if (loadingState !== "complete") return;
+    
+    gsap.fromTo(q(".box"), {
+      opacity: 0
+    }, {
+      opacity: 1,
+      duration: 1,
+      stagger: 0.2
+    });
+  }, [loadingState]);
 
->More information about [useEffect vs useLayoutEffect](https://kentcdodds.com/blog/useeffect-vs-uselayouteffect).
+  const startLoading = () => {
+    if (!loadingState) {
+      setLoadingState("start");
+    }
+  };
+  
+  return (
+    <div className="panel flex-row" ref={el}>
+      {
+        !loadingState
+          ? <div><button onClick={startLoading}>Start Loading</button></div>
+          : null
+      }          
+      { 
+        loadingState === "start" 
+          ? <div className="loading">Loading fake data...</div> 
+          : null 
+      }
+      {
+        data.map(item => <Box key={item.id} {...item }>Box {item.id}</Box>)
+      }
+    </div>
+  );
+}
+```
