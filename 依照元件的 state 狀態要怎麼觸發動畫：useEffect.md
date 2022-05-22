@@ -23,4 +23,6 @@ useEffect(() => {
 });
 ```
 
->[gsap.utils.random](gsap.utils.random.md) 這個範例也是搭配 useEffect 的觸發時機寫的，用 random 做按鈕，每次只要觸發按鈕，useEffect 的 [Dependency array](Dependency%20array.md) 就會更新，進而觸發動畫
+>[gsap.utils.random](gsap.utils.random.md) 
+>這個範例也是搭配 useEffect 的觸發時機寫的
+>用 random 做按鈕，每次只要觸發按鈕，useEffect 的 [Dependency array](Dependency%20array.md) 就會更新，進而觸發動畫

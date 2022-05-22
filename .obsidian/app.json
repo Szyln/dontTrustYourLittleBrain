@@ -82,7 +82,8 @@
     "pinSpacing",
     "useRef",
     "utils",
-    "useEffect"
+    "useEffect",
+    "br"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",

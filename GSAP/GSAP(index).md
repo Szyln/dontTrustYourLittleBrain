@@ -35,6 +35,10 @@ tag:
 	- [[動畫間加入時間間格]]
 
 
+### GSAP utils
+- [gsap.utils.random](gsap.utils.random.md)
+- [gsap.utils.selector](gsap.utils.selector.md)
+
 
 
 
