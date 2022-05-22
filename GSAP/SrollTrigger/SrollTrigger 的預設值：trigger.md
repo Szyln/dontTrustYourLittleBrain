@@ -5,9 +5,6 @@ tag:
 ---
 
 ##  SrollTrigger 的預設值：trigger
-最基本的設定，沒有其他設定的話`scrollTrigger` 指的就是 `scrollTrigger.trigger`（其他的內容往下看）
-
-![](觸發、停止的參考物件%20trigger,%20endTrigger.md#^29a084)
 ```js
 gsap.registerPlugin(ScrollTrigger);
 
@@ -20,3 +17,7 @@ gsap.to('.c', {
 	duration: 3
 })
 ```
+
+最基本的設定，沒有其他設定的話`scrollTrigger` 指的就是 `scrollTrigger.trigger`（其他的內容往下看）
+
+![](觸發、停止的參考物件%20trigger,%20endTrigger.md#^29a084)
