@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GSAP/GSAP + React.md",
+            "file": "GSAP/GSAP(index).md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gsap.util",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261,
-    "collapsed": true
+    "width": 261
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GSAP/GSAP + React.md",
+                "file": "GSAP/GSAP(index).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GSAP/GSAP + React.md"
+                "file": "GSAP/GSAP(index).md"
               }
             }
           }
@@ -118,15 +117,15 @@
   },
   "active": "75f1a9833eda100f",
   "lastOpenFiles": [
-    "GSAP/GSAP + React.md",
-    "依照元件的 state 狀態要怎麼觸發動畫：useEffect.md",
-    "gsap.utils.random.md",
-    "GSAP + React 建置.md",
-    "GSAP/Sequencing with Timelines 讓動畫按照順序播.md",
-    "Timeline 的功能.md",
     "GSAP/GSAP(index).md",
-    "GSAP/SrollTrigger/觸發、停止的參考物件 trigger, endTrigger.md",
-    "JavaScript/React/React.md",
-    "前端/靜態網站上線/網頁上線部屬、發布.md"
+    "GSAP/位置相關/設定位置起始點隨機.md",
+    "GSAP/時間相關設定/Staggers.md",
+    "GSAP/SrollTrigger/ScrollTrigger 的另一種使用方法：create.md",
+    "GSAP/SrollTrigger/ScrollTrigger.md",
+    "依照元件的 state 狀態要怎麼觸發動畫：useEffect.md",
+    "React 中使用 timeline.md",
+    "GSAP/GSAP + React.md",
+    "gsap.utils.random.md",
+    "指定動畫物件：useRef.md"
   ]
 }
