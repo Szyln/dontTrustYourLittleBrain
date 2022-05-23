@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GSAP/SrollTrigger/ScrollTrigger.md",
+            "file": "GSAP/GSAP + React.md",
             "mode": "preview"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GSAP/SrollTrigger/ScrollTrigger.md",
+                "file": "GSAP/GSAP + React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GSAP/SrollTrigger/ScrollTrigger.md"
+                "file": "GSAP/GSAP + React.md"
               }
             }
           }
@@ -119,9 +119,9 @@
   },
   "active": "557bba948da3bb10",
   "lastOpenFiles": [
-    "GSAP/SrollTrigger/ScrollTrigger.md",
-    "GSAP/GSAP(index).md",
     "GSAP/GSAP + React.md",
+    "GSAP/GSAP(index).md",
+    "GSAP/SrollTrigger/ScrollTrigger.md",
     "互動式動畫.md",
     "GSAP/timeline/Sequencing with Timelines 讓動畫按照順序播.md",
     "GSAP/timeline/倒帶 timeline.md",
