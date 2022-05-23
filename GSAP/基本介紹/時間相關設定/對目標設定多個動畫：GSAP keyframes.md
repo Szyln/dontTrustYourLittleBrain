@@ -1,9 +1,10 @@
 ---
-title: "GSAP keyframes"
+title: "對目標設定多個動畫：GSAP keyframes"
 tag: 
 - js/gsap
 ---
-## GSAP keyframes
+
+##  對目標設定多個動畫：GSAP keyframes
 
 ```js
 gsap.to('.box', {

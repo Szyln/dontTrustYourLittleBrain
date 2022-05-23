@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GSAP/GSAP(index).md",
-            "mode": "source"
+            "file": "GSAP/GSAP + React.md",
+            "mode": "preview"
           }
         }
       }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GSAP/GSAP(index).md",
+                "file": "GSAP/GSAP + React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GSAP/GSAP(index).md"
+                "file": "GSAP/GSAP + React.md"
               }
             }
           }
@@ -119,15 +119,15 @@
   },
   "active": "557bba948da3bb10",
   "lastOpenFiles": [
-    "GSAP/GSAP(index).md",
-    "清除不用的功能：useEffect 相關.md",
     "GSAP/GSAP + React.md",
-    "網站讀取時，避開非預期的物件閃現 FOUC：useLayoutEffect.md",
+    "互動式動畫.md",
+    "GSAP/GSAP(index).md",
     "GSAP/SrollTrigger/ScrollTrigger.md",
-    "GSAP/SrollTrigger/觸發、停止的參考物件 trigger, endTrigger.md",
-    "GSAP/SrollTrigger/SrollTrigger 的預設值：trigger.md",
-    "GSAP/SrollTrigger/把 ScrollTrigger 當作 callback 用.md",
-    "GSAP/基本介紹/GSAP 觸發事件.md",
-    "依照元件的 state 狀態要怎麼觸發動畫：useEffect.md"
+    "GSAP/timeline/Sequencing with Timelines 讓動畫按照順序播.md",
+    "GSAP/timeline/倒帶 timeline.md",
+    "GSAP/timeline/動畫間加入時間間格.md",
+    "GSAP/基本介紹/時間相關設定/設定同群組（同 className）的動畫時間差：Staggers.md",
+    "GSAP/基本介紹/位置相關/設定位置起始點隨機.md",
+    "GSAP/基本介紹/時間相關設定/對目標設定多個動畫：GSAP keyframes.md"
   ]
 }

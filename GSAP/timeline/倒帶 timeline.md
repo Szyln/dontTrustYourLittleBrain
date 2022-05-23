@@ -7,7 +7,7 @@ tag:
 
 ```js
 // 再播兩遍，第二次倒帶
-const tl = gsap. timeline({repeat: 2, yoyo: true})
+const tl = gsap.timeline({repeat: 2, yoyo: true})
 ```
 
 #js/gsap/timeline 

@@ -1,7 +1,7 @@
 ---
 title: "Sequencing with Timelines 讓動畫按照順序播"
 tag: 
-- js/gsap
+- js/gsap/timeline
 ---
 ## Sequencing with Timelines 讓動畫按照順序播
 ### 原本狀況
@@ -31,4 +31,3 @@ tl.from('.b', { duration: 1 })
 - [[重複播放 timeline]]
 - [[倒帶 timeline]]
 - [[Timeline 的功能]]
-#js/gsap/timeline 

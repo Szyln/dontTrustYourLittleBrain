@@ -86,7 +86,8 @@
     "br",
     "codepen",
     "unstyled",
-    "useLayoutEffect"
+    "useLayoutEffect",
+    "className"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",
