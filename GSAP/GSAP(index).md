@@ -8,7 +8,6 @@ tag:
 ---
 ## GSAP
 - [GSAP 安裝](GSAP%20安裝.md)
-- [可以使用 GSAP 的資料類型](可以使用%20GSAP%20的資料類型.md)
 - [GSAP 觸發事件](GSAP%20觸發事件.md)
 - [[GSAP + React]]
 
@@ -17,6 +16,7 @@ tag:
 - 
 ### Tween
 - [Tween](Tween.md)：GSAP 基本語法
+- [可以使用 GSAP 的資料類型](可以使用%20GSAP%20的資料類型.md)
 
 #### 時間相關設定：
 - [[Staggers]]：設定每個動畫的時間差
