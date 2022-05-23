@@ -83,7 +83,10 @@
     "useRef",
     "utils",
     "useEffect",
-    "br"
+    "br",
+    "codepen",
+    "unstyled",
+    "useLayoutEffect"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",

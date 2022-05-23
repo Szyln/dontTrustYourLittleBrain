@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GSAP/GSAP + React.md",
-            "mode": "source"
+            "file": "GSAP/GSAP(index).md",
+            "mode": "preview"
           }
         }
       }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GSAP/GSAP + React.md",
+                "file": "GSAP/GSAP(index).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GSAP/GSAP + React.md"
+                "file": "GSAP/GSAP(index).md"
               }
             }
           }
@@ -119,15 +119,15 @@
   },
   "active": "182bcd584f95928f",
   "lastOpenFiles": [
+    "GSAP/GSAP(index).md",
+    "清除不用的功能：useEffect 相關.md",
     "GSAP/GSAP + React.md",
+    "網站讀取時，避開非預期的物件閃現 FOUC：useLayoutEffect.md",
     "GSAP/SrollTrigger/ScrollTrigger.md",
     "GSAP/SrollTrigger/觸發、停止的參考物件 trigger, endTrigger.md",
     "GSAP/SrollTrigger/SrollTrigger 的預設值：trigger.md",
     "GSAP/SrollTrigger/把 ScrollTrigger 當作 callback 用.md",
-    "GSAP/GSAP(index).md",
     "GSAP/基本介紹/GSAP 觸發事件.md",
-    "依照元件的 state 狀態要怎麼觸發動畫：useEffect.md",
-    "GSAP/參考資料/GSAP 實作相關.md",
-    "GSAP/基本介紹/建置/GSAP 安裝.md"
+    "依照元件的 state 狀態要怎麼觸發動畫：useEffect.md"
   ]
 }
