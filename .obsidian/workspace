@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "指定動畫物件：useRef.md",
+            "file": "GSAP/SrollTrigger/ScrollTrigger.md",
             "mode": "preview"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "指定動畫物件：useRef.md",
+                "file": "GSAP/SrollTrigger/ScrollTrigger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "指定動畫物件：useRef.md"
+                "file": "GSAP/SrollTrigger/ScrollTrigger.md"
               }
             }
           }
@@ -119,15 +119,15 @@
   },
   "active": "557bba948da3bb10",
   "lastOpenFiles": [
+    "GSAP/SrollTrigger/ScrollTrigger.md",
     "指定動畫物件：useRef.md",
     "GSAP/GSAP + React.md",
+    "注意 render 時機.md",
+    "GSAP/GSAP(index).md",
+    "GSAP/基本介紹/Tween.md",
     "JavaScript/資料類型/Function/console.log.md",
     "JavaScript/資料類型/Function/this.md",
     "後端/Restful API/API 提供更新資料的管道.md",
-    "JavaScript/Vue/vue 學前必備觀念/5.關注點分離.md",
-    "前端/CSS/scss/@for(SCSS).md",
-    "GSAP/GSAP(index).md",
-    "GSAP/SrollTrigger/ScrollTrigger.md",
-    "互動式動畫.md"
+    "JavaScript/Vue/vue 學前必備觀念/5.關注點分離.md"
   ]
 }

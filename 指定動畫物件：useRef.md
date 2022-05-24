@@ -9,8 +9,18 @@ tag:
 >[useRef Hook](useRef%20Hook.md)
 
 ```tsx
-const boxRef = useRef();
-return <div className="box" ref={boxRef}>Hello</div>;
+function App() {
+  // store a reference to the box div
+  const boxRef = useRef();
+
+  // wait until DOM has been rendered
+  useEffect(() => {
+    gsap.to(boxRef.current, { rotation: "+=360" });
+  });
+  
+  // DOM to render
+  return <div className="box" ref={boxRef}>Hello</div>;
+}
 ```
 
 ### 指定複數個動畫物件：gsap.utils.selector
