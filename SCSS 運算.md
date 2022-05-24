@@ -1,13 +1,14 @@
 ---
-title: "@for(SCSS)"
+title: "SCSS 運算"
 tag: 
 - css/scss
 ---
 
-##  @for(SCSS)
+##  SCSS 運算
 ```scss
+// 記得要匯入
 @use "sass:math";
-// i 會重複執行 $numberVariable 次
+
 @for $i from 1 through $numberVariable {
   .col-#{$i} {
     width: math.div(100%, $grid-columns) * $i;
@@ -16,5 +17,4 @@ tag:
 }
 ```
 
-
->[SCSS 運算](SCSS%20運算.md)
+>[@for(SCSS)](@for(SCSS).md)
