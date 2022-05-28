@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GSAP/SrollTrigger/ScrollTrigger.md",
-            "mode": "source"
+            "file": "GSAP/SrollTrigger/ScrollTrigger 的另一種使用方法：create.md",
+            "mode": "preview"
           }
         }
       }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GSAP/SrollTrigger/ScrollTrigger.md",
+                "file": "GSAP/SrollTrigger/ScrollTrigger 的另一種使用方法：create.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GSAP/SrollTrigger/ScrollTrigger.md"
+                "file": "GSAP/SrollTrigger/ScrollTrigger 的另一種使用方法：create.md"
               }
             }
           }
@@ -119,15 +119,15 @@
   },
   "active": "557bba948da3bb10",
   "lastOpenFiles": [
+    "GSAP/SrollTrigger/ScrollTrigger 的另一種使用方法：create.md",
     "GSAP/SrollTrigger/ScrollTrigger.md",
+    "GSAP/SrollTrigger/ScrollTrigger 搭配 timeline：滾輪參數綁定總體時間軸.md",
+    "GSAP/timeline/Sequencing with Timelines 讓動畫按照順序播.md",
+    "opacity.md",
     "GSAP/GSAP(index).md",
     "GSAP/基本介紹/Tween.md",
     "指定動畫物件：useRef.md",
     "GSAP/GSAP + React.md",
-    "前端/CSS/scss/@for(SCSS).md",
-    "SCSS 運算.md",
-    "注意 render 時機.md",
-    "JavaScript/資料類型/Function/console.log.md",
-    "JavaScript/資料類型/Function/this.md"
+    "前端/CSS/scss/@for(SCSS).md"
   ]
 }
