@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GSAP/GSAP(index).md",
-            "mode": "preview"
+            "file": "GSAP/SrollTrigger/ScrollTrigger.md",
+            "mode": "source"
           }
         }
       }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GSAP/GSAP(index).md",
+                "file": "GSAP/SrollTrigger/ScrollTrigger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GSAP/GSAP(index).md"
+                "file": "GSAP/SrollTrigger/ScrollTrigger.md"
               }
             }
           }
@@ -119,13 +119,13 @@
   },
   "active": "557bba948da3bb10",
   "lastOpenFiles": [
+    "GSAP/SrollTrigger/ScrollTrigger.md",
     "GSAP/GSAP(index).md",
     "GSAP/基本介紹/Tween.md",
     "指定動畫物件：useRef.md",
     "GSAP/GSAP + React.md",
     "前端/CSS/scss/@for(SCSS).md",
     "SCSS 運算.md",
-    "GSAP/SrollTrigger/ScrollTrigger.md",
     "注意 render 時機.md",
     "JavaScript/資料類型/Function/console.log.md",
     "JavaScript/資料類型/Function/this.md"

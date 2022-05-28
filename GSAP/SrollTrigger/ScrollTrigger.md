@@ -21,6 +21,27 @@ gsap.to('.c', {
 	duration: 3
 })
 ```
+## React 中使用 ScrollTrigger
+```jsx
+import gsap from 'gsap';
+import { ScrollTrigger } from 'gsap/ScrollTrigger';
+
+function App() {
+	const el = useRef();
+	const q = gsap.utils.selector(el);
+	useEffect(() => {
+		// 使用 ScrollTrigger 
+		gsap.registerPlugin(ScrollTrigger);
+		gsap.to(q('.class'), {
+			scrollTrigger: {
+					// 這樣就可以用了
+			},
+			// 其他動畫
+		})
+	})
+}
+```
+
 
 ---
 
