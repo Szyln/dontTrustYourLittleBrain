@@ -21,6 +21,6 @@ gsap.from('.circle', {
 }) 
 ```
 
->不同群組的會用 delay 或更複雜的用 timeline 設定
->
->[Sequencing with Timelines 讓動畫按照順序播](Sequencing%20with%20Timelines%20讓動畫按照順序播.md)
+>- 不同群組的會用 delay 或更複雜的用 timeline 設定
+>- [Sequencing with Timelines 讓動畫按照順序播](Sequencing%20with%20Timelines%20讓動畫按照順序播.md)
+>- 無法搭配 [ScrollTrigger](ScrollTrigger.md) 使用

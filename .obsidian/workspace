@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GSAP/SrollTrigger/ScrollTrigger 的另一種使用方法：create.md",
+            "file": "GSAP/SrollTrigger/ScrollTrigger.md",
             "mode": "preview"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GSAP/SrollTrigger/ScrollTrigger 的另一種使用方法：create.md",
+                "file": "GSAP/SrollTrigger/ScrollTrigger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GSAP/SrollTrigger/ScrollTrigger 的另一種使用方法：create.md"
+                "file": "GSAP/SrollTrigger/ScrollTrigger.md"
               }
             }
           }
@@ -119,15 +119,15 @@
   },
   "active": "557bba948da3bb10",
   "lastOpenFiles": [
-    "GSAP/SrollTrigger/ScrollTrigger 的另一種使用方法：create.md",
     "GSAP/SrollTrigger/ScrollTrigger.md",
-    "GSAP/SrollTrigger/ScrollTrigger 搭配 timeline：滾輪參數綁定總體時間軸.md",
+    "GSAP/SrollTrigger/Toggle actions：觸發的動畫週期.md",
+    "GSAP/基本介紹/時間相關設定/設定同群組（同 className）的動畫時間差：Staggers.md",
+    "GSAP/SrollTrigger/參考物件的細部觸發、停止條件：start, end.md",
+    "GSAP/GSAP(index).md",
     "GSAP/timeline/Sequencing with Timelines 讓動畫按照順序播.md",
     "opacity.md",
-    "GSAP/GSAP(index).md",
-    "GSAP/基本介紹/Tween.md",
-    "指定動畫物件：useRef.md",
-    "GSAP/GSAP + React.md",
-    "前端/CSS/scss/@for(SCSS).md"
+    "GSAP/SrollTrigger/ScrollTrigger 的另一種使用方法：create.md",
+    "GSAP/SrollTrigger/ScrollTrigger 搭配 timeline：滾輪參數綁定總體時間軸.md",
+    "GSAP/基本介紹/Tween.md"
   ]
 }
