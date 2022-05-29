@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GSAP/基本介紹/Tween.md",
+            "file": "GSAP/SrollTrigger/把 ScrollTrigger 當作 callback 用.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "for",
+                "query": "toggleclass",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GSAP/基本介紹/Tween.md",
+                "file": "GSAP/SrollTrigger/把 ScrollTrigger 當作 callback 用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GSAP/基本介紹/Tween.md"
+                "file": "GSAP/SrollTrigger/把 ScrollTrigger 當作 callback 用.md"
               }
             }
           }
@@ -119,6 +119,7 @@
   },
   "active": "557bba948da3bb10",
   "lastOpenFiles": [
+    "GSAP/SrollTrigger/把 ScrollTrigger 當作 callback 用.md",
     "GSAP/基本介紹/Tween.md",
     "GSAP/SrollTrigger/滾輪參數綁定動畫時間軸：scrub.md",
     "GSAP/SrollTrigger/ScrollTrigger.md",
@@ -127,7 +128,6 @@
     "GSAP/SrollTrigger/產生類似多個 position-sticky 區塊的效果：取消 pinSpacing.md",
     "GSAP/SrollTrigger/滾輪參數綁定物件的 Y 軸，Y 軸數值固定、滾輪停止影響物件的 Y 軸：pin.md",
     "GSAP/SrollTrigger/Toggle actions：觸發的動畫週期.md",
-    "GSAP/基本介紹/時間相關設定/設定同群組（同 className）的動畫時間差：Staggers.md",
-    "GSAP/GSAP(index).md"
+    "GSAP/基本介紹/時間相關設定/設定同群組（同 className）的動畫時間差：Staggers.md"
   ]
 }
