@@ -1,4 +1,5 @@
 ## 產生類似多個 position-sticky 區塊的效果：取消 pinSpacing
+- true：`pin` 會產生 padding，維持有 `pin` 的區塊跟下一區塊不會產生重疊，或影響下一塊的重疊
 ```js
 gsap.registerPlugin(ScrollTrigger);
 
