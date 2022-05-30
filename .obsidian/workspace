@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GSAP/基本介紹/Tween.md",
+            "file": "清除不用的功能：useEffect 相關.md",
             "mode": "preview"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GSAP/基本介紹/Tween.md",
+                "file": "清除不用的功能：useEffect 相關.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GSAP/基本介紹/Tween.md"
+                "file": "清除不用的功能：useEffect 相關.md"
               }
             }
           }
@@ -119,15 +119,15 @@
   },
   "active": "557bba948da3bb10",
   "lastOpenFiles": [
-    "GSAP/基本介紹/Tween.md",
+    "清除不用的功能：useEffect 相關.md",
+    "GSAP/GSAP + React.md",
     "GSAP/GSAP(index).md",
+    "JavaScript/React/React.md",
+    "GSAP/SrollTrigger/ScrollTrigger.md",
+    "GSAP/基本介紹/Tween.md",
     "GSAP/基本介紹/建置/GSAP 安裝.md",
     "Timeline 的功能.md",
     "GSAP/SrollTrigger/把 ScrollTrigger 當作 callback 用.md",
-    "GSAP/SrollTrigger/參考物件的細部觸發、停止條件：start, end.md",
-    "GSAP/SrollTrigger/滾輪參數綁定動畫時間軸：scrub.md",
-    "GSAP/SrollTrigger/ScrollTrigger.md",
-    "GSAP/SrollTrigger/ScrollTrigger 搭配 timeline：滾輪參數綁定總體時間軸.md",
-    "GSAP/SrollTrigger/產生類似多個 position-sticky 區塊的效果：取消 pinSpacing.md"
+    "GSAP/SrollTrigger/參考物件的細部觸發、停止條件：start, end.md"
   ]
 }
