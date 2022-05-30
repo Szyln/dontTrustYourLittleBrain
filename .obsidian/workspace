@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GSAP/GSAP(index).md",
+            "file": "GSAP/基本介紹/Tween.md",
             "mode": "preview"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GSAP/GSAP(index).md",
+                "file": "GSAP/基本介紹/Tween.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GSAP/GSAP(index).md"
+                "file": "GSAP/基本介紹/Tween.md"
               }
             }
           }
@@ -119,13 +119,13 @@
   },
   "active": "557bba948da3bb10",
   "lastOpenFiles": [
+    "GSAP/基本介紹/Tween.md",
     "GSAP/GSAP(index).md",
     "GSAP/基本介紹/建置/GSAP 安裝.md",
     "Timeline 的功能.md",
     "GSAP/SrollTrigger/把 ScrollTrigger 當作 callback 用.md",
     "GSAP/SrollTrigger/參考物件的細部觸發、停止條件：start, end.md",
     "GSAP/SrollTrigger/滾輪參數綁定動畫時間軸：scrub.md",
-    "GSAP/基本介紹/Tween.md",
     "GSAP/SrollTrigger/ScrollTrigger.md",
     "GSAP/SrollTrigger/ScrollTrigger 搭配 timeline：滾輪參數綁定總體時間軸.md",
     "GSAP/SrollTrigger/產生類似多個 position-sticky 區塊的效果：取消 pinSpacing.md"
