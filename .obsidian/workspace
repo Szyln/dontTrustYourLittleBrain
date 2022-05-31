@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他/接案/動作健康360/動作健康360 想要做網頁.md",
+            "file": "External Links 外部連結.md",
             "mode": "preview"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261
+    "width": 261,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/接案/動作健康360/動作健康360 想要做網頁.md",
+                "file": "External Links 外部連結.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/接案/動作健康360/動作健康360 想要做網頁.md"
+                "file": "External Links 外部連結.md"
               }
             }
           }
@@ -117,6 +118,8 @@
   },
   "active": "557bba948da3bb10",
   "lastOpenFiles": [
+    "External Links 外部連結.md",
+    "前端/html/skeleton/HTML skeleton.md",
     "其他/接案/動作健康360/動作健康360 想要做網頁.md",
     "React 中動態更改 HTML Title 標籤.md",
     "清除不用的功能：useEffect 相關.md",
@@ -124,8 +127,6 @@
     "GSAP/GSAP(index).md",
     "JavaScript/React/React.md",
     "GSAP/SrollTrigger/ScrollTrigger.md",
-    "GSAP/基本介紹/Tween.md",
-    "GSAP/基本介紹/建置/GSAP 安裝.md",
-    "Timeline 的功能.md"
+    "GSAP/基本介紹/Tween.md"
   ]
 }
