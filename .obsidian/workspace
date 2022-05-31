@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "清除不用的功能：useEffect 相關.md",
+            "file": "其他/接案/動作健康360/動作健康360 想要做網頁.md",
             "mode": "preview"
           }
         }
@@ -48,13 +48,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 261,
-    "collapsed": true
+    "width": 261
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -71,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "清除不用的功能：useEffect 相關.md",
+                "file": "其他/接案/動作健康360/動作健康360 想要做網頁.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "清除不用的功能：useEffect 相關.md"
+                "file": "其他/接案/動作健康360/動作健康360 想要做網頁.md"
               }
             }
           }
@@ -119,6 +117,8 @@
   },
   "active": "557bba948da3bb10",
   "lastOpenFiles": [
+    "其他/接案/動作健康360/動作健康360 想要做網頁.md",
+    "React 中動態更改 HTML Title 標籤.md",
     "清除不用的功能：useEffect 相關.md",
     "GSAP/GSAP + React.md",
     "GSAP/GSAP(index).md",
@@ -126,8 +126,6 @@
     "GSAP/SrollTrigger/ScrollTrigger.md",
     "GSAP/基本介紹/Tween.md",
     "GSAP/基本介紹/建置/GSAP 安裝.md",
-    "Timeline 的功能.md",
-    "GSAP/SrollTrigger/把 ScrollTrigger 當作 callback 用.md",
-    "GSAP/SrollTrigger/參考物件的細部觸發、停止條件：start, end.md"
+    "Timeline 的功能.md"
   ]
 }
