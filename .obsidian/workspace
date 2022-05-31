@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "External Links 外部連結.md",
+            "file": "JavaScript/邏輯、條件、比較/條件/Logic AND(&&).md",
             "mode": "preview"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "External Links 外部連結.md",
+                "file": "JavaScript/邏輯、條件、比較/條件/Logic AND(&&).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "External Links 外部連結.md"
+                "file": "JavaScript/邏輯、條件、比較/條件/Logic AND(&&).md"
               }
             }
           }
@@ -118,6 +118,8 @@
   },
   "active": "557bba948da3bb10",
   "lastOpenFiles": [
+    "JavaScript/邏輯、條件、比較/條件/Logic AND(&&).md",
+    "JavaScript/邏輯、條件、比較/條件/Logic OR.md",
     "External Links 外部連結.md",
     "前端/html/skeleton/HTML skeleton.md",
     "其他/接案/動作健康360/動作健康360 想要做網頁.md",
@@ -125,8 +127,6 @@
     "清除不用的功能：useEffect 相關.md",
     "GSAP/GSAP + React.md",
     "GSAP/GSAP(index).md",
-    "JavaScript/React/React.md",
-    "GSAP/SrollTrigger/ScrollTrigger.md",
-    "GSAP/基本介紹/Tween.md"
+    "JavaScript/React/React.md"
   ]
 }
