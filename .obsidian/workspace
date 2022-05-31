@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/邏輯、條件、比較/條件/Logic AND(&&).md",
-            "mode": "preview"
+            "file": "其他/接案/動作健康360/服務項目.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "toggleClass",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/邏輯、條件、比較/條件/Logic AND(&&).md",
+                "file": "其他/接案/動作健康360/服務項目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/邏輯、條件、比較/條件/Logic AND(&&).md"
+                "file": "其他/接案/動作健康360/服務項目.md"
               }
             }
           }
@@ -118,6 +118,7 @@
   },
   "active": "557bba948da3bb10",
   "lastOpenFiles": [
+    "其他/接案/動作健康360/服務項目.md",
     "JavaScript/邏輯、條件、比較/條件/Logic AND(&&).md",
     "JavaScript/邏輯、條件、比較/條件/Logic OR.md",
     "External Links 外部連結.md",
@@ -126,7 +127,6 @@
     "React 中動態更改 HTML Title 標籤.md",
     "清除不用的功能：useEffect 相關.md",
     "GSAP/GSAP + React.md",
-    "GSAP/GSAP(index).md",
-    "JavaScript/React/React.md"
+    "GSAP/GSAP(index).md"
   ]
 }
