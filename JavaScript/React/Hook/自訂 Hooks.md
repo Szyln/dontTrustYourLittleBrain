@@ -1,7 +1,7 @@
 ---
 title: "自訂 Hooks"
 tag: 
-- 
+- js/react/hook
 ---
 # 自訂 Hooks
 >[[Hook]]
@@ -38,5 +38,5 @@ function Greeting() {
 }
 ```
 
-#js/react/hook
+
 
