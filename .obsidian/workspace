@@ -7,8 +7,11 @@
         "id": "802d73d551d389e6",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "動作健康360/movmentHealth360_info/找健康.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -49,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238
+    "width": 238,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -66,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "動作健康360/movmentHealth360_info/找健康.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "動作健康360/movmentHealth360_info/找健康.md"
+              }
             }
           }
         ]
@@ -111,15 +118,15 @@
   },
   "active": "802d73d551d389e6",
   "lastOpenFiles": [
+    "動作健康360/movmentHealth360_info/找健康.md",
+    "動作健康360/movmentHealth360_info/服務項目.md",
+    "動作健康360/movmentHealth360_info/README.md",
     "動作健康360/movmentHealth360_info/動作健康360 想要做網頁.md",
     "動作健康360/movmentHealth360_info/主旨.md",
     "動作健康360/movmentHealth360_info/賴冠霖(Larry).md",
-    "動作健康360/movmentHealth360_info/服務項目.md",
     "動作健康360/movmentHealth360_info/附件/Pasted image 20220502143934.png",
     "動作健康360/movmentHealth360_info/附件/Pasted image 20220502143821.png",
     "動作健康360/movmentHealth360_info/附件/Pasted image 20220502135535.png",
-    "動作健康360/movmentHealth360_info/README.md",
-    "動作健康360/movmentHealth360_info/目的與現今困境.md",
-    "動作健康360/movmentHealth360_info/找健康.md"
+    "動作健康360/movmentHealth360_info/目的與現今困境.md"
   ]
 }
