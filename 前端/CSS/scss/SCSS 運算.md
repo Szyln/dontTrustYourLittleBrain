@@ -5,6 +5,10 @@ tag:
 ---
 
 ##  SCSS 運算
+
+除法
+- `math.div(被除數, 除數)`
+- `calc(被除數 / 除數)`
 ```scss
 // 記得要匯入
 @use "sass:math";
