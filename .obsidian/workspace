@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "fc20e7c8e372f2e4",
+        "id": "268a7e221e2518fd",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端/CSS/flexbox.md",
+            "file": "font family 的問題.md",
             "mode": "preview"
           }
         }
@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/CSS/flexbox.md",
+                "file": "font family 的問題.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/CSS/flexbox.md"
+                "file": "font family 的問題.md"
               }
             }
           }
@@ -117,17 +116,17 @@
     "width": 240.4686279296875,
     "collapsed": true
   },
-  "active": "fc20e7c8e372f2e4",
+  "active": "268a7e221e2518fd",
   "lastOpenFiles": [
+    "font family 的問題.md",
+    "其他/附件/Pasted image 20220603140014.png",
+    "其他/附件/Pasted image 20220603140224.png",
+    "其他/附件/Pasted image 20220521172114.png",
+    "其他/附件/Pasted image 20220504120512.png",
+    "其他/附件/Pasted image 20220503220530.png",
     "前端/CSS/flexbox.md",
     "前端/Bootstrap/flexbox/d-flex.md",
     "計算機/網路/godaddy 買網址怎麼用.md",
-    "動作健康360/movmentHealth360_info/找健康.md",
-    "演講筆記.md",
-    "前端/CSS/scss/SCSS 運算.md",
-    "前端/Bootstrap/bs grid system.md",
-    "前端/CSS/Grid 格線系統.md",
-    "前端/CSS/scss/SCSS.md",
-    "JavaScript/資料類型/Object, Array/Array/filter().md"
+    "動作健康360/movmentHealth360_info/找健康.md"
   ]
 }
