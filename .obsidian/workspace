@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/邏輯、條件、比較/條件/Logic AND(&&).md",
+            "file": "前端/html/a anchor tag 超連結.md",
             "mode": "preview"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hover",
+                "query": "anchor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238,
-    "collapsed": true
+    "width": 238
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/邏輯、條件、比較/條件/Logic AND(&&).md",
+                "file": "前端/html/a anchor tag 超連結.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/邏輯、條件、比較/條件/Logic AND(&&).md"
+                "file": "前端/html/a anchor tag 超連結.md"
               }
             }
           }
@@ -119,15 +118,15 @@
   },
   "active": "268a7e221e2518fd",
   "lastOpenFiles": [
-    "JavaScript/邏輯、條件、比較/條件/Logic AND(&&).md",
-    "JavaScript/邏輯、條件、比較/條件/Logic OR.md",
     "前端/html/a anchor tag 超連結.md",
     "前端/html/base/anchor tag (a).md",
+    "前端/html/base/heading(h).md",
+    "JavaScript/邏輯、條件、比較/條件/Logic AND(&&).md",
+    "JavaScript/邏輯、條件、比較/條件/Logic OR.md",
     "演講筆記.md",
     "未命名.md",
     "動作健康360/movmentHealth360_info/README.md",
     "font family 的問題.md",
-    "其他/附件/Pasted image 20220603140014.png",
-    "其他/附件/Pasted image 20220603140224.png"
+    "其他/附件/Pasted image 20220603140014.png"
   ]
 }
