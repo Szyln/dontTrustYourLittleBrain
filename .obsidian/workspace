@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "copyright 寫法.md",
-            "mode": "source"
+            "file": "JavaScript/React/Hook/useState Hook.md",
+            "mode": "preview"
           }
         }
       }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "copyright 寫法.md",
+                "file": "JavaScript/React/Hook/useState Hook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "copyright 寫法.md"
+                "file": "JavaScript/React/Hook/useState Hook.md"
               }
             }
           }
@@ -119,6 +119,8 @@
   },
   "active": "39c471977cce5faf",
   "lastOpenFiles": [
+    "JavaScript/React/Hook/useState Hook.md",
+    "JavaScript/React/Hook/useEffect Hook.md",
     "copyright 寫法.md",
     "React 中使用 anchor tag 作為錨點.md",
     "JavaScript/React/Routing/React 中動態更改 HTML Title 標籤.md",
@@ -126,8 +128,6 @@
     "letter-spacing.md",
     "JavaScript/資料類型/Object, Array/Array/條件判定陣列的元素.md",
     "JavaScript/資料類型/Object, Array/Array/find().md",
-    "前端/html/a anchor tag 超連結.md",
-    "前端/html/base/anchor tag (a).md",
-    "前端/html/base/heading(h).md"
+    "前端/html/a anchor tag 超連結.md"
   ]
 }
