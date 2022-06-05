@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端/CSS/letter-spacing 字距.md",
-            "mode": "source"
+            "file": "JavaScript/React/Routing/React 中動態更改 HTML Title 標籤.md",
+            "mode": "preview"
           }
         }
       }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/CSS/letter-spacing 字距.md",
+                "file": "JavaScript/React/Routing/React 中動態更改 HTML Title 標籤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/CSS/letter-spacing 字距.md"
+                "file": "JavaScript/React/Routing/React 中動態更改 HTML Title 標籤.md"
               }
             }
           }
@@ -119,6 +119,7 @@
   },
   "active": "39c471977cce5faf",
   "lastOpenFiles": [
+    "JavaScript/React/Routing/React 中動態更改 HTML Title 標籤.md",
     "前端/CSS/letter-spacing 字距.md",
     "letter-spacing.md",
     "JavaScript/資料類型/Object, Array/Array/條件判定陣列的元素.md",
@@ -127,7 +128,6 @@
     "前端/html/base/anchor tag (a).md",
     "前端/html/base/heading(h).md",
     "JavaScript/邏輯、條件、比較/條件/Logic AND(&&).md",
-    "JavaScript/邏輯、條件、比較/條件/Logic OR.md",
-    "演講筆記.md"
+    "JavaScript/邏輯、條件、比較/條件/Logic OR.md"
   ]
 }
