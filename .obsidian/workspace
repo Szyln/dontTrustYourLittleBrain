@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/React/Routing/React 中動態更改 HTML Title 標籤.md",
-            "mode": "preview"
+            "file": "React 中使用 anchor tag 作為錨點.md",
+            "mode": "source"
           }
         }
       }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/React/Routing/React 中動態更改 HTML Title 標籤.md",
+                "file": "React 中使用 anchor tag 作為錨點.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/React/Routing/React 中動態更改 HTML Title 標籤.md"
+                "file": "React 中使用 anchor tag 作為錨點.md"
               }
             }
           }
@@ -119,6 +119,7 @@
   },
   "active": "39c471977cce5faf",
   "lastOpenFiles": [
+    "React 中使用 anchor tag 作為錨點.md",
     "JavaScript/React/Routing/React 中動態更改 HTML Title 標籤.md",
     "前端/CSS/letter-spacing 字距.md",
     "letter-spacing.md",
@@ -127,7 +128,6 @@
     "前端/html/a anchor tag 超連結.md",
     "前端/html/base/anchor tag (a).md",
     "前端/html/base/heading(h).md",
-    "JavaScript/邏輯、條件、比較/條件/Logic AND(&&).md",
-    "JavaScript/邏輯、條件、比較/條件/Logic OR.md"
+    "JavaScript/邏輯、條件、比較/條件/Logic AND(&&).md"
   ]
 }
