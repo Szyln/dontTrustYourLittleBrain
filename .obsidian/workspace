@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/資料類型/Object, Array/Array/條件判定陣列的元素.md",
-            "mode": "preview"
+            "file": "前端/CSS/letter-spacing 字距.md",
+            "mode": "source"
           }
         }
       }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/資料類型/Object, Array/Array/條件判定陣列的元素.md",
+                "file": "前端/CSS/letter-spacing 字距.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/資料類型/Object, Array/Array/條件判定陣列的元素.md"
+                "file": "前端/CSS/letter-spacing 字距.md"
               }
             }
           }
@@ -119,15 +119,15 @@
   },
   "active": "39c471977cce5faf",
   "lastOpenFiles": [
+    "前端/CSS/letter-spacing 字距.md",
+    "letter-spacing.md",
     "JavaScript/資料類型/Object, Array/Array/條件判定陣列的元素.md",
     "JavaScript/資料類型/Object, Array/Array/find().md",
-    "未命名.md",
     "前端/html/a anchor tag 超連結.md",
     "前端/html/base/anchor tag (a).md",
     "前端/html/base/heading(h).md",
     "JavaScript/邏輯、條件、比較/條件/Logic AND(&&).md",
     "JavaScript/邏輯、條件、比較/條件/Logic OR.md",
-    "演講筆記.md",
-    "動作健康360/movmentHealth360_info/README.md"
+    "演講筆記.md"
   ]
 }
