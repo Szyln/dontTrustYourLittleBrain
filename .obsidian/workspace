@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "滾輪滾動 100vh 的動畫設定.md",
-            "mode": "source"
+            "file": "JavaScript/React/Routing/react-router-dom 導向新頁面時不會回到頁面頂端 ScrollToTop 元件.md",
+            "mode": "preview"
           }
         }
       }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "滾輪滾動 100vh 的動畫設定.md",
+                "file": "JavaScript/React/Routing/react-router-dom 導向新頁面時不會回到頁面頂端 ScrollToTop 元件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "滾輪滾動 100vh 的動畫設定.md"
+                "file": "JavaScript/React/Routing/react-router-dom 導向新頁面時不會回到頁面頂端 ScrollToTop 元件.md"
               }
             }
           }
@@ -119,6 +119,7 @@
   },
   "active": "39c471977cce5faf",
   "lastOpenFiles": [
+    "JavaScript/React/Routing/react-router-dom 導向新頁面時不會回到頁面頂端 ScrollToTop 元件.md",
     "滾輪滾動 100vh 的動畫設定.md",
     "GSAP/SrollTrigger/ScrollTrigger.md",
     "GSAP/SrollTrigger/用滾輪綁定 X 軸.md",
@@ -127,7 +128,6 @@
     "copyright 寫法.md",
     "React 中使用 anchor tag 作為錨點.md",
     "JavaScript/React/Routing/React 中動態更改 HTML Title 標籤.md",
-    "前端/CSS/letter-spacing 字距.md",
-    "letter-spacing.md"
+    "前端/CSS/letter-spacing 字距.md"
   ]
 }
