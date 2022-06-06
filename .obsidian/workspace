@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/React/Hook/useState Hook.md",
+            "file": "GSAP/SrollTrigger/ScrollTrigger.md",
             "mode": "preview"
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/React/Hook/useState Hook.md",
+                "file": "GSAP/SrollTrigger/ScrollTrigger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/React/Hook/useState Hook.md"
+                "file": "GSAP/SrollTrigger/ScrollTrigger.md"
               }
             }
           }
@@ -119,6 +119,8 @@
   },
   "active": "39c471977cce5faf",
   "lastOpenFiles": [
+    "GSAP/SrollTrigger/ScrollTrigger.md",
+    "GSAP/SrollTrigger/用滾輪綁定 X 軸.md",
     "JavaScript/React/Hook/useState Hook.md",
     "JavaScript/React/Hook/useEffect Hook.md",
     "copyright 寫法.md",
@@ -126,8 +128,6 @@
     "JavaScript/React/Routing/React 中動態更改 HTML Title 標籤.md",
     "前端/CSS/letter-spacing 字距.md",
     "letter-spacing.md",
-    "JavaScript/資料類型/Object, Array/Array/條件判定陣列的元素.md",
-    "JavaScript/資料類型/Object, Array/Array/find().md",
-    "前端/html/a anchor tag 超連結.md"
+    "JavaScript/資料類型/Object, Array/Array/條件判定陣列的元素.md"
   ]
 }
