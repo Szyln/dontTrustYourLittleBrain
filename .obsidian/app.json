@@ -90,7 +90,12 @@
     "className",
     "Kinesioloigical",
     "Kinesiological",
-    "ig"
+    "ig",
+    "facebook",
+    "fb",
+    "oEmbed",
+    "iframe",
+    "instagram"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",
