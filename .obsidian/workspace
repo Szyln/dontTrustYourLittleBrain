@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "內嵌 meta facebook(fb), Instagram(ig) 內容.md",
+            "file": "copyright.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "內嵌 meta facebook(fb), Instagram(ig) 內容.md",
+                "file": "copyright.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "內嵌 meta facebook(fb), Instagram(ig) 內容.md"
+                "file": "copyright.md"
               }
             }
           }
@@ -118,15 +118,15 @@
   },
   "active": "39c471977cce5faf",
   "lastOpenFiles": [
-    "內嵌 meta facebook(fb), Instagram(ig) 內容.md",
+    "copyright.md",
+    "未命名.md",
     "動作健康360/movmentHealth360_info/README.md",
+    "內嵌 meta facebook(fb), Instagram(ig) 內容.md",
     "JavaScript/React/React.md",
     "JavaScript/React/Routing/react-router-dom 導向新頁面時不會回到頁面頂端 ScrollToTop 元件.md",
     "滾輪滾動 100vh 的動畫設定.md",
     "GSAP/SrollTrigger/ScrollTrigger.md",
     "GSAP/SrollTrigger/用滾輪綁定 X 軸.md",
-    "JavaScript/React/Hook/useState Hook.md",
-    "JavaScript/React/Hook/useEffect Hook.md",
-    "copyright 寫法.md"
+    "JavaScript/React/Hook/useState Hook.md"
   ]
 }
