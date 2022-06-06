@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GSAP/SrollTrigger/ScrollTrigger.md",
-            "mode": "preview"
+            "file": "滾輪滾動 100vh 的動畫設定.md",
+            "mode": "source"
           }
         }
       }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GSAP/SrollTrigger/ScrollTrigger.md",
+                "file": "滾輪滾動 100vh 的動畫設定.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GSAP/SrollTrigger/ScrollTrigger.md"
+                "file": "滾輪滾動 100vh 的動畫設定.md"
               }
             }
           }
@@ -119,6 +119,7 @@
   },
   "active": "39c471977cce5faf",
   "lastOpenFiles": [
+    "滾輪滾動 100vh 的動畫設定.md",
     "GSAP/SrollTrigger/ScrollTrigger.md",
     "GSAP/SrollTrigger/用滾輪綁定 X 軸.md",
     "JavaScript/React/Hook/useState Hook.md",
@@ -127,7 +128,6 @@
     "React 中使用 anchor tag 作為錨點.md",
     "JavaScript/React/Routing/React 中動態更改 HTML Title 標籤.md",
     "前端/CSS/letter-spacing 字距.md",
-    "letter-spacing.md",
-    "JavaScript/資料類型/Object, Array/Array/條件判定陣列的元素.md"
+    "letter-spacing.md"
   ]
 }
