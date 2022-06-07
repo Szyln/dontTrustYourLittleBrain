@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他/作品與目標/參考網站.md",
+            "file": "前端/CSS/flexbox.md",
             "mode": "preview"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/作品與目標/參考網站.md",
+                "file": "前端/CSS/flexbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/作品與目標/參考網站.md"
+                "file": "前端/CSS/flexbox.md"
               }
             }
           }
@@ -118,6 +118,7 @@
   },
   "active": "39c471977cce5faf",
   "lastOpenFiles": [
+    "前端/CSS/flexbox.md",
     "其他/作品與目標/參考網站.md",
     "其他/接案/網頁報價參考.md",
     "滾輪滾動 100vh 的動畫設定.md",
@@ -126,7 +127,6 @@
     "未命名.md",
     "內嵌 meta facebook(fb), Instagram(ig) 內容.md",
     "JavaScript/React/React.md",
-    "JavaScript/React/Routing/react-router-dom 導向新頁面時不會回到頁面頂端 ScrollToTop 元件.md",
-    "GSAP/SrollTrigger/ScrollTrigger.md"
+    "JavaScript/React/Routing/react-router-dom 導向新頁面時不會回到頁面頂端 ScrollToTop 元件.md"
   ]
 }
