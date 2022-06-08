@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/React/Hook/useEffect Hook.md",
+            "file": "JavaScript/React/Routing/Nested Routes(react-router-dom （未完成）.md",
             "mode": "preview"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/React/Hook/useEffect Hook.md",
+                "file": "JavaScript/React/Routing/Nested Routes(react-router-dom （未完成）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/React/Hook/useEffect Hook.md"
+                "file": "JavaScript/React/Routing/Nested Routes(react-router-dom （未完成）.md"
               }
             }
           }
@@ -118,6 +118,8 @@
   },
   "active": "39c471977cce5faf",
   "lastOpenFiles": [
+    "JavaScript/React/Routing/Nested Routes(react-router-dom （未完成）.md",
+    "JavaScript/React/Routing/react-router-dom.md",
     "JavaScript/React/Hook/useEffect Hook.md",
     "前端/CSS/flexbox.md",
     "其他/作品與目標/參考網站.md",
@@ -125,8 +127,6 @@
     "滾輪滾動 100vh 的動畫設定.md",
     "動作健康360/movmentHealth360_info/README.md",
     "copyright.md",
-    "未命名.md",
-    "內嵌 meta facebook(fb), Instagram(ig) 內容.md",
-    "JavaScript/React/React.md"
+    "未命名.md"
   ]
 }
