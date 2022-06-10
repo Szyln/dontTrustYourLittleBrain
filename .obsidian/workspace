@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GSAP/SrollTrigger/參考物件的細部觸發、停止條件：start, end.md",
+            "file": "JavaScript/React/Routing/react-router-dom.md",
             "mode": "preview"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GSAP/SrollTrigger/參考物件的細部觸發、停止條件：start, end.md",
+                "file": "JavaScript/React/Routing/react-router-dom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GSAP/SrollTrigger/參考物件的細部觸發、停止條件：start, end.md"
+                "file": "JavaScript/React/Routing/react-router-dom.md"
               }
             }
           }
@@ -118,6 +118,7 @@
   },
   "active": "39c471977cce5faf",
   "lastOpenFiles": [
+    "JavaScript/React/Routing/react-router-dom.md",
     "GSAP/SrollTrigger/參考物件的細部觸發、停止條件：start, end.md",
     "GSAP/SrollTrigger/ScrollTrigger.md",
     "GSAP/GSAP(index).md",
@@ -126,7 +127,6 @@
     "後端/Express.js/Routing/Routing for pattern 回應有規律的網址.md",
     "未命名 1.md",
     "JavaScript/React/Routing/Nested Routes(react-router-dom （未完成）.md",
-    "前端/CSS/font-family.md",
-    "service.md"
+    "前端/CSS/font-family.md"
   ]
 }
