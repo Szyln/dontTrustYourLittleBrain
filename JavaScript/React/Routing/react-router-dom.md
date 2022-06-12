@@ -58,7 +58,8 @@ export default App;
 ```
 >[[Nested Routes(react-router-dom （未完成）]]
 ## Link
-取代 `<a>` ，`App()` 中的 `Routes` 元件就是透過這裡做回應
+- 取代 `<a>` ，`App()` 中的 `Routes` 元件就是透過這裡做回應
+- 因為 `<a>` 會重新讀取整個頁面，[SPA](SPA.md) 的網站並不適合這樣
 ```jsx
 // 匯入 React
 import { Link } from "react-router-dom";
@@ -80,6 +81,25 @@ const Nav = () => {
 };
 ```
 
+## Navigate
+```jsx
+import { BrowserRouter, Routes, Route, Navigate} from 'react-router-dom'
 
+const App = () => {
+	return (
+	  <>
+      <Nav />
+      {/* 使用 Routes 包住 Route */}
+      <Routes>
+				{/* Route 決定點連結之後會產生的內容 */}
+        <Route path="/" element={<HomePage />} />
+        <Route path="/about" element={<About />} />
+        <Route path="/aboutUs" element={<Navigate to="/about" replace />} />
+      </Routes>
+      <Footer />
+    </>
+	)
+}
+```
 
 #js/react #npm #module #routing 
