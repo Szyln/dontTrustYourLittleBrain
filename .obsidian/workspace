@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/React/Routing/Nested Routes.md",
-            "mode": "source",
+            "file": "JavaScript/React/Routing/react-router-dom.md",
+            "mode": "preview",
             "backlinks": true
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/React/Routing/Nested Routes.md",
+                "file": "JavaScript/React/Routing/react-router-dom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/React/Routing/Nested Routes.md"
+                "file": "JavaScript/React/Routing/react-router-dom.md"
               }
             }
           }
@@ -119,15 +119,15 @@
   },
   "active": "64296e76d446a687",
   "lastOpenFiles": [
-    "JavaScript/React/Routing/Nested Routes.md",
     "JavaScript/React/Routing/react-router-dom.md",
-    "2.md",
+    "JavaScript/React/Routing/Nested Routes.md",
+    "Outlet 指定更新區塊（Nested Routes）.md",
+    "再一層的 Route 指定渲染元件（Nested Routes）.md",
     "Routes & Route：更改 Route 時更新頁面區塊.md",
+    "2.md",
     "(react-router-dom （未完成）.md",
     "s.md",
     "Navigate：將 Route Redirect 到其他頁面.md",
-    "Link：指定連結的路徑.md",
-    "BrowserRouter：URL 將 React 專案連接上瀏覽器的網址.md",
-    "JavaScript/React/Routing/useNavigate Hook(useHistory).md"
+    "Link：指定連結的路徑.md"
   ]
 }
