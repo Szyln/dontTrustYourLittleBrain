@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/React/Routing/react-router-dom.md",
-            "mode": "preview",
+            "file": "useParams：從網址取得參數.md",
+            "mode": "source",
             "backlinks": true
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/React/Routing/react-router-dom.md",
+                "file": "useParams：從網址取得參數.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/React/Routing/react-router-dom.md"
+                "file": "useParams：從網址取得參數.md"
               }
             }
           }
@@ -119,15 +119,15 @@
   },
   "active": "64296e76d446a687",
   "lastOpenFiles": [
+    "useParams：從網址取得參數.md",
     "JavaScript/React/Routing/react-router-dom.md",
     "JavaScript/React/Routing/Nested Routes.md",
+    "再一層的 Route 指定渲染元件（Nested Routes）.md",
     "Outlet 指定更新區塊（Nested Routes）.md",
     "JavaScript/React/Fetch/Pexals API with React.md",
-    "再一層的 Route 指定渲染元件（Nested Routes）.md",
     "Routes & Route：更改 Route 時更新頁面區塊.md",
     "2.md",
     "(react-router-dom （未完成）.md",
-    "s.md",
-    "Navigate：將 Route Redirect 到其他頁面.md"
+    "s.md"
   ]
 }

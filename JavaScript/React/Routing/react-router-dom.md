@@ -25,15 +25,11 @@ npm install react-router-dom
 - [Link：指定連結的路徑](Link：指定連結的路徑.md)
 - [Navigate：將 Route Redirect 到其他頁面](Navigate：將%20Route%20Redirect%20到其他頁面.md)
 
-## 取得 Route 作為參數
-```jsx
-<Route path="courses" element={<Courses />}>
-	<Route path=":courseID" element={<CourseID />} />
-</Route>
-```
-```jsx
-import { useParams } from 'react-route-dom'
+[useParams：從網址取得參數](useParams：從網址取得參數.md)
 
+## NavLink
+`Link`再多兩個功能
+```jsx
 function CourseID() {
 	// 從 Route 取得，網址輸入：courses/${任意字串}，這裡就會取得這個 ${任意字串}
 	const { courseID } = useParams()

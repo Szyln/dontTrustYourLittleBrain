@@ -97,7 +97,9 @@
     "iframe",
     "instagram",
     "BrowserRouter",
-    "dom"
+    "dom",
+    "NavLink",
+    "useParams"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",
