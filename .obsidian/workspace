@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "39c471977cce5faf",
+        "id": "64296e76d446a687",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/React/Routing/Nested Routes(react-router-dom （未完成）.md",
-            "mode": "source"
+            "file": "JavaScript/React/Routing/Nested Routes.md",
+            "mode": "source",
+            "backlinks": true
           }
         }
       }
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/React/Routing/Nested Routes(react-router-dom （未完成）.md",
+                "file": "JavaScript/React/Routing/Nested Routes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/React/Routing/Nested Routes(react-router-dom （未完成）.md"
+                "file": "JavaScript/React/Routing/Nested Routes.md"
               }
             }
           }
@@ -113,20 +114,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.4686279296875,
+    "width": 273.3053283691406,
     "collapsed": true
   },
-  "active": "39c471977cce5faf",
+  "active": "64296e76d446a687",
   "lastOpenFiles": [
-    "JavaScript/React/Routing/Nested Routes(react-router-dom （未完成）.md",
+    "JavaScript/React/Routing/Nested Routes.md",
     "JavaScript/React/Routing/react-router-dom.md",
-    "其他/生活/日本就職/日本求職相關.md",
-    "GSAP/SrollTrigger/參考物件的細部觸發、停止條件：start, end.md",
-    "GSAP/SrollTrigger/ScrollTrigger.md",
-    "GSAP/GSAP(index).md",
-    "GSAP/timeline/Timeline 的功能.md",
-    "Reading URL Params(react-router-dom).md",
-    "後端/Express.js/Routing/Routing for pattern 回應有規律的網址.md",
-    "未命名 1.md"
+    "2.md",
+    "Routes & Route：更改 Route 時更新頁面區塊.md",
+    "(react-router-dom （未完成）.md",
+    "s.md",
+    "Navigate：將 Route Redirect 到其他頁面.md",
+    "Link：指定連結的路徑.md",
+    "BrowserRouter：URL 將 React 專案連接上瀏覽器的網址.md",
+    "JavaScript/React/Routing/useNavigate Hook(useHistory).md"
   ]
 }

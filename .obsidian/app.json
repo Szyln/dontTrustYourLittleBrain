@@ -95,7 +95,9 @@
     "fb",
     "oEmbed",
     "iframe",
-    "instagram"
+    "instagram",
+    "BrowserRouter",
+    "dom"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",

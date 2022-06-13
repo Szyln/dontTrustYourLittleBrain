@@ -1,8 +1,7 @@
 [
-  "hotkeysplus-obsidian",
   "obsidian-git",
   "open-vscode",
   "obsidian-imgur-plugin",
-  "easy-typing-obsidian",
-  "obsidian-dictionary-plugin"
+  "obsidian-dictionary-plugin",
+  "hotkeysplus-obsidian"
 ]

@@ -1,12 +1,12 @@
 ---
-title: "Nested Routes(react-router-dom （未完成）"
+title: "Nested Routes"
 tag: 
-- 
+- js/react 
+- js/module/npm 
+- routing
 ---
 ## Nested Routes
->[[react-router-dom]]
-
-
+[Routes & Route：更改 Route 時更新頁面區塊](Routes%20&%20Route：更改%20Route%20時更新頁面區塊.md) 只能進行一層的
 You may have noticed when clicking the links that the layout in `App` disappears. Repeating shared layouts is a pain in the neck. We've learned that most UI is a series of nested layouts that almost always map to segments of the URL so this idea is baked right in to React Router.
 
 Let's get some automatic, persistent layout handling by doing just two things:
