@@ -20,8 +20,8 @@ export default function Cart() {
       <h1>購物車</h1>
       <nav>
 				{/* 實際這兩個 Link 是指向：cart/invoices, cart/expenses */}
-        <Link to="/invoices">發票</Link> 
-        <Link to="/expenses">費用</Link>
+        <Link to="/cart/invoices">發票</Link> 
+        <Link to="/cart/expenses">費用</Link>
       </nav>
 			{/* 上面兩個 Route 的渲染結果會在 Outlet 中呈現 */}
       <Outlet />

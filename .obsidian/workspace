@@ -122,12 +122,12 @@
     "JavaScript/React/Routing/react-router-dom.md",
     "JavaScript/React/Routing/Nested Routes.md",
     "Outlet 指定更新區塊（Nested Routes）.md",
+    "JavaScript/React/Fetch/Pexals API with React.md",
     "再一層的 Route 指定渲染元件（Nested Routes）.md",
     "Routes & Route：更改 Route 時更新頁面區塊.md",
     "2.md",
     "(react-router-dom （未完成）.md",
     "s.md",
-    "Navigate：將 Route Redirect 到其他頁面.md",
-    "Link：指定連結的路徑.md"
+    "Navigate：將 Route Redirect 到其他頁面.md"
   ]
 }
