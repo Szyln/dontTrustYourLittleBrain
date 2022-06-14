@@ -5,6 +5,8 @@ tag:
 ---
 
 ##  React 中使用 anchor tag 作為錨點
+[react-router-hash-link](https://www.npmjs.com/package/react-router-hash-link)真香……
+
 
 - [How to use normal anchor links with React Router?](https://thewebdev.info/2022/03/08/how-to-use-normal-anchor-links-with-react-router/)
 - [Using current methods you would use `Link` from `react-router-dom`......](https://stackoverflow.com/a/66861030)

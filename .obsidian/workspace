@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React 中使用 anchor tag 作為錨點.md",
-            "mode": "source",
+            "file": "JavaScript/React/Routing/react-router-dom.md",
+            "mode": "preview",
             "backlinks": true
           }
         }
@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238
+    "width": 238,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -71,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React 中使用 anchor tag 作為錨點.md",
+                "file": "JavaScript/React/Routing/react-router-dom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React 中使用 anchor tag 作為錨點.md"
+                "file": "JavaScript/React/Routing/react-router-dom.md"
               }
             }
           }
@@ -119,8 +120,8 @@
   },
   "active": "64296e76d446a687",
   "lastOpenFiles": [
-    "React 中使用 anchor tag 作為錨點.md",
     "JavaScript/React/Routing/react-router-dom.md",
+    "React 中使用 anchor tag 作為錨點.md",
     "JavaScript/React/Routing/react-router-dom 導向新頁面時不會回到頁面頂端 ScrollToTop 元件.md",
     "useParams：從網址取得參數.md",
     "JavaScript/React/Routing/Nested Routes.md",
