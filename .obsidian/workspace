@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "useParams：從網址取得參數.md",
-            "mode": "preview",
+            "file": "React 中使用 anchor tag 作為錨點.md",
+            "mode": "source",
             "backlinks": true
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "anchor",
+                "query": "hash",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -49,12 +49,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 238,
-    "collapsed": true
+    "width": 238
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "useParams：從網址取得參數.md",
+                "file": "React 中使用 anchor tag 作為錨點.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "useParams：從網址取得參數.md"
+                "file": "React 中使用 anchor tag 作為錨點.md"
               }
             }
           }
@@ -119,15 +119,15 @@
   },
   "active": "64296e76d446a687",
   "lastOpenFiles": [
-    "useParams：從網址取得參數.md",
+    "React 中使用 anchor tag 作為錨點.md",
     "JavaScript/React/Routing/react-router-dom.md",
+    "JavaScript/React/Routing/react-router-dom 導向新頁面時不會回到頁面頂端 ScrollToTop 元件.md",
+    "useParams：從網址取得參數.md",
     "JavaScript/React/Routing/Nested Routes.md",
     "再一層的 Route 指定渲染元件（Nested Routes）.md",
     "Outlet 指定更新區塊（Nested Routes）.md",
     "JavaScript/React/Fetch/Pexals API with React.md",
     "Routes & Route：更改 Route 時更新頁面區塊.md",
-    "2.md",
-    "(react-router-dom （未完成）.md",
-    "s.md"
+    "2.md"
   ]
 }

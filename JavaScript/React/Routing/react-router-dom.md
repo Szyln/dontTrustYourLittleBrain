@@ -24,11 +24,11 @@ npm install react-router-dom
 	- [Nested Routes](Nested%20Routes.md)
 - [Link：指定連結的路徑](Link：指定連結的路徑.md)
 - [Navigate：將 Route Redirect 到其他頁面](Navigate：將%20Route%20Redirect%20到其他頁面.md)
-
-[useParams：從網址取得參數](useParams：從網址取得參數.md)
+- [useParams：從網址取得參數](useParams：從網址取得參數.md)
 
 ## NavLink
 `Link`再多兩個功能
+可以做得像分頁標籤（可以顯示目前在哪個分頁標籤上）
 ```jsx
 function CourseID() {
 	// 從 Route 取得，網址輸入：courses/${任意字串}，這裡就會取得這個 ${任意字串}
