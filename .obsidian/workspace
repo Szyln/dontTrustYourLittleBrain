@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "API/Postman 測試 API.md",
+            "file": "JavaScript/React/React.md",
             "mode": "preview",
             "backlinks": true
           }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "API/Postman 測試 API.md",
+                "file": "JavaScript/React/React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "API/Postman 測試 API.md"
+                "file": "JavaScript/React/React.md"
               }
             }
           }
@@ -120,6 +120,7 @@
   },
   "active": "64296e76d446a687",
   "lastOpenFiles": [
+    "JavaScript/React/React.md",
     "API/Postman 測試 API.md",
     "API/好用的 API/json-server/json-server 不會後端也可以開 API.md",
     "API/好用的 API/json-server/json-server 安裝與建置.md",
@@ -128,7 +129,6 @@
     "後端/Node.js/Node.md",
     "後端/Node.js/模組/npm/npm.md",
     "後端/Node.js/模組/npm/指令/npm 建置與指令.md",
-    "後端/伺服器上線/heroku：免費上線後端伺服器.md",
-    "JavaScript/React/Routing/react-router-dom.md"
+    "後端/伺服器上線/heroku：免費上線後端伺服器.md"
   ]
 }
