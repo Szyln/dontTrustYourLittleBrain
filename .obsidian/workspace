@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "API/好用的 API/json-server/json-server 不會後端也可以開 API.md",
-            "mode": "preview",
+            "file": "腦容量已經夠少了別再拿腦袋記行程了，讓 Asana 條列化你的待辦事項！.md",
+            "mode": "source",
             "backlinks": true
           }
         }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "API/好用的 API/json-server/json-server 不會後端也可以開 API.md",
+                "file": "腦容量已經夠少了別再拿腦袋記行程了，讓 Asana 條列化你的待辦事項！.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "API/好用的 API/json-server/json-server 不會後端也可以開 API.md"
+                "file": "腦容量已經夠少了別再拿腦袋記行程了，讓 Asana 條列化你的待辦事項！.md"
               }
             }
           }
@@ -120,6 +120,7 @@
   },
   "active": "64296e76d446a687",
   "lastOpenFiles": [
+    "腦容量已經夠少了別再拿腦袋記行程了，讓 Asana 條列化你的待辦事項！.md",
     "API/好用的 API/json-server/json-server 不會後端也可以開 API.md",
     "API/axios.md",
     "API/Postman 測試 API.md",
@@ -128,7 +129,6 @@
     "JavaScript/Debug/ESLint.md",
     "API/好用的 API/json-server/json-server 上線 heroku 的話可以用這個範例.md",
     "後端/Node.js/Node.md",
-    "後端/Node.js/模組/npm/npm.md",
-    "後端/Node.js/模組/npm/指令/npm 建置與指令.md"
+    "後端/Node.js/模組/npm/npm.md"
   ]
 }
