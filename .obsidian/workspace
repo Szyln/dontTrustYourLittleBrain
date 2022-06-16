@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GSAP/React/清除不用的功能：useEffect 相關.md",
+            "file": "後端/伺服器上線/heroku：免費上線後端伺服器.md",
             "mode": "preview",
             "backlinks": true
           }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GSAP/React/清除不用的功能：useEffect 相關.md",
+                "file": "後端/伺服器上線/heroku：免費上線後端伺服器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GSAP/React/清除不用的功能：useEffect 相關.md"
+                "file": "後端/伺服器上線/heroku：免費上線後端伺服器.md"
               }
             }
           }
@@ -120,15 +120,15 @@
   },
   "active": "64296e76d446a687",
   "lastOpenFiles": [
+    "後端/伺服器上線/heroku：免費上線後端伺服器.md",
+    "API/好用的 API/json-server/json-server 不會後端也可以開 API.md",
+    "API/好用的 API/json-server/json-server 安裝與建置.md",
+    "JavaScript/資料類型/Object, Array/Array/條件判定陣列的元素.md",
+    "JavaScript/資料類型/Object, Array/Array/find().md",
     "GSAP/React/清除不用的功能：useEffect 相關.md",
     "GSAP/GSAP + React.md",
     "GSAP/React/GSAP + React 建置.md",
     "JavaScript/React/Hook/useEffect Hook.md",
-    "API/axios.md",
-    "JavaScript/變數/var, let, const 的作用域.md",
-    "json-server 指定 port.md",
-    "API/好用的 API/json-server/json-server 不會後端也可以開 API.md",
-    "後端/伺服器上線/heroku：免費上線後端伺服器.md",
-    "API/Promise/Fetch.md"
+    "API/axios.md"
   ]
 }
