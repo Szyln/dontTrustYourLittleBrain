@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "API/axios.md",
+            "file": "JavaScript/React/Hook/useEffect Hook.md",
             "mode": "preview",
             "backlinks": true
           }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "API/axios.md",
+                "file": "JavaScript/React/Hook/useEffect Hook.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "API/axios.md"
+                "file": "JavaScript/React/Hook/useEffect Hook.md"
               }
             }
           }
@@ -120,6 +120,7 @@
   },
   "active": "64296e76d446a687",
   "lastOpenFiles": [
+    "JavaScript/React/Hook/useEffect Hook.md",
     "API/axios.md",
     "JavaScript/變數/var, let, const 的作用域.md",
     "json-server 指定 port.md",
@@ -128,7 +129,6 @@
     "API/Promise/Fetch.md",
     "API/Promise/async, await, try, catch.md",
     "JavaScript/資料類型/資料類型/typeof.md",
-    "JavaScript/資料類型/Object, Array/Array/判斷是否為 Array.md",
-    "腦容量已經夠少別再記行程了，讓 Asana 條列化你的待辦事項！.md"
+    "JavaScript/資料類型/Object, Array/Array/判斷是否為 Array.md"
   ]
 }
