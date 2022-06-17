@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "GSAP/React/網站讀取時，避開非預期的物件閃現 FOUC：useLayoutEffect.md",
-            "mode": "preview",
+            "file": "React 中使用 API 串接第三方服務.md",
+            "mode": "source",
             "backlinks": true
           }
         }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GSAP/React/網站讀取時，避開非預期的物件閃現 FOUC：useLayoutEffect.md",
+                "file": "React 中使用 API 串接第三方服務.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GSAP/React/網站讀取時，避開非預期的物件閃現 FOUC：useLayoutEffect.md"
+                "file": "React 中使用 API 串接第三方服務.md"
               }
             }
           }
@@ -120,9 +120,9 @@
   },
   "active": "64296e76d446a687",
   "lastOpenFiles": [
+    "React 中使用 API 串接第三方服務.md",
     "GSAP/React/網站讀取時，避開非預期的物件閃現 FOUC：useLayoutEffect.md",
     "JavaScript/React/Hook/Lazy Initializer.md",
-    "React 中使用 API 串接第三方服務.md",
     "前端/html/skeleton/<head>.md",
     "內嵌 meta facebook(fb), Instagram(ig) 內容.md",
     "API/好用的 API/json-server/json-server 上線 heroku 的話可以用這個範例.md",
