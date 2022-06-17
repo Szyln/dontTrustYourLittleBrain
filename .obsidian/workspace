@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React 中使用 API 串接第三方服務.md",
-            "mode": "source",
+            "file": "JavaScript/React/Hook/Dependency array.md",
+            "mode": "preview",
             "backlinks": true
           }
         }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React 中使用 API 串接第三方服務.md",
+                "file": "JavaScript/React/Hook/Dependency array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React 中使用 API 串接第三方服務.md"
+                "file": "JavaScript/React/Hook/Dependency array.md"
               }
             }
           }
@@ -120,15 +120,15 @@
   },
   "active": "64296e76d446a687",
   "lastOpenFiles": [
-    "React 中使用 API 串接第三方服務.md",
+    "JavaScript/React/Hook/Dependency array.md",
+    "JavaScript/React/Hook/useState Hook.md",
+    "React 中使用 API 串接第三方服務（未完成）.md",
     "GSAP/React/網站讀取時，避開非預期的物件閃現 FOUC：useLayoutEffect.md",
     "JavaScript/React/Hook/Lazy Initializer.md",
     "前端/html/skeleton/<head>.md",
     "內嵌 meta facebook(fb), Instagram(ig) 內容.md",
     "API/好用的 API/json-server/json-server 上線 heroku 的話可以用這個範例.md",
     "API/好用的 API/json-server/json-server 不會後端也可以開 API.md",
-    "後端/伺服器上線/heroku：免費上線後端伺服器.md",
-    "其他/待刪/360 server  借放.md",
-    "API/好用的 API/json-server/json-server 安裝與建置.md"
+    "後端/伺服器上線/heroku：免費上線後端伺服器.md"
   ]
 }
