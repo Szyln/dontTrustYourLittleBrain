@@ -9,6 +9,8 @@ tag:
 
 不要忘記串第三方就是一種 [side-effect](side-effect.md) ，要用 [useEffect Hook](useEffect%20Hook.md)
 
+[How to Get Started With React + JSON Server](https://www.webtips.dev/react-json-server) 難 useContent
+
 ### 正確示範
 ```jsx
 // useEffect 用下去
