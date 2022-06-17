@@ -2,6 +2,9 @@
 "descriptions": [
 
 ], 
+"feature": [
+
+],
 "provide": [
   {
     "name": "",
@@ -13,5 +16,8 @@
  
 "appointment": "required",
 "resident": false,
-"teamTraining": "optional",
+"requirement": [
+  "落地全身鏡",
+  "15cm 高登階箱"
+],
 ```
