@@ -8,9 +8,10 @@
 "provide": [
   {
     "name": "",
-    "price": 0,
-    "discount": 0,
-    "lengthOfTime": 60 
+    "pricePerUnit": 0,
+    "unit": 1,
+    "minimumUnit": 1, 
+    "discount": 0
   }
 ],
  
