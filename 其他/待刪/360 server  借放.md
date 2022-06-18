@@ -16,12 +16,17 @@
     "member": {
       max: 99,
       min: 1
+    },
+    "discount": {
+      "unit": 4,
+      "discountPerUnit": -500
     }
-    "discount": 0
   }
 ],
  
 "appointment": "required",
+"allowRemote": true,
+"allowTeamTraining": true,
 "resident": false,
 "requirement": [
   "落地全身鏡",
