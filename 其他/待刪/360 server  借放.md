@@ -13,6 +13,10 @@
       max: 99,
       min: 1
     },
+    "member": {
+      max: 99,
+      min: 1
+    }
     "discount": 0
   }
 ],
