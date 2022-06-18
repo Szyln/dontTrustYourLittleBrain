@@ -9,8 +9,10 @@
   {
     "name": "",
     "pricePerUnit": 0,
-    "unit": 1,
-    "minimumUnit": 1, 
+    "unit": {
+      max: 99,
+      min: 1
+    },
     "discount": 0
   }
 ],
