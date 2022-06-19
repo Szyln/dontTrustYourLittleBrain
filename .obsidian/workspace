@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/React/Hook/Dependency array.md",
+            "file": "GSAP/SrollTrigger/產生類似多個 position-sticky 區塊的效果：取消 pinSpacing.md",
             "mode": "preview",
             "backlinks": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "lazy",
+                "query": "sticky",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238,
-    "collapsed": true
+    "width": 238
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -72,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/React/Hook/Dependency array.md",
+                "file": "GSAP/SrollTrigger/產生類似多個 position-sticky 區塊的效果：取消 pinSpacing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/React/Hook/Dependency array.md"
+                "file": "GSAP/SrollTrigger/產生類似多個 position-sticky 區塊的效果：取消 pinSpacing.md"
               }
             }
           }
@@ -120,6 +119,7 @@
   },
   "active": "64296e76d446a687",
   "lastOpenFiles": [
+    "GSAP/SrollTrigger/產生類似多個 position-sticky 區塊的效果：取消 pinSpacing.md",
     "JavaScript/React/Hook/Dependency array.md",
     "JavaScript/React/Hook/useState Hook.md",
     "React 中使用 API 串接第三方服務（未完成）.md",
@@ -128,7 +128,6 @@
     "前端/html/skeleton/<head>.md",
     "內嵌 meta facebook(fb), Instagram(ig) 內容.md",
     "API/好用的 API/json-server/json-server 上線 heroku 的話可以用這個範例.md",
-    "API/好用的 API/json-server/json-server 不會後端也可以開 API.md",
-    "後端/伺服器上線/heroku：免費上線後端伺服器.md"
+    "API/好用的 API/json-server/json-server 不會後端也可以開 API.md"
   ]
 }
