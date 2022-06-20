@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端/CSS/background.md",
-            "mode": "preview",
+            "file": "JavaScript/React/Routing/React 中動態更改 HTML Title 標籤.md",
+            "mode": "source",
             "backlinks": true
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sticky",
+                "query": "documenttitle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238
+    "width": 238,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -71,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/CSS/background.md",
+                "file": "JavaScript/React/Routing/React 中動態更改 HTML Title 標籤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/CSS/background.md"
+                "file": "JavaScript/React/Routing/React 中動態更改 HTML Title 標籤.md"
               }
             }
           }
@@ -119,6 +120,7 @@
   },
   "active": "64296e76d446a687",
   "lastOpenFiles": [
+    "JavaScript/React/Routing/React 中動態更改 HTML Title 標籤.md",
     "前端/CSS/background.md",
     "GSAP/SrollTrigger/產生類似多個 position-sticky 區塊的效果：取消 pinSpacing.md",
     "JavaScript/React/Hook/Dependency array.md",
@@ -127,7 +129,6 @@
     "GSAP/React/網站讀取時，避開非預期的物件閃現 FOUC：useLayoutEffect.md",
     "JavaScript/React/Hook/Lazy Initializer.md",
     "前端/html/skeleton/<head>.md",
-    "內嵌 meta facebook(fb), Instagram(ig) 內容.md",
-    "API/好用的 API/json-server/json-server 上線 heroku 的話可以用這個範例.md"
+    "內嵌 meta facebook(fb), Instagram(ig) 內容.md"
   ]
 }

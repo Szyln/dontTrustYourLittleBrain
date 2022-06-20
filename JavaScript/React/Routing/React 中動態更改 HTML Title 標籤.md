@@ -12,7 +12,11 @@ tag:
 ```shell
 npm install --save react-document-title
 ```
-
+匯入
+```jsx
+// 匯入，記得不要寫成 import { DoucmentTitle }
+import DocumentTitle from 'react-document-title';
+```
 在設定 router 的地方外面加入預設 title
 ```jsx
 function App() {
