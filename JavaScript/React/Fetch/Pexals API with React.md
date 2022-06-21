@@ -10,10 +10,10 @@ tag:
 >[[Fetch]]
 
 - `<main.jsx>` ：[[ReactDOM：渲染]]
-	- `<BrowserRouter>` ：[[react-router-dom]]
+	- `<BrowserRouter>` ：[[React Router(react-router-dom)]]
 		- `<App />` ：包含共同區塊的完整頁面
-			- `<Nav />` ：[[react-router-dom#Link]]，提供連結
-			- `<Routes>` ：[[react-router-dom]]，回應連結請求
+			- `<Nav />` ：[[React Router(react-router-dom)#Link]]，提供連結
+			- `<Routes>` ：[[React Router(react-router-dom)]]，回應連結請求
 				- `<About />` 
 				- `<Homepage />` ： API 處理，金鑰、lift (input, data（）)，searchClick event 設定、一開啟頁面就先執行一次 searchClick 事件（useEffect）
 					- `<Search searchClick={searchClick} />` ：

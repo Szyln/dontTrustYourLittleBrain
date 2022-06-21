@@ -100,7 +100,9 @@
     "dom",
     "NavLink",
     "useParams",
-    "Asana"
+    "Asana",
+    "Netlify",
+    "netlify"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",

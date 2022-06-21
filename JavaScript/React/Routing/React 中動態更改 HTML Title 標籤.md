@@ -6,7 +6,7 @@ tag:
 
 ##  React 中動態更改 HTML Title 標籤
 >- [react-document-title](https://github.com/gaearon/react-document-title)
->- 搭配 [react-router-dom](react-router-dom.md) 使用
+>- 搭配 [React Router(react-router-dom)](React%20Router(react-router-dom).md) 使用
 >- 如果要變更其他 html meta：[react-document-meta](https://github.com/kodyl/react-document-meta)
 
 ```shell
