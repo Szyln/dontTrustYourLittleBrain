@@ -7,12 +7,8 @@
         "id": "64296e76d446a687",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "其他/生活/日本就職/日本求職相關.md",
-            "mode": "preview",
-            "backlinks": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -72,7 +68,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/生活/日本就職/日本求職相關.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,9 +101,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "其他/生活/日本就職/日本求職相關.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -120,6 +113,7 @@
   },
   "active": "64296e76d446a687",
   "lastOpenFiles": [
+    "未命名.md",
     "其他/生活/日本就職/日本求職相關.md",
     "SEO 用 meta tag.md",
     "Netlify 部署後的 Router 問題.md",
@@ -128,7 +122,6 @@
     "GSAP/SrollTrigger/產生類似多個 position-sticky 區塊的效果：取消 pinSpacing.md",
     "JavaScript/React/Hook/Dependency array.md",
     "JavaScript/React/Hook/useState Hook.md",
-    "React 中使用 API 串接第三方服務（未完成）.md",
-    "GSAP/React/網站讀取時，避開非預期的物件閃現 FOUC：useLayoutEffect.md"
+    "React 中使用 API 串接第三方服務（未完成）.md"
   ]
 }
