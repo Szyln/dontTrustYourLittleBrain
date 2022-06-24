@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "薪資.md",
-            "mode": "source",
+            "file": "其他/生活/職缺.md",
+            "mode": "preview",
             "backlinks": true
           }
         }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "薪資.md",
+                "file": "其他/生活/職缺.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "薪資.md"
+                "file": "其他/生活/職缺.md"
               }
             }
           }
@@ -120,6 +120,7 @@
   },
   "active": "64296e76d446a687",
   "lastOpenFiles": [
+    "其他/生活/職缺.md",
     "薪資.md",
     "JavaScript/React/Routing/react-router-dom 導向新頁面時不會回到頁面頂端 ScrollToTop 元件.md",
     "JavaScript/React/Routing/React Router(react-router-dom).md",
@@ -128,7 +129,6 @@
     "SEO 用 meta tag.md",
     "JavaScript/React/Routing/React 中動態更改 HTML Title 標籤.md",
     "前端/CSS/background.md",
-    "GSAP/SrollTrigger/產生類似多個 position-sticky 區塊的效果：取消 pinSpacing.md",
-    "JavaScript/React/Hook/Dependency array.md"
+    "GSAP/SrollTrigger/產生類似多個 position-sticky 區塊的效果：取消 pinSpacing.md"
   ]
 }
