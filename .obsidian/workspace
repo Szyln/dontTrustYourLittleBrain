@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/React/Routing/react-router-dom 導向新頁面時不會回到頁面頂端 ScrollToTop 元件.md",
-            "mode": "preview",
+            "file": "薪資.md",
+            "mode": "source",
             "backlinks": true
           }
         }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/React/Routing/react-router-dom 導向新頁面時不會回到頁面頂端 ScrollToTop 元件.md",
+                "file": "薪資.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/React/Routing/react-router-dom 導向新頁面時不會回到頁面頂端 ScrollToTop 元件.md"
+                "file": "薪資.md"
               }
             }
           }
@@ -120,10 +120,10 @@
   },
   "active": "64296e76d446a687",
   "lastOpenFiles": [
+    "薪資.md",
     "JavaScript/React/Routing/react-router-dom 導向新頁面時不會回到頁面頂端 ScrollToTop 元件.md",
     "JavaScript/React/Routing/React Router(react-router-dom).md",
     "Netlify 部署後的 Router 問題.md",
-    "未命名.md",
     "其他/生活/日本就職/日本求職相關.md",
     "SEO 用 meta tag.md",
     "JavaScript/React/Routing/React 中動態更改 HTML Title 標籤.md",
