@@ -107,7 +107,14 @@
     "validators",
     "isRequired",
     "webpack",
-    "vue"
+    "vue",
+    "dev",
+    "devServer",
+    "ScrollToTop",
+    "Pexals",
+    "Copyright©",
+    "embedsocial",
+    "Params"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",

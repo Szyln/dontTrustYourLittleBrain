@@ -1,7 +1,8 @@
 ---
 title: "API"
 tag: 
-- 
+- js/api
+- async 
 ---
 # API (Application Programming Interface)
 > - [應用程式介面（英語：Application Programming Interface）](https://zh.wikipedia.org/wiki/%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E6%8E%A5%E5%8F%A3)
@@ -25,4 +26,5 @@ tag:
 - [Avatar 大頭貼相關 API](Avatar%20大頭貼相關%20API.md)
 - [json-server 不會後端也可以開 API](json-server%20不會後端也可以開%20API.md)
 
-#js #api #async 
+- [內嵌 meta facebook(fb), Instagram(ig) 內容（未完成）](內嵌%20meta%20facebook(fb),%20Instagram(ig)%20內容（未完成）.md)
+

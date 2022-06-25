@@ -83,6 +83,6 @@ tag:
 - [use-strict 嚴格模式](JavaScript/實作流程相關/use-strict%20嚴格模式.md)
 - [僅將字串的第一個字轉為大寫](JavaScript/實作流程相關/僅將字串的第一個字轉為大寫.md)
 ### Debug
-- [Debug](JavaScript/Debug/Debug.md)
+- [Debug and Lint](Debug%20and%20Lint.md)
 
 

@@ -1,7 +1,7 @@
 ---
 title: "Reading URL Params(react-router-dom)"
 tag: 
-- 
+- js/react/route 
 ---
 
 ##  Reading URL Params(react-router-dom)

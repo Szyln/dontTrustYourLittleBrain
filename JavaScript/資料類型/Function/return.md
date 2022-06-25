@@ -13,4 +13,4 @@
 
 ### return 跟 console.log 的差別
 - `return` 是 `function` 回傳的結果，可以存到一個變數之中做使用
-- `console.log` 只會將數值 print 到 console 裡面可以做檢視，並不會影響程式碼，[Debug](JavaScript/Debug/Debug.md)好用
+- `console.log` 只會將數值 print 到 console 裡面可以做檢視，並不會影響程式碼，[Debug and Lint](Debug%20and%20Lint.md)好用
