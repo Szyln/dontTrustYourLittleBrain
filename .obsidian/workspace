@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript/資料類型/Object, Array/Array/判斷是否為 Array.md",
-            "mode": "preview",
+            "file": "JavaScript/React/Component/PropTypes：元件參數的 Vaildator.md",
+            "mode": "source",
             "backlinks": true
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/資料類型/Object, Array/Array/判斷是否為 Array.md",
+                "file": "JavaScript/React/Component/PropTypes：元件參數的 Vaildator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/資料類型/Object, Array/Array/判斷是否為 Array.md"
+                "file": "JavaScript/React/Component/PropTypes：元件參數的 Vaildator.md"
               }
             }
           }
@@ -119,9 +119,9 @@
   },
   "active": "d632fa5fa01997e2",
   "lastOpenFiles": [
+    "JavaScript/React/Component/PropTypes：元件參數的 Vaildator.md",
     "JavaScript/資料類型/Object, Array/Array/判斷是否為 Array.md",
     "JavaScript/資料類型/資料類型/typeof.md",
-    "JavaScript/React/Component/PropTypes：元件參數的 Vaildator.md",
     "其他/生活/找工作/職缺台北.md",
     "後端/Database/Database 數據庫.md",
     "其他/生活/找工作/薪資.md",

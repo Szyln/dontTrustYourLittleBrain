@@ -102,7 +102,8 @@
     "useParams",
     "Asana",
     "Netlify",
-    "netlify"
+    "netlify",
+    "PropTypes"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",
