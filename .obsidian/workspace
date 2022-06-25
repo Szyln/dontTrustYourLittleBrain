@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "後端/Database/Database 數據庫.md",
+            "file": "JavaScript/React/Component/PropTypes：元件參數的 Vaildator.md",
             "mode": "preview",
             "backlinks": true
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238
+    "width": 238,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "後端/Database/Database 數據庫.md",
+                "file": "JavaScript/React/Component/PropTypes：元件參數的 Vaildator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "後端/Database/Database 數據庫.md"
+                "file": "JavaScript/React/Component/PropTypes：元件參數的 Vaildator.md"
               }
             }
           }
@@ -118,15 +119,15 @@
   },
   "active": "d632fa5fa01997e2",
   "lastOpenFiles": [
-    "後端/Database/Database 數據庫.md",
+    "JavaScript/React/Component/PropTypes：元件參數的 Vaildator.md",
     "其他/生活/找工作/職缺台北.md",
+    "後端/Database/Database 數據庫.md",
     "其他/生活/找工作/薪資.md",
     "其他/生活/找工作/人.md",
     "其他/生活/鍋.md",
     "其他/生活/找工作/職缺.md",
     "JavaScript/React/Routing/react-router-dom 導向新頁面時不會回到頁面頂端 ScrollToTop 元件.md",
     "JavaScript/React/Routing/React Router(react-router-dom).md",
-    "Netlify 部署後的 Router 問題.md",
-    "其他/生活/日本就職/日本求職相關.md"
+    "Netlify 部署後的 Router 問題.md"
   ]
 }
