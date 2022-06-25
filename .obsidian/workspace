@@ -7,8 +7,12 @@
         "id": "d632fa5fa01997e2",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "後端/Database/Database 數據庫.md",
+            "mode": "preview",
+            "backlinks": true
+          }
         }
       }
     ],
@@ -66,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "後端/Database/Database 數據庫.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "後端/Database/Database 數據庫.md"
+              }
             }
           }
         ]
@@ -111,6 +118,7 @@
   },
   "active": "d632fa5fa01997e2",
   "lastOpenFiles": [
+    "後端/Database/Database 數據庫.md",
     "其他/生活/找工作/職缺台北.md",
     "其他/生活/找工作/薪資.md",
     "其他/生活/找工作/人.md",
@@ -119,7 +127,6 @@
     "JavaScript/React/Routing/react-router-dom 導向新頁面時不會回到頁面頂端 ScrollToTop 元件.md",
     "JavaScript/React/Routing/React Router(react-router-dom).md",
     "Netlify 部署後的 Router 問題.md",
-    "其他/生活/日本就職/日本求職相關.md",
-    "SEO 用 meta tag.md"
+    "其他/生活/日本就職/日本求職相關.md"
   ]
 }
