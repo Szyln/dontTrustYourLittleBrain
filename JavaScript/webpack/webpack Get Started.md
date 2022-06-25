@@ -5,6 +5,13 @@ tag:
 - js/webpack
 - js/module
 ---
+## 安裝
+[安裝 Node.js](安裝%20Node.js.md)
+
+```shell
+npm i webpack -D
+```
+
 ## SASS 設定
 建議的 sass-loader： [[dart-sass(sass) 建置]]
 

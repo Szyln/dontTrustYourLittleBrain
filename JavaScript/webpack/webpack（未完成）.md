@@ -11,7 +11,6 @@ tag:
 - [webpack Get Started](webpack%20Get%20Started.md)
 
 - 將模組們整合成一個 JS bundle
-- 整理、最佳化模組內容
 
 - watch 模式中只會
 ## 為什麼要用 webpack
@@ -23,7 +22,53 @@ tag:
 - 程式碼壓縮
 - 整理、最佳化模組內容
 
-webpackのバンドルが速いという話が出ましたが、なぜかと言うとwebpackのwatchモードでは差分ビルドといって前回保存分と今回の保存分との差のみバンドルしてくれるから。
+## 安裝
+>- [npm](https://www.npmjs.com/package/webpack)
+>- [安裝 Node.js](安裝%20Node.js.md)
+
+```shell
+npm i webpack -D
+```
+
+## 資料夾結構
+```shell
+project
+|- src/
+|- npm 相關的
+```
+
+## scripts
+>[npm 建置與指令](npm%20建置與指令.md)
+
+```json
+"scripts": {
+	"build": "webpack"
+}
+```
+
+### build 
+#### 指令
+> 也可以到 package.json 中新增 scripts 更改
+```shell
+webpack
+```
+#### 行為
+從入口檔案（預設是 `src/index.js`）開始，使用到的所有 JS 模組都打包成一個 JS 檔案（預設是`dist/main.js`）
+
+### watch
+#### 行為
+`watch` 可以即時顯示更新過後的程式碼在網頁上渲染的結果
+每次執行只會 `build` 跟上次執行時不一一樣的部分
+
+## config 設置
+主要要設置的內容如下：
+- **Entry**：入口檔案
+- **Output**：dist
+- **Loaders**：辨識 `import` 的檔案是什麼（js, css, 還是其他 asset）
+- **Plugins**：除了讀檔案之外的事情
+	- bundle 前清空 dist
+- **Mode**：開發／上線模式
+- Browser Capability
 
 Webpackとは、CSSやJavaScript、画像など**Webコンテンツを構成するあらゆるファイル(アセット)を「モジュール」**という単位で取り扱い**「バンドル」という１つのファイルに最適な形で変換する**ためのツールです。（バンドルとは複数ファイルを1 枚のファイルにまとめること）
 
@@ -32,8 +77,6 @@ Webpackとは、CSSやJavaScript、画像など**Webコンテンツを構成す�
 ・リクエスト数を減らせるから  
 ・依存関係を解決したファイルを出力できるから
 
->`ビルド`  
-webpackにおいての「ビルド」は「**バンドルを出力するまでの一連の処理**」という意味で使われていることが多い（気がする）。
 
 ## 設定
 ```js
