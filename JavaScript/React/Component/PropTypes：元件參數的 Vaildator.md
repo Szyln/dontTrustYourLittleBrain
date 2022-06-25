@@ -9,8 +9,12 @@ tag:
 React 在使用 [[Component：可重複利用、自定參數的元件]] 的時候，參數可以透過 `PropTypes` 來定義規範，避免每次使用元件時，造成非預期的結果
 
 >- 必須安裝：prop-types（[npm](https://www.npmjs.com/package/prop-types )）
+>[更詳細的寫法參照 Usage](https://www.npmjs.com/package/prop-types)
 >- 這功能會吃掉很多效能，開發期間可以使用 babel-plugin-transform-react-remove-prop-types 關掉：[npm](https://www.npmjs.com/package/babel-plugin-transform-react-remove-prop-types)
 
+```jsx
+import PropTypes from 'prop-types';
+```
 ```jsx
 function SayHello({firstName, lastName}) {
   return (
@@ -42,5 +46,9 @@ const element = <SayHello firstName={false} />
 }
 ```
 
+## PropTypes 的 lint 規則
+>[更詳細的寫法參照 Usage](https://www.npmjs.com/package/prop-types)
 
-#js/react/component #html #validators #node/npm
+- [array, object, any 的規則](array,%20object,%20any%20的規則.md)
+- [isRequired 的規則](isRequired%20的規則.md)
+

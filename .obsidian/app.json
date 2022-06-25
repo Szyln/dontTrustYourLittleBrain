@@ -103,7 +103,9 @@
     "Asana",
     "Netlify",
     "netlify",
-    "PropTypes"
+    "PropTypes",
+    "validators",
+    "isRequired"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",
