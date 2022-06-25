@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "React 中使用 anchor tag 作為錨點.md",
-            "mode": "preview",
+            "file": "JavaScript/webpack/webpack（未完成）.md",
+            "mode": "source",
             "backlinks": true
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "React 中使用 anchor tag 作為錨點.md",
+                "file": "JavaScript/webpack/webpack（未完成）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "React 中使用 anchor tag 作為錨點.md"
+                "file": "JavaScript/webpack/webpack（未完成）.md"
               }
             }
           }
@@ -119,15 +119,15 @@
   },
   "active": "d632fa5fa01997e2",
   "lastOpenFiles": [
+    "JavaScript/webpack/webpack（未完成）.md",
+    "JavaScript/介紹/Library 跟 Framework.md",
+    "JavaScript/webpack/webpack Get Started.md",
+    "其他/生活/找工作/職缺台北.md",
     "React 中使用 anchor tag 作為錨點.md",
     "font family 的問題.md",
     "演講筆記.md",
     "JavaScript/React/Component/PropTypes：元件參數的 Vaildator.md",
     "JavaScript/資料類型/Object, Array/Array/判斷是否為 Array.md",
-    "JavaScript/資料類型/資料類型/typeof.md",
-    "其他/生活/找工作/職缺台北.md",
-    "後端/Database/Database 數據庫.md",
-    "其他/生活/找工作/薪資.md",
-    "其他/生活/找工作/人.md"
+    "JavaScript/資料類型/資料類型/typeof.md"
   ]
 }

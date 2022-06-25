@@ -105,7 +105,9 @@
     "netlify",
     "PropTypes",
     "validators",
-    "isRequired"
+    "isRequired",
+    "webpack",
+    "vue"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",

@@ -6,12 +6,22 @@ tag:
 - js/module
 ---
 # webpack（未完成）
-- 整合語法相容性（不擔心用新的語法寫，舊的瀏覽器不相容）
-- 
-https://qiita.com/annaaida/items/f2c372000e8358ea8d8f
-[[webpack Get Started]]
-対してwebpackは、バンドルツールなのでバンドルに特化していて、**モジュール同士の依存関係をうまい具合に、かつ速く一枚のJavaScriptファイルにバンドル**してくれるものです。
-整理、最佳化模組內容，watch 模式中只會
+>[Gulp & Webpack 基本](https://qiita.com/annaaida/items/f2c372000e8358ea8d8f)
+
+- [webpack Get Started](webpack%20Get%20Started.md)
+
+- 將模組們整合成一個 JS bundle
+- 整理、最佳化模組內容
+
+- watch 模式中只會
+## 為什麼要用 webpack
+- 現行有很多[Library 跟 Framework](Library%20跟%20Framework.md)，每個都有自己的邏輯，都有自己的 CLI（打包工具），導致每學一個框架就要換一個打包工具。
+- webpack 統一上述的打包規則，可以將他們通通都編譯出來
+	- 編譯 JSX（[Babel](Babel.md)）
+- 搭配 plugin 做到更多事
+	- 整合語法相容性：加 prefix，不擔心用新的語法寫，舊的瀏覽器不相容
+- 程式碼壓縮
+- 整理、最佳化模組內容
 
 webpackのバンドルが速いという話が出ましたが、なぜかと言うとwebpackのwatchモードでは差分ビルドといって前回保存分と今回の保存分との差のみバンドルしてくれるから。
 

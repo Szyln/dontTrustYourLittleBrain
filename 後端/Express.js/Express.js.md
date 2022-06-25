@@ -5,7 +5,7 @@ tag:
 ---
 # Express. js
 - 是 [[npm]] 中的一個模組
-- Node.js 的一種 Framework（[[Library 跟 Framework 的差別]]），有助加速 Node.js 撰寫
+- Node.js 的一種 Framework（[[Library 跟 Framework]]），有助加速 Node.js 撰寫
 
 ---
 

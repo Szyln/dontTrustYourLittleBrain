@@ -8,7 +8,7 @@ tag:
 ## JavaScript
 ### 介紹
 - [JavaScript 介紹](JavaScript/介紹/JavaScript%20介紹.md)
-- [Library 跟 Framework 的差別](JavaScript/介紹/Library%20跟%20Framework%20的差別.md)
+- [Library 跟 Framework](Library%20跟%20Framework.md)
 
 ### 變數
 - [var, let, const 的作用域](JavaScript/變數/var,%20let,%20const%20的作用域.md)
