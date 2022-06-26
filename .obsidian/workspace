@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "不算前端也不算後端/JavaScript/webpack/webpack（未完成）.md",
-            "mode": "preview",
+            "file": "webpack 讀取 css.md",
+            "mode": "source",
             "backlinks": true
           }
         }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "不算前端也不算後端/JavaScript/webpack/webpack（未完成）.md",
+                "file": "webpack 讀取 css.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "不算前端也不算後端/JavaScript/webpack/webpack（未完成）.md"
+                "file": "webpack 讀取 css.md"
               }
             }
           }
@@ -120,15 +120,15 @@
   },
   "active": "f7a4e54e6867cff0",
   "lastOpenFiles": [
+    "webpack 讀取 css.md",
     "不算前端也不算後端/JavaScript/webpack/webpack（未完成）.md",
+    "webpack 使用 dart-sass.md",
+    "webpack.config.js 設置.md",
+    "Loaders.md",
+    "前端/CSS/scss/dart-sass(sass) 建置.md",
+    "不算前端也不算後端/JavaScript/webpack/webpack Get Started.md",
     "後端/Cookie and Session/安全性/dotenv（使用 env 變數）.md",
     "Vite 使用 env（未完成）.md",
-    "webpack 的 scripts.md",
-    "為什麼要用 webpack.md",
-    "webpack.config.js 設置.md",
-    "後端/MongoDB Atlas, Passport.js, OAuth/Passport.js/passport-google-oauth20.md",
-    "後端/Express.js/Routing/send 和 sendFile 回應(express).md",
-    "後端/Node.js/模組/內建模組/使用路徑的兩種寫法.md",
-    "後端/Express.js/Routing/POST 表單(express).md"
+    "webpack 的 scripts.md"
   ]
 }

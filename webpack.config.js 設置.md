@@ -1,11 +1,9 @@
 ## config 設置
 主要要設置的內容如下：
+
 - **Entry**：入口檔案
 - **Output**：dist
-- **Loaders**：將圖像、CSS 等 JS 之外的檔案也當成像是 JS module 讀取，在 bundle 前的動作。辨識 `import` 的檔案是什麼（js, css, 還是其他 asset）
-	- TypeScript -> JavaScript
-	- 圖像 -> DataURL
-	- 檢查程式碼等
+- [Loaders](Loaders.md)
 - **Plugins**：打包時執行的動作，可自己添加需要的外掛
 	- bundle 前清空 dist
 - **Mode**：指定 development, production, none 模式

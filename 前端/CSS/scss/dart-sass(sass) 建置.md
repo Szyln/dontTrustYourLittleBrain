@@ -15,11 +15,15 @@ npm i -g sass
 ```
 >- [其他安裝方式（brew 等）](其他安裝方式（brew%20等）.md)
 
-### 加入到 vite 專案
+### 加入到專案
+#### 加入到 vite 專案
 
 ```shell
 npm add -d sass # 在該專案執行
 ```
+
+#### 加入到 webpack
+[webpack 使用 dart-sass](webpack%20使用%20dart-sass.md)
 
 ### 使用方法
 >[npm init 初始化(package.json)](後端/Node.js/模組/npm/指令/npm%20init%20初始化(package.json).md)，"script" 可以加入自訂指令
@@ -30,7 +34,6 @@ npm add -d sass # 在該專案執行
 	"build-css": "sass -w src/style/scss/all.scss src/style/all.css"
 },
 ```
-
 
 #### 原本的寫法是這樣
 運行將 `.sass`, `.scss` 編譯成 `.css` 的指令
@@ -43,7 +46,6 @@ sass <路徑/all.scss> <路徑/all.css>
 ```shell
 sass --w <路徑/all.scss> <路徑/all.css>
 ```
-
 
 
 
