@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Reading URL Params(react-router-dom).md",
+            "file": "不算前端也不算後端/JavaScript/webpack/webpack（未完成）.md",
             "mode": "source",
             "backlinks": true
           }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 149
+    "width": 263,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading URL Params(react-router-dom).md",
+                "file": "不算前端也不算後端/JavaScript/webpack/webpack（未完成）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reading URL Params(react-router-dom).md"
+                "file": "不算前端也不算後端/JavaScript/webpack/webpack（未完成）.md"
               }
             }
           }
@@ -118,15 +119,15 @@
   },
   "active": "f7a4e54e6867cff0",
   "lastOpenFiles": [
-    "Reading URL Params(react-router-dom).md",
-    "JavaScript/React/Routing/React Router(react-router-dom).md",
-    "BrowserRouter：URL 將 React 專案連接上瀏覽器的網址.md",
+    "不算前端也不算後端/JavaScript/webpack/webpack（未完成）.md",
+    "不算前端也不算後端/JavaScript/webpack/webpack Get Started.md",
+    "安裝.md",
+    "不算前端也不算後端/Git/環境建置/安裝.md",
+    "React 中使用 API 串接第三方服務（未完成）.md",
+    "SEO 用 meta tag（未完成）.md",
     "內嵌 meta facebook(fb), Instagram(ig) 內容（未完成）.md",
-    "service.md",
-    "API/API.md",
-    "前端/靜態網站上線/Netlify 部署後的 Router 問題.md",
-    "JavaScript/React/React.md",
-    "前端/靜態網站上線/網頁上線部屬、發布.md",
-    "SEO 用 meta tag（未完成）.md"
+    "滾輪滾動 100vh 的動畫設定（未完成）.md",
+    "不算前端也不算後端/API/API.md",
+    "不算前端也不算後端/API/好用的 API/json-server/json-server 不會後端也可以開 API.md"
   ]
 }

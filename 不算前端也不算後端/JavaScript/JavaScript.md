@@ -1,0 +1,88 @@
+---
+title: "JavaScript"
+tag: 
+- js
+- index
+- progress
+---
+## JavaScript
+### 介紹
+- [JavaScript 介紹](JavaScript%20介紹.md)
+- [Library 跟 Framework](Library%20跟%20Framework.md)
+
+### 變數
+- [var, let, const 的作用域](var,%20let,%20const%20的作用域.md)
+- [變數 variables](變數%20variables.md)
+- [block](block.md)
+- [Hoisting](Hoisting.md)
+- [const](const.md)
+- [暫時性死區(TDZ)](暫時性死區(TDZ).md)
+- [初始化(initializer)](初始化(initializer).md)
+- [Scope](Scope.md)
+- [Closure(Scope Chaining)](Closure(Scope%20Chaining).md)
+
+### 資料類型
+- [資料類型 index](資料類型%20index.md)
+
+### 運算
+- [運算符號 numbers operators](運算符號%20numbers%20operators.md)
+- [Math Object](Math%20Object.md)
+### 條件
+- [條件簡寫 ternary operator(語法糖)](條件簡寫%20ternary%20operator(語法糖).md)
+- [if, switch](if,%20switch.md)
+- [邏輯運算子](邏輯運算子.md)
+- [Logic OR](Logic%20OR.md)
+- [Logic AND(&&)](Logic%20AND(&&).md)
+### 迴圈
+- [loop 迴圈](loop%20迴圈.md)
+	- [for of loop](for%20of%20loop.md)
+	- [for in loop](for%20in%20loop.md)
+	- [for](for.md)
+
+### Execution Context
+- [Execution Context](Execution%20Context.md)
+
+### DOM
+- [HTMLCollection, Nodelist, array 比較](HTMLCollection,%20Nodelist,%20array%20比較.md)
+- [DOM 需要知道的 methods, properties](DOM%20需要知道的%20methods,%20properties.md)
+- [DOM 新舊對比](DOM%20新舊對比.md)
+- [屬性與功能的英文](屬性與功能的英文.md)
+- [DOM 簡要](DOM%20簡要.md)
+- [Dynamic Header](Dynamic%20Header.md)
+- [Event Bubbling](Event%20Bubbling.md)
+- [stopPropagation](stopPropagation.md)
+
+### 模組
+- [webpack Get Started](webpack%20Get%20Started.md)
+- [webpack（未完成）](webpack（未完成）.md)
+
+### 物件導向 OOP
+- [物件導向 OOP](物件導向%20OOP.md)
+
+### Framework and Library
+#### jQuery
+- [基礎使用](基礎使用.md)
+#### React
+- [React](React.md)
+
+#### Vue
+##### 學前必備觀念
+[1.相關連結](1.相關連結.md)
+[2.ES6 語法糖](2.ES6%20語法糖.md)
+[5.關注點分離](5.關注點分離.md)
+[7.Promise 非同步](7.Promise%20非同步.md)
+
+##### Vue
+[關注點分離(SoC)](關注點分離(SoC).md)
+
+
+### 實際操作相關、做出想要的功能
+- [comment](comment.md)
+- [flow](flow.md)
+- [命名習慣 Naming Convention](命名習慣%20Naming%20Convention.md)
+- [use-strict 嚴格模式](use-strict%20嚴格模式.md)
+- [僅將字串的第一個字轉為大寫](僅將字串的第一個字轉為大寫.md)
+### Debug
+- [Debug and Lint](Debug%20and%20Lint.md)
+
+

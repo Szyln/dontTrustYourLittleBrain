@@ -26,7 +26,7 @@ npm install -g heroku
 ```
 
 ### 專案上線
-- [[git]] 要 [git commit](git%20commit.md) 完成
+- [[Git]] 要 [git commit](git%20commit.md) 完成
 
 ```shell
 heroku login
