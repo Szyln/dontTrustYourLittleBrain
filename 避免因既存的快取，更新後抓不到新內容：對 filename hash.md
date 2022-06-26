@@ -20,4 +20,6 @@ module.exports = {
 }
 ```
 
-> 但這樣對於 `index.html` 來說，每次要讀取的 `<script>` 都不一樣，所以需要再安裝一個
+> 但這樣對於 `index.html` 來說，每次要讀取的 `<script>` 都不一樣，所以需要再安裝一個 [生成 Output 的 HTML 結果：HtmlWebpackPlugin](生成%20Output%20的%20HTML%20結果：HtmlWebpackPlugin.md)，生成預期的 html output
+
+> CSS 也需要這樣處理：[生成 Output 的 CSS 結果：MiniCssExtractPlugin](生成%20Output%20的%20CSS%20結果：MiniCssExtractPlugin.md) 也有一樣的功能

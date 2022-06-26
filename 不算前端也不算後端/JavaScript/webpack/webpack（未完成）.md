@@ -19,9 +19,13 @@ tag:
 - [webpack 的 scripts](webpack%20的%20scripts.md)
 - [webpack.config.js 設置](webpack.config.js%20設置.md)
 	- [Loaders](Loaders.md)
+	- [Plugins](Plugins.md)
 	- [Output](Output.md)
 	- [devServer](devServer.md)
 
+
+## 編譯 JS：Babel
+>[Babel](Babel.md)
 
 
 

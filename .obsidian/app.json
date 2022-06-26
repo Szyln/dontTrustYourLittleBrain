@@ -125,7 +125,9 @@
     "env",
     "dotenv",
     "envPrefix",
-    "HtmlWebpackPlugin"
+    "HtmlWebpackPlugin",
+    "MiniCssExtractPlugin",
+    "VScode"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",
