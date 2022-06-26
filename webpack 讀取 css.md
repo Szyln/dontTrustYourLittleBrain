@@ -19,6 +19,7 @@ npm i --save-dev css-loader style-loader
 module.exports = {
 	module: {
 		rules: [
+			// 只要看到 css 檔案，就用 style-loader, css-loader 去處理
 			{
 				test: /\.css$/i,
 				use: ['style-loader', 'css-loader'],
