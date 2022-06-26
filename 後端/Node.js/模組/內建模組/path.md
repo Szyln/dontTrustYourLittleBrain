@@ -1,7 +1,8 @@
 ---
 title: "path"
 tag: 
-- 
+- js/node/module
+- backEnd
 ---
 
 # [path](https://nodejs.org/dist/latest-v16.x/docs/api/path.html) 模組
@@ -15,6 +16,8 @@ console.log(path.去文件找功能());
 - [[使用路徑的兩種寫法#path 模組]]：組合路徑名稱
 - basename：顯示檔名
 - extname：副檔名
+
 >[[匯入模組]]
 
-#js #library #framework #nodeJs #backEnd #module
+
+

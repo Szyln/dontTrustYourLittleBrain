@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "seo",
+                "query": "resolve",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -49,12 +49,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 263,
-    "collapsed": true
+    "width": 263
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -120,14 +120,14 @@
   "active": "f7a4e54e6867cff0",
   "lastOpenFiles": [
     "不算前端也不算後端/JavaScript/webpack/webpack（未完成）.md",
+    "不算前端也不算後端/JavaScript/GSAP/React/網站讀取時，避開非預期的物件閃現 FOUC：useLayoutEffect.md",
+    "不算前端也不算後端/JavaScript/React/環境/Vite/rollup-plugin-copy（未完成）.md",
+    "不算前端也不算後端/API/AJAX/Promise.md",
+    "不算前端也不算後端/JavaScript/Vue/vue 學前必備觀念/7.Promise 非同步.md",
+    "後端/Node.js/模組/內建模組/path.md",
+    "後端/Node.js/模組/內建模組/使用路徑的兩種寫法.md",
+    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Array/join().md",
     "不算前端也不算後端/JavaScript/webpack/webpack Get Started.md",
-    "安裝.md",
-    "不算前端也不算後端/Git/環境建置/安裝.md",
-    "React 中使用 API 串接第三方服務（未完成）.md",
-    "SEO 用 meta tag（未完成）.md",
-    "內嵌 meta facebook(fb), Instagram(ig) 內容（未完成）.md",
-    "滾輪滾動 100vh 的動畫設定（未完成）.md",
-    "不算前端也不算後端/API/API.md",
-    "不算前端也不算後端/API/好用的 API/json-server/json-server 不會後端也可以開 API.md"
+    "安裝.md"
   ]
 }

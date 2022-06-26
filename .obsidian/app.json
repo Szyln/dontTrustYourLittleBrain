@@ -115,7 +115,10 @@
     "Copyright©",
     "embedsocial",
     "Params",
-    "｜Tiktok"
+    "｜Tiktok",
+    "basename",
+    "extname",
+    "sendFile"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",

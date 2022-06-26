@@ -73,7 +73,8 @@ webpack serve
 - **Mode**：指定 development, production, none 模式
 - Browser Capability
 
->[path](path.md)
+>- [path](path.md)
+
 
 ```js
 // webpack.config.js
@@ -98,19 +99,19 @@ module.exports = {
 ```
 
 ### devServer 設定
+>- [path](path.md)
+
 ```js
 // webpack.config.js
 
 const path = require('path');
 
 module.exports = {
-
-  mode: 'development',
-  entry: './src/js/app.js',
-  output: {
-    filename: 'main.bundle.js',
-    path: path.join(__dirname, 'dist')
-  }
+	// 省略其他設定
+	devServer: {
+		// path.join()：將參數串起來，可以串很多個。
+		contentBase: path.join(__dirname, 'public')	
+	}
 };
 ```
 
