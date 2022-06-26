@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vite 使用 env.md",
-            "mode": "source",
+            "file": "不算前端也不算後端/JavaScript/webpack/webpack（未完成）.md",
+            "mode": "preview",
             "backlinks": true
           }
         }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vite 使用 env.md",
+                "file": "不算前端也不算後端/JavaScript/webpack/webpack（未完成）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vite 使用 env.md"
+                "file": "不算前端也不算後端/JavaScript/webpack/webpack（未完成）.md"
               }
             }
           }
@@ -120,9 +120,9 @@
   },
   "active": "f7a4e54e6867cff0",
   "lastOpenFiles": [
-    "Vite 使用 env.md",
-    "後端/Cookie and Session/安全性/dotenv（使用 env 變數）.md",
     "不算前端也不算後端/JavaScript/webpack/webpack（未完成）.md",
+    "後端/Cookie and Session/安全性/dotenv（使用 env 變數）.md",
+    "Vite 使用 env（未完成）.md",
     "webpack 的 scripts.md",
     "為什麼要用 webpack.md",
     "webpack.config.js 設置.md",
