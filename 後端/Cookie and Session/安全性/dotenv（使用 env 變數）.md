@@ -1,7 +1,7 @@
 ---
 title: "dotenv（使用 env 變數）"
 tag: 
-- 
+- js/module
 ---
 # dotenv
 [npm](https://www.npmjs.com/package/dotenv)

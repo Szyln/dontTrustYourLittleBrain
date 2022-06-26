@@ -122,7 +122,9 @@
     "concat",
     "contentBase",
     "DataURL",
-    "env"
+    "env",
+    "dotenv",
+    "envPrefix"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",
