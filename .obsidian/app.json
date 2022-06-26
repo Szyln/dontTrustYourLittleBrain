@@ -124,7 +124,8 @@
     "DataURL",
     "env",
     "dotenv",
-    "envPrefix"
+    "envPrefix",
+    "HtmlWebpackPlugin"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",

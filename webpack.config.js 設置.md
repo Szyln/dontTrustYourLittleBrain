@@ -4,7 +4,7 @@
 - **Entry**：入口檔案
 - [Output](Output.md)：dist
 - [Loaders](Loaders.md)：將 JS 之外的 asset 做為 JS module 來匯入
-- Plugins：打包時執行的動作，可自己添加需要的外掛
+- [[Plugins]]：打包時執行的動作，可自己添加需要的外掛
 	- bundle 前清空 dist
 - **Mode**：指定 development, production, none 模式
 - Browser Capability
