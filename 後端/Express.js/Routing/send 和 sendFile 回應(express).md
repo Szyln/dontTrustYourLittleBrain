@@ -34,7 +34,7 @@ app.get('/', (req, res) => {
 })
 ```
 
->[[Module Wrapper#__dirname#使用方式]]：有兩種作法，單純使用[[string#string 的串接]]或是使用 path 模組 + [[join()]]
+>[[Module Wrapper#__dirname#使用方式]]：有兩種作法，單純使用[string concatenate （串接）](string%20concatenate%20（串接）.md)或是使用 path 模組的功能
 
 
 #js #expressJs #node #npm #form #routing 

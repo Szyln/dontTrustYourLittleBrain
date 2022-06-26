@@ -43,8 +43,8 @@ app.post('/formHandling', (req, res)) {
 ```
 
 >[[使用路徑的兩種寫法]]：有兩種作法
->- 單純使用[[string#string 的串接]]
->- 使用 path 模組 + [[join()]]
+>- 單純使用[string concatenate （串接）](string%20concatenate%20（串接）.md)
+>- 使用 [path](path.md)
 
 ## 使用用戶填入的資訊
 想要細部使用表單內容需要先新增一個 [[body-parser]] 模組（[[Middleware(express)]]）

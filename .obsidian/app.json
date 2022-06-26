@@ -118,7 +118,11 @@
     "｜Tiktok",
     "basename",
     "extname",
-    "sendFile"
+    "sendFile",
+    "concat",
+    "contentBase",
+    "DataURL",
+    "env"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",
