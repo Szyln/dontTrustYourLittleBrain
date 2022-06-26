@@ -127,7 +127,9 @@
     "envPrefix",
     "HtmlWebpackPlugin",
     "MiniCssExtractPlugin",
-    "VScode"
+    "VScode",
+    "devtool",
+    "middleware"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",

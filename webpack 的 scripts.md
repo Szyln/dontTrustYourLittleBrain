@@ -25,5 +25,10 @@ webpack serve
 
 
 ### watch
+```
+"watch": "webpack --watch"
+```
 `watch` 可以即時顯示更新過後的程式碼在網頁上渲染的結果
 每次執行只會 `build` 跟上次執行時不一一樣的部分
+
+> 但通常都是用這個：[即時預覽：webpack-dev-server](即時預覽：webpack-dev-server.md)

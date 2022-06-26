@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "不算前端也不算後端/JavaScript/React/JSX/Babel.md",
+            "file": "不算前端也不算後端/JavaScript/webpack/webpack.md",
             "mode": "source",
             "backlinks": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "const authRoute = require('./routes/auth-route');",
+                "query": "webpack-dev-server",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "不算前端也不算後端/JavaScript/React/JSX/Babel.md",
+                "file": "不算前端也不算後端/JavaScript/webpack/webpack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "不算前端也不算後端/JavaScript/React/JSX/Babel.md"
+                "file": "不算前端也不算後端/JavaScript/webpack/webpack.md"
               }
             }
           }
@@ -120,15 +120,15 @@
   },
   "active": "f7a4e54e6867cff0",
   "lastOpenFiles": [
-    "不算前端也不算後端/JavaScript/React/JSX/Babel.md",
-    "不算前端也不算後端/JavaScript/webpack/webpack（未完成）.md",
-    "後端/MongoDB Atlas, Passport.js, OAuth/Passport.js/middleware(Authenticate Requests).md",
-    "Plugins.md",
-    "生成 Output 的 CSS 結果：MiniCssExtractPlugin.md",
-    "避免因既存的快取，更新後抓不到新內容：對 filename hash.md",
-    "生成 Output 的 HTML 結果：HtmlWebpackPlugin.md",
-    "webpack.config.js 設置.md",
+    "不算前端也不算後端/JavaScript/webpack/webpack.md",
+    "webpack 的 scripts.md",
+    "不算前端也不算後端/JavaScript/webpack/webpack Get Started.md",
     "Loaders.md",
-    "webpack 讀取 css.md"
+    "安裝 Babel.md",
+    "Output.md",
+    "Plugins.md",
+    "不算前端也不算後端/JavaScript/React/JSX/Babel.md",
+    "後端/MongoDB Atlas, Passport.js, OAuth/Passport.js/middleware(Authenticate Requests).md",
+    "生成 Output 的 CSS 結果：MiniCssExtractPlugin.md"
   ]
 }
