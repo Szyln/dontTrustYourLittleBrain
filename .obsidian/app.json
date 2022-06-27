@@ -133,7 +133,8 @@
     "PostCSS",
     "CopyWebpackPlugin",
     "jQuery",
-    "CallStack"
+    "CallStack",
+    "loupe"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",
