@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他/生活/找工作/職缺台北.md",
-            "mode": "source",
+            "file": "webpack 的 scripts.md",
+            "mode": "preview",
             "backlinks": true
           }
         }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/生活/找工作/職缺台北.md",
+                "file": "webpack 的 scripts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/生活/找工作/職缺台北.md"
+                "file": "webpack 的 scripts.md"
               }
             }
           }
@@ -120,15 +120,15 @@
   },
   "active": "f7a4e54e6867cff0",
   "lastOpenFiles": [
-    "其他/生活/找工作/職缺台北.md",
+    "webpack 的 scripts.md",
     "不算前端也不算後端/JavaScript/webpack/webpack.md",
-    "安裝.md",
-    "不算前端也不算後端/JavaScript/webpack/webpack Get Started.md",
-    "讓 devtool 更好讀：source-map.md",
-    "webpack.config.js 設置.md",
-    "MPA 設定多個 JS entry.md",
-    "Mode.md",
-    "用 env 控制 mode.md",
-    "user-model.md"
+    "不算前端也不算後端/JavaScript/React/React.md",
+    "安裝 Babel.md",
+    "不算前端也不算後端/JavaScript/React/基本原理/ReactDOM：渲染.md",
+    "webpack 使用圖檔及其他 Asset：Asset Modules.md",
+    "生成 Output 的 HTML 結果：HtmlWebpackPlugin.md",
+    "Output 的 HTML body：template.md",
+    "生成 Output 的 CSS 結果：MiniCssExtractPlugin.md",
+    "webpack 讀取 css.md"
   ]
 }
