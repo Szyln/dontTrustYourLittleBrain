@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "不算前端也不算後端/JavaScript/webpack/webpack.md",
-            "mode": "preview",
+            "file": "其他/生活/找工作/職缺台北.md",
+            "mode": "source",
             "backlinks": true
           }
         }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "不算前端也不算後端/JavaScript/webpack/webpack.md",
+                "file": "其他/生活/找工作/職缺台北.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "不算前端也不算後端/JavaScript/webpack/webpack.md"
+                "file": "其他/生活/找工作/職缺台北.md"
               }
             }
           }
@@ -120,6 +120,7 @@
   },
   "active": "f7a4e54e6867cff0",
   "lastOpenFiles": [
+    "其他/生活/找工作/職缺台北.md",
     "不算前端也不算後端/JavaScript/webpack/webpack.md",
     "安裝.md",
     "不算前端也不算後端/JavaScript/webpack/webpack Get Started.md",
@@ -128,7 +129,6 @@
     "MPA 設定多個 JS entry.md",
     "Mode.md",
     "用 env 控制 mode.md",
-    "user-model.md",
-    "webpack 的 scripts.md"
+    "user-model.md"
   ]
 }
