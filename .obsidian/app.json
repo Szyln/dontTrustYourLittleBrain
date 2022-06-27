@@ -130,7 +130,8 @@
     "VScode",
     "devtool",
     "middleware",
-    "PostCSS"
+    "PostCSS",
+    "CopyWebpackPlugin"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",

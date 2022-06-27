@@ -29,10 +29,17 @@ tag:
 ## CSS 相容性處理：PostCSS
 >[PostCSS](https://postcss.org/)
 
+
+## React(JSX) Babel
+[@babel/preset-react](https://babeljs.io/docs/en/babel-preset-react#docsNav)
+
 ### Plugins
 - [Plugins](Plugins.md) ^0f7254
 	- [生成 Output 的 HTML 結果：HtmlWebpackPlugin](生成%20Output%20的%20HTML%20結果：HtmlWebpackPlugin.md)
 	- [生成 Output 的 CSS 結果：MiniCssExtractPlugin](生成%20Output%20的%20CSS%20結果：MiniCssExtractPlugin.md)
+
+## 將 output 檔案分到不同資料夾：CopyWebpackPlugin
+>[CopyWebpackPlugin](https://webpack.js.org/plugins/copy-webpack-plugin/#root)
 
 ### Output
 - [Output](Output.md) ^1f8c0b
