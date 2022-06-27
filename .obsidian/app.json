@@ -131,7 +131,8 @@
     "devtool",
     "middleware",
     "PostCSS",
-    "CopyWebpackPlugin"
+    "CopyWebpackPlugin",
+    "jQuery"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",

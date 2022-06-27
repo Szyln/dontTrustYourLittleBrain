@@ -30,7 +30,7 @@ console.log(parsedURL.query.email);
 >類型轉換#JSON]]：parse() 是 string -> array
 
 
-- host：[[IP]] + [[Port]]
+- host：[[IP]] + [[不算前端也不算後端/JavaScript/Webpack/詳細/port]]
 - hostname：[[IP]]
 - pathname：路徑
 - path: 路徑 + [[Query]]

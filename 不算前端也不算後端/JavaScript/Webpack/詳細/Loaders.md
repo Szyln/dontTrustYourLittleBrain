@@ -8,7 +8,7 @@ tag:
 將圖像、CSS 等 JS 之外的檔案也當成像是 JS module 讀取，在 bundle 前的動作。辨識 `import` 的檔案是什麼（js, css, 還是其他 asset）
 
 
-![](webpack.md#^57cd18)
+![](Webpack(index).md#^57cd18)
 
 - TypeScript -> JavaScript
 - 圖像 -> DataURL

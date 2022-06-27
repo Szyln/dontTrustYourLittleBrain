@@ -1,20 +1,16 @@
 ---
-title: "webpack"
+title: "Webpack(index)"
 tag: 
 - progress
 - js/webpack
 - js/module
 ---
-## webpack
+## Webpack(index)
 >- [Gulp & Webpack 基本](https://qiita.com/annaaida/items/f2c372000e8358ea8d8f)
 >- [【前端速成】Webpack5 快速入門｜Tiktok 工程師帶你入門前端｜布魯斯前端](https://youtu.be/uP6KTupfyIw)
 
-
-- [webpack Get Started](webpack%20Get%20Started.md)
-
-
 ## 目錄
-- [安裝](安裝.md)
+- [安裝](不算前端也不算後端/JavaScript/Webpack/詳細/安裝.md)
 - [為什麼要用 webpack](為什麼要用%20webpack.md)
 - [webpack 的 scripts](webpack%20的%20scripts.md)
 - [webpack.config.js 設置](webpack.config.js%20設置.md)
@@ -56,7 +52,9 @@ tag:
 ### 其他設定
 - [devServer](devServer.md)
 - [讓 devtool 更好讀：source-map](讓%20devtool%20更好讀：source-map.md)
-
+## code splitting 
+https://webpack.js.org/guides/code-splitting/
+可以同時讀取不同 bundle，加速讀取速度
 
 ### 開發工具
 像是 live server 的工具，開發時可以即時檢視更新
