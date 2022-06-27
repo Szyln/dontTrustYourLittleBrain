@@ -129,7 +129,8 @@
     "MiniCssExtractPlugin",
     "VScode",
     "devtool",
-    "middleware"
+    "middleware",
+    "PostCSS"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",

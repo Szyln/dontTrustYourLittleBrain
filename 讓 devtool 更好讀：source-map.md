@@ -4,6 +4,7 @@
 
 ```js
 module.exports = {
+	// 還有其他：inline-source-map, source-map
 	devtool: 'source-map',
 }
 ```

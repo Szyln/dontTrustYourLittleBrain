@@ -121,14 +121,14 @@
   "active": "f7a4e54e6867cff0",
   "lastOpenFiles": [
     "不算前端也不算後端/JavaScript/webpack/webpack.md",
-    "webpack 的 scripts.md",
+    "安裝.md",
     "不算前端也不算後端/JavaScript/webpack/webpack Get Started.md",
-    "Loaders.md",
-    "安裝 Babel.md",
-    "Output.md",
-    "Plugins.md",
-    "不算前端也不算後端/JavaScript/React/JSX/Babel.md",
-    "後端/MongoDB Atlas, Passport.js, OAuth/Passport.js/middleware(Authenticate Requests).md",
-    "生成 Output 的 CSS 結果：MiniCssExtractPlugin.md"
+    "讓 devtool 更好讀：source-map.md",
+    "webpack.config.js 設置.md",
+    "MPA 設定多個 JS entry.md",
+    "Mode.md",
+    "用 env 控制 mode.md",
+    "user-model.md",
+    "webpack 的 scripts.md"
   ]
 }
