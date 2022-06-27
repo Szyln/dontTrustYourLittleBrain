@@ -132,7 +132,8 @@
     "middleware",
     "PostCSS",
     "CopyWebpackPlugin",
-    "jQuery"
+    "jQuery",
+    "CallStack"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",

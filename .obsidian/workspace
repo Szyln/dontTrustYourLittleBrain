@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "不算前端也不算後端/JavaScript/Execution Context/Execution Context.md",
-            "mode": "preview",
+            "file": "不算前端也不算後端/JavaScript/Execution Context/CallStack（呼叫堆疊）.md",
+            "mode": "source",
             "backlinks": true
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "不算前端也不算後端/JavaScript/Execution Context/Execution Context.md",
+                "file": "不算前端也不算後端/JavaScript/Execution Context/CallStack（呼叫堆疊）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "不算前端也不算後端/JavaScript/Execution Context/Execution Context.md"
+                "file": "不算前端也不算後端/JavaScript/Execution Context/CallStack（呼叫堆疊）.md"
               }
             }
           }
@@ -119,6 +119,7 @@
   },
   "active": "f97097dfee373532",
   "lastOpenFiles": [
+    "不算前端也不算後端/JavaScript/Execution Context/CallStack（呼叫堆疊）.md",
     "不算前端也不算後端/JavaScript/Execution Context/Execution Context.md",
     "不算前端也不算後端/JavaScript/Execution Context/Execution Phase.md",
     "不算前端也不算後端/JavaScript/Execution Context/Global Execution Context.md",
@@ -127,7 +128,6 @@
     "不算前端也不算後端/JavaScript/Webpack/Webpack(index).md",
     "不算前端也不算後端/JavaScript/webpack/webpack Get Started.md",
     "不算前端也不算後端/JavaScript/Webpack/詳細/安裝.md",
-    "不算前端也不算後端/JavaScript/Webpack/詳細/contentBase.md",
-    "不算前端也不算後端/JavaScript/Webpack/詳細/port.md"
+    "不算前端也不算後端/JavaScript/Webpack/詳細/contentBase.md"
   ]
 }
