@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "webpack 的 scripts.md",
-            "mode": "preview",
+            "file": "其他/生活/找工作/職缺台北.md",
+            "mode": "source",
             "backlinks": true
           }
         }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "webpack 的 scripts.md",
+                "file": "其他/生活/找工作/職缺台北.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "webpack 的 scripts.md"
+                "file": "其他/生活/找工作/職缺台北.md"
               }
             }
           }
@@ -120,6 +120,7 @@
   },
   "active": "f7a4e54e6867cff0",
   "lastOpenFiles": [
+    "其他/生活/找工作/職缺台北.md",
     "webpack 的 scripts.md",
     "不算前端也不算後端/JavaScript/webpack/webpack.md",
     "不算前端也不算後端/JavaScript/React/React.md",
@@ -128,7 +129,6 @@
     "webpack 使用圖檔及其他 Asset：Asset Modules.md",
     "生成 Output 的 HTML 結果：HtmlWebpackPlugin.md",
     "Output 的 HTML body：template.md",
-    "生成 Output 的 CSS 結果：MiniCssExtractPlugin.md",
-    "webpack 讀取 css.md"
+    "生成 Output 的 CSS 結果：MiniCssExtractPlugin.md"
   ]
 }
