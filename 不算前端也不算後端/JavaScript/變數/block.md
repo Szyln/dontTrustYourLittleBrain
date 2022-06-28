@@ -22,7 +22,7 @@ tag:
 	陳述_n
 }
 ```
-### Labelled Block Statement(optional)
+### Labeled Block Statement(optional)
 ```javascript
 LabelIdentifier: {
 	陳述_1
@@ -42,19 +42,26 @@ var x = 1;
 
 {
   var x = 2;
+	function fn1() {
+		console.log('我有跑錯棚嗎？')
+	}
 }
-
+fn1()						// log 我有跑錯棚嗎？ 全域污染
 console.log(x); // 非嚴格模式的話 block 不會形成作用域，x = 2
 ```
 ### 嚴格模式
 ```javascript
+'use strict'
 
 let x = 1;
 
 {
   let x = 2;
+	function fn1() {
+		console.log('我有跑錯棚嗎？')
+	}
 }
-
+fn1()						// undefined
 console.log(x); // 嚴格模式下，使用 let 會形成作用域，x = 1 
 ```
 

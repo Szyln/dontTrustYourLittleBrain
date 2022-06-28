@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "不算前端也不算後端/JavaScript/變數/Scope 作用域.md",
-            "mode": "source",
+            "mode": "preview",
             "backlinks": true
           }
         }
@@ -121,13 +121,13 @@
   "lastOpenFiles": [
     "不算前端也不算後端/JavaScript/變數/Scope 作用域.md",
     "不算前端也不算後端/JavaScript/變數/block.md",
+    "全域污染.md",
     "不算前端也不算後端/JavaScript/Execution Context/Execution Context.md",
     "this 的指向.md",
     "Function Execution Context.md",
     "不算前端也不算後端/JavaScript/Execution Context/Global Execution Context.md",
     "不算前端也不算後端/JavaScript/資料類型/Function/this.md",
     "function 被 object 呼叫.md",
-    "function 被全域呼叫（simple call）.md",
-    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Object/Window Object.md"
+    "function 被全域呼叫（simple call）.md"
   ]
 }

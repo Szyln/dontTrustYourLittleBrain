@@ -4,16 +4,16 @@ tag:
 - 
 ---
 # Scope 作用域
->- [Scope(作用域)](https://developer.mozilla.org/en-US/docs/Glossary/Scope)
+>- [mdn](https://developer.mozilla.org/en-US/docs/Glossary/Scope)
 
-- 有三種作用域，形成作用域的時候，作用域
+有三種作用域，形成作用域的時候，可以防止上層讀取內部的宣告
 
 > 作用域的存在是為了防止[全域污染](全域污染.md)
 
 
 
 ## 類型
-> Scope 的生成時機與[Execution Context](Execution%20Context.md)有關
+> Scope 的生成時機與 [Execution Context](Execution%20Context.md) 有關
 
 - Global Scope
 - Function Scope ^50eb8d
@@ -23,7 +23,7 @@ tag:
 |-|:-:|:-:|:-:|
 |Global|O|O|O|
 |Function|O|O|O|
-|Block|X|O|O|
+|Block|非嚴格模式 X / 嚴格模式 O|O|O|
 
 ## Global Scope
 在 Global 宣告的變數與函式，在哪裡都可以讀取
