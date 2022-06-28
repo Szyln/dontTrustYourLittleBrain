@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "不算前端也不算後端/JavaScript/變數/var, let, const 的作用域.md",
-            "mode": "preview",
+            "file": "不算前端也不算後端/JavaScript/變數/Hoisting.md",
+            "mode": "source",
             "backlinks": true
           }
         }
@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263
+    "width": 263,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -71,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "不算前端也不算後端/JavaScript/變數/var, let, const 的作用域.md",
+                "file": "不算前端也不算後端/JavaScript/變數/Hoisting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "不算前端也不算後端/JavaScript/變數/var, let, const 的作用域.md"
+                "file": "不算前端也不算後端/JavaScript/變數/Hoisting.md"
               }
             }
           }
@@ -119,15 +120,15 @@
   },
   "active": "f97097dfee373532",
   "lastOpenFiles": [
+    "不算前端也不算後端/JavaScript/變數/Hoisting.md",
+    "不算前端也不算後端/JavaScript/變數/暫時性死區(TDZ).md",
     "不算前端也不算後端/JavaScript/變數/var, let, const 的作用域.md",
+    "Function Execution Context.md",
     "Block Scope.md",
     "Function Scope.md",
     "不算前端也不算後端/JavaScript/變數/block.md",
     "不算前端也不算後端/JavaScript/變數/Closure(Scope Chaining).md",
-    "Function Execution Context.md",
     "不算前端也不算後端/JavaScript/變數/Scope 作用域.md",
-    "非嚴格模式的 block.md",
-    "this 的指向.md",
-    "不算前端也不算後端/JavaScript/實作流程相關/use-strict 嚴格模式.md"
+    "非嚴格模式的 block.md"
   ]
 }

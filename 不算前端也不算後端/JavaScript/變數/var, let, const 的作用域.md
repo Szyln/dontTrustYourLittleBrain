@@ -22,37 +22,16 @@ tag:
 
 
 ## [Function Execution Context](Function%20Execution%20Context.md) 中宣告
-- [Function Execution Context] 會形成 [Scope 作用域](Scope%20作用域.md)：[Function Scope](Function%20Scope.md)
+- [Function Execution Context](Function%20Execution%20Context.md) 會形成 [Scope 作用域](Scope%20作用域.md)：[Function Scope](Function%20Scope.md)
 - var, let, const 都不會全域污染
 
 ## Block 中宣告
-[Block Scope](Block%20Scope.md)：
-- let, const 會形成 [Scope 作用域](Scope%20作用域.md)
-- 在 block 裡面使用 var 不會形成作用域，會有全域污染問題
+>[Block Scope](Block%20Scope.md)
 
-### 非同步行為的狀況
-#### var
-setTimeout 屬非同步行為，實際執行時間點會**在所有事件結束後**
-```javascript
-for (var i = 0; i < 10; i++) {
-	setTimeout(() => {
-		console.log(i);
-	}, 0);
-} // log 十次 10
-```
-#### let
-let 的作用域只有在這個迴圈內，不會受到非同步影響
-```javascript
-for (let i = 0; i < 10; i++) {
-	setTimeout(() => {
-		console.log(i);
-	}, 0);
-} // log 0 到 9
-```
-
-## 重複宣告的狀況
+## 再宣告
 - var 可以被重複宣告，會有 [[Hoisting]] 狀況
 - let 不行，會有錯誤提示
+
 ### var
 var 可以重複宣告，會 hoisting，作用域內若在宣告前被呼叫，不會產生錯誤提示
 ```javascript

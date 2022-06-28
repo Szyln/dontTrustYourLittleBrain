@@ -140,7 +140,8 @@
     "eval",
     "ViewModel",
     "vm",
-    "initializer"
+    "initializer",
+    "setTimeout"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",
