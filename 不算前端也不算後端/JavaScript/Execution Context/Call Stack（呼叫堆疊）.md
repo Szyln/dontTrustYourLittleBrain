@@ -19,51 +19,12 @@ one thread == one call stack == one thing at a time
 >- Call：指 Calling functions ，呼 function 時就會產生 call stack（看下面例子）
 >- Stack：一種資料結構（資料結構跟演算法相關）
 
-### 範例
-#### 第一個
-```js
-function fn1(a, b) { // 呼叫：4th / 執行： 1st
-	return a * b;
-}
-function fn2(c) {		 // 呼叫：3rd / 執行： 2nd
-	return fn1(c, c);
-}
-function fn3(d) {		 // 呼叫：2nd / 執行： 3rd
-	return fn2(d)
-}
+---
 
-console.log(fn3(10)) // 呼叫：1st / 執行： 4th
-```
-![](https://i.imgur.com/kEmgNWJ.png)
-#### 第二個
-宣告 function 有 [Hoisting](Hoisting.md) 效果，呼叫順序為
-```
-f1() --> log('f1') --> // f1 進去 stack，log 直接執行
-f2() --> log('f2') --> // 同上
-f3() --> log('f3') --> // 同上
-log('done')	-->
+- [call stack 範例](call%20stack%20範例.md)
+- [Devtool 報錯看 stack 規則](Devtool%20報錯看%20stack%20規則.md)
+- [Blowing the stack（堆疊爆炸）](Blowing%20the%20stack（堆疊爆炸）.md) 
 
-將 stack 中的 f3 --> f2 --> f1 依 LIFO 執行
-```
+[Concurrency（並行性）& Event Loop](Concurrency（並行性）&%20Event%20Loop.md)
 
-```js
-function f1() {
-	console.log("f1");			// 1. log f1
-	
-	f2()
-
-	function f2() {
-		console.log("f2");		// 2. log f2
-		
-		f3();			
-		
-		function f3() {			
-			console.log("f3");	// 3. log f3
-		}						// 4. f3 執行完畢，清除 f3
-	}							// 5. f2 執行完畢，清除 f2
-								
-	console.log("done");		// 6. log done 
-}								// 7. f1 執行完畢，清除 f1
-
-f1()
-```
+![](https://i.imgur.com/4f2ZZw9.png)

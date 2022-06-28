@@ -134,7 +134,8 @@
     "CopyWebpackPlugin",
     "jQuery",
     "CallStack",
-    "loupe"
+    "loupe",
+    "webapis"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",
