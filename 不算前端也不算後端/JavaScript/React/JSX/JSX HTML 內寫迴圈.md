@@ -25,6 +25,6 @@ const App = () => {
 };
 ```
 >[[陣列的循環 for, forEach, map]]
->[[4.箭頭函式 arrow function]]
+>[[箭頭函式 arrow function]]
 
 #js/react/jsx #js/loop 

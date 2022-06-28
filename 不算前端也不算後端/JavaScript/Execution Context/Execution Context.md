@@ -5,11 +5,18 @@ tag:
 ---
 # Execution Context
 
-## 階段
+## Phase 階段
 - [[Creation Phase]]
 - [[Execution Phase]]
 
 ## 類型
 - [[Global Execution Context]]（會生成 window object）
-- [[Function Execution Context]](不會生成 window object) 
+- [[Function Execution Context]] (不會生成 window object) 
 
+
+| Execution Context 執行環境 \ Phase 階段 | Creation | Execution |
+| --------------------------------------- | -------- | --------- |
+| Global                                  |  - 生成 [Window Object](Window%20Object.md) <br>- 生成 [Scope](Scope.md)<br> - 生成 [this](this.md) (指向 [Window Object](Window%20Object.md)) <br>- [Hoisting](Hoisting.md)       |           |
+| Function                                | - 生成 [Scope](Scope.md)<br>- 生成 [this](this.md)（==除了[箭頭函式 arrow function](箭頭函式%20arrow%20function.md)==，指向看 [this](this.md) 這篇）<br>- [Hoisting](Hoisting.md)         |           |
+
+^17ae59

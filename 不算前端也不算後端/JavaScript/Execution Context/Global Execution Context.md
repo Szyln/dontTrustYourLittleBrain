@@ -12,5 +12,5 @@ tag:
 - 生成 this （指向 window）
 - [[Hoisting]]
 ## Execution Phase
-開始實際一行一行跑程式 (callstack)
+開始實際一行一行跑程式（按照 [Call Stack（呼叫堆疊）](Call%20Stack（呼叫堆疊）.md)）
 

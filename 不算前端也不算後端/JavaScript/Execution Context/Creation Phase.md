@@ -6,13 +6,8 @@ tag:
 # Creation Phase
 在 [[Execution Phase]] 之前，後台處理的部份
 
-## [[Global Execution Context]]
-- 生成 window object
-- 生成 [[Scope]] （依照 [[Closure(Scope Chaining)]] 閉包原則）
-- 生成 [[this]] （指向 window）
-- [[Hoisting]]
+![](Execution%20Context.md#^17ae59)
 
-## Function Execution Context
-- 不是 [[Global Execution Context]] 所以不會生成 window object
-- this 生成，但[[4.箭頭函式 arrow function]] 不會
-
+[Global Execution Context](Global%20Execution%20Context.md) 跟 [Function Execution Context](Function%20Execution%20Context.md) 的差別在於
+- Global 會形成 [Window Object](Window%20Object.md)
+- Function 的 [this](this.md) 要看該 Function 被誰呼叫

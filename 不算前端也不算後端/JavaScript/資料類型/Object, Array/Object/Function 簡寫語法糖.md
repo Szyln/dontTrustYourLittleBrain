@@ -17,7 +17,7 @@ funName() {
 	return this;
 };
 ```
-## 注意：與 [[4.箭頭函式 arrow function]] 不同
+## 注意：與 [[箭頭函式 arrow function]] 不同
 `this` 指向不同，需注意，不該與語法糖混為一談
 ```js
 funName: () => {

@@ -1,5 +1,5 @@
 ---
-title: "4.箭頭函式 arrow function"
+title: "箭頭函式 arrow function"
 tag: 
 - 
 ---

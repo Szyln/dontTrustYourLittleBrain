@@ -35,7 +35,7 @@ function 名稱(parameter) {
 
 #### this 
 - [this](this.md)
-- [4.箭頭函式 arrow function](4.箭頭函式%20arrow%20function.md)
+- [箭頭函式 arrow function](箭頭函式%20arrow%20function.md)
 - [置換函式的 this 指向](置換函式的%20this%20指向.md)
 
 ##### 參數

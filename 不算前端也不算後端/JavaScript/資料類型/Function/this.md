@@ -19,7 +19,7 @@ tag:
 ## 特性
 - this 是[[函式的隱藏的參數]]之一
 - 指向會變動
--  ** function 是從哪裡宣告的，就是指誰**（ES6 的 this 參照[[4.箭頭函式 arrow function]]）
+-  ** function 是從哪裡宣告的，就是指誰**（ES6 的 this 參照[[箭頭函式 arrow function]]）
 - 主流框架都會用到
 
 ## 情況

@@ -62,3 +62,9 @@ code, .cm-inline-code {
 ul > li.task-list-item[data-task="x"], ul > li.task-list-item[data-task="X"] {
   text-decoration: none;
 }
+
+mark {
+  background-color: #0063c05f !important;
+  border-radius: 5%;
+  text-shadow: 1px 1px 1px rgb(0, 0, 0);
+}

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "不算前端也不算後端/JavaScript/Execution Context/Execution Context.md",
+            "file": "不算前端也不算後端/JavaScript/Execution Context/Creation Phase.md",
             "mode": "preview",
             "backlinks": true
           }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "不算前端也不算後端/JavaScript/Execution Context/Execution Context.md",
+                "file": "不算前端也不算後端/JavaScript/Execution Context/Creation Phase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "不算前端也不算後端/JavaScript/Execution Context/Execution Context.md"
+                "file": "不算前端也不算後端/JavaScript/Execution Context/Creation Phase.md"
               }
             }
           }
@@ -119,15 +119,15 @@
   },
   "active": "f97097dfee373532",
   "lastOpenFiles": [
+    "不算前端也不算後端/JavaScript/Execution Context/Creation Phase.md",
     "不算前端也不算後端/JavaScript/Execution Context/Execution Context.md",
-    "不算前端也不算後端/JavaScript/Execution Context/Call Stack（呼叫堆疊）.md",
-    "不算前端也不算後端/JavaScript/Execution Context/Execution Phase.md",
-    "Concurrency（並行性）& Event Loop.md",
-    "不算前端也不算後端/JavaScript/變數/Hoisting.md",
+    "Function Execution Context.md",
+    "不算前端也不算後端/JavaScript/資料類型/Function/this.md",
     "不算前端也不算後端/JavaScript/Execution Context/Global Execution Context.md",
-    "不算前端也不算後端/JavaScript/變數/Closure(Scope Chaining).md",
-    "不算前端也不算後端/JavaScript/JavaScript.md",
-    "不算前端也不算後端/JavaScript/Webpack/Webpack(index).md",
-    "不算前端也不算後端/JavaScript/webpack/webpack Get Started.md"
+    "不算前端也不算後端/JavaScript/變數/Hoisting.md",
+    "不算前端也不算後端/JavaScript/變數/Scope.md",
+    "不算前端也不算後端/JavaScript/Execution Context/Execution Phase.md",
+    "不算前端也不算後端/JavaScript/資料類型/Function/箭頭函式 arrow function.md",
+    "不算前端也不算後端/JavaScript/Execution Context/Call Stack（呼叫堆疊）.md"
   ]
 }
