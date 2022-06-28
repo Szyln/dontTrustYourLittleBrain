@@ -5,7 +5,7 @@ tag:
 ---
 # block (javascript)
 [block(javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/block)
-[[Scope]]
+[[Scope 作用域]]
 [Closure(閉包)](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Closures)
 
 ## Syntax
@@ -33,7 +33,7 @@ LabelIdentifier: {
 ```
 
 
-## [[Scope]]判定
+## [[Scope 作用域]]判定
 ### 非嚴格模式
 ```javascript
 // 不推薦這樣使用

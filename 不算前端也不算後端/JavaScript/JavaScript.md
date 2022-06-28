@@ -18,7 +18,7 @@ tag:
 - [const](const.md)
 - [暫時性死區(TDZ)](暫時性死區(TDZ).md)
 - [初始化(initializer)](初始化(initializer).md)
-- [Scope](Scope.md)
+- [Scope 作用域](Scope%20作用域.md)
 - [Closure(Scope Chaining)](Closure(Scope%20Chaining).md)
 
 ### 資料類型

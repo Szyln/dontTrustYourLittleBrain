@@ -1,7 +1,7 @@
 ## return
 ### function 停止運作的時機
  function 遇到
- - `}`：function 會自己形成一個 [Scope](Scope.md)（參照 function scope），`{}` 內的程式碼執行完後便會停止
+ - `}`：function 會自己形成一個 [Scope 作用域](Scope%20作用域.md)（參照 function scope），`{}` 內的程式碼執行完後便會停止
  - `return`：回傳一個數值，結束這個 function 運作，不論後續還有沒有其他程式碼在 function 內
 
 >```js

@@ -6,14 +6,14 @@ tag:
 # this
 
 ## 目錄
-- this 的幾種狀況
-	- simple call （不太會這樣用）
-	- object 的 function（最常用）
-	- 不同物件中的同個函式
-	- 陷阱題
-		- object 中還有 object
-		- Object 裡面的 function 硬要呼叫全域 function
-		- callback function
+- [function 被全域呼叫（simple call）](function%20被全域呼叫（simple%20call）.md)
+- [function 被 object 呼叫](function%20被%20object%20呼叫.md)
+- [不同物件呼叫了同名的函式](不同物件呼叫了同名的函式.md)
+
+### 陷阱題
+- object 中還有 object
+- Object 裡面的 function 硬要呼叫全域 function
+- callback function
 
 
 ## 特性
@@ -22,58 +22,10 @@ tag:
 -  ** function 是從哪裡宣告的，就是指誰**（ES6 的 this 參照[[箭頭函式 arrow function]]）
 - 主流框架都會用到
 
-## 情況
-看 function 從哪調用
+- [this 的指向](this%20的指向.md)
 
-|           | 函式 | 物件的函式 |
-| --------- | ---- | ---------- |
-| this 指向 | 全域 | 物件       |
 
-### 不太會這樣用：simple call
 
-function 在全域中，function 中的 this 指向全域
-```js
-var someone = '全域';
-function callSomeone() {
-  // 呼叫全域的變數：simple call
-  console.log(this.someone);	// 指 global
-}
-callSomeone();
-```
-
-### 最常用的：object 裡的 function
-
-function 在 object 中，function 中的 this 指向 object 
-
-```js
-var obj = {
-  someone: '物件',
-  callSomeone() {
-    console.log(this.someone);	// 指該物件
-  }
-}
-obj.callSomeone();
-```
-
-### 不同物件的擁有同名的函式 
-
-例如由 [[Constructor]] 建立的 instance，每一個物件的參考（[[物件傳參考]] ）不一樣，事實上並不是同一個
-```js
-var obj = {
-  someone: '物件',
-  callSomeone() {
-    console.log(this.someone);	// 指該物件
-  }
-}
-
-var obj2 = {
-  someone: '物件2',
-  callSomeone()      // 語法糖省略 key
-}
-obj2.callSomeone();  // 指向 obj2
-
-console.log(obj.callSomeone() === obj2.callSomeone());	// false
-```
 
 ### 陷阱題
 
