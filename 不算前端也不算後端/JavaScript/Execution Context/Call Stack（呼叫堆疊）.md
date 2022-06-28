@@ -38,11 +38,14 @@ console.log(fn3(10)) // 呼叫：1st / 執行： 4th
 #### 第二個
 宣告 function 有 [Hoisting](Hoisting.md) 效果，呼叫順序為
 ```
-f1() --> log('f1') --> f2() --> f3()
-```
+f1() --> log('f1') --> // f1 進去 stack，log 直接執行
+f2() --> log('f2') --> // 同上
+f3() --> log('f3') --> // 同上
+log('done')	-->
+
+將 stack 中的 f3 --> f2 --> f1 依 LIFO 執行
 ```
 
-```
 ```js
 function f1() {
 	console.log("f1");			// 1. log f1
