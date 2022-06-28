@@ -1,68 +1,35 @@
 ---
 title: "block"
 tag: 
-- 
+- js/variable/scope
 ---
-# block (javascript)
-[block(javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/block)
-[[Scope 作用域]]
-[Closure(閉包)](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Closures)
+## block (javascript)
+>- [block(javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/block)
+>- [[Scope 作用域]] 的其中一種
+>- [Closure(Scope Chaining)](Closure(Scope%20Chaining).md)
 
-## Syntax
+```javascript
+{
+	陳述_1
+	陳述_2
+	...
+	陳述_n
+}
+```
 - 用大括號包起來
-- 可以有 label（選用）
-- 常在 if else, for 時使用
-
-### Block Statement
-```javascript
-{
-	陳述_1
-	陳述_2
-	...
-	陳述_n
-}
-```
-### Labeled Block Statement(optional)
-```javascript
-LabelIdentifier: {
-	陳述_1
-	陳述_2
-	...
-	陳述_n
-}
-```
+- 可以有 label（選用）：[Labeled Block Statement(optional)](Labeled%20Block%20Statement(optional).md)
+- 常在 if else, for 時使用：[if, switch](if,%20switch.md), [for](for.md)
 
 
-## [[Scope 作用域]]判定
-### 非嚴格模式
-```javascript
-// 不推薦這樣使用
 
-var x = 1;
 
-{
-  var x = 2;
-	function fn1() {
-		console.log('我有跑錯棚嗎？')
-	}
-}
-fn1()						// log 我有跑錯棚嗎？ 全域污染
-console.log(x); // 非嚴格模式的話 block 不會形成作用域，x = 2
-```
-### 嚴格模式
-```javascript
-'use strict'
+### [[Scope 作用域]]判定
+非嚴格模式中很容易出現[全域污染](全域污染.md)的狀況
 
-let x = 1;
+| block 內宣告會不會全域污染 |  var   |  let  | const | function |
+| -------------------------- | :----: | :---: | :---: | :------: |
+| 嚴格模式                   |   否   |  否   |  否   |    否    |
+| 非嚴格模式                 | ==會== |  否   |  否   |  ==會==  |
 
-{
-  let x = 2;
-	function fn1() {
-		console.log('我有跑錯棚嗎？')
-	}
-}
-fn1()						// undefined
-console.log(x); // 嚴格模式下，使用 let 會形成作用域，x = 1 
-```
-
-#js #variable #scope
+- [非嚴格模式的 block](非嚴格模式的%20block.md)
+- [嚴格模式的 block](嚴格模式的%20block.md)

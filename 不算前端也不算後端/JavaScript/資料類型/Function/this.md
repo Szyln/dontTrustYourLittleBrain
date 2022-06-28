@@ -19,10 +19,11 @@ tag:
 ## 特性
 - this 是[[函式的隱藏的參數]]之一
 - 指向會變動
--  ** function 是從哪裡宣告的，就是指誰**（ES6 的 this 參照[[箭頭函式 arrow function]]）
+- [this 的指向](this%20的指向.md) 看 function 被誰呼叫
+（ES6 的 this 參照[[箭頭函式 arrow function]]）
 - 主流框架都會用到
 
-- [this 的指向](this%20的指向.md)
+
 
 
 
@@ -32,6 +33,9 @@ tag:
 #### Object 中還有 Object
 
 ```js
+function callSomeone() {
+	return this.someone
+}
 var wrapObj = {
   someone: '外層物件',
   callSomeone(),          // wrapObj 的 function
@@ -45,7 +49,7 @@ wrapObj.innerObj.callSomeone();
 
 #### Object 裡面的 function 硬要呼叫全域 function
 
-callSomeone 還是全域的 funciton
+callSomeone 還是全域的 function
 
 ```js
 var obj3 = {

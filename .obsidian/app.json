@@ -136,7 +136,8 @@
     "CallStack",
     "loupe",
     "webapis",
-    "const"
+    "const",
+    "eval"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",
