@@ -1,82 +1,26 @@
 ---
 title: "this"
 tag: 
-- 
+- js/function
+- js/object 
 ---
 # this
+- this 是[[函式的隱藏的參數]]之一
+- [this 的指向](this%20的指向.md) 看 function 被誰呼叫
+- [[箭頭函式 arrow function]] 沒有 this
+- 主流框架都會用到
+
+![](this%20的指向.md#^91e83b)
 
 ## 目錄
 - [function 被全域呼叫（simple call）](function%20被全域呼叫（simple%20call）.md)
 - [function 被 object 呼叫](function%20被%20object%20呼叫.md)
 - [不同物件呼叫了同名的函式](不同物件呼叫了同名的函式.md)
+- [箭頭函式 arrow function](箭頭函式%20arrow%20function.md)
+- [在 vue 置換 this 指向](在%20vue%20置換%20this%20指向.md)
 
 ### 陷阱題
-- object 中還有 object
-- Object 裡面的 function 硬要呼叫全域 function
-- callback function
+- [Object 中還有 Object](Object%20中還有%20Object.md)
+- [Object 裡面的 function 硬要呼叫全域 function](Object%20裡面的%20function%20硬要呼叫全域%20function.md)
+- [callback function：Function 參數並不在 Function 作用域中](callback%20function：Function%20參數並不在%20Function%20作用域中.md)
 
-
-## 特性
-- this 是[[函式的隱藏的參數]]之一
-- 指向會變動
-- [this 的指向](this%20的指向.md) 看 function 被誰呼叫
-（ES6 的 this 參照[[箭頭函式 arrow function]]）
-- 主流框架都會用到
-
-
-
-
-
-
-### 陷阱題
-
-#### Object 中還有 Object
-
-```js
-function callSomeone() {
-	return this.someone
-}
-var wrapObj = {
-  someone: '外層物件',
-  callSomeone(),          // wrapObj 的 function
-  innerObj: {
-    someone: '內層物件',
-    callSomeone(),        // innerObj 的 function
-  }
-}
-wrapObj.innerObj.callSomeone();
-```
-
-#### Object 裡面的 function 硬要呼叫全域 function
-
-callSomeone 還是全域的 function
-
-```js
-var obj3 = {
-  someone: '物件 3',
-  fn() {
-    callSomeone(); // 通常平常不會這樣去取用 this
-  }
-}
-obj3.fn();
-```
-
-#### callback function：避免用
-
-使用 callback function（像是在forEach裡），大部分就是把一個定義好的 function 簡化放到 callback funciton 裡面
-所以他還是一個全域的 function
-
-```js
-var obj4 = {
-  someone: '物件 4',
-  fn() {
-    setTimeout(function () {
-      console.log(this.someone);    // simple call
-    });
-  }
-}
-obj4.fn();
-```
-
-
-#js #vue #advanceJs

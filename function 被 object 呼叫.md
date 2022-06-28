@@ -7,7 +7,7 @@ function 在 object 中，function 中的 this 指向 object
 var obj = {
   someone: '物件',
   callSomeone() {
-    console.log(this.someone);	// 指該物件
+    console.log(this.someone);	// this 指該物件
   }
 }
 obj.callSomeone();

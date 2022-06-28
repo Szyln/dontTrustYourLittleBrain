@@ -137,7 +137,9 @@
     "loupe",
     "webapis",
     "const",
-    "eval"
+    "eval",
+    "ViewModel",
+    "vm"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",

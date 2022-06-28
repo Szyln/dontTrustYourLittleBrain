@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "不算前端也不算後端/JavaScript/資料類型/Function/this.md",
+            "file": "this 的指向.md",
             "mode": "source",
             "backlinks": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "webpack-dev-server",
+                "query": "表現",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -71,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "不算前端也不算後端/JavaScript/資料類型/Function/this.md",
+                "file": "this 的指向.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "不算前端也不算後端/JavaScript/資料類型/Function/this.md"
+                "file": "this 的指向.md"
               }
             }
           }
@@ -119,15 +120,15 @@
   },
   "active": "f97097dfee373532",
   "lastOpenFiles": [
+    "this 的指向.md",
     "不算前端也不算後端/JavaScript/資料類型/Function/this.md",
     "不算前端也不算後端/JavaScript/資料類型/Function/箭頭函式 arrow function.md",
-    "不算前端也不算後端/JavaScript/變數/Scope 作用域.md",
-    "不算前端也不算後端/JavaScript/變數/block.md",
-    "不算前端也不算後端/JavaScript/變數/Closure(Scope Chaining).md",
-    "全域污染.md",
-    "不算前端也不算後端/JavaScript/實作流程相關/use-strict 嚴格模式.md",
-    "非嚴格模式的 block.md",
-    "不算前端也不算後端/JavaScript/Execution Context/Execution Context.md",
-    "this 的指向.md"
+    "先複習傳統的 function 裡的 this.md",
+    "沒有被 function 包住的箭頭函式中的 this.md",
+    "函式中的箭頭函式裡面出現 this.md",
+    "不算前端也不算後端/JavaScript/資料類型/Function/置換函式的 this 指向.md",
+    "callback function：Function 參數並不在 Function 作用域中.md",
+    "Object 裡面的 function 硬要呼叫全域 function.md",
+    "不算前端也不算後端/JavaScript/變數/Scope 作用域.md"
   ]
 }

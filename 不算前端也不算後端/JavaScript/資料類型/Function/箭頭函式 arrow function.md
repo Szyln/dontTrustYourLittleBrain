@@ -3,106 +3,31 @@ title: "箭頭函式 arrow function"
 tag: 
 - 
 ---
-# 箭頭函式
-:::info
-
+## 箭頭函式
 ```js
 ( (parameter) => {<自帶 return>})
 ```
 ```js
 (parameter) => (<return 的值，不用再寫 return>)
 ```
-- **Arrow Function 的特性**
-    - `()`： parameter 若只有一個的話，可省略
-    - `{}`： 只有一行的話，可省略
-    - 自帶 `return`
-    - 本身無自己的 `this` 指向，看外層
-:::
+
+- `()`： parameter 若只有一個的話，可省略
+- `{}`： 只有一行的話，可省略
+- 自帶 `return`
+- 本身無自己的 `this` 指向，看外層
 
 
-## 箭頭函式的 this 指向
-- 沒有自己的 this，看上層 function 的 this 是誰
-- 沒有上層 function 那就是看全域
 
-### 先複習傳統的 function 裡的 this
-- this 是指看呼叫時，是誰呼叫這個 function 的
-- callback function 通常是在全域下被呼叫的
-```js
-var name = '全域'
-const person = {
-  name: '小明',
-  callName: function () { 
-    console.log('1', this.name); // 1 小明
-    setTimeout(function () {
-      console.log('2', this.name); // 2 全域
-      console.log('3', this); // 3 window
-    }, 10);
-  },
-}
-person.callName(); 
-```
+### this 指向
+>- [this 的指向](this%20的指向.md)
+>- [Function Execution Context](Function%20Execution%20Context.md)：箭頭函式不形成 `this`
 
-### 箭頭函式裡面出現 this
-箭頭函式內的 this 跟等同於**包住他的外層 function** 的 this
-```js
-var name = '全域'
-const person = {
-  name: '小明',
-  callName: function () { 
-    console.log('1', this.name); // 1 小明
-    setTimeout (() => {
-      console.log('2', this.name); // 2 跟外層的 this.name 一樣都是小明
-      console.log('3', this); // 3 跟外層的 this 一樣都是 person
-    }, 10);
-  },
-}
-person.callName(); 
-```
+- 沒有自己的 this
+- 看上層 function 的 this 是誰
+- 上層不是 function 就是全域
 
 
-## 沒有被 function 包住的箭頭函式
-沒有上層 function 那就是看全域
-```js
-var name = '全域'
-const person = {
-  name: '小明',
-  callName: () => { 
-    console.log(this.name); // 沒有外部 function 參考，this 會指向全域
-  },
-}
-person.callName();
-```
-## 回到上章[[this#this 的幾種狀況]]的這個話題
-- 先讓 this 設定指向其他變數：vm (Vue 中指的 ViewModel)
-- 使用箭頭函式
-
-### 先讓 this 設定指向其他變數：vm 
-在 function 外面抓取外部的 vm
-再將 vm 帶進去 function 內部
-```js
-var obj4 = {
-  someone: '物件 4',
-  fn() {
-    // const vm = this; // vm 在 Vue 中意指 ViewModel
-    setTimeout(function () {
-      console.log(this.someone);
-    });
-  }
-}
-obj4.fn();
-```
-
-### 直接改用箭頭函式
-用箭頭函式的特性，會直接讀取外層的 this
-```js 
-var obj4 = {
-  someone: '物件 4',
-  fn() {
-    setTimeout(() => {
-      console.log(this.someone);
-    });
-  }
-}
-obj4.fn();
-```
-#js #vue #advanceJs
+### 狀況
+- [先複習傳統的 function 裡的 this](先複習傳統的%20function%20裡的%20this.md)
+- [函式中的箭頭函式裡面出現 this](函式中的箭頭函式裡面出現%20this.md)：不是箭頭函式的 this，是外面函式的
+- [沒有被 function 包住的箭頭函式中的 this](沒有被%20function%20包住的箭頭函式中的%20this.md)：不是箭頭函式的 this，是全域的
