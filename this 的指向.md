@@ -3,9 +3,9 @@
 - [Function Execution Context](Function%20Execution%20Context.md)：看 Function 從哪呼叫
 - [箭頭函式 arrow function](箭頭函式%20arrow%20function.md)：看上層的 function 的 this，沒有上層 function 就是 window
 
-|           |Global| Function | 物件的 Function |箭頭 Function|
-| --------- | ---- |-| ---------- |-|
-| this 指向 | window |看誰呼叫的（兩種情形）<br>- 在 Global：window<br>- 在 Object：物件<br>- function 不能呼叫 function| 物件呼叫的，物件       |- 沒有自己的 this<br>- 上層是 function： function 的 this<br>- 上層不是 function：window|
+|           |Global| Function |箭頭 Function|
+| --------- | ---- |-|-|
+| this 指向 | window |看誰呼叫的（兩種情形）<br>- 在 Global：window<br>- 在 Object：物件<br>function 不能呼叫 function|- 沒有自己的 this<br>- 上層是 function： function 的 this<br>- 上層不是 function：window|
 
 ^91e83b
 

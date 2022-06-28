@@ -1,6 +1,8 @@
 ### 非嚴格模式的 block 
 >[全域污染](全域污染.md)
 
+var, function 宣告不形成 [Scope 作用域](Scope%20作用域.md)，[全域污染](全域污染.md)]
+
 ```javascript
 // 不推薦這樣使用
 

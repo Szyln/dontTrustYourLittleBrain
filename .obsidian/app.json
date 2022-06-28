@@ -139,7 +139,8 @@
     "const",
     "eval",
     "ViewModel",
-    "vm"
+    "vm",
+    "initializer"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",

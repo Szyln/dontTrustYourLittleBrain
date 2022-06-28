@@ -4,15 +4,15 @@ tag:
 - 
 ---
 # let, const, var 的差異
-[【直播記錄】JavaScript 那個 let, const, var 到底差在哪？](https://www.youtube.com/watch?v=FGdKdn_CnWo)
-[block(javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/block)
+>- [【直播記錄】JavaScript 那個 let, const, var 到底差在哪？](https://www.youtube.com/watch?v=FGdKdn_CnWo)
+>- [block(javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/block)
 
 |比較內容|var|let|const|
 |-|-|-|-|
-|[[block]] 內使用會造成全域污染（不形成作用域）|是|否|否|
+|[[block]] 內使用會造成[全域污染](全域污染.md)（不形成 [Scope 作用域](Scope%20作用域.md)）|非嚴格：是 / 嚴格：否|否|否|
 |顯示在 windows 上 |是|否|否|
 |受非同步影響|是|否|否|
-|hoisting|有|無|無|
+|[Hoisting](Hoisting.md)|有|無|無|
 |[[暫時性死區(TDZ)]]|無|有|有|
 |再宣告（re-declaration）|可|否|否|
 |再指派（re-assignment 賦值）|可|可|否|
@@ -21,43 +21,15 @@ tag:
 
 
 
-## function
-function 會形成作用域，var 不會全域污染
-````javascript
-// var 作用域在程式碼寫完的當下就確定了
-var a = 1;
+## [Function Execution Context](Function%20Execution%20Context.md) 中宣告
+- [Function Execution Context] 會形成 [Scope 作用域](Scope%20作用域.md)：[Function Scope](Function%20Scope.md)
+- var, let, const 都不會全域污染
 
-function fnA() {
-	console.log(a);	// fnA 叫 a 的話 a = 1
-}
-
-function fnB() {
-	var a = 2;		// fnB 重新宣告 a 後，在 fnB 裡面使用都是 2
-	fnA();			// fnA 叫 a = 1
-	console.log(a);	// fnB 叫的話 a = 2，
-}
-
-console.log(a)		// 全域叫的話 a = 1，不受 fnB 內部宣告影響
-````
-
-
-## [[block]]
+## Block 中宣告
+[Block Scope](Block%20Scope.md)：
+- let, const 會形成 [Scope 作用域](Scope%20作用域.md)
 - 在 block 裡面使用 var 不會形成作用域，會有全域污染問題
-- block 內使用 let **會**形成作用域，不會全域污染([[use-strict 嚴格模式]])
-### var
-````javascript
-{
-	var a = 3;		// var 不會形成作用域，會全域污染（非嚴格模式）
-}
-console.log(a);		// log 3
-````
-### let
-````javascript
-{
-	let a = 3;		// var 會形成作用域，不會全域污染（嚴格模式）
-}
-console.log(a);		// not defined
-````
+
 ### 非同步行為的狀況
 #### var
 setTimeout 屬非同步行為，實際執行時間點會**在所有事件結束後**
