@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Concurrency（並行性）& Event Loop.md",
-            "mode": "source",
+            "file": "不算前端也不算後端/JavaScript/Execution Context/Execution Context.md",
+            "mode": "preview",
             "backlinks": true
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concurrency（並行性）& Event Loop.md",
+                "file": "不算前端也不算後端/JavaScript/Execution Context/Execution Context.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concurrency（並行性）& Event Loop.md"
+                "file": "不算前端也不算後端/JavaScript/Execution Context/Execution Context.md"
               }
             }
           }
@@ -119,11 +119,11 @@
   },
   "active": "f97097dfee373532",
   "lastOpenFiles": [
-    "Concurrency（並行性）& Event Loop.md",
-    "不算前端也不算後端/JavaScript/Execution Context/Call Stack（呼叫堆疊）.md",
-    "不算前端也不算後端/JavaScript/變數/Hoisting.md",
     "不算前端也不算後端/JavaScript/Execution Context/Execution Context.md",
+    "不算前端也不算後端/JavaScript/Execution Context/Call Stack（呼叫堆疊）.md",
     "不算前端也不算後端/JavaScript/Execution Context/Execution Phase.md",
+    "Concurrency（並行性）& Event Loop.md",
+    "不算前端也不算後端/JavaScript/變數/Hoisting.md",
     "不算前端也不算後端/JavaScript/Execution Context/Global Execution Context.md",
     "不算前端也不算後端/JavaScript/變數/Closure(Scope Chaining).md",
     "不算前端也不算後端/JavaScript/JavaScript.md",
