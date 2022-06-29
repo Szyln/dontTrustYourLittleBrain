@@ -4,10 +4,11 @@ tag:
 - js/object
 ---
 ## 物件 Object
-- [物件字面值](物件字面值.md)內可以包含多個屬性 (properties)
-- 每個屬性通常都是以 [Key-Value Pair](Key-Value%20Pair.md) 的形式出現
-- value 可以是其他的[[原始資料類型 Primitive Data Types]]，或是 [[Function]]、[[Array]]、甚至是 [[Object]]
-- 另外在 ES6 有規範了 [Function 簡寫語法糖](Function%20簡寫語法糖.md)
+- `properties` 的集合
+- `properties` 是一個：[Key-Value Pair](Key-Value%20Pair.md) 
+	- value 可以是其他的[[原始資料類型 Primitive Data Types]]，或是 [[Function]]、[[Array]]、甚至是 [[Object]]
+	- 另外在 ES6 有規範了 [Function 簡寫語法糖](Function%20簡寫語法糖.md)
+
 
 ```js
 let home = {
@@ -21,6 +22,7 @@ let home = {
 ---
 
 ### 目錄
+[物件字面值](物件字面值.md)
 #### 操作 CRUD
 - [物件的傳參考特性](物件的傳參考特性.md)
 	- [物件傳參考](物件傳參考.md)

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9fada452bb93c585",
+        "id": "d86040b26938b090",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
+            "file": "不算前端也不算後端/JavaScript/Execution Context/Global Execution Context.md",
             "mode": "source",
             "backlinks": true
           }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
+                "file": "不算前端也不算後端/JavaScript/Execution Context/Global Execution Context.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md"
+                "file": "不算前端也不算後端/JavaScript/Execution Context/Global Execution Context.md"
               }
             }
           }
@@ -118,17 +118,17 @@
     "width": 273.3053283691406,
     "collapsed": true
   },
-  "active": "9fada452bb93c585",
+  "active": "d86040b26938b090",
   "lastOpenFiles": [
+    "不算前端也不算後端/JavaScript/Execution Context/Global Execution Context.md",
+    "不算前端也不算後端/JavaScript/Execution Context/執行環境 Execution Context.md",
     "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
+    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Object.md",
+    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Object/Key-Value Pair.md",
+    "其他/Obsidian/給 Markdown 檔案新增別名：alias.md",
+    "詞彙環境 Lexical Environment.md",
     "其他/Obsidian/Mermaid.js  Markdown 的心智圖語法.md",
     "其他/生活/找工作/獲得邀約/上益旺股份有限公司.md",
-    "不算前端也不算後端/JavaScript/變數/Closure(Scope Chaining).md",
-    "不算前端也不算後端/JavaScript/Execution Context/執行環境 Execution Context.md",
-    "其他/Obsidian/給 Markdown 檔案新增別名：alias.md",
-    "其他/生活/找工作/已應徵，有讀/宏博資訊有限公司.md",
-    "其他/生活/找工作/已應徵，沒有讀/品嘉建設股份有限公司.md",
-    "其他/生活/找工作/已應徵，有讀/坤侑科技股份有限公司.md",
-    "其他/生活/找工作/已應徵，有讀/鑒真數位有限公司.md"
+    "不算前端也不算後端/JavaScript/變數/Closure(Scope Chaining).md"
   ]
 }

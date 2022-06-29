@@ -1,10 +1,11 @@
 ---
 title: "Global Execution Context"
+aliases: <Base Execution Context>
 tag: 
 - js/executionContext
 ---
 # Global Execution Context 全域執行環境
-為 [[Execution Phase]] 的其中一種
+為 [[Execution Phase]] 的其中一種，不管在程式碼的那個地方都可以讀取這裡的東西
 
 ## Creation Phase
 - 生成 window object
