@@ -5,7 +5,7 @@ tag:
 - js/executionContext
 ---
 ## 執行環境 Execution Context
-環境生成到執行的過程發生什麼事
+「執行」的過程發生什麼事
 
 ### Phase 階段
 - [[Creation Phase]]
