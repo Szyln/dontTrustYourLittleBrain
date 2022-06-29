@@ -4,7 +4,7 @@ tag:
 - js/variable/scope
 ---
 ## 提昇 Hoisting
->相反的概念是 [暫時性死區(TDZ)](暫時性死區(TDZ).md)
+>會 Hoisting 就不會[暫時性死區(TDZ)](暫時性死區(TDZ).md)（沒有使用後宣告的概念）
 
 在 [Creation Phase](Creation%20Phase.md) 階段就該作用域開一個記憶體給
 - [var 的 hoisting：賦值（初始化）前使用不報錯](var%20的%20hoisting：賦值（初始化）前使用不報錯.md)

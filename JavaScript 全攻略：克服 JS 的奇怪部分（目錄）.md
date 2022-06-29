@@ -16,7 +16,8 @@ tag:
 ## undefined
 已宣告尚未指派，也是一個值
 
->當 `var` 變數被宣告時，一定有個值，預設是 `undefined`
+>`var` 變數被宣告時，一定有個值，預設是 `undefined`
+>`let` 被宣告時，不一定有個值，
 
 ```js
 // var, let, const
