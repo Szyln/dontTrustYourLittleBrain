@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他/生活/找工作/已應徵，有讀/上益旺股份有限公司.md",
+            "file": "其他/生活/找工作/獲得邀約/上益旺股份有限公司.md",
             "mode": "source",
             "backlinks": true
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263,
-    "collapsed": true
+    "width": 263
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/生活/找工作/已應徵，有讀/上益旺股份有限公司.md",
+                "file": "其他/生活/找工作/獲得邀約/上益旺股份有限公司.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/生活/找工作/已應徵，有讀/上益旺股份有限公司.md"
+                "file": "其他/生活/找工作/獲得邀約/上益旺股份有限公司.md"
               }
             }
           }
@@ -119,7 +118,7 @@
   },
   "active": "bf839d40cf358484",
   "lastOpenFiles": [
-    "其他/生活/找工作/已應徵，有讀/上益旺股份有限公司.md",
+    "其他/生活/找工作/獲得邀約/上益旺股份有限公司.md",
     "不算前端也不算後端/JavaScript/變數/Closure(Scope Chaining).md",
     "其他/生活/找工作/已應徵，有讀/宏博資訊有限公司.md",
     "其他/生活/找工作/已應徵，沒有讀/品嘉建設股份有限公司.md",
