@@ -4,8 +4,9 @@ tag:
 - 
 ---
 # 函式表達式 function expression 
-將函式儲存進一個變數中
-因牽涉給變數賦值，故不會 hoisting
+- 將函式儲存進一個變數中
+
+>[但 function expression 不會 hoisting](但%20function%20expression%20不會%20hoisting.md)
 
 ## 給變數賦予……
 

@@ -1,9 +1,11 @@
 ---
 title: "暫時性死區(TDZ)"
 tag: 
-- 
+- js/variable/scope
 ---
-# 暫時性死區 (TDZ)
+## 暫時性死區 (TDZ
+>與 [Hoisting](Hoisting.md) 算相反概念
+
 暫時性死區指的是 `let`, `const` 在未宣告就使用時，使用會出現 error 的狀況
 
 ```js
@@ -17,4 +19,4 @@ fn(1)						 // 炸掉
 ```
 ![](https://i.imgur.com/YiciyW8.png)
 
-#js #variable #scope
+>[但 function expression 不會 hoisting](但%20function%20expression%20不會%20hoisting.md)

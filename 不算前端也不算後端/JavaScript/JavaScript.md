@@ -11,7 +11,7 @@ tag:
 - [Library 跟 Framework](Library%20跟%20Framework.md)
 
 ### 變數
-- [var, let, const 的作用域](var,%20let,%20const%20的作用域.md)
+- [var, let, const 的差異](var,%20let,%20const%20的差異.md)
 - [變數 variables](變數%20variables.md)
 - [block](block.md)
 - [Hoisting](Hoisting.md)
