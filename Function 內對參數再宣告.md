@@ -1,5 +1,5 @@
 ## Function 內對參數再宣告
-- `var`：可，[var 的 hoisting：賦值（初始化）前就可以用](var%20的%20hoisting：賦值（初始化）前就可以用.md)
+- `var`：可，[var 的 hoisting：賦值（初始化）前使用不報錯](var%20的%20hoisting：賦值（初始化）前使用不報錯.md)
 - `let` 不行，[暫時性死區(TDZ)](暫時性死區(TDZ).md)
 
 ### var

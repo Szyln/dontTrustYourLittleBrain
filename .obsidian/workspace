@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "不算前端也不算後端/JavaScript/React/Component/PropTypes：元件參數的 Vaildator.md",
-            "mode": "preview",
+            "file": "不算前端也不算後端/JavaScript/變數/Hoisting.md",
+            "mode": "source",
             "backlinks": true
           }
         }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "不算前端也不算後端/JavaScript/React/Component/PropTypes：元件參數的 Vaildator.md",
+                "file": "不算前端也不算後端/JavaScript/變數/Hoisting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "不算前端也不算後端/JavaScript/React/Component/PropTypes：元件參數的 Vaildator.md"
+                "file": "不算前端也不算後端/JavaScript/變數/Hoisting.md"
               }
             }
           }
@@ -120,15 +120,15 @@
   },
   "active": "d86040b26938b090",
   "lastOpenFiles": [
-    "不算前端也不算後端/JavaScript/React/Component/PropTypes：元件參數的 Vaildator.md",
-    "不算前端也不算後端/JavaScript/Debug/PropTypes 的 lint 規則.md",
-    "不算前端也不算後端/JavaScript/Execution Context/Global Execution Context.md",
+    "不算前端也不算後端/JavaScript/變數/Hoisting.md",
+    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Object/物件的傳參考特性.md",
+    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Object/物件傳參考.md",
+    "var 的 hoisting：賦值（初始化）前使用不報錯.md",
+    "function 的 hoisting.md",
     "不算前端也不算後端/JavaScript/Execution Context/執行環境 Execution Context.md",
-    "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
-    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Object.md",
-    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Object/Key-Value Pair.md",
-    "其他/Obsidian/給 Markdown 檔案新增別名：alias.md",
-    "詞彙環境 Lexical Environment.md",
-    "其他/Obsidian/Mermaid.js  Markdown 的心智圖語法.md"
+    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Object/Window Object.md",
+    "不算前端也不算後端/JavaScript/Execution Context/Global Execution Context.md",
+    "不算前端也不算後端/JavaScript/變數/Scope 作用域.md",
+    "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md"
   ]
 }
