@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "不算前端也不算後端/JavaScript/變數/Hoisting.md",
+            "file": "不算前端也不算後端/JavaScript/變數/暫時性死區(TDZ).md",
             "mode": "source",
             "backlinks": true
           }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "不算前端也不算後端/JavaScript/變數/Hoisting.md",
+                "file": "不算前端也不算後端/JavaScript/變數/暫時性死區(TDZ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "不算前端也不算後端/JavaScript/變數/Hoisting.md"
+                "file": "不算前端也不算後端/JavaScript/變數/暫時性死區(TDZ).md"
               }
             }
           }
@@ -120,15 +120,15 @@
   },
   "active": "d86040b26938b090",
   "lastOpenFiles": [
+    "不算前端也不算後端/JavaScript/變數/暫時性死區(TDZ).md",
     "不算前端也不算後端/JavaScript/變數/Hoisting.md",
+    "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
+    "不算前端也不算後端/JavaScript/變數/var, let, const 的差異.md",
+    "不算前端也不算後端/JavaScript/資料類型/資料類型/falsy value.md",
+    "不算前端也不算後端/JavaScript/Execution Context/執行環境 Execution Context.md",
+    "詞彙環境 Lexical Environment.md",
     "不算前端也不算後端/JavaScript/資料類型/Object, Array/Object/物件的傳參考特性.md",
     "不算前端也不算後端/JavaScript/資料類型/Object, Array/Object/物件傳參考.md",
-    "var 的 hoisting：賦值（初始化）前使用不報錯.md",
-    "function 的 hoisting.md",
-    "不算前端也不算後端/JavaScript/Execution Context/執行環境 Execution Context.md",
-    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Object/Window Object.md",
-    "不算前端也不算後端/JavaScript/Execution Context/Global Execution Context.md",
-    "不算前端也不算後端/JavaScript/變數/Scope 作用域.md",
-    "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md"
+    "var 的 hoisting：賦值（初始化）前使用不報錯.md"
   ]
 }

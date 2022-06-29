@@ -13,4 +13,25 @@ tag:
 	- [Key-Value Pair](Key-Value%20Pair.md)
 	- [Object](Object.md)
 
+## undefined
+已宣告尚未指派，也是一個值
+
+>當 `var` 變數被宣告時，一定有個值，預設是 `undefined`
+
+```js
+// var, let, const
+var a;			// undefined
+let b;			// undefined
+const c;		// 禁止未賦值，炸掉
+console.log(a)
+
+
+```
+```js
+var a;
+console.log(a)
+var a = 1
+
+// undefined 不會炸
+```
 

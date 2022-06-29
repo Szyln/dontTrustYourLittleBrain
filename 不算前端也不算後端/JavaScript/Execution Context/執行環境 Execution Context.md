@@ -8,8 +8,8 @@ tag:
 「執行」的過程發生什麼事
 
 > 程式碼的
-> - 生成：被 [詞彙環境 Lexical Environment](詞彙環境%20Lexical%20Environment.md) 管理
 > - 執行：被 [執行環境 Execution Context](執行環境%20Execution%20Context.md) 管理
+> - 生成：被 [詞彙環境 Lexical Environment](詞彙環境%20Lexical%20Environment.md) 管理
 ### Phase 階段
 - [[Creation Phase]]
 - [[Execution Phase]]

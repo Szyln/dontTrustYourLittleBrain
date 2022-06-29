@@ -16,7 +16,7 @@ tag:
 |[Hoisting](Hoisting.md) 或[[暫時性死區(TDZ)]]|宣告 Hoisting，值不會|TDZ 炸|TDZ 炸|
 |再宣告（re-declaration）|可|炸|炸|
 |再指派（re-assignment 賦值）|可|可|炸|
-|未[[初始化(initializer)]]就使用|可|可|炸|
+|未[[初始化(initializer)]]就使用(undefined)|可|可|炸|
 
 - Block 中宣告：[Block Scope](Block%20Scope.md)
 - [Function 內對參數再宣告](Function%20內對參數再宣告.md)
