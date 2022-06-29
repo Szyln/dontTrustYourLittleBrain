@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "50eb8d",
+                "query": "別名",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -49,11 +49,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 263
+    "width": 263,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -119,14 +121,14 @@
   "active": "bf839d40cf358484",
   "lastOpenFiles": [
     "其他/生活/找工作/獲得邀約/上益旺股份有限公司.md",
+    "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
+    "不算前端也不算後端/JavaScript/Execution Context/執行環境 Execution Context.md",
+    "其他/Obsidian/給 Markdown 檔案新增別名：alias.md",
     "不算前端也不算後端/JavaScript/變數/Closure(Scope Chaining).md",
     "其他/生活/找工作/已應徵，有讀/宏博資訊有限公司.md",
     "其他/生活/找工作/已應徵，沒有讀/品嘉建設股份有限公司.md",
     "其他/生活/找工作/已應徵，有讀/坤侑科技股份有限公司.md",
     "其他/生活/找工作/已應徵，有讀/鑒真數位有限公司.md",
-    "其他/生活/找工作/已應徵，有讀/瑞兔股份有限公司.md",
-    "其他/生活/找工作/職缺台北.md",
-    "不算前端也不算後端/JavaScript/變數/var, let, const 的差異.md",
-    "不算前端也不算後端/JavaScript/變數/Hoisting.md"
+    "其他/生活/找工作/已應徵，有讀/瑞兔股份有限公司.md"
   ]
 }

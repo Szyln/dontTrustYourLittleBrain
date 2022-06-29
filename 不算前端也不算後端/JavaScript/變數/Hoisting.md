@@ -24,6 +24,6 @@ tag:
 
 
 ### 補充
-- 發生的時間點 [Execution Context](Execution%20Context.md) 的 [Creation Phase](Creation%20Phase.md)
+- 發生的時間點 [執行環境 Execution Context](執行環境%20Execution%20Context.md) 的 [Creation Phase](Creation%20Phase.md)
 - 電腦記憶體會先分配給 `function`, `var` 的宣告（lexical declaration: let, const, function expression 沒有），之後才會開始跑程式碼
 

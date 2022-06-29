@@ -4,7 +4,7 @@ tag:
 - js/object/oop
 ---
 # 物件導向
->[Execution Context](Execution%20Context.md)
+>[執行環境 Execution Context](執行環境%20Execution%20Context.md)
 
 - [[Constructor]] 可以重複生成相似物件
 - [[Prototype]] 可以將屬性共享給多個物件

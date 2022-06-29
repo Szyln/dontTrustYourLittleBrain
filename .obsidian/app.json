@@ -141,7 +141,8 @@
     "ViewModel",
     "vm",
     "initializer",
-    "setTimeout"
+    "setTimeout",
+    "Parsers"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",

@@ -13,7 +13,7 @@ tag:
 
 
 ## 類型
-> Scope 的生成時機與 [Execution Context](Execution%20Context.md) 有關
+> Scope 的生成時機與 [執行環境 Execution Context](執行環境%20Execution%20Context.md) 有關
 
 - [Global Scope](Global%20Scope.md)
 - [Function Scope](Function%20Scope.md)

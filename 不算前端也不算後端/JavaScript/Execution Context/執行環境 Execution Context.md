@@ -1,17 +1,18 @@
 ---
-title: "Execution Context"
+title: "執行環境 Execution Context"
+aliases: <執行脈絡>,<執行上下文>
 tag: 
 - js/executionContext
 ---
-# Execution Context
+## 執行環境 Execution Context
 環境生成到執行的過程發生什麼事
 
-## Phase 階段
+### Phase 階段
 - [[Creation Phase]]
 - [[Execution Phase]]
 
 
-## 類型
+### 類型
 - [[Global Execution Context]]（會生成 window object）
 - [[Function Execution Context]] (不會生成 window object) 
 
