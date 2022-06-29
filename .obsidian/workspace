@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他/生活/找工作/已應徵，有讀/宏博資訊有限公司.md",
-            "mode": "source",
+            "file": "不算前端也不算後端/JavaScript/變數/Closure(Scope Chaining).md",
+            "mode": "preview",
             "backlinks": true
           }
         }
@@ -53,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263
+    "width": 263,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/生活/找工作/已應徵，有讀/宏博資訊有限公司.md",
+                "file": "不算前端也不算後端/JavaScript/變數/Closure(Scope Chaining).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/生活/找工作/已應徵，有讀/宏博資訊有限公司.md"
+                "file": "不算前端也不算後端/JavaScript/變數/Closure(Scope Chaining).md"
               }
             }
           }
@@ -118,6 +119,7 @@
   },
   "active": "bf839d40cf358484",
   "lastOpenFiles": [
+    "不算前端也不算後端/JavaScript/變數/Closure(Scope Chaining).md",
     "其他/生活/找工作/已應徵，有讀/宏博資訊有限公司.md",
     "其他/生活/找工作/已應徵，沒有讀/品嘉建設股份有限公司.md",
     "其他/生活/找工作/已應徵，有讀/坤侑科技股份有限公司.md",
@@ -125,7 +127,6 @@
     "其他/生活/找工作/已應徵，有讀/上益旺股份有限公司.md",
     "其他/生活/找工作/已應徵，有讀/瑞兔股份有限公司.md",
     "其他/生活/找工作/職缺台北.md",
-    "不算前端也不算後端/JavaScript/變數/Closure(Scope Chaining).md",
     "不算前端也不算後端/JavaScript/變數/var, let, const 的差異.md",
     "不算前端也不算後端/JavaScript/變數/Hoisting.md"
   ]
