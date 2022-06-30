@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
-            "mode": "source",
+            "mode": "preview",
             "backlinks": true
           }
         }
@@ -121,14 +121,14 @@
   "active": "d86040b26938b090",
   "lastOpenFiles": [
     "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
+    "undefined.md",
+    "不算前端也不算後端/JavaScript/變數/const.md",
+    "let.md",
+    "不算前端也不算後端/JavaScript/Execution Context/執行環境 Execution Context.md",
     "不算前端也不算後端/JavaScript/變數/Hoisting.md",
     "不算前端也不算後端/JavaScript/變數/暫時性死區(TDZ).md",
     "TDZ：作用域中 let, const 使用後初始化（這邊好像是指宣告）.md",
     "重複宣告參數.md",
-    "外層的宣告，不論順序，內層都可以讀（這不是 hoisting）.md",
-    "重複宣告一個外層的變數.md",
-    "不算前端也不算後端/JavaScript/變數/var, let, const 的差異.md",
-    "不算前端也不算後端/JavaScript/資料類型/資料類型/falsy value.md",
-    "不算前端也不算後端/JavaScript/Execution Context/執行環境 Execution Context.md"
+    "外層的宣告，不論順序，內層都可以讀（這不是 hoisting）.md"
   ]
 }
