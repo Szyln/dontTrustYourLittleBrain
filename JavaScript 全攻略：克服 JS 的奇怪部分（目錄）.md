@@ -25,6 +25,15 @@ function fn() {
 fn()
 ```
 
+
+
+## stack
+當程式碼「執行」時，按照 [Call Stack 呼叫堆疊]，經歷兩個階段
+- 背景運作：[Creation Phase](Creation%20Phase.md)：如果背景運作完就可以馬上
+- 實際運作：[Execution Phase](Execution%20Phase.md)
+
+
+
 ```js
 function fn1() {
 	fn2()
@@ -37,11 +46,10 @@ function fn2() {
 fn1() // invocated fn1
 ```
 
-## stack
-當程式碼「執行」時，按照 [Call Stack 呼叫堆疊](Call%20Stack%20呼叫堆疊.md) 的規則，會產生兩種 [執行環境 Execution Context](執行環境%20Execution%20Context.md)
 ```mermaid
 graph BT
-A(生成 Global Execution Context) --> B[fn1 生成 Function Execution Context]
-B --> C[fn2 生成 Function Execution Context]
+A(生成 Global Execution Context) -->|Hoisting fn1, fn2 的記憶體|B[fn1 生成 Function Execution Context]
+B --> |生成 fn1 內部|C[fn2 生成 Function Execution Context]
 C --> B
+B --> A
 ```
