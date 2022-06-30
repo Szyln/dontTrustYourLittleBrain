@@ -28,5 +28,7 @@ one thread == one call stack == one thing at a time
 - [Devtool 報錯看 stack 規則](Devtool%20報錯看%20stack%20規則.md)
 - [Blowing the stack（堆疊爆炸）](Blowing%20the%20stack（堆疊爆炸）.md) 
 - [Concurrency（並行性）& Event Loop](Concurrency（並行性）&%20Event%20Loop.md)
-![](JavaScript%20介紹.md#^56dbb9)
+
+> stack 的順序與 function 間的歸屬是無關的，歸屬要看他在哪個作用域
+
 ![](https://i.imgur.com/4f2ZZw9.png)

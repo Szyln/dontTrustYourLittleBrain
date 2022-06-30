@@ -9,5 +9,5 @@
 
 ^91e83b
 
-> - ==function 無法呼叫 function==
+> - ==function 的 this 不會是 function==
 > - [callback function：Function 參數並不在 Function 作用域中](callback%20function：Function%20參數並不在%20Function%20作用域中.md)：放在參數內的 function 是在 Global 呼叫的（並不存在於 [Function Execution Context](Function%20Execution%20Context.md) 中）

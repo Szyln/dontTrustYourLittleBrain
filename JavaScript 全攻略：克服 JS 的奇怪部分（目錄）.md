@@ -14,42 +14,10 @@ tag:
 - [Object](Object.md)
 - [undefined](undefined.md)
 - [Single-thread](Single-thread.md)
-
-## Invocation 呼叫函數
-```js
-function fn() {
-	console.log('invocated!')
-}
-
-// 這就是 Invocation
-fn()
-```
+- [Invocation 呼叫函數](Invocation%20呼叫函數.md)
 
 
-
-## stack
-當程式碼「執行」時，按照 [Call Stack 呼叫堆疊]，經歷兩個階段
-- 背景運作：[Creation Phase](Creation%20Phase.md)：如果背景運作完就可以馬上
-- 實際運作：[Execution Phase](Execution%20Phase.md)
+## Variable Environment
+變數在哪個記憶體中
 
 
-
-```js
-function fn1() {
-	fn2()
-}
-
-function fn2() {
-	console.log('fn2 is invocated!')
-}
-
-fn1() // invocated fn1
-```
-
-```mermaid
-graph BT
-A(生成 Global Execution Context) -->|Hoisting fn1, fn2 的記憶體|B[fn1 生成 Function Execution Context]
-B --> |生成 fn1 內部|C[fn2 生成 Function Execution Context]
-C --> B
-B --> A
-```
