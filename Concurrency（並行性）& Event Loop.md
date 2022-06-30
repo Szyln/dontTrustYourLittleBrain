@@ -15,7 +15,7 @@ tag:
 - stack：JS 執行同步語言的地方，遵守 LIFO 規則，如果遇到非同步語言，會丟給瀏覽器處理，繼續處理同步語言
 - WebAPI：瀏覽器的執行緒，接到 JS 的呼叫的時候，就會處理非同步語言，完成後丟進到 [Event Queue](Event%20Queue.md) 中
 - [Event Queue](Event%20Queue.md)：等待 JS 將同步語言完成，完成後由 Event Loop 負責安排進 stack 中
-- Event Loop：同步語言完成後，會將 [Event Queue](Event%20Queue.md) 的第一個 Task 丟進 stack 中
+- Event Loop：stack 清空 --> 持續監視 Event Queue --> 將 [Event Queue](Event%20Queue.md) 的第一個 Task 丟進 stack 中 --> （loop）
 
 
 ```js
