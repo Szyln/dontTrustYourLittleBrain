@@ -11,13 +11,15 @@ tag:
 所以他還是一個全域的 function
 
 ```js
-var obj4 = {
-  someone: '物件 4',
-  fn() {
+let a = 1
+var obj = {
+  a: 2,
+  fn: function() {
+		console.log(this) 						// obj
     setTimeout(function () {
       console.log(this.someone);    // simple call
     });
   }
 }
-obj4.fn();
+obj.fn();
 ```

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "this 的指向.md",
+            "file": "callback function：Function 參數並不在 Function 作用域中.md",
             "mode": "source",
             "backlinks": true
           }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "this 的指向.md",
+                "file": "callback function：Function 參數並不在 Function 作用域中.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "this 的指向.md"
+                "file": "callback function：Function 參數並不在 Function 作用域中.md"
               }
             }
           }
@@ -120,6 +120,7 @@
   },
   "active": "1b30cbc8c77b0b8a",
   "lastOpenFiles": [
+    "callback function：Function 參數並不在 Function 作用域中.md",
     "this 的指向.md",
     "Function Execution Context.md",
     "不算前端也不算後端/JavaScript/變數/範圍鏈 Scope Chaining.md",
@@ -128,7 +129,6 @@
     "不算前端也不算後端/JavaScript/Execution Context/執行環境 Execution Context.md",
     "不算前端也不算後端/JavaScript/JavaScript.md",
     "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
-    "詞彙環境 Lexical Environment.md",
-    "不算前端也不算後端/JavaScript/介紹/JavaScript 介紹.md"
+    "詞彙環境 Lexical Environment.md"
   ]
 }
