@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
+            "file": "其他/生活/找工作/已應徵，沒有讀/凌發科技有限公司.md",
             "mode": "source",
             "backlinks": true
           }
@@ -49,13 +49,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 263,
-    "collapsed": true
+    "width": 263
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -72,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
+                "file": "其他/生活/找工作/已應徵，沒有讀/凌發科技有限公司.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md"
+                "file": "其他/生活/找工作/已應徵，沒有讀/凌發科技有限公司.md"
               }
             }
           }
@@ -120,15 +118,15 @@
   },
   "active": "a08749cdff14120e",
   "lastOpenFiles": [
+    "其他/生活/找工作/已應徵，沒有讀/凌發科技有限公司.md",
+    "其他/生活/找工作/職缺台北.md",
+    "其他/生活/找工作/已應徵，沒有讀/康大資訊股份有限公司.md",
+    "後端/Database/DBMS(RDBMS).md",
+    "後端/Database/Database 數據庫.md",
     "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
-    "不算前端也不算後端/API/AJAX/Single-thread.md",
-    "不算前端也不算後端/JavaScript/JavaScript.md",
-    "不算前端也不算後端/JavaScript/介紹/JavaScript 介紹.md",
-    "不算前端也不算後端/API/AJAX/Event Queue.md",
+    "不算前端也不算後端/JavaScript/Execution Context/執行環境 Execution Context.md",
     "不算前端也不算後端/JavaScript/Execution Context/Call Stack 呼叫堆疊.md",
-    "Concurrency（並行性）& Event Loop.md",
-    "詞彙環境 Lexical Environment.md",
-    "undefined.md",
-    "不算前端也不算後端/JavaScript/變數/const.md"
+    "不算前端也不算後端/API/AJAX/Single-thread.md",
+    "不算前端也不算後端/JavaScript/JavaScript.md"
   ]
 }

@@ -24,3 +24,24 @@ function fn() {
 // 這就是 Invocation
 fn()
 ```
+
+```js
+function fn1() {
+	fn2()
+}
+
+function fn2() {
+	console.log('fn2 is invocated!')
+}
+
+fn1() // invocated fn1
+```
+
+## stack
+當程式碼「執行」時，按照 [Call Stack 呼叫堆疊](Call%20Stack%20呼叫堆疊.md) 的規則，會產生兩種 [執行環境 Execution Context](執行環境%20Execution%20Context.md)
+```mermaid
+graph BT
+A(生成 Global Execution Context) --> B[fn1 生成 Function Execution Context]
+B --> C[fn2 生成 Function Execution Context]
+C --> B
+```
