@@ -6,10 +6,11 @@ tag:
 # Scope 作用域
 >- [mdn](https://developer.mozilla.org/en-US/docs/Glossary/Scope)
 
-有三種作用域，形成作用域的時候，可以防止上層讀取內部的宣告（var, let, const, function）
+- 有三種作用域，形成作用域的時候，可以防止上層讀取內部的宣告（var, let, const, function）
+- 可以[重複宣告一個外層的變數](重複宣告一個外層的變數.md)，宣告會以內部為準
+- 作用域可以讀取上層的宣告，不論在上層的哪個位置
 
 > 作用域的存在是為了防止[全域污染](全域污染.md)
-
 
 
 ## 類型
