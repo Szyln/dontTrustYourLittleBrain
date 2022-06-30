@@ -6,7 +6,7 @@ tag:
 ## block (javascript)
 >- [block(javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/block)
 >- [[Scope 作用域]] 的其中一種
->- [Closure(Scope Chaining)](Closure(Scope%20Chaining).md)
+>- [範圍鏈 Scope Chaining](範圍鏈%20Scope%20Chaining.md)
 
 ```javascript
 {

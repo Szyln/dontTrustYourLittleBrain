@@ -1,6 +1,6 @@
 ## this 的指向
 - [Global Execution Context](Global%20Execution%20Context.md)：指全域
-- [Function Execution Context](Function%20Execution%20Context.md)：看 Function 從哪呼叫
+- [Function Execution Context](Function%20Execution%20Context.md)：看 Function 的 
 - [箭頭函式 arrow function](箭頭函式%20arrow%20function.md)：看上層的 function 的 this，沒有上層 function 就是 window
 
 |           |Global| Function |箭頭 Function|

@@ -9,7 +9,7 @@ tag:
 
 ## Creation Phase
 - 生成 [Window Object](Window%20Object.md)
-- 生成 [[Scope 作用域]] （依照 [[Closure(Scope Chaining)]] 閉包原則）
+- 生成 [[Scope 作用域]] （依照 [[範圍鏈 Scope Chaining]] 閉包原則）
 - 生成 [this](this.md) （指向 window）
 - [[Hoisting]]
 

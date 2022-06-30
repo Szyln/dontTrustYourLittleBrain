@@ -23,7 +23,7 @@ tag:
 - [暫時性死區(TDZ)](暫時性死區(TDZ).md)
 - [初始化(initializer)](初始化(initializer).md)
 - [Scope 作用域](Scope%20作用域.md)
-- [Closure(Scope Chaining)](Closure(Scope%20Chaining).md)
+- [範圍鏈 Scope Chaining](範圍鏈%20Scope%20Chaining.md)
 - [undefined](undefined.md)
 - [Invocation 呼叫函數](Invocation%20呼叫函數.md)
 

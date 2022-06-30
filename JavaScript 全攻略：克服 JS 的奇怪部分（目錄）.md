@@ -9,6 +9,7 @@ tag:
 
 - [執行環境 Execution Context](執行環境%20Execution%20Context.md)
 - [詞彙環境 Lexical Environment](詞彙環境%20Lexical%20Environment.md)
+	- [Variable Environment](Variable%20Environment.md)
 - [語法解析器 Syntax Parsers](語法解析器%20Syntax%20Parsers.md)
 - [Key-Value Pair](Key-Value%20Pair.md)
 - [Object](Object.md)
@@ -17,12 +18,6 @@ tag:
 - [Invocation 呼叫函數](Invocation%20呼叫函數.md)
 
 
-## Variable Environment
-變數在哪個記憶體中([Scope 作用域](Scope%20作用域.md))
-```js
-function fn1() {
-	var a = 1
-	let 
-}
-```
 
+
+[範圍鏈 Scope Chaining](範圍鏈%20Scope%20Chaining.md)
