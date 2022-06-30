@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d86040b26938b090",
+        "id": "a08749cdff14120e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "不算前端也不算後端/JavaScript/介紹/JavaScript 介紹.md",
+            "file": "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
             "mode": "source",
             "backlinks": true
           }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "不算前端也不算後端/JavaScript/介紹/JavaScript 介紹.md",
+                "file": "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "不算前端也不算後端/JavaScript/介紹/JavaScript 介紹.md"
+                "file": "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md"
               }
             }
           }
@@ -118,17 +118,17 @@
     "width": 273.3053283691406,
     "collapsed": true
   },
-  "active": "d86040b26938b090",
+  "active": "a08749cdff14120e",
   "lastOpenFiles": [
-    "不算前端也不算後端/JavaScript/介紹/JavaScript 介紹.md",
+    "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
     "不算前端也不算後端/API/AJAX/Single-thread.md",
     "不算前端也不算後端/JavaScript/JavaScript.md",
+    "不算前端也不算後端/JavaScript/介紹/JavaScript 介紹.md",
     "不算前端也不算後端/API/AJAX/Event Queue.md",
     "不算前端也不算後端/JavaScript/Execution Context/Call Stack 呼叫堆疊.md",
-    "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
+    "Concurrency（並行性）& Event Loop.md",
     "詞彙環境 Lexical Environment.md",
     "undefined.md",
-    "不算前端也不算後端/JavaScript/變數/const.md",
-    "let.md"
+    "不算前端也不算後端/JavaScript/變數/const.md"
   ]
 }

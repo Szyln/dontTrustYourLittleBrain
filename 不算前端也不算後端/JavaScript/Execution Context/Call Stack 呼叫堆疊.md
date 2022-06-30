@@ -10,7 +10,9 @@ tag:
 
 Call Stack 的運作模式一個像收納箱，先放進去（被呼叫的 function）的東西會最後才拿出來（執行）（LIFO，Last-In-First-Out 後進先出）
 
-JavaScript 是單一線性(single-[[thread]])程式語言，一次只能做一件事，[[執行環境 Execution Context]]（的 [[Execution Phase]] 階段） 就是按照這個 Call Stack 的結構在跑程式碼的。
+![](JavaScript%20介紹.md#^56dbb9)
+
+[[執行環境 Execution Context]]（的 [[Execution Phase]] 階段） 就是按照這個 Call Stack 的結構在跑程式碼的。
 
 ```
 one thread == one call stack == one thing at a time
@@ -25,7 +27,6 @@ one thread == one call stack == one thing at a time
 - [call stack 範例](call%20stack%20範例.md)
 - [Devtool 報錯看 stack 規則](Devtool%20報錯看%20stack%20規則.md)
 - [Blowing the stack（堆疊爆炸）](Blowing%20the%20stack（堆疊爆炸）.md) 
-
-[Concurrency（並行性）& Event Loop](Concurrency（並行性）&%20Event%20Loop.md)
-
+- [Concurrency（並行性）& Event Loop](Concurrency（並行性）&%20Event%20Loop.md)
+![](JavaScript%20介紹.md#^56dbb9)
 ![](https://i.imgur.com/4f2ZZw9.png)

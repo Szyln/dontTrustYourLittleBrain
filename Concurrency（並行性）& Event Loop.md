@@ -7,11 +7,16 @@ tag:
 ##  Concurrency（並行性）& Event Loop
 >[看動態版](http://latentflip.com/loupe/?code=Y29uc29sZS5sb2coJ2hpJykKCnNldFRpbWVvdXQoZnVuY3Rpb24gY2IoKSB7Cgljb25zb2xlLmxvZygndGhlcmUnKQp9LCA1MDAwKQoKY29uc29sZS5sb2coJ2J5ZScp!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D)
 
-- JavaScript 是單執行緒語言，不能同時執行多個動作
-- 瀏覽器提供 Web API （例如 `setTimeOut`）提供更多執行緒（JS 只能呼叫他們）
 
->- Event Loop：如果 stack 中已清空，就將任務佇列第一個 task 丟回 stack 中執行
->- task queue：任務佇列，webapis 處理的非同步指令完成後存放的地方
+![](JavaScript%20介紹.md#^56dbb9)
+
+![](https://i.imgur.com/4f2ZZw9.png)
+
+- stack：JS 執行同步語言的地方，遵守 LIFO 規則，如果遇到非同步語言，會丟給瀏覽器處理，繼續處理同步語言
+- WebAPI：瀏覽器的執行緒，接到 JS 的呼叫的時候，就會處理非同步語言，完成後丟進到 [Event Queue](Event%20Queue.md) 中
+- [Event Queue](Event%20Queue.md)：等待 JS 將同步語言完成，完成後由 Event Loop 負責安排進 stack 中
+- Event Loop：同步語言完成後，會將 [Event Queue](Event%20Queue.md) 的第一個 Task 丟進 stack 中
+
 
 ```js
 console.log('hi')
