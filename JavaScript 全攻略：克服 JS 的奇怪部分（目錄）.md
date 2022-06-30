@@ -19,5 +19,10 @@ tag:
 
 ## Variable Environment
 變數在哪個記憶體中
-
+```js
+function fn1() {
+	var a = 1
+	let 
+}
+```
 
