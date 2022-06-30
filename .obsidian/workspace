@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "callback function：Function 參數並不在 Function 作用域中.md",
+            "file": "this 的指向.md",
             "mode": "source",
             "backlinks": true
           }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "callback function：Function 參數並不在 Function 作用域中.md",
+                "file": "this 的指向.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "callback function：Function 參數並不在 Function 作用域中.md"
+                "file": "this 的指向.md"
               }
             }
           }
@@ -120,15 +120,15 @@
   },
   "active": "1b30cbc8c77b0b8a",
   "lastOpenFiles": [
-    "callback function：Function 參數並不在 Function 作用域中.md",
     "this 的指向.md",
+    "callback function：參數裡的 function 沒有在物件裡面.md",
+    "不算前端也不算後端/JavaScript/資料類型/Function/箭頭函式 arrow function.md",
+    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Array/陣列的循環 for, forEach, map.md",
     "Function Execution Context.md",
     "不算前端也不算後端/JavaScript/變數/範圍鏈 Scope Chaining.md",
     "重複宣告一個外層的變數.md",
     "不算前端也不算後端/JavaScript/變數/Scope 作用域.md",
     "不算前端也不算後端/JavaScript/Execution Context/執行環境 Execution Context.md",
-    "不算前端也不算後端/JavaScript/JavaScript.md",
-    "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
-    "詞彙環境 Lexical Environment.md"
+    "不算前端也不算後端/JavaScript/JavaScript.md"
   ]
 }

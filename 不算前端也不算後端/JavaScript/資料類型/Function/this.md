@@ -22,5 +22,5 @@ tag:
 ### 陷阱題
 - [Object 中還有 Object](Object%20中還有%20Object.md)
 - [Object 裡面的 function 硬要呼叫全域 function](Object%20裡面的%20function%20硬要呼叫全域%20function.md)
-- [callback function：Function 參數並不在 Function 作用域中](callback%20function：Function%20參數並不在%20Function%20作用域中.md)
+- [callback function：參數裡的 function 沒有在物件裡面](callback%20function：參數裡的%20function%20沒有在物件裡面.md)
 
