@@ -9,6 +9,10 @@ tag:
 ### 介紹
 - [JavaScript 介紹](JavaScript%20介紹.md)
 - [Library 跟 Framework](Library%20跟%20Framework.md)
+- [Single-thread](Single-thread.md)
+- [執行環境 Execution Context](執行環境%20Execution%20Context.md)
+- [詞彙環境 Lexical Environment](詞彙環境%20Lexical%20Environment.md)
+- [語法解析器 Syntax Parsers](語法解析器%20Syntax%20Parsers.md)
 
 ### 變數
 - [var, let, const 的差異](var,%20let,%20const%20的差異.md)
@@ -20,6 +24,8 @@ tag:
 - [初始化(initializer)](初始化(initializer).md)
 - [Scope 作用域](Scope%20作用域.md)
 - [Closure(Scope Chaining)](Closure(Scope%20Chaining).md)
+- [undefined](undefined.md)
+- [Invocation 呼叫函數](Invocation%20呼叫函數.md)
 
 ### 資料類型
 - [資料類型 index](資料類型%20index.md)
@@ -39,8 +45,7 @@ tag:
 	- [for in loop](for%20in%20loop.md)
 	- [for](for.md)
 
-### Execution Context
-- [執行環境 Execution Context](執行環境%20Execution%20Context.md)
+
 
 ### DOM
 - [HTMLCollection, Nodelist, array 比較](HTMLCollection,%20Nodelist,%20array%20比較.md)

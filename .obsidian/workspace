@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "不算前端也不算後端/JavaScript/變數/var, let, const 的差異.md",
+            "file": "不算前端也不算後端/JavaScript/JavaScript.md",
+            "mode": "preview",
+            "backlinks": true
+          }
+        }
+      },
+      {
+        "id": "1308f9a3ad29c23e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
             "mode": "preview",
             "backlinks": true
           }
@@ -71,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "不算前端也不算後端/JavaScript/變數/var, let, const 的差異.md",
+                "file": "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "不算前端也不算後端/JavaScript/變數/var, let, const 的差異.md"
+                "file": "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md"
               }
             }
           }
@@ -117,17 +129,17 @@
     "width": 273.3053283691406,
     "collapsed": true
   },
-  "active": "1b30cbc8c77b0b8a",
+  "active": "1308f9a3ad29c23e",
   "lastOpenFiles": [
+    "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
+    "不算前端也不算後端/JavaScript/JavaScript.md",
+    "不算前端也不算後端/JavaScript/介紹/JavaScript 介紹.md",
+    "不算前端也不算後端/JavaScript/介紹/Strongly Weakly type Language.md",
+    "不算前端也不算後端/API/AJAX/Single-thread.md",
     "不算前端也不算後端/JavaScript/變數/var, let, const 的差異.md",
     "不算前端也不算後端/JavaScript/Execution Context/執行環境 Execution Context.md",
     "不算前端也不算後端/JavaScript/變數/Scope 作用域.md",
     "Function Scope.md",
-    "undefined.md",
-    "Function 內對參數再宣告.md",
-    "重複宣告一個外層的變數.md",
-    "不算前端也不算後端/JavaScript/變數/暫時性死區(TDZ).md",
-    "重複宣告參數.md",
-    "不算前端也不算後端/JavaScript/變數/Hoisting.md"
+    "undefined.md"
   ]
 }
