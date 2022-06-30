@@ -18,5 +18,5 @@ tag:
 >- this 的差異請參照：[this 的指向](this%20的指向.md)
 
 ## Execution Phase
-開始實際一行一行跑程式（按照 [Call Stack（呼叫堆疊）](Call%20Stack（呼叫堆疊）.md)）
+開始實際一行一行跑程式（按照 [Call Stack 呼叫堆疊](Call%20Stack%20呼叫堆疊.md)）
 

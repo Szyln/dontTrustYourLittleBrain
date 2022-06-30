@@ -19,4 +19,4 @@ Function 被呼叫時的階段
 >![](this%20的指向.md#^91e83b)
 
 ### Execution Phase
-開始實際一行一行跑程式（按照 [Call Stack（呼叫堆疊）](Call%20Stack（呼叫堆疊）.md)）
+開始實際一行一行跑程式（按照 [Call Stack 呼叫堆疊](Call%20Stack%20呼叫堆疊.md)）

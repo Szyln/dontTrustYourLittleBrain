@@ -23,8 +23,8 @@ tag:
 
 | Execution Context 執行環境 \ Phase 階段 | Creation                                                                                                                                                                          | Execution                                                  |
 | --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| Global                                  | - 生成 [Window Object](Window%20Object.md) <br>- 生成 [Scope 作用域](Scope%20作用域.md)<br> - 生成 [this](this.md) (指向 [Window Object](Window%20Object.md)) <br>- [Hoisting](Hoisting.md)       | 按照 [Call Stack（呼叫堆疊）](Call%20Stack（呼叫堆疊）.md) |
-| Function                                | - 生成 [Scope 作用域](Scope%20作用域.md)<br>- 生成 [this](this.md)（==除了[箭頭函式 arrow function](箭頭函式%20arrow%20function.md)==）<br>- [Hoisting](Hoisting.md) | 按照 [Call Stack（呼叫堆疊）](Call%20Stack（呼叫堆疊）.md) |
+| Global                                  | - 生成 [Window Object](Window%20Object.md) <br>- 生成 [Scope 作用域](Scope%20作用域.md)<br> - 生成 [this](this.md) (指向 [Window Object](Window%20Object.md)) <br>- [Hoisting](Hoisting.md)       | 按照 [Call Stack 呼叫堆疊](Call%20Stack%20呼叫堆疊.md) |
+| Function                                | - 生成 [Scope 作用域](Scope%20作用域.md)<br>- 生成 [this](this.md)（==除了[箭頭函式 arrow function](箭頭函式%20arrow%20function.md)==）<br>- [Hoisting](Hoisting.md) | 按照 [Call Stack 呼叫堆疊](Call%20Stack%20呼叫堆疊.md) |
 
 ^17ae59
 

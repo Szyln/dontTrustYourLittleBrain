@@ -142,7 +142,8 @@
     "vm",
     "initializer",
     "setTimeout",
-    "Parsers"
+    "Parsers",
+    "WebAPI"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",

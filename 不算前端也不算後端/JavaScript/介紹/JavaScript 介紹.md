@@ -11,7 +11,7 @@ tag:
 >[[Strongly Weakly type Language]]
 
 ## 特性
-屬於 [[Single-thread]] 語言，一次只能處理一件事
+屬於 [[Single-thread]] 語言，一次只能處理一件事 ^56dbb9
 ```js
 // sync(Synchronous) code 同步
 console.log('a');
