@@ -8,7 +8,7 @@ tag:
 - 屬性是一個：[Key-Value Pair](Key-Value%20Pair.md) 
 	- 值 value 可以是任何[資料型別](資料型別.md)
 		- 值是 `function` 的時候則叫做 `method`
-	- 另外在 ES6 有規範了 [Function 簡寫語法糖](Function%20簡寫語法糖.md)
+	- 另外在 ES6 有規範了 [Method 簡寫語法糖](Method%20簡寫語法糖.md)
 - [Function](Function.md), [Array](Array.md) 都是一種 Object
 
 
@@ -24,19 +24,20 @@ let home = {
 ---
 
 ### 目錄
-[物件字面值](物件字面值.md)
-#### 操作 CRUD
 - [物件的傳參考特性](物件的傳參考特性.md)
-- [讀取物件](讀取物件.md)
-- [新增物件](新增物件.md)
-- [物件修改](物件修改.md)
-- [物件刪除](物件刪除.md)
-
-#### 
 - [Window Object](Window%20Object.md)
 
+#### 操作 CRUD
+- [新增物件](新增物件.md)
+- C: [物件新增屬性](物件新增屬性.md)
+- R: [物件讀取屬性](物件讀取屬性.md)
+- U: [修改物件屬性](修改物件屬性.md)
+- D: [刪除整個物件](刪除整個物件.md)
+
+
+
 #### 語法糖
-- [變數簡寫語法糖](變數簡寫語法糖.md)
+- [物件內的物件簡寫語法糖](物件內的物件簡寫語法糖.md)
 - [展開](展開.md)
 - [從物件中提取屬性到變數中 Destructing an object](從物件中提取屬性到變數中%20Destructing%20an%20object.md)
 

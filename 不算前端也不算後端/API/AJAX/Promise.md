@@ -85,7 +85,7 @@ getData('Wilson')
 	});
 
 ```
-> 也可以使用 [[箭頭函式 arrow function]]
+> 也可以使用 [[箭頭函式]]
 > ```js
 > getData('Wilson')
 > 	.then((obj) => getMovies(obj.age))

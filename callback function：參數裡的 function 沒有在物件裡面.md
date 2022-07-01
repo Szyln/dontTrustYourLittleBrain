@@ -8,7 +8,7 @@ tag:
 
 - 物件中的 function(this 為物件) 內部
 	- 呼叫有 callback function 的 function
-	- callback function 不是 [箭頭函式 arrow function](箭頭函式%20arrow%20function.md) 的話，生成的 this 指向 [Window Object](Window%20Object.md)
+	- callback function 不是 [箭頭函式](箭頭函式.md) 的話，生成的 this 指向 [Window Object](Window%20Object.md)
 
 
 ```js

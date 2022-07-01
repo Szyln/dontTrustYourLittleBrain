@@ -37,7 +37,7 @@ Student.findOne({ name: 'Eric' })
 		console.log(e);
 	})
 ```
-> 第一段要注意，有用 [[this]]，不可以隨意改成[[箭頭函式 arrow function]]
+> 第一段要注意，有用 [[this]]，不可以隨意改成[[箭頭函式]]
 ### 批次物件使用
 ```js
 // data 是包在 array 的物件們

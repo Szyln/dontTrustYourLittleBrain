@@ -12,7 +12,7 @@ Function 被呼叫時的階段
 - 生成 [[Scope 作用域]] （依照 [[範圍鏈 Scope Chaining]] 原則）
 - 生成 this 
 	- 指向看這個 function 是誰的屬性，都不是就是 [Window Object](Window%20Object.md) 的（[this 的指向](this%20的指向.md)）
-	- [箭頭函式 arrow function](箭頭函式%20arrow%20function.md) 不會生成
+	- [箭頭函式](箭頭函式.md) 不會生成
 - [[Hoisting]]
 
 >- this 的差異請參照：[this 的指向](this%20的指向.md)
