@@ -5,6 +5,8 @@ tag:
 ---
 # Logic OR (||)
 > [mdn](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_OR)
+
+可以拿來[將變數定義預設值](將變數定義預設值.md)
 ```js
 expr1 || expr2
 ```

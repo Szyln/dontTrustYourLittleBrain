@@ -17,7 +17,6 @@ tag:
 - [undefined](undefined.md)
 - [Single-thread](Single-thread.md)
 - [Invocation 呼叫函數](Invocation%20呼叫函數.md)
-- [Strongly Weakly type Language](Strongly%20Weakly%20type%20Language.md)
 - [資料型別](資料型別.md)
 	- [型別](型別.md)
 	- [原始資料類型 Primitive Data Types](原始資料類型%20Primitive%20Data%20Types.md)
@@ -25,3 +24,18 @@ tag:
 		- [優先性 Operator Precedence](優先性%20Operator%20Precedence.md)
 		- [相依性 Associativity](相依性%20Associativity.md)
 	- [Coercion 強迫](Coercion%20強迫.md)
+- [將變數定義預設值](將變數定義預設值.md)
+
+## 預設值
+## 複數 script 時的執行環境
+>TODO 與[模組](模組.md)的差異
+
+```html
+<html lang="en">
+<body>
+  <script src="./app1.js"></script>
+  <script src="./app2.js"></script>
+  <script src="./app3.js"></script>
+</body>
+</html>
+```
