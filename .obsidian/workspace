@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "不算前端也不算後端/JavaScript/資料類型/Object, Array/Object.md",
+            "file": "不算前端也不算後端/JavaScript/資料類型/JSON/JSON.md",
             "mode": "source",
             "backlinks": true
           }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "不算前端也不算後端/JavaScript/資料類型/Object, Array/Object.md",
+                "file": "不算前端也不算後端/JavaScript/資料類型/JSON/JSON.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "不算前端也不算後端/JavaScript/資料類型/Object, Array/Object.md"
+                "file": "不算前端也不算後端/JavaScript/資料類型/JSON/JSON.md"
               }
             }
           }
@@ -119,15 +119,15 @@
   },
   "active": "561511b21491838c",
   "lastOpenFiles": [
+    "不算前端也不算後端/JavaScript/資料類型/JSON/JSON.md",
+    "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
     "不算前端也不算後端/JavaScript/資料類型/Object, Array/Object.md",
+    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Object/物件新增屬性.md",
+    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Object/物件讀取屬性.md",
     "新增物件.md",
     "new Object().md",
     "不算前端也不算後端/JavaScript/物件導向 OOP/物件導向 OOP.md",
     "不算前端也不算後端/JavaScript/物件導向 OOP/Constructor.md",
-    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Object/物件字面值.md",
-    "不算前端也不算後端/JavaScript/物件導向 OOP/new.md",
-    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Object/刪除整個物件.md",
-    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Object/修改物件屬性.md",
-    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Object/物件讀取屬性.md"
+    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Object/物件字面值.md"
   ]
 }
