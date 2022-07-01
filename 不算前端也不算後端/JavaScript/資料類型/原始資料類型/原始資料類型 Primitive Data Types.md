@@ -3,14 +3,14 @@ title: "原始資料類型 Primitive Data Types"
 tag: 
 - js/dataType/primitiveDataType 
 ---
-## 原始[資料類型 index](資料類型%20index.md) primitive data types
+## 原始[資料型別](資料型別.md) primitive data types
 - **不是物件**，沒有自己的屬性與功能
 - 值，不是參考
 
 >[Primitive Coercion 將原始資料類型強制改成物件來用](Primitive%20Coercion%20將原始資料類型強制改成物件來用.md)
 
 - [Number](Number.md)
-- [string](string.md)
+- [String](String.md)
 - [Boolean](Boolean.md)
 - symbol
 

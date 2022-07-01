@@ -144,7 +144,9 @@
     "setTimeout",
     "Parsers",
     "WebAPI",
-    "mdn"
+    "mdn",
+    "BigInt",
+    "NaN"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",

@@ -42,7 +42,7 @@ const element = (
 ```
 
 ## 不同的內容則拉出來做自訂參數
-> [[string]]：可以使用 `trim()` 避免 `className` 字串沒有寫額外 `className` 的空白字串
+> [[String]]：可以使用 `trim()` 避免 `className` 字串沒有寫額外 `className` 的空白字串
 ```jsx
 // 預設 className 為空字串，不然會顯示 undefined
 function Box({className = '', ...rest}) {

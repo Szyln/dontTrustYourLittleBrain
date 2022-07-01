@@ -10,7 +10,4 @@ tag:
 console.log(0.2 + 0.1 == 0.3); // false 
 ```
 
-## 一種解決方法 toFixed(小數點第幾位)
-```js
-console.log((0.2 + 0.1).toFixed(1) == 0.3.toFixed(1)); // false 
-```
+> 想要解決這個現象的話可以用：[toFixed()：去除小數點後第幾位](toFixed()：去除小數點後第幾位.md)

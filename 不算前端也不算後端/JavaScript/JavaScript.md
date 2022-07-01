@@ -28,7 +28,7 @@ tag:
 - [Invocation 呼叫函數](Invocation%20呼叫函數.md)
 
 ### 資料類型
-- [資料類型 index](資料類型%20index.md)
+- [資料型別](資料型別.md)
 
 ### 運算
 - [運算符號 numbers operators](運算符號%20numbers%20operators.md)
