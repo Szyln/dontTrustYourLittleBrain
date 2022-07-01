@@ -109,6 +109,6 @@ function setState(newState) {
 	renderApp()
 }
 ```
->[[物件不要傳參考的時候：深層、淺層拷貝#淺層拷貝 Shallow Copy]]
+>[淺層拷貝(Shallow Copy)](淺層拷貝(Shallow%20Copy).md)
 
  #js/react/component #js/function #js/event

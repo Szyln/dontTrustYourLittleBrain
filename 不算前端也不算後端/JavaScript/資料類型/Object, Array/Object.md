@@ -25,7 +25,6 @@ let home = {
 
 ### 目錄
 - [物件的傳參考特性](物件的傳參考特性.md)
-- [Window Object](Window%20Object.md)
 
 #### 操作 CRUD
 - [新增物件](新增物件.md)
@@ -42,6 +41,13 @@ let home = {
 - [從物件中提取屬性到變數中 Destructing an object](從物件中提取屬性到變數中%20Destructing%20an%20object.md)
 
 ####
+
+- [Window Object](Window%20Object.md)
+- [Storage](Storage.md)
+
 - [物件不要傳參考的時候：深層、淺層拷貝](物件不要傳參考的時候：深層、淺層拷貝.md)
-- [深層拷貝、非 string 類型的資料類型轉換](深層拷貝、非%20string%20類型的資料類型轉換.md)
+	- [淺層拷貝(Shallow Copy)](淺層拷貝(Shallow%20Copy).md)
+	- [深層拷貝：暴力取消傳參考特性](深層拷貝：暴力取消傳參考特性.md)
+- [讓 JSON（或是字串格式） 與 JS 讀得懂彼此：格式轉換](讓%20JSON（或是字串格式）%20與%20JS%20讀得懂彼此：格式轉換.md)
+
 - [Destructing Assignment](Destructing%20Assignment.md)

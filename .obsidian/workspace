@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "不算前端也不算後端/JavaScript/資料類型/JSON/JSON.md",
-            "mode": "source",
+            "file": "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
+            "mode": "preview",
             "backlinks": true
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "asso",
+                "query": "深層拷貝",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -71,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "不算前端也不算後端/JavaScript/資料類型/JSON/JSON.md",
+                "file": "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "不算前端也不算後端/JavaScript/資料類型/JSON/JSON.md"
+                "file": "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md"
               }
             }
           }
@@ -119,15 +120,15 @@
   },
   "active": "561511b21491838c",
   "lastOpenFiles": [
-    "不算前端也不算後端/JavaScript/資料類型/JSON/JSON.md",
     "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
     "不算前端也不算後端/JavaScript/資料類型/Object, Array/Object.md",
-    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Object/物件新增屬性.md",
-    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Object/物件讀取屬性.md",
-    "新增物件.md",
-    "new Object().md",
-    "不算前端也不算後端/JavaScript/物件導向 OOP/物件導向 OOP.md",
-    "不算前端也不算後端/JavaScript/物件導向 OOP/Constructor.md",
-    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Object/物件字面值.md"
+    "讓 JSON（或是字串格式） 與 JS 讀得懂彼此：格式轉換.md",
+    "後端/Database/Database 數據庫.md",
+    "JSON.parse(JSON String)：JSON string to JS 資料型別.md",
+    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Object/深層拷貝：暴力取消傳參考特性.md",
+    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Object/物件不要傳參考的時候：深層、淺層拷貝.md",
+    "不算前端也不算後端/JavaScript/資料類型/資料類型/類型轉換.md",
+    "不算前端也不算後端/JavaScript/React/Component/定義屬性(props).md",
+    "後端/Node.js/建置/Server 建立.md"
   ]
 }

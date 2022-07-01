@@ -147,7 +147,9 @@
     "mdn",
     "BigInt",
     "NaN",
-    "truthy"
+    "truthy",
+    "stringify",
+    "NoSQL"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",

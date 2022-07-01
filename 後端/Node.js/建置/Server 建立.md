@@ -26,7 +26,7 @@ server.listen(port, hostname, () => {				// 監聽 port
 - 匯入內建模組 `http`
 - middleware（到 express再談，[[Express 的 CSS 樣式環境建置 (Serving a Static File)]]）
 - 建立 Server
-- 監聽 [[不算前端也不算後端/JavaScript/Webpack/詳細/port]]
+- 監聽 [Port](不算前端也不算後端/計算機/網路/Port.md)
 
 ### http 模組
 ```js
@@ -58,7 +58,7 @@ const server = http.createServer((req, res) => {
 #### request
 也可以使用 `req` 參數，處理傳過來的資料
 
->- parse：[[物件不要傳參考的時候：深層、淺層拷貝#深層拷貝]]
+>- parse：[JSON.parse(JSON String)：JSON string to JS 資料型別](JSON.parse(JSON%20String)：JSON%20string%20to%20JS%20資料型別.md)
 >- [[url(module)]]
 
 ```js
@@ -85,7 +85,7 @@ const server = http.createServer((req, res) => {
 ```
 
 >[[fs (File System)]]>[[writeFile]]
->[[不算前端也不算後端/JavaScript/Webpack/詳細/port]]
+>[Port](不算前端也不算後端/計算機/網路/Port.md)
 
 #### 一些規則
 ```js
@@ -97,7 +97,7 @@ res.setHeader('Content-Type', 'text/plain');
 res.writeHead(200, {'Content-Type': 'text/plain'});
 ```
 ### 監聽請求
-建立完 [[Server]] 之後，要設定一個負責接收請求的 [[不算前端也不算後端/JavaScript/Webpack/詳細/port]]，並且監聽他有沒有任何請求傳過來
+建立完 [[Server]] 之後，要設定一個負責接收請求的 [Port](不算前端也不算後端/計算機/網路/Port.md)，並且監聽他有沒有任何請求傳過來
 ```js
 // 參數 port：設定一個接收請求的 port
 // 箭頭函式：開始監聽後會出現的提示

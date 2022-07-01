@@ -49,7 +49,7 @@ HTML 屬性中，重複的屬性，後者會蓋過前者
 const props = { children: 'Hello', className: 'container' }
 const element = <div {...props} />
 ```
->[[物件不要傳參考的時候：深層、淺層拷貝]]
+>[展開](展開.md)
 
 ### 增加屬性（物件以外）
 ```jsx
