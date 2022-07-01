@@ -9,4 +9,12 @@
 
 
 >[Coercion 造成的意外](Coercion%20造成的意外.md)：盡量使用越嚴謹的 === 越好
+```js
+NaN == NaN // false
+undefined === null // false
+undefined == null // true
++0 === -0 // true  
+```
 
+
+> object 與 array 判斷是否等於，看的會是其參考地址是否相等。

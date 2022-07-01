@@ -120,14 +120,14 @@
   "active": "561511b21491838c",
   "lastOpenFiles": [
     "面試題.md",
-    "不算前端也不算後端/JavaScript/邏輯、條件、比較/迴圈/for/for.md",
-    "不算前端也不算後端/JavaScript/邏輯、條件、比較/迴圈/for/for in loop.md",
-    "不算前端也不算後端/JavaScript/實作流程相關/use-strict 嚴格模式.md",
-    "Null.md",
-    "不算前端也不算後端/JavaScript/資料類型/資料類型/Falsy Value.md",
+    "後端/Restful API/Restful API.md",
+    "其他/生活/找工作/已應徵，有讀/諾亞克科技股份有限公司.md",
     "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
-    "不算前端也不算後端/JavaScript/模組/模組.md",
-    "不算前端也不算後端/JavaScript/介紹/Strongly Weakly type Language.md",
-    "其他/生活/找工作/已應徵，有讀/諾亞克科技股份有限公司.md"
+    "不算前端也不算後端/JavaScript/邏輯、條件、比較/運算/運算子 Operator.md",
+    "比較運算子 Comparison Operators.md",
+    "Grouping(括號)：優先運算的 Operator.md",
+    "不算前端也不算後端/JavaScript/邏輯、條件、比較/條件/邏輯運算子.md",
+    "不算前端也不算後端/JavaScript/邏輯、條件、比較/迴圈/for/for.md",
+    "不算前端也不算後端/JavaScript/邏輯、條件、比較/迴圈/for/for in loop.md"
   ]
 }
