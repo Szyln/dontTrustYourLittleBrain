@@ -4,10 +4,12 @@ tag:
 - js/object
 ---
 ## 物件 Object
-- `properties` 的集合
-- `properties` 是一個：[Key-Value Pair](Key-Value%20Pair.md) 
-	- value 可以是其他的[[原始資料類型 Primitive Data Types]]，或是 [[Function]]、[[Array]]、甚至是 [[Object]]
+- 屬性(properties) 的集合
+- 屬性是一個：[Key-Value Pair](Key-Value%20Pair.md) 
+	- 值 value 可以是任何[資料型別](資料型別.md)
+		- 值是 `function` 的時候則叫做 `method`
 	- 另外在 ES6 有規範了 [Function 簡寫語法糖](Function%20簡寫語法糖.md)
+- [Function](Function.md), [Array](Array.md) 都是一種 Object
 
 
 ```js
@@ -25,7 +27,6 @@ let home = {
 [物件字面值](物件字面值.md)
 #### 操作 CRUD
 - [物件的傳參考特性](物件的傳參考特性.md)
-	- [物件傳參考](物件傳參考.md)
 - [讀取物件](讀取物件.md)
 - [新增物件](新增物件.md)
 - [物件修改](物件修改.md)

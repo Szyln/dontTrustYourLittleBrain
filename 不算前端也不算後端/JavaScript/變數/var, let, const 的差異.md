@@ -22,7 +22,7 @@ tag:
 
 - Block 中宣告：[Block Scope](Block%20Scope.md)
 - const 與 let 不同之處：是否可重新賦值
-	- 改物件（[物件傳參考](物件傳參考.md)）內部內容不算重新賦值
+	- 改物件（[物件的傳參考特性](物件的傳參考特性.md)）內部內容不算重新賦值
 
 > Function 中宣告：
 >- [Function Execution Context](Function%20Execution%20Context.md) 會形成 [Scope 作用域](Scope%20作用域.md)：[Function Scope](Function%20Scope.md)

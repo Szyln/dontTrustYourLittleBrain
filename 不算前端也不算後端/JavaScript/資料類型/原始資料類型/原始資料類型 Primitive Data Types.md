@@ -10,7 +10,7 @@ tag:
 >[Coercion 強迫](Coercion%20強迫.md)
 
 
-### [傳值 Call By Value](物件傳參考.md#傳值%20Call%20By%20Value)
+### [傳值 Call By Value](物件的傳參考特性.md#傳值%20Call%20By%20Value)
 >進階概念，需要理解 [Object](Object.md)、[物件的傳參考特性](物件的傳參考特性.md)
 
 如果複製了一個原始資料類型，更改其中一個，不會影響到另一個
