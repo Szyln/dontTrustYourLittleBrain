@@ -43,7 +43,7 @@ app.post('/formHandling', (req, res)) {
 ```
 
 >[[使用路徑的兩種寫法]]：有兩種作法
->- 單純使用[string concatenate （串接）](string%20concatenate%20（串接）.md)
+>- 單純使用[String Concatenate （串接）](String%20Concatenate%20（串接）.md)
 >- 使用 [path](path.md)
 
 ## 使用用戶填入的資訊

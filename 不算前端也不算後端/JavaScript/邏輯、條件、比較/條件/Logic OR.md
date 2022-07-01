@@ -21,6 +21,6 @@ o8 = ''    || false      // f || f returns false
 o9 = false || ''         // f || f returns ""
 o10 = false || varObject // f || object returns varObject
 ```
->- [falsy value](falsy%20value.md)
+>- [Falsy Value](Falsy%20Value.md)
 >- [Logic AND(&&)](Logic%20AND(&&).md)
 #js #logic 

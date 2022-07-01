@@ -7,7 +7,7 @@ tag:
 - **不是物件**，沒有自己的屬性與功能
 - 值，不是參考
 
->[Primitive Coercion 將原始資料類型強制改成物件來用](Primitive%20Coercion%20將原始資料類型強制改成物件來用.md)
+>[Coercion 強迫](Coercion%20強迫.md)
 
 
 ### [傳值 Call By Value](物件傳參考.md#傳值%20Call%20By%20Value)

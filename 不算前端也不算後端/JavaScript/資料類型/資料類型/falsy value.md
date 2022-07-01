@@ -1,14 +1,17 @@
 ---
-title: "falsy value"
+title: "Falsy Value"
 tag: 
 - 
 ---
-## falsy value
--   false	
--   null：宣告裡面沒有東西
--   undefined：已宣告尚未指派
--   0
--   NaN：not a number
+## Falsy Value
+- [Boolean](Boolean.md) 的 `false`
+- [Null](Null.md)
+- [undefined](undefined.md)
+- [Number](Number.md) 的 `0`, `NaN`(not a number)
+- [String](String.md) 的 `''`
 
-### 有關的主題
-[Hoisting](Hoisting.md)、[暫時性死區(TDZ)](暫時性死區(TDZ).md)
+### 不是 Falsy 
+- 具記憶體的[資料型別](資料型別.md)
+	- [Object](Object.md)
+	- [Array](Array.md)
+

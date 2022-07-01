@@ -4,17 +4,9 @@ tag:
 - js/dataType/primitiveDataType 
 ---
 # Boolean
-> - [[falsy value]]
+真假值
+ - [Falsy Value](Falsy%20Value.md)
+ - [True Value](True%20Value.md)
 
-- [Null](Null.md)
-- [undefined](undefined.md)
-
- ## true value
--   `true`
--   `42`
--   `"pizza"`
--   `NaN`：not a number
--   傳參考，有記憶體
-	-   `{}` 空 object
-	-   `[]` 空 array
-
+### 判斷時的陷阱
+- [有數字（包含 0）就當成 true 的時候](有數字（包含%200）就當成%20true%20的時候.md)

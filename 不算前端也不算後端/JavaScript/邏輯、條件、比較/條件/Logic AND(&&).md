@@ -20,4 +20,4 @@ result = 2 && 0;       // 回傳偽值
 result = 'foo' && 4;   // 回傳 expr2
 ```
 
->[falsy value](falsy%20value.md)
+>[Falsy Value](Falsy%20Value.md)

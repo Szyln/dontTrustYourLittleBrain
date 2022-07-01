@@ -55,7 +55,7 @@ ReactDOM.render(<Greeting />, document.querySelector('#root'))
 
 
 ## 不同[資料型別](資料型別.md) 對應的空的預設值
-| 資料類型 | 空的預設值([falsy value](falsy%20value.md)) |
+| 資料類型 | 空的預設值([Falsy Value](Falsy%20Value.md)) |
 | -------- | ------------------------------------------------------------------------ |
 | string   | ''                                                                       |
 | object   | null                                                                     |

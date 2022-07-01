@@ -11,6 +11,9 @@ Operators 是 function ^18960d
 - [邏輯運算子](邏輯運算子.md)
 - [Assignment Operator(=)：指派、賦值、初始化](Assignment%20Operator(=)：指派、賦值、初始化.md)
 - [Grouping(括號)：優先運算的 Operator](Grouping(括號)：優先運算的%20Operator.md)
+- [比較運算子 Comparison Operators](比較運算子%20Comparison%20Operators.md)
+- [邏輯運算子](邏輯運算子.md)
+- [Coercion 強迫](Coercion%20強迫.md)
 
 ## `+=, -=, *=, /=`
 語法糖，簡寫

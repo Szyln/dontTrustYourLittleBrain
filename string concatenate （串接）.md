@@ -1,4 +1,4 @@
-## string concatenate （串接）
+## String Concatenate （串接）
 > 串接 concatenate 簡稱 concat
 
 ```js
@@ -6,7 +6,7 @@ let str = `hi` + ", I am fine."
 ```
 
 - string 可以做串接（`+`），但不能做運算（加減乘除）
-- `string` 可以串接 `number`
+- `string` 可以串接 `number`，會當成 `string` ^577182
 
 > 但在 python 可以做乘法
 

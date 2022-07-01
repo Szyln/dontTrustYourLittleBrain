@@ -4,6 +4,7 @@ tag:
 - 
 ---
 # 條件語句｜if, switch
+> 尚未整理：[有數字（包含 0）就當成 true 的時候](有數字（包含%200）就當成%20true%20的時候.md)
 ## 程式的運算思維
 -   流程圖：[Whimsical](https://whimsical.com/)
 ## if, if else, else if
@@ -45,4 +46,6 @@ switch (option) {
 
 -   if｜一旦符合即停止
 -   switch｜碰到 break 即停止
+
+
 #js #math #logic
