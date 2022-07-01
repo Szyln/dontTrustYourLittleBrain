@@ -9,10 +9,6 @@ tag:
 
 >[Primitive Coercion 將原始資料類型強制改成物件來用](Primitive%20Coercion%20將原始資料類型強制改成物件來用.md)
 
-- [Number](Number.md)
-- [String](String.md)
-- [Boolean](Boolean.md)
-- symbol
 
 ### [傳值 Call By Value](物件傳參考.md#傳值%20Call%20By%20Value)
 >進階概念，需要理解 [Object](Object.md)、[物件的傳參考特性](物件的傳參考特性.md)
@@ -26,3 +22,5 @@ let n2 = n1;
 n1 = 1;
 console.log(n1, n2); // 傳值的特性 log 1 100
 ```
+
+![](資料型別.md#^28bc34)

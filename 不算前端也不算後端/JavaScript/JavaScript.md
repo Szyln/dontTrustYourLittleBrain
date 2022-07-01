@@ -31,7 +31,7 @@ tag:
 - [資料型別](資料型別.md)
 
 ### 運算
-- [運算符號 numbers operators](運算符號%20numbers%20operators.md)
+- [運算子 Operator](運算子%20Operator.md)
 - [Math Object](Math%20Object.md)
 ### 條件
 - [條件簡寫 ternary operator(語法糖)](條件簡寫%20ternary%20operator(語法糖).md)

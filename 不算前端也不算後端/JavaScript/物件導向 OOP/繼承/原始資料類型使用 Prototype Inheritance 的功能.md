@@ -6,6 +6,7 @@ tag:
 ---
 # 原始資料類型使用 Prototype Inheritance 的功能
 ## Coercion
+JS 屬於 
 [原始資料類型 Primitive Data Types](原始資料類型%20Primitive%20Data%20Types.md) 沒有自己的 methods，但因為 JS 有 Coercion 的特性，就算不是物件，也可以使用物件繼承來的功能。 
 ## 示範
 [Primitive Coercion 將原始資料類型強制改成物件來用](Primitive%20Coercion%20將原始資料類型強制改成物件來用.md)

@@ -14,5 +14,5 @@ console.log(Infinity / Infinity); // log Infinity 跟微積分有關（好）
 NaN === NaN; // log false 想要認定是否為 NaN 要用 isNaN
 ```
 
->[運算符號 numbers operators](運算符號%20numbers%20operators.md)
+>[運算子 Operator](運算子%20Operator.md)
 

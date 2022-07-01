@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "不算前端也不算後端/JavaScript/資料類型/原始資料類型/String.md",
+            "file": "不算前端也不算後端/JavaScript/React/Form/Dynamic Form in React.md",
             "mode": "source",
             "backlinks": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Closure 閉包",
+                "query": "typi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -54,8 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263,
-    "collapsed": true
+    "width": 263
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -72,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "不算前端也不算後端/JavaScript/資料類型/原始資料類型/String.md",
+                "file": "不算前端也不算後端/JavaScript/React/Form/Dynamic Form in React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "不算前端也不算後端/JavaScript/資料類型/原始資料類型/String.md"
+                "file": "不算前端也不算後端/JavaScript/React/Form/Dynamic Form in React.md"
               }
             }
           }
@@ -120,15 +119,15 @@
   },
   "active": "30119348c490f401",
   "lastOpenFiles": [
-    "不算前端也不算後端/JavaScript/資料類型/原始資料類型/String.md",
-    "不算前端也不算後端/JavaScript/資料類型/資料型別.md",
+    "不算前端也不算後端/JavaScript/React/Form/Dynamic Form in React.md",
+    "不算前端也不算後端/JavaScript/React/React.md",
+    "不算前端也不算後端/JavaScript/物件導向 OOP/繼承/原始資料類型使用 Prototype Inheritance 的功能.md",
+    "不算前端也不算後端/JavaScript/資料類型/原始資料類型/原始資料類型 Primitive Data Types.md",
+    "不算前端也不算後端/JavaScript/資料類型/資料類型/Primitive Coercion 將原始資料類型強制改成物件來用.md",
+    "不算前端也不算後端/JavaScript/物件導向 OOP/繼承/Prototype Inheritance.md",
+    "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
+    "不算前端也不算後端/JavaScript/邏輯、條件、比較/運算/運算子 Operator.md",
     "不算前端也不算後端/JavaScript/資料類型/原始資料類型/Number/Number.md",
-    "不算前端也不算後端/JavaScript/資料類型/原始資料類型/Number/Floating Point.md",
-    "不算前端也不算後端/JavaScript/資料類型/原始資料類型/Boolean.md",
-    "Null.md",
-    "undefined.md",
-    "useState 預設值為 null 的問題.md",
-    "不算前端也不算後端/JavaScript/資料類型/資料類型/MDN 資料類型方便查看的連結.md",
-    "不算前端也不算後端/JavaScript/資料類型/原始資料類型/原始資料類型 Primitive Data Types.md"
+    "未命名.md"
   ]
 }

@@ -20,3 +20,7 @@ tag:
 - [Strongly Weakly type Language](Strongly%20Weakly%20type%20Language.md)
 - [型別](型別.md)
 	- [原始資料類型 Primitive Data Types](原始資料類型%20Primitive%20Data%20Types.md)
+	- [運算子 Operator](運算子%20Operator.md)
+		- [優先性 Operator Precedence](優先性%20Operator%20Precedence.md)
+		- [相依性 Associativity](相依性%20Associativity.md)
+	- [Primitive Coercion 將原始資料類型強制改成物件來用](Primitive%20Coercion%20將原始資料類型強制改成物件來用.md)

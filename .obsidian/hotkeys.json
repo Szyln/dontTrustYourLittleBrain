@@ -169,5 +169,22 @@
       ],
       "key": "T"
     }
+  ],
+  "easy-typing-obsidian:easy-typing-format-selection": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Tab"
+    }
+  ],
+  "note-composer:split-file": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
   ]
 }

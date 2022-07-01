@@ -18,6 +18,8 @@ tag:
 |再指派（re-assignment 賦值）|可|可|炸|
 |未[[初始化(initializer)]]就使用([undefined](undefined.md))|可|可|炸|
 
+^1f3f2a
+
 - Block 中宣告：[Block Scope](Block%20Scope.md)
 - const 與 let 不同之處：是否可重新賦值
 	- 改物件（[物件傳參考](物件傳參考.md)）內部內容不算重新賦值
