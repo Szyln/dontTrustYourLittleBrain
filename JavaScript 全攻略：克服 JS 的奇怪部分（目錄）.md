@@ -17,3 +17,6 @@ tag:
 - [undefined](undefined.md)
 - [Single-thread](Single-thread.md)
 - [Invocation 呼叫函數](Invocation%20呼叫函數.md)
+- [Strongly Weakly type Language](Strongly%20Weakly%20type%20Language.md)
+- [型別](型別.md)
+	- [原始資料類型 Primitive Data Types](原始資料類型%20Primitive%20Data%20Types.md)

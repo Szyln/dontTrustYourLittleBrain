@@ -16,7 +16,6 @@ tag:
 - [原始資料類型 Primitive Data Types](原始資料類型%20Primitive%20Data%20Types.md)
 	- [Primitive Coercion 將原始資料類型強制改成物件來用](Primitive%20Coercion%20將原始資料類型強制改成物件來用.md)
 	- [原始資料類型使用 Prototype Inheritance 的功能](原始資料類型使用%20Prototype%20Inheritance%20的功能.md)
-
 - [Object](Object.md)
 	- [Function](Function.md)
 	- [Window Object](Window%20Object.md)

@@ -16,7 +16,7 @@
 |其他 Object|`"object"`|
 最新的 ECMAScript 標準定義了七種資料型別：
 
--   有六種資料型別是[原始型別 (en-US)](https://developer.mozilla.org/en-US/docs/Glossary/Primitive "Currently only available in English (US)")：
+-   [原始型別 (en-US)](https://developer.mozilla.org/en-US/docs/Glossary/Primitive "Currently only available in English (US)")：
     -   [Boolean](https://developer.mozilla.org/zh-TW/docs/Glossary/Boolean)
     -   [Null](https://developer.mozilla.org/zh-TW/docs/Glossary/Null)
     -   [Undefined (en-US)](https://developer.mozilla.org/en-US/docs/Glossary/undefined "Currently only available in English (US)")
@@ -24,4 +24,4 @@
     -   [BigInt (en-US)](https://developer.mozilla.org/en-US/docs/Glossary/BigInt "Currently only available in English (US)")
     -   [String (en-US)](https://developer.mozilla.org/en-US/docs/Glossary/String "Currently only available in English (US)")
     -   [Symbol (en-US)](https://developer.mozilla.org/en-US/docs/Glossary/Symbol "Currently only available in English (US)")（於 ECMAScript 6 新定義）
--   另外還有 [Object](https://developer.mozilla.org/zh-TW/docs/Glossary/Object)
+-   非原始型別 [Object](https://developer.mozilla.org/zh-TW/docs/Glossary/Object)

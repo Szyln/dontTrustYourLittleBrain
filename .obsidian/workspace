@@ -6,23 +6,25 @@
       {
         "id": "1b30cbc8c77b0b8a",
         "type": "leaf",
+        "dimension": 30.81664098613251,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Concurrency（並行性）& Event Loop.md",
+            "file": "不算前端也不算後端/JavaScript/資料類型/原始資料類型/原始資料類型 Primitive Data Types.md",
             "mode": "preview",
             "backlinks": true
           }
         }
       },
       {
-        "id": "9ceaad136996d349",
+        "id": "4b6e6b6ed98a4261",
         "type": "leaf",
+        "dimension": 69.18335901386749,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "面試題.md",
-            "mode": "source",
+            "file": "後端/Restful API/Restful API 介紹.md",
+            "mode": "preview",
             "backlinks": true
           }
         }
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "面試題.md",
+                "file": "後端/Restful API/Restful API 介紹.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面試題.md"
+                "file": "後端/Restful API/Restful API 介紹.md"
               }
             }
           }
@@ -130,17 +132,17 @@
     "width": 273.3053283691406,
     "collapsed": true
   },
-  "active": "9ceaad136996d349",
+  "active": "4b6e6b6ed98a4261",
   "lastOpenFiles": [
-    "面試題.md",
-    "不算前端也不算後端/計算機/網路/註解/網路請求 常見面試題目.md",
-    "Concurrency（並行性）& Event Loop.md",
-    "callback function：參數裡的 function 沒有在物件裡面.md",
-    "不算前端也不算後端/JavaScript/變數/Scope 作用域.md",
+    "後端/Restful API/Restful API 介紹.md",
+    "後端/Restful API/Restful API.md",
+    "不算前端也不算後端/JavaScript/資料類型/資料類型/MDN 資料類型方便查看的連結.md",
+    "不算前端也不算後端/JavaScript/資料類型/資料類型 index.md",
+    "不算前端也不算後端/JavaScript/資料類型/原始資料類型/原始資料類型 Primitive Data Types.md",
     "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
-    "不算前端也不算後端/JavaScript/JavaScript.md",
-    "不算前端也不算後端/JavaScript/Execution Context/執行環境 Execution Context.md",
-    "Function Execution Context.md",
-    "this 的指向.md"
+    "不算前端也不算後端/JavaScript/介紹/Strongly Weakly type Language.md",
+    "Concurrency（並行性）& Event Loop.md",
+    "面試題.md",
+    "不算前端也不算後端/計算機/網路/註解/網路請求 常見面試題目.md"
   ]
 }
