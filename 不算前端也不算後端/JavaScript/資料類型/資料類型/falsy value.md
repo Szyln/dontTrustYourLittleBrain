@@ -12,6 +12,6 @@ tag:
 
 ### 不是 Falsy 
 - 具記憶體的[資料型別](資料型別.md)
-	- [Object](Object.md)
+	- [Object](Object.md)（但 [Null](Null.md) 是 [Falsy Value](Falsy%20Value.md)）
 	- [Array](Array.md)
 

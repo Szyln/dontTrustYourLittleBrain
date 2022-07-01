@@ -146,7 +146,8 @@
     "WebAPI",
     "mdn",
     "BigInt",
-    "NaN"
+    "NaN",
+    "truthy"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",

@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "27f46f27433d0df2",
+        "id": "561511b21491838c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
+            "file": "面試題.md",
             "mode": "source",
             "backlinks": true
           }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
+                "file": "面試題.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md"
+                "file": "面試題.md"
               }
             }
           }
@@ -117,17 +117,17 @@
     "width": 273.3053283691406,
     "collapsed": true
   },
-  "active": "27f46f27433d0df2",
+  "active": "561511b21491838c",
   "lastOpenFiles": [
+    "面試題.md",
+    "不算前端也不算後端/JavaScript/邏輯、條件、比較/迴圈/for/for.md",
+    "不算前端也不算後端/JavaScript/邏輯、條件、比較/迴圈/for/for in loop.md",
+    "不算前端也不算後端/JavaScript/實作流程相關/use-strict 嚴格模式.md",
+    "Null.md",
+    "不算前端也不算後端/JavaScript/資料類型/資料類型/Falsy Value.md",
     "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
     "不算前端也不算後端/JavaScript/模組/模組.md",
     "不算前端也不算後端/JavaScript/介紹/Strongly Weakly type Language.md",
-    "其他/生活/找工作/已應徵，有讀/諾亞克科技股份有限公司.md",
-    "將變數定義預設值.md",
-    "不算前端也不算後端/JavaScript/邏輯、條件、比較/條件/Logic OR.md",
-    "不算前端也不算後端/JavaScript/物件導向 OOP/物件導向 OOP.md",
-    "不算前端也不算後端/JavaScript/資料類型/資料型別.md",
-    "不算前端也不算後端/JavaScript/資料類型/原始資料類型/Boolean.md",
-    "不算前端也不算後端/JavaScript/資料類型/資料類型/Falsy Value.md"
+    "其他/生活/找工作/已應徵，有讀/諾亞克科技股份有限公司.md"
   ]
 }
