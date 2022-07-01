@@ -4,7 +4,7 @@ tag:
 - js/function
 ---
 ## 函式 function
-一種物件
+- 一種物件
 ```js
 // function declaration
 function 名稱(parameter) {
@@ -28,7 +28,9 @@ function 名稱(parameter) {
 ### 目錄
 - [return](return.md)
 - [函式表達式 function expression](函式表達式%20function%20expression.md)
-- [Higher Order Function](Higher%20Order%20Function.md)
+- [Callback Function](Callback%20Function.md)
+	- [Higher Order Function](Higher%20Order%20Function.md)
+	- [Inline Function Expression](Inline%20Function%20Expression.md)
 - [IIFE](IIFE.md)
 - [原生 function](原生%20function.md)
 - [console.log](console.log.md)

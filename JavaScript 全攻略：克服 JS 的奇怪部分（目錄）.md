@@ -32,4 +32,13 @@ tag:
 
 - Object
 	- [用物件做 Name Space](用物件做%20Name%20Space.md)
-	- [JSON](JSON.md)
+	- 很像但不一樣的格式：[JSON](JSON.md)
+	- [Function](Function.md)
+
+## 一級函式 First Class Functions
+對其他[資料型別](資料型別.md)做的事，都可以對 [Function](Function.md) 做
+- 指派給變數：[函式表達式 function expression](函式表達式%20function%20expression.md)
+- 當 Function 的參數：Callback Function
+- 
+
+> 也有其他語言有這個功能，但 JS 中最活躍

@@ -10,6 +10,8 @@ tag:
 	- 呼叫有 callback function 的 function
 	- callback function 不是 [箭頭函式](箭頭函式.md) 的話，生成的 this 指向 [Window Object](Window%20Object.md)
 
+>[this 的指向](this%20的指向.md)
+
 
 ```js
 let a = 1
