@@ -11,14 +11,16 @@ const newObject = Object.assign({}, originObject)
 - 第一個 parameter 放空的 object (建立新的記憶體空間)
 - 第二個放想要原有的 object（會在第一個參數的空物件中展開）
 
-### 在新的空 object 內[[展開]]
+### 在新的空 object 內展開
+>[展開](展開.md)
 ```js
 const newObject2 = {
     ...originObject
 }
 ```
 
-### [Assignment Operator (=)：指派、賦值、初始化](Assignment%20Operator (=)：指派、賦值、初始化. Md) 會配給物件新的記憶體
+### `=` 會配給物件新的記憶體
+>[Assignment Operator(=)：指派、賦值、初始化](Assignment%20Operator(=)：指派、賦值、初始化.md) 
 ```js
 let a = { a: 1 }
 let b = a // link

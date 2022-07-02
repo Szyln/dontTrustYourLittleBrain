@@ -11,6 +11,10 @@ tag:
 - call
 - apply
 
+|      | bind                         | call                                                                          | apply |
+| ---- | ---------------------------- | ----------------------------------------------------------------------------- | ----- |
+| 寫法 | let a = simpleCall.bind(obj) | `simpleCall.call(obj)`<br>函式有其他參數：`simpleCall.call(obj, ...argument)` |       |
+
 ## bind
 綁定 [[this]] 指向，需要把 bind 過的內容丟到一個新的變數內使用
 

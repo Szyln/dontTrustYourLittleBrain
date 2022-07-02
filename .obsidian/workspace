@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "561511b21491838c",
+        "id": "61b97d43831ce578",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
+            "file": "不算前端也不算後端/JavaScript/資料類型/Function/置換函式的 this 指向.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -73,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
+                "file": "不算前端也不算後端/JavaScript/資料類型/Function/置換函式的 this 指向.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md"
+                "file": "不算前端也不算後端/JavaScript/資料類型/Function/置換函式的 this 指向.md"
               }
             }
           }
@@ -119,17 +119,17 @@
     "width": 273.3053283691406,
     "collapsed": true
   },
-  "active": "561511b21491838c",
+  "active": "61b97d43831ce578",
   "lastOpenFiles": [
-    "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
-    "不算前端也不算後端/JavaScript/資料類型/Function/this.md",
-    "置換 this 指向.md",
     "不算前端也不算後端/JavaScript/資料類型/Function/置換函式的 this 指向.md",
-    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Array.md",
-    "傳值與傳參考.md",
+    "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
+    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Object/展開.md",
+    "Spread Parameter.md",
+    "Arguments.md",
+    "Arguments 也是 Function 的屬性.md",
     "淺層拷貝(Shallow Copy).md",
-    "改變 Mutate.md",
-    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Object.md",
-    "傳參考 By Reference.md"
+    "物件擴展，導入更多物件.md",
+    "陣列擴展，不同陣列合併.md",
+    "不算前端也不算後端/JavaScript/資料類型/Function/this.md"
   ]
 }
