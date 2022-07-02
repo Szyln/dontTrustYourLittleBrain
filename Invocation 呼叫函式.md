@@ -1,4 +1,4 @@
-## Invocation 呼叫函數
+## Invocation 呼叫函式
 ```js
 function fn() {
 	console.log('invocated!')

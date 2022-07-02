@@ -13,7 +13,7 @@ tag:
 	- [執行環境 Execution Context](執行環境%20Execution%20Context.md)
 	- [詞彙環境 Lexical Environment](詞彙環境%20Lexical%20Environment.md)
 		- [Variable Environment](Variable%20Environment.md)
-	- [Invocation 呼叫函數](Invocation%20呼叫函數.md)
+	- [Invocation 呼叫函式](Invocation%20呼叫函式.md)
 - [將變數定義預設值](將變數定義預設值.md)
 - [複數 script 時的執行環境](複數%20script%20時的執行環境.md)
 
@@ -38,7 +38,21 @@ tag:
 ## 一級函式 First Class Functions
 對其他[資料型別](資料型別.md)做的事，都可以對 [Function](Function.md) 做
 - 指派給變數：[函式表達式 function expression](函式表達式%20function%20expression.md)
-- 當 Function 的參數：Callback Function
-- 
+- 當 Function 的參數：[Callback Function](Callback%20Function.md)
+- 像物件一樣新增屬性、方法
+
+### 只有 function 型別有的
+```js
+// name 是一個 function 的屬性
+function name(param) {
+	// 這裡的 code 也是 function 的屬性
+	// code here
+	console.log(param)
+}
+```
+
+- Function 的物件屬性
+	- name(optional)
+	- code（可以拿來 [Invocation 呼叫函式](Invocation%20呼叫函式.md)）
 
 > 也有其他語言有這個功能，但 JS 中最活躍

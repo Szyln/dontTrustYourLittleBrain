@@ -25,7 +25,7 @@ tag:
 - [Scope 作用域](Scope%20作用域.md)
 - [範圍鏈 Scope Chaining](範圍鏈%20Scope%20Chaining.md)
 - [undefined](undefined.md)
-- [Invocation 呼叫函數](Invocation%20呼叫函數.md)
+- [Invocation 呼叫函式](Invocation%20呼叫函式.md)
 
 ### 資料類型
 - [資料型別](資料型別.md)
