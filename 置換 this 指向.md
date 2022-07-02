@@ -1,6 +1,7 @@
-## 在 vue 置換 this 指向
-- 先讓 this 設定指向其他變數：vm (Vue 中指的 ViewModel)
-- 使用箭頭函式
+## 置換 this 指向
+兩種方法
+- 先讓 this 設定指向其他變數：vm (Vue 中指的 ViewModel) 或是其他命名
+- 使用[箭頭函式](箭頭函式.md)
 
 ### 先讓 this 設定指向其他變數：vm 
 在 function 外面抓取外部的 vm

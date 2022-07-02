@@ -17,3 +17,10 @@ const newObject2 = {
     ...originObject
 }
 ```
+
+### [Assignment Operator (=)：指派、賦值、初始化](Assignment%20Operator (=)：指派、賦值、初始化. Md) 會配給物件新的記憶體
+```js
+let a = { a: 1 }
+let b = a // link
+let b = { c: 2 } // 這個是直接改變數對應的記憶體，不會跟 a 有 link 關係
+```

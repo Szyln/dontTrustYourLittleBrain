@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "深層拷貝",
+                "query": "bind",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -122,14 +122,14 @@
   "active": "561511b21491838c",
   "lastOpenFiles": [
     "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
+    "不算前端也不算後端/JavaScript/資料類型/Function/this.md",
+    "置換 this 指向.md",
+    "不算前端也不算後端/JavaScript/資料類型/Function/置換函式的 this 指向.md",
+    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Array.md",
+    "傳值與傳參考.md",
+    "淺層拷貝(Shallow Copy).md",
     "改變 Mutate.md",
     "不算前端也不算後端/JavaScript/資料類型/Object, Array/Object.md",
-    "傳值與傳參考.md",
-    "傳參考 By Reference.md",
-    "傳值 By Value.md",
-    "一級函式 First Class Functions.md",
-    "不算前端也不算後端/JavaScript/資料類型/Function/Function.md",
-    "Inline Function Expression.md",
-    "不算前端也不算後端/JavaScript/資料類型/Function/函式表達式 function expression.md"
+    "傳參考 By Reference.md"
   ]
 }

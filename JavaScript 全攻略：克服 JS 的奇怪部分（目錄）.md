@@ -39,5 +39,50 @@ tag:
 			- [Inline Function Expression](Inline%20Function%20Expression.md)
 	- [傳值與傳參考](傳值與傳參考.md)
 	- [改變 Mutate](改變%20Mutate.md)
-	- 
+	- [Array](Array.md)
 
+## Arguments
+傳入函式中的參數，預設 `undefined`（與 [Hoisting](Hoisting.md) 有關）
+
+```js
+// 定義的時候叫 parameter
+function fn1(parameters) {
+	console.log(parameters)	
+}
+fn1(); // log undefined
+// 導入的時候叫 argument
+fn1(argument)
+```
+
+- [更改參數預設](更改參數預設.md)
+
+### Arguments 也是屬性
+不完全是一個陣列，但是一個類陣列
+```js
+function fn1(a, b, c) {
+  console.log(a, b, c);
+  console.log(arguments, typeof arguments);
+
+}
+fn1(2, 3, 5)
+// log 2 3 5
+// log 看圖
+```
+
+![](https://i.imgur.com/Lb98kRF.png)
+### 應用
+```js
+function fn1(a, b, c) {
+	if (arguments.length < 3) {
+		console.log('缺少某個參數！')
+		return
+	} else if (arguments.length > 3) {
+		console.log('參數多寫了！')
+		return
+	}
+  console.log(a, b, c);
+  console.log(arguments, typeof arguments);
+
+}
+fn1(2, 3, 5)
+```

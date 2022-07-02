@@ -17,7 +17,7 @@ tag:
 - [function 被 object 呼叫](function%20被%20object%20呼叫.md)
 - [不同物件呼叫了同名的函式](不同物件呼叫了同名的函式.md)
 - [箭頭函式](箭頭函式.md)
-- [在 vue 置換 this 指向](在%20vue%20置換%20this%20指向.md)
+- [置換 this 指向](置換%20this%20指向.md)
 
 ### 陷阱題
 - [Object 中還有 Object](Object%20中還有%20Object.md)
