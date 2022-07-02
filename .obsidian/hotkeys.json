@@ -186,5 +186,13 @@
       ],
       "key": "C"
     }
+  ],
+  "editor:toggle-code": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "`"
+    }
   ]
 }

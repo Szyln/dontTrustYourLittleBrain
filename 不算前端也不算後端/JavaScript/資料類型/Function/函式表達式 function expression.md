@@ -25,6 +25,9 @@ const fnB = function fnA(parameter) {
 ```js
 // 有參數的要放 argument
 fnA()
+
+// 沒有寫 () 的話就是單純看這個函式的內容
+console.log(fnA)
 ```
 
 >- [Callback Function](Callback%20Function.md)

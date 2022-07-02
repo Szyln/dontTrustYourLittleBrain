@@ -4,11 +4,15 @@ tag:
 - js/function
 ---
 ## 函式 function
-- 一種物件
+- 也是一種物件：[函式 Function 的物件屬性](函式%20Function%20的物件屬性.md)
+
+
+
 ```js
 // function declaration
-function 名稱(parameter) {
- 功能(parameter);
+function name(parameter) {
+	// code 
+	// parameter 可以放進來寫
 }
 
 // invoke(執行)

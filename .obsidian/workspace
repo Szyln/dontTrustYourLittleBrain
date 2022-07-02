@@ -11,7 +11,8 @@
           "state": {
             "file": "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
             "mode": "source",
-            "backlinks": true
+            "backlinks": true,
+            "source": false
           }
         }
       },
@@ -21,9 +22,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "不算前端也不算後端/JavaScript/資料類型/Function/Function.md",
-            "mode": "preview",
-            "backlinks": true
+            "file": "函式 Function 的物件屬性.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
           }
         }
       }
@@ -133,14 +135,14 @@
   "active": "561511b21491838c",
   "lastOpenFiles": [
     "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
-    "Invocation 呼叫函式.md",
+    "函式 Function 的物件屬性.md",
     "不算前端也不算後端/JavaScript/資料類型/Function/Function.md",
-    "Callback Function.md",
     "不算前端也不算後端/JavaScript/資料類型/Function/函式表達式 function expression.md",
+    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Object.md",
+    "Invocation 呼叫函式.md",
+    "Callback Function.md",
     "callback function：參數裡的 function 沒有在物件裡面.md",
     "Inline Function Expression.md",
-    "不算前端也不算後端/JavaScript/資料類型/JSON/JSON.md",
-    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Object.md",
-    "讓 JSON（或是字串格式） 與 JS 讀得懂彼此：格式轉換.md"
+    "不算前端也不算後端/JavaScript/資料類型/JSON/JSON.md"
   ]
 }
