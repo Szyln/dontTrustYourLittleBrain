@@ -4,10 +4,6 @@ tag:
 - js/function
 ---
 ## 函式 function
-- 也是一種物件：[函式 Function 的物件屬性](函式%20Function%20的物件屬性.md)
-
-
-
 ```js
 // function declaration
 function name(parameter) {
@@ -25,19 +21,21 @@ function name(parameter) {
 	- 可讀性
 	- 方便使用性
 - 再設定「參數」，讓 function 可以更加客製化
-- 也有原生的 function
 
 ---
 
 ### 目錄
+ >JS 的函式很萬能：[一級函式 First Class Functions](一級函式%20First%20Class%20Functions.md)
+ 
 - [return](return.md)
+- 也是一種物件：[函式 Function 的物件屬性](函式%20Function%20的物件屬性.md)
 - [函式表達式 function expression](函式表達式%20function%20expression.md)
 - [Callback Function](Callback%20Function.md)
 	- [Higher Order Function](Higher%20Order%20Function.md)
 	- [Inline Function Expression](Inline%20Function%20Expression.md)
 - [IIFE](IIFE.md)
 - [原生 function](原生%20function.md)
-- [console.log](console.log.md)
+	- [console.log](console.log.md)
 
 #### this 
 - [this](this.md)

@@ -1,11 +1,11 @@
 ---
-title: "傳參考 Call By Reference"
+title: "傳參考 By Reference"
 aliases: <reference data types>,
 tag: 
 - 
 ---
 
-##  傳參考 Call By Reference
+##  傳參考 By Reference
 >[參考](參考.md)
 >
 - 把記憶位置傳到另一個物件的記憶體位置上，為 link 非 copy
