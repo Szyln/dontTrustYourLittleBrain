@@ -24,7 +24,7 @@ tag:
 ### 在全域下
 ```js
 // 在全域直接寫
-'use-strict';
+'use strict';
 
 // 開始寫程式碼
 ```
@@ -32,7 +32,7 @@ tag:
 ### 在 [[Function]] 下
 ```js
 function fn() {
-	'use-strict';
+	'use strict';
 	
 	// 開始寫 function 內容
 }

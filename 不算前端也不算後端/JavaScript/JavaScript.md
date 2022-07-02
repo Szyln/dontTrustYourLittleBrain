@@ -84,7 +84,7 @@ tag:
 - [comment](comment.md)
 - [flow](flow.md)
 - [命名習慣 Naming Convention](命名習慣%20Naming%20Convention.md)
-- [use-strict 嚴格模式](use-strict%20嚴格模式.md)
+- [use strict 嚴格模式](use%20strict%20嚴格模式.md)
 - [僅將字串的第一個字轉為大寫](僅將字串的第一個字轉為大寫.md)
 ### Debug
 - [Debug and Lint](Debug%20and%20Lint.md)

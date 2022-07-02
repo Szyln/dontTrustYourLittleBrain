@@ -44,73 +44,12 @@ tag:
 		- [Arguments](Arguments.md)
 			- [Spread Parameter](Spread%20Parameter.md)
 
+- [閉包 Closure](閉包%20Closure.md)
 
 ### Framework
 - [Function Overloading 重載函式](Function%20Overloading%20重載函式.md)
 - [White space](White%20space.md)
 - [用 IIFE 製作安全的程式碼](用%20IIFE%20製作安全的程式碼.md)
 
+## Function Factories
 
-## 閉包 Closure
-- `function`（稱 A） 的 `return` 是另一個 `function`（稱 B）
-- A 得到 `return` 的時候，A 的 [Function Execution Context](Function%20Execution%20Context.md) 已經結束，從 Stack（[Call Stack 呼叫堆疊](Call%20Stack%20呼叫堆疊.md)）中清除
-	- 但 A 中 [Arguments](Arguments.md), 或是宣告都會保留在記憶體中，讓 return 始用
-- B 開始執行他的 [Function Execution Context](Function%20Execution%20Context.md)
-	- 遇到要從 A 拿的值，還是拿得到（Closure）
-
-這種把已經結束的函式 (A) 的宣告，留在 `return` 的函式（B）可以讀取的範圍內的現象就稱為閉包 Closure
-
-### 範例
-```js
-function greet(lines) {
-	return function(name) {
-		console.log(`${lines}, ${name}`)	
-	}
-}
-// 可以這樣呼叫
-greet('hi')('Amy')	// log hi, Amy
-// 或是這樣寫
-const sayHi = greet('hi')
-sayHi('Amy')				// log hi, Amy
-```
-不是參數也可以
-```js
-function fn1(a) {
-  let b = 'b'
-  function fnInFn1() {
-    console.log('fnInFn1 in fn1');
-    
-  }
-  return function fn2(c) {
-    console.log(a, b, c);   // 可以讀取
-    fnInFn1()   						// 可以執行
-  }
-}
-const fn3 = fn1('a')
-fn3('c')			
-// log a b c
-// log fnn in fn1
-```
-
-## for
-```js
-function buildFn() {
-  const arr = []
-  // var 跟 let 會有不同效果請注意（跟嚴格模式無關）
-  for (var i = 0; i < 3; i++) {
-    arr.push(
-      function () {
-        console.log(i)
-      }
-    )
-  }
-
-  return arr
-}
-const buildedArr = buildFn()
-buildedArr[0]()
-buildedArr[1]()
-buildedArr[2]()
-// var: log 三次 3
-// let: log 0, log 1, log 2
-```
