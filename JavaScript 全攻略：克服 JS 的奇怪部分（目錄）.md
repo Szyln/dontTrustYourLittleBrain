@@ -55,7 +55,12 @@ tag:
 ```js
 function greet(lines) {
 	return function(name) {
-		console.log(`$lines)	
+		console.log(`${lines}, ${name}`)	
 	}
 }
+// 可以這樣呼叫
+greet('hi')('Amy')
+// 或是這樣
+const sayHi = greet('hi')
+sayHi('Amy')
 ```
