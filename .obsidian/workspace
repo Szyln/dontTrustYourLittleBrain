@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他/生活/找工作/職缺台北.md",
+            "file": "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
             "mode": "source",
             "backlinks": true
           }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/生活/找工作/職缺台北.md",
+                "file": "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/生活/找工作/職缺台北.md"
+                "file": "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md"
               }
             }
           }
@@ -120,15 +120,15 @@
   },
   "active": "61b97d43831ce578",
   "lastOpenFiles": [
-    "其他/生活/找工作/職缺台北.md",
     "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
+    "不算前端也不算後端/JavaScript/邏輯、條件、比較/迴圈/for/for.md",
+    "不算前端也不算後端/JavaScript/Execution Context/Call Stack 呼叫堆疊.md",
+    "其他/生活/找工作/職缺台北.md",
     "不算前端也不算後端/JavaScript/資料類型/Function/IIFE：宣告後直接執行函式.md",
     "語法解析器 Syntax Parsers.md",
     "面試題.md",
     "vue 置換 this 指向.md",
     "不算前端也不算後端/JavaScript/資料類型/Function/置換函式的 this 指向.md",
-    "不算前端也不算後端/JavaScript/資料類型/Function/箭頭函式.md",
-    "傳參考 By Reference.md",
-    "不算前端也不算後端/JavaScript/Execution Context/執行環境 Execution Context.md"
+    "不算前端也不算後端/JavaScript/資料類型/Function/箭頭函式.md"
   ]
 }
