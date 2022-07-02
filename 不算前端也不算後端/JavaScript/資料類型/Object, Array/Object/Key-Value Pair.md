@@ -1,6 +1,6 @@
 ---
 title: "Key-Value Pair"
-aliases: <Name-Value Pair>,
+aliases: Name-Value Pair,
 tag: 
 - js/dataType
 ---

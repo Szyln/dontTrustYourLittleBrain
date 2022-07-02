@@ -1,6 +1,6 @@
 ---
 title: "Event Queue"
-aliases: <Task Queue>, <事件佇列>, <事件儲列>
+aliases: Task Queue, 事件佇列, 事件儲列
 tag: 
 - 
 ---

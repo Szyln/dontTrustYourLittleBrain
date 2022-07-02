@@ -1,6 +1,6 @@
 ---
 title: "Global Execution Context"
-aliases: <Base Execution Context>
+aliases: Base Execution Context
 tag: 
 - js/executionContext
 ---

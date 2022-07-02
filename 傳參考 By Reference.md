@@ -1,6 +1,6 @@
 ---
 title: "傳參考 By Reference"
-aliases: <reference data types>,
+aliases: reference data types,
 tag: 
 - 
 ---

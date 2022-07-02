@@ -1,98 +1,37 @@
 ---
 title: "置換函式的 this 指向"
 tag: 
-- 
+- js/function
 ---
-# 置換函式的 this 指向
-這些是函式都可以使用的 methods
+## 置換函式的 this 指向
+>[箭頭函式](箭頭函式.md) 沒有 [this](this.md) 並不適用這些 method
 
-## 常見 methods
-- bind
-- call
-- apply
+- [function.bind(obj)](function.bind(obj).md)
+- [function.call(obj, arguments)](function.call(obj,%20arguments).md)
+- [function.apply (obj, arguments in array)](function.apply%20(obj,%20arguments%20in%20array).md)
+- vue: [vue 置換 this 指向](vue%20置換%20this%20指向.md)
 
-|      | bind                         | call                                                                          | apply |
-| ---- | ---------------------------- | ----------------------------------------------------------------------------- | ----- |
-| 寫法 | let a = simpleCall.bind(obj) | `simpleCall.call(obj)`<br>函式有其他參數：`simpleCall.call(obj, ...argument)` |       |
-
-## bind
-綁定 [[this]] 指向，需要把 bind 過的內容丟到一個新的變數內使用
-
-```js
-let Sam = {
-	name: 'Sam',
-	age: 25
-}
-
-function getAge() {
-
-	// 此 this 是 simple call，指全域
-	console.log(this.age);	
-}
-
-// bind getSamAge() 的 this 指到 Sam
-let getSamAge = getAge.bind(Sam);
-getSamAge();
-```
-
-## call
-比 bind 更實用，可以直接置換 this 為指定的物件
+|                    | bind | call | apply |
+| ------------------ | ---- | ---- | ----- |
+| 函式可以帶入參數   | 是   | 是   | 是    |
+| 需要存到新的變數中 | 是   | 否   | 否    |
+| 帶入參數要用陣列   | 否   | 否   | 是    |
 
 ```js
-let Sam = {
-	name: 'Sam',
-	age: 25
+const obj1 = {
+  objNumber: 1000,
+}
+// simple call: 原本的 this 指：window
+function fn1(a, b, c) {
+  console.log('bind', this, this.objNumber, a, b, c);
+
 }
 
-function getAge() {
-
-	// 此 this 是 simple call，指全域
-	console.log(this.age);	
-}
-
-// call this 置換為 call 的參數
-getAge.call(Sam);
-
+// bind 需要寫比較多
+const fn2 = fn1.bind(obj1);
+fn2('1', '2', '3')
+// call
+fn1.call(obj1, '1', '2', '3')
+/// apply
+fn1.apply(obj1, ['1', '2', '3'])
 ```
-### 函式的其他參數
-如果指定的(`getAge`)函式有多個參數，也可以在 `call` 的參數後方加入
-```js
-let Sam = {
-	name: 'Sam',
-	age: 25
-}
-
-function getAge(height) {	// 有自定參數
-
-	// 此 this 是 simple call，指全域
-	console.log(this.age);
-	console.log(height);
-}
-
-// call this 置換為 call 的參數
-getAge.call(Sam, 100);		// 指定完 this 後呼叫即可
-
-```
-
-## apply
-[[置換函式的 this 指向#call#函式的其他參數]] 的狀況中，把其他參數放到陣列即可
-```js
-let Sam = {
-	name: 'Sam',
-	age: 25
-}
-
-function getAge(height, weight) {	// 有自定參數
-
-	// 此 this 是 simple call，指全域
-	console.log(this.age);
-	console.log(height);
-	consol.log(weight);
-}
-
-// apply this 置換為 apply 的參數，自定參數要放到陣列中
-getAge.apply(Sam, [100, 40]);		// 指定完 this 後呼叫即可
-
-```
-
-#js #function #advanceJs 

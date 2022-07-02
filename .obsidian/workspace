@@ -9,10 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "不算前端也不算後端/JavaScript/資料類型/Function/置換函式的 this 指向.md",
+            "file": "面試題.md",
             "mode": "source",
-            "backlinks": true,
-            "source": false
+            "backlinks": true
           }
         }
       }
@@ -41,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bind",
+                "query": "aliases",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -73,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "不算前端也不算後端/JavaScript/資料類型/Function/置換函式的 this 指向.md",
+                "file": "面試題.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "不算前端也不算後端/JavaScript/資料類型/Function/置換函式的 this 指向.md"
+                "file": "面試題.md"
               }
             }
           }
@@ -121,15 +120,15 @@
   },
   "active": "61b97d43831ce578",
   "lastOpenFiles": [
+    "面試題.md",
+    "vue 置換 this 指向.md",
     "不算前端也不算後端/JavaScript/資料類型/Function/置換函式的 this 指向.md",
+    "不算前端也不算後端/JavaScript/資料類型/Function/箭頭函式.md",
     "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
-    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Object/展開.md",
-    "Spread Parameter.md",
-    "Arguments.md",
-    "Arguments 也是 Function 的屬性.md",
-    "淺層拷貝(Shallow Copy).md",
-    "物件擴展，導入更多物件.md",
-    "陣列擴展，不同陣列合併.md",
-    "不算前端也不算後端/JavaScript/資料類型/Function/this.md"
+    "傳參考 By Reference.md",
+    "不算前端也不算後端/JavaScript/Execution Context/執行環境 Execution Context.md",
+    "不算前端也不算後端/JavaScript/資料類型/資料型別.md",
+    "其他/Obsidian/給 Markdown 檔案新增別名：alias.md",
+    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Object/Key-Value Pair.md"
   ]
 }

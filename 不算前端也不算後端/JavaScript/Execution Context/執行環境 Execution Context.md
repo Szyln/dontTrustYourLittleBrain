@@ -1,6 +1,6 @@
 ---
 title: "執行環境 Execution Context"
-aliases: <執行脈絡>,<執行上下文>
+aliases: 執行脈絡, 執行上下文
 tag: 
 - js/executionContext
 ---
