@@ -28,8 +28,9 @@ function name(parameter) {
  >JS 的函式很萬能：[一級函式 First Class Functions](一級函式%20First%20Class%20Functions.md)
  
 - [return](return.md)
-- 也是一種物件：[函式 Function 的物件屬性](函式%20Function%20的物件屬性.md)
-	- 
+- Function 也是一種物件：[函式 Function 的物件屬性](函式%20Function%20的物件屬性.md) ^a5f365
+	- [Function 特有的物件屬性](Function%20特有的物件屬性.md)
+	- [為 Function 新增屬性](為%20Function%20新增屬性.md)
 - [函式表達式 function expression](函式表達式%20function%20expression.md)
 - [Callback Function](Callback%20Function.md)
 	- [Higher Order Function](Higher%20Order%20Function.md)

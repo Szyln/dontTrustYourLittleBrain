@@ -46,9 +46,18 @@ tag:
 		- [閉包 Closure](閉包%20Closure.md)
 		- [Callback Function](Callback%20Function.md)
 		- [置換函式的 this 指向](置換函式的%20this%20指向.md)
+		- [Function Borrowing：借用方法給不同物件](Function%20Borrowing：借用方法給不同物件.md)
+		- [Function Currying：複製函式，並且固定一些參數](Function%20Currying：複製函式，並且固定一些參數.md)
 
 ### Framework
 - [Function Overloading 重載函式](Function%20Overloading%20重載函式.md)
 - [White space](White%20space.md)
 - [用 IIFE 製作安全的程式碼](用%20IIFE%20製作安全的程式碼.md)
 - [Function Factories](Function%20Factories.md)
+
+
+## Functional Programming
+- 函式程式設計
+- [JavaScript](JavaScript.md) 長相像 C++, C#, Java，但其實跟其他的函式程式設計語言（Lisp, Scheme, ML）比較有關
+	- 他們有 [一級函式 First Class Functions](一級函式%20First%20Class%20Functions.md)
+	- 可以把程式碼都當作函式

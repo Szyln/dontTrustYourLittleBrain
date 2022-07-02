@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "不算前端也不算後端/JavaScript/資料類型/Function/Function.md",
+            "file": "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
             "mode": "source",
             "backlinks": true
           }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "不算前端也不算後端/JavaScript/資料類型/Function/Function.md",
+                "file": "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "不算前端也不算後端/JavaScript/資料類型/Function/Function.md"
+                "file": "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md"
               }
             }
           }
@@ -120,15 +120,15 @@
   },
   "active": "61b97d43831ce578",
   "lastOpenFiles": [
-    "不算前端也不算後端/JavaScript/資料類型/Function/Function.md",
-    "函式 Function 的物件屬性.md",
-    "不算前端也不算後端/JavaScript/資料類型/Function/置換函式的 this 指向.md",
     "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
-    "閉包 Closure.md",
-    "for 迴圈的 Closure.md",
-    "不算前端也不算後端/JavaScript/實作流程相關/use strict 嚴格模式.md",
-    "不算前端也不算後端/JavaScript/邏輯、條件、比較/迴圈/for/for.md",
-    "不算前端也不算後端/JavaScript/Execution Context/Call Stack 呼叫堆疊.md",
-    "其他/生活/找工作/職缺台北.md"
+    "Function Borrowing：借用方法給不同物件.md",
+    "function.bind(obj).md",
+    "function.apply (obj, arguments in array).md",
+    "function 被全域呼叫（simple call）.md",
+    "不算前端也不算後端/JavaScript/資料類型/Function/置換函式的 this 指向.md",
+    "不算前端也不算後端/JavaScript/資料類型/Function/Function.md",
+    "Function 特有的物件屬性.md",
+    "函式 Function 的物件屬性.md",
+    "閉包 Closure.md"
   ]
 }
