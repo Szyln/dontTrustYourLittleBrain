@@ -33,7 +33,7 @@ function name(parameter) {
 - [Callback Function](Callback%20Function.md)
 	- [Higher Order Function](Higher%20Order%20Function.md)
 	- [Inline Function Expression](Inline%20Function%20Expression.md)
-- [IIFE](IIFE.md)
+- [IIFE：宣告後直接執行函式](IIFE：宣告後直接執行函式.md)
 - [原生 function](原生%20function.md)
 	- [console.log](console.log.md)
 

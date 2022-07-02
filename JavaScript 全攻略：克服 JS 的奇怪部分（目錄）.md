@@ -33,13 +33,29 @@ tag:
 - Object
 	- [用物件做 Name Space](用物件做%20Name%20Space.md)
 	- 很像但不一樣的格式：[JSON](JSON.md)
+	- [傳值與傳參考](傳值與傳參考.md)
+	- [改變 Mutate](改變%20Mutate.md)
+	- [Array](Array.md)
 	- [Function](Function.md)
 		- [一級函式 First Class Functions](一級函式%20First%20Class%20Functions.md)
 		- [函式表達式 function expression](函式表達式%20function%20expression.md)
 			- [Inline Function Expression](Inline%20Function%20Expression.md)
-	- [傳值與傳參考](傳值與傳參考.md)
-	- [改變 Mutate](改變%20Mutate.md)
-	- [Array](Array.md)
+		- [IIFE：宣告後直接執行函式](IIFE：宣告後直接執行函式.md)
+		- [Arguments](Arguments.md)
+			- [Spread Parameter](Spread%20Parameter.md)
 
-- [Arguments](Arguments.md)
-	- [Spread Parameter](Spread%20Parameter.md)
+
+### Framework
+- [Function Overloading 重載函式](Function%20Overloading%20重載函式.md)
+- [White space](White%20space.md)
+- [用 IIFE 製作安全的程式碼](用%20IIFE%20製作安全的程式碼.md)
+
+
+## 閉包 Closure
+```js
+function greet(lines) {
+	return function(name) {
+		console.log(`$lines)	
+	}
+}
+```
