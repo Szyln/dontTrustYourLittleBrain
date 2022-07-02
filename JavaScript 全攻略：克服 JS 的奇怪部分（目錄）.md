@@ -43,13 +43,12 @@ tag:
 		- [IIFE：宣告後直接執行函式](IIFE：宣告後直接執行函式.md)
 		- [Arguments](Arguments.md)
 			- [Spread Parameter](Spread%20Parameter.md)
-
-- [閉包 Closure](閉包%20Closure.md)
+		- [閉包 Closure](閉包%20Closure.md)
+		- [Callback Function](Callback%20Function.md)
+		- [置換函式的 this 指向](置換函式的%20this%20指向.md)
 
 ### Framework
 - [Function Overloading 重載函式](Function%20Overloading%20重載函式.md)
 - [White space](White%20space.md)
 - [用 IIFE 製作安全的程式碼](用%20IIFE%20製作安全的程式碼.md)
-
-## Function Factories
-
+- [Function Factories](Function%20Factories.md)
