@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "讓 JSON（或是字串格式） 與 JS 讀得懂彼此：格式轉換.md",
-            "mode": "preview",
+            "file": "其他/生活/找工作/面試題.md",
+            "mode": "source",
             "backlinks": true
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mockup",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "讓 JSON（或是字串格式） 與 JS 讀得懂彼此：格式轉換.md",
+                "file": "其他/生活/找工作/面試題.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "讓 JSON（或是字串格式） 與 JS 讀得懂彼此：格式轉換.md"
+                "file": "其他/生活/找工作/面試題.md"
               }
             }
           }
@@ -120,15 +120,15 @@
   },
   "active": "61b97d43831ce578",
   "lastOpenFiles": [
+    "其他/生活/找工作/面試題.md",
+    "後端/Restful API/HTTP Verbs.md",
+    "後端/Restful API/Restful API 介紹.md",
+    "後端/Express.js/Routing/POST 表單(express).md",
+    "後端/Restful API/Restful API.md",
+    "rest.md",
     "讓 JSON（或是字串格式） 與 JS 讀得懂彼此：格式轉換.md",
     "不算前端也不算後端/JavaScript/資料類型/JSON/JSON.md",
     "不算前端也不算後端/JavaScript/資料類型/Object, Array/Array/新增與刪除.md",
-    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Array.md",
-    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Array/判斷是否為 Array.md",
-    "不算前端也不算後端/JavaScript/邏輯、條件、比較/迴圈/for/for of loop.md",
-    "不算前端也不算後端/JavaScript/邏輯、條件、比較/迴圈/for/for.md",
-    "陣列擴展，不同陣列合併.md",
-    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Object/展開.md",
-    "前端/CSS/flexbox.md"
+    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Array.md"
   ]
 }

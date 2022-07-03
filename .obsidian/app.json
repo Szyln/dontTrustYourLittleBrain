@@ -149,7 +149,10 @@
     "NaN",
     "truthy",
     "stringify",
-    "NoSQL"
+    "NoSQL",
+    "udemy",
+    "heroku",
+    "mockup"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",
