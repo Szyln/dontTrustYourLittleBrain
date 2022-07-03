@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "61b97d43831ce578",
+        "id": "d4c81d62fc749e96",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他/生活/找工作/面試題.md",
-            "mode": "source",
+            "file": "其他/生活/找工作/視覺作品集.md",
+            "mode": "preview",
             "backlinks": true
           }
         }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/生活/找工作/面試題.md",
+                "file": "其他/生活/找工作/視覺作品集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/生活/找工作/面試題.md"
+                "file": "其他/生活/找工作/視覺作品集.md"
               }
             }
           }
@@ -117,8 +117,10 @@
     "width": 273.3053283691406,
     "collapsed": true
   },
-  "active": "61b97d43831ce578",
+  "active": "d4c81d62fc749e96",
   "lastOpenFiles": [
+    "其他/生活/找工作/視覺作品集.md",
+    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Array.md",
     "其他/生活/找工作/面試題.md",
     "不算前端也不算後端/JavaScript/DOM/Event.md",
     "不算前端也不算後端/JavaScript/DOM/HTMLCollection, Nodelist, array 比較.md",
@@ -126,8 +128,6 @@
     "不算前端也不算後端/JavaScript/DOM/DOM 簡要.md",
     "不算前端也不算後端/JavaScript/DOM/DOM 需要知道的 methods, properties.md",
     "加、減、乘、除、餘 operators.md",
-    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Array/陣列的循環 for, forEach, map.md",
-    "不算前端也不算後端/JavaScript/DOM/stopPropagation.md",
-    "不算前端也不算後端/JavaScript/DOM/Dynamic Header.md"
+    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Array/陣列的循環 for, forEach, map.md"
   ]
 }
