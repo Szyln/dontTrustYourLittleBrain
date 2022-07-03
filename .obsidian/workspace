@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "不算前端也不算後端/API/AJAX/Promise.md",
+            "file": "其他/生活/找工作/視覺作品集.md",
             "mode": "preview",
             "backlinks": true
           }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "不算前端也不算後端/API/AJAX/Promise.md",
+                "file": "其他/生活/找工作/視覺作品集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "不算前端也不算後端/API/AJAX/Promise.md"
+                "file": "其他/生活/找工作/視覺作品集.md"
               }
             }
           }
@@ -120,6 +120,7 @@
   },
   "active": "d4c81d62fc749e96",
   "lastOpenFiles": [
+    "其他/生活/找工作/視覺作品集.md",
     "不算前端也不算後端/API/AJAX/Promise.md",
     "不算前端也不算後端/API/Promise/Fetch.md",
     "不算前端也不算後端/API/Promise/async, await, try, catch.md",
@@ -128,7 +129,6 @@
     "不算前端也不算後端/API/AJAX/AJAX.md",
     "其他/生活/找工作/面試題.md",
     "不算前端也不算後端/JavaScript/物件導向 OOP/繼承/Prototype Inheritance.md",
-    "不算前端也不算後端/JavaScript/物件導向 OOP/物件導向 OOP.md",
-    "__proto__.md"
+    "不算前端也不算後端/JavaScript/物件導向 OOP/物件導向 OOP.md"
   ]
 }
