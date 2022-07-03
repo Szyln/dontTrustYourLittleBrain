@@ -21,7 +21,7 @@ let example = new Promise((resolve, reject) => {
 
 })
 
-example.than((d) => {
+example.then((d) => {
 	console.log(d);
 })
 ```
