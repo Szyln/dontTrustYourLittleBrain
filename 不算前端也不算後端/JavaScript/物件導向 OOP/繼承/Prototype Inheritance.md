@@ -4,12 +4,14 @@ tag:
 - 
 ---
 # Prototype Inheritance
-我們自己可以設定一個 object，但也可以去讀取裡面沒有設定的 methods，原因是因為有從 prototype 的預設功能繼承
+[物件實例](物件實例) 乍看之下可以讀取沒對該實例新增的 method，但其實是因為已經在 [Prototype](Prototype.md) 中設定，[物件實例](物件實例.md) 會繼承 `prototype` 屬性
+
 
 ## 原有的
-Constructor 負責放每個物件物件內容都不一樣的部份
-一樣的部份就放到 Prototype 裡面，節省記憶體
+Constructor 負責放每個物件內容都不一樣的部份
+一樣的部份就放到 [Prototype](Prototype.md) 裡面，節省記憶體
 繼承時兩個部分都要處理
+
 ### [[Constructor]]
 ```js
 // Constructor
@@ -35,7 +37,7 @@ Person.prototype.sayHi = function() {
 
 ## 繼承的
 ### Constructor
-使用[[置換函式的 this 指向#call]] 的方式，繼承[[Prototype Inheritance#原有的#Constructor]]（但目前 Prototype 沒有被繼承）
+使用 [function.call(obj, arguments)](function.call(obj,%20arguments).md) 的方法，繼承 [[Prototype Inheritance#原有的#Constructor]]（但目前 Prototype 沒有被繼承）
 ```js
 // 從 Person 繼承過來的新 Constructor
 // 用 call 將 Person 繼承過來
@@ -43,7 +45,7 @@ Person.prototype.sayHi = function() {
 function Student(name, age, height, major, grade) {
 
 	// 將原本的 this 置換成這裡的 this
-	Person.call(this, name, age, height, major, grade); 	// 更新 this 的指向
+	Person.call(this, name, age, height); 	// 更新 this 的指向
 	this.major = major,
 	this.grade = grade
 	

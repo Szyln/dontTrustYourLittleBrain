@@ -20,7 +20,7 @@ function Person(name, age, height) {	// 大寫開頭
 	//}
 }
 
-Person.prototype.sayHi = funciton() {	// 新增 prototype 屬性
+Person.prototype.sayHi = function() {	// 新增 prototype 屬性
 	console.log(this.name + " says hi.")
 }
 

@@ -26,7 +26,7 @@ let Sam = new Person("Sam", 10, 100);	// new 建立空物件
 - 使用[new Object()](new%20Object().md)
 
 
-### 如果不使用 new 的話
+### 如果不使用 new 的話沒辦法創造物件實例
 ```js
 function Person(name, age, height) {
 	console.log(this);					// 指向 window

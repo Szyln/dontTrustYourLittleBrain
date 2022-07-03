@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "不算前端也不算後端/JavaScript/物件導向 OOP/物件導向 OOP.md",
+            "file": "不算前端也不算後端/JavaScript/物件導向 OOP/繼承/Prototype Inheritance.md",
             "mode": "preview",
             "backlinks": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cycle",
+                "query": ".__proro__",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -70,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "不算前端也不算後端/JavaScript/物件導向 OOP/物件導向 OOP.md",
+                "file": "不算前端也不算後端/JavaScript/物件導向 OOP/繼承/Prototype Inheritance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "不算前端也不算後端/JavaScript/物件導向 OOP/物件導向 OOP.md"
+                "file": "不算前端也不算後端/JavaScript/物件導向 OOP/繼承/Prototype Inheritance.md"
               }
             }
           }
@@ -118,15 +119,15 @@
   },
   "active": "d4c81d62fc749e96",
   "lastOpenFiles": [
+    "不算前端也不算後端/JavaScript/物件導向 OOP/繼承/Prototype Inheritance.md",
     "不算前端也不算後端/JavaScript/物件導向 OOP/物件導向 OOP.md",
-    "其他/生活/找工作/面試題.md",
-    "後端/Cookie and Session/Cookies and Sessions.md",
-    "不算前端也不算後端/JavaScript/React/React.md",
-    "後端/Cookie and Session/Session/Session.md",
-    "其他/生活/找工作/視覺作品集.md",
-    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Object/Window Object/Storage.md",
-    "後端/Cookie and Session/Cookie/Cookie.md",
-    "閉包 Closure.md",
-    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Array.md"
+    "__proto__.md",
+    "不算前端也不算後端/JavaScript/物件導向 OOP/繼承/原始資料類型使用 Prototype Inheritance 的功能.md",
+    "不算前端也不算後端/JavaScript/資料類型/資料類型/Primitive Coercion 將原始資料類型強制改成物件來用.md",
+    "不算前端也不算後端/JavaScript/物件導向 OOP/static：僅給 class 內部用的變數.md",
+    "不算前端也不算後端/JavaScript/物件導向 OOP/繼承/Class.md",
+    "後端/Database/noSQL/Mongoose/CRUD/Create.md",
+    "後端/Database/Constraints.md",
+    "Function Borrowing：借用方法給不同物件.md"
   ]
 }

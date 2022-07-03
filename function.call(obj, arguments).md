@@ -1,5 +1,6 @@
 ## function.call(obj, arguments)
->比較：[[置換函式的 this 指向]]
+>- 比較：[[置換函式的 this 指向]]
+>- 之後學到物件導向：[Prototype Inheritance](Prototype%20Inheritance.md) 時會常用
 
 - 綁定 [this 的指向](this%20的指向.md)
 - 不用丟到變數裡使用
