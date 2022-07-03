@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他/生活/找工作/視覺作品集.md",
+            "file": "後端/Cookie and Session/Cookies and Sessions.md",
             "mode": "preview",
             "backlinks": true
           }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/生活/找工作/視覺作品集.md",
+                "file": "後端/Cookie and Session/Cookies and Sessions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/生活/找工作/視覺作品集.md"
+                "file": "後端/Cookie and Session/Cookies and Sessions.md"
               }
             }
           }
@@ -119,15 +119,15 @@
   },
   "active": "d4c81d62fc749e96",
   "lastOpenFiles": [
-    "其他/生活/找工作/視覺作品集.md",
-    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Array.md",
+    "後端/Cookie and Session/Cookies and Sessions.md",
     "其他/生活/找工作/面試題.md",
+    "後端/Cookie and Session/Session/Session.md",
+    "其他/生活/找工作/視覺作品集.md",
+    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Object/Window Object/Storage.md",
+    "後端/Cookie and Session/Cookie/Cookie.md",
+    "閉包 Closure.md",
+    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Array.md",
     "不算前端也不算後端/JavaScript/DOM/Event.md",
-    "不算前端也不算後端/JavaScript/DOM/HTMLCollection, Nodelist, array 比較.md",
-    "不算前端也不算後端/JavaScript/DOM/Event Bubbling.md",
-    "不算前端也不算後端/JavaScript/DOM/DOM 簡要.md",
-    "不算前端也不算後端/JavaScript/DOM/DOM 需要知道的 methods, properties.md",
-    "加、減、乘、除、餘 operators.md",
-    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Array/陣列的循環 for, forEach, map.md"
+    "不算前端也不算後端/JavaScript/DOM/HTMLCollection, Nodelist, array 比較.md"
   ]
 }
