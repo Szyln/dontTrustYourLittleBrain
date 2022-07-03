@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "後端/Cookie and Session/Cookies and Sessions.md",
+            "file": "不算前端也不算後端/JavaScript/物件導向 OOP/物件導向 OOP.md",
             "mode": "preview",
             "backlinks": true
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dom",
+                "query": "cycle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263,
-    "collapsed": true
+    "width": 263
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "後端/Cookie and Session/Cookies and Sessions.md",
+                "file": "不算前端也不算後端/JavaScript/物件導向 OOP/物件導向 OOP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "後端/Cookie and Session/Cookies and Sessions.md"
+                "file": "不算前端也不算後端/JavaScript/物件導向 OOP/物件導向 OOP.md"
               }
             }
           }
@@ -119,15 +118,15 @@
   },
   "active": "d4c81d62fc749e96",
   "lastOpenFiles": [
-    "後端/Cookie and Session/Cookies and Sessions.md",
+    "不算前端也不算後端/JavaScript/物件導向 OOP/物件導向 OOP.md",
     "其他/生活/找工作/面試題.md",
+    "後端/Cookie and Session/Cookies and Sessions.md",
+    "不算前端也不算後端/JavaScript/React/React.md",
     "後端/Cookie and Session/Session/Session.md",
     "其他/生活/找工作/視覺作品集.md",
     "不算前端也不算後端/JavaScript/資料類型/Object, Array/Object/Window Object/Storage.md",
     "後端/Cookie and Session/Cookie/Cookie.md",
     "閉包 Closure.md",
-    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Array.md",
-    "不算前端也不算後端/JavaScript/DOM/Event.md",
-    "不算前端也不算後端/JavaScript/DOM/HTMLCollection, Nodelist, array 比較.md"
+    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Array.md"
   ]
 }
