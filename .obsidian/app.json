@@ -152,7 +152,8 @@
     "NoSQL",
     "udemy",
     "heroku",
-    "mockup"
+    "mockup",
+    "querySelectorAll"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",

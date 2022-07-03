@@ -1,49 +1,63 @@
 ---
 title: "DOM 簡要"
+aliases: Document Object Model,
 tag: 
 - js/dom
 ---
-# DOM｜Document Object Model
- [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
--   類似 object
+# DOM
+> [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+- Document Object Model
+- 類似 [Object](Object.md)
 
-## 節點 node｜在 document 裡的物件們
+## 節點 node
+在 document 裡的物件們
 -   element node
 -   text node
 -   attribute node
 
-## 選取｜節點、內容、屬性
-### 選取節點｜單一選取、群體選取
--   選起來存在一個 const 裡面
--   第一個符合的節點｜document.querySelector(’該 CSS 選擇器’)
+## 選取
 
-#### 符合的全部節點｜document.querySelectorAll(’該 CSS 選擇器’)
-會是一個 node list（一個 array，存取各個節點可使用 array 的技巧）
+### 選取節點
+| 選取節點  | 單一選取                                             | 全部選取                                |
+| --------- | ---------------------------------------------------- | --------------------------------------- |
+| 語法      | `document.querySelector('selector')`（第一個符合的） | `document.querySelectorAll('selector')` |
+| node 節點 | 一個 node                                            | nodelist（類陣列）                      |
 
 ### 選取內容｜內容、文字
--   有可能修正就存在 let 變數裡
--   內部內容｜{某節點}.innerHTML
--   內部文字｜{某節點}.textContent
+| 選取內容物 | 內容（可以有其他節點） | 文字（沒有其他結顛） |
+| ---------- | ---------------------- | -------------------- |
+| node 節點  | {某節點}.innerHTML     | {某節點}.textContent |
 
-### 選取屬性｜{某節點}.getAttribute(’{欲取得屬性}’)
+### 選取屬性
+```js
+{某節點}.getAttribute(’{欲取得屬性}’)
+```
 
-## 新增與修改｜內容、文字、屬性
-### 標籤與內容｜{某節點}.innerHTML = {欲修改或新增的內容};
+## 新增與修改
+### 新增、修改內容（包含節點）
 ```js
 main.innerHTML = `<a href="${link}" class="header">超連結</a>;`
 ```
 -   可搭配 Template Literals （`字串 ${變數}`） 來寫
 -   若該節點本來裡面就有內容，則會被清除
-
-### 標籤內文字｜{某節點}.textContent = {欲修改或新增的內容};
-### 標籤的屬性｜{某節點}.setAttribute({屬性名稱}, {屬性內容})
+### 新增、修改內容（不包含節點）
 ```js
+{某節點}.textContent = {欲修改或新增的內容};
+```
+### 新增、修改屬性
+```js
+// setAttribute(屬性的名稱, 值)
 document.querySelector(’a’).setAttribute(’href’, ’#’ );
 ```
-## 反查節點名｜{ 某 selector }.nodeName
+## 查節點的名稱名
+```js
+// 只知道他的 js 的名稱，不知道他在 html 叫什麼
+{ 某 selector }.nodeName
+```
+
 ##  querySelector
 -   querySelector｜一個節點
--   querySelectorAll｜一個 array
+-   querySelectorAll｜一個類陣列
 ```js
 // 有地蓋房子
 

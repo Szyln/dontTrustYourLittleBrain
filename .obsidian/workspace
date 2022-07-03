@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mockup",
+                "query": "dom",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -49,8 +49,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -121,14 +120,14 @@
   "active": "61b97d43831ce578",
   "lastOpenFiles": [
     "其他/生活/找工作/面試題.md",
-    "後端/Restful API/HTTP Verbs.md",
-    "後端/Restful API/Restful API 介紹.md",
-    "後端/Express.js/Routing/POST 表單(express).md",
-    "後端/Restful API/Restful API.md",
-    "rest.md",
-    "讓 JSON（或是字串格式） 與 JS 讀得懂彼此：格式轉換.md",
-    "不算前端也不算後端/JavaScript/資料類型/JSON/JSON.md",
-    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Array/新增與刪除.md",
-    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Array.md"
+    "不算前端也不算後端/JavaScript/DOM/Event.md",
+    "不算前端也不算後端/JavaScript/DOM/HTMLCollection, Nodelist, array 比較.md",
+    "不算前端也不算後端/JavaScript/DOM/Event Bubbling.md",
+    "不算前端也不算後端/JavaScript/DOM/DOM 簡要.md",
+    "不算前端也不算後端/JavaScript/DOM/DOM 需要知道的 methods, properties.md",
+    "加、減、乘、除、餘 operators.md",
+    "不算前端也不算後端/JavaScript/資料類型/Object, Array/Array/陣列的循環 for, forEach, map.md",
+    "不算前端也不算後端/JavaScript/DOM/stopPropagation.md",
+    "不算前端也不算後端/JavaScript/DOM/Dynamic Header.md"
   ]
 }
