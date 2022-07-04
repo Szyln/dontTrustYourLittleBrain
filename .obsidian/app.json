@@ -157,7 +157,8 @@
     "GitFlow",
     "Telentek",
     "gitflow",
-    "CakeResume"
+    "CakeResume",
+    "redux"
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",
