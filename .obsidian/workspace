@@ -6,11 +6,11 @@
       {
         "id": "d4c81d62fc749e96",
         "type": "leaf",
-        "dimension": 22.343921139101862,
+        "dimension": 40.128068303094985,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他/生活/找工作/獲得邀約/上益旺股份有限公司.md",
+            "file": "後端/Node.js/Node.md",
             "mode": "preview",
             "backlinks": true
           }
@@ -19,11 +19,11 @@
       {
         "id": "aff975dce660bca6",
         "type": "leaf",
-        "dimension": 77.65607886089813,
+        "dimension": 59.87193169690501,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他/生活/找工作/視覺作品集.md",
+            "file": "其他/生活/找工作/我.md",
             "mode": "preview",
             "backlinks": true
           }
@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263,
-    "collapsed": true
+    "width": 263
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -85,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/生活/找工作/視覺作品集.md",
+                "file": "其他/生活/找工作/我.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/生活/找工作/視覺作品集.md"
+                "file": "其他/生活/找工作/我.md"
               }
             }
           }
@@ -133,15 +132,15 @@
   },
   "active": "aff975dce660bca6",
   "lastOpenFiles": [
-    "其他/生活/找工作/視覺作品集.md",
     "其他/生活/找工作/我.md",
     "其他/生活/找工作/獲得邀約/上益旺股份有限公司.md",
+    "其他/生活/找工作/視覺作品集.md",
+    "後端/Node.js/Node.md",
+    "後端/Node.js/模組/內建模組/body-parser.md",
+    "不算前端也不算後端/JavaScript/Webpack/詳細/port.md",
     "不算前端也不算後端/JavaScript/Webpack/Webpack(index).md",
     "其他/生活/找工作/面試題.md",
     "不算前端也不算後端/API/AJAX/Promise.md",
-    "不算前端也不算後端/API/Promise/Fetch.md",
-    "不算前端也不算後端/API/Promise/async, await, try, catch.md",
-    "不算前端也不算後端/API/Async（目錄）.md",
-    "不算前端也不算後端/API/AJAX/Callback Hell.md"
+    "不算前端也不算後端/API/Promise/Fetch.md"
   ]
 }
