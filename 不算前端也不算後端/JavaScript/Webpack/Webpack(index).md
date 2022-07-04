@@ -84,3 +84,7 @@ project
 https://goworkship.com/magazine/how-to-webpack/
 ![](https://i0.wp.com/goworkship.com/magazine/app/uploads/2018/09/before-2.png?resize=840%2C473&ssl=1)
 
+
+
+## React
+[](https://www.freecodecamp.org/news/learn-webpack-for-react-a36d4cac5060/)
