@@ -6,11 +6,12 @@
       {
         "id": "d4c81d62fc749e96",
         "type": "leaf",
+        "dimension": 22.343921139101862,
         "state": {
           "type": "markdown",
           "state": {
             "file": "其他/生活/找工作/獲得邀約/上益旺股份有限公司.md",
-            "mode": "source",
+            "mode": "preview",
             "backlinks": true
           }
         }
@@ -18,10 +19,11 @@
       {
         "id": "aff975dce660bca6",
         "type": "leaf",
+        "dimension": 77.65607886089813,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他/生活/找工作/我.md",
+            "file": "其他/生活/找工作/視覺作品集.md",
             "mode": "preview",
             "backlinks": true
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/生活/找工作/我.md",
+                "file": "其他/生活/找工作/視覺作品集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/生活/找工作/我.md"
+                "file": "其他/生活/找工作/視覺作品集.md"
               }
             }
           }
@@ -131,11 +133,11 @@
   },
   "active": "aff975dce660bca6",
   "lastOpenFiles": [
-    "其他/生活/找工作/我.md",
-    "不算前端也不算後端/JavaScript/Webpack/Webpack(index).md",
-    "其他/生活/找工作/獲得邀約/上益旺股份有限公司.md",
-    "其他/生活/找工作/面試題.md",
     "其他/生活/找工作/視覺作品集.md",
+    "其他/生活/找工作/我.md",
+    "其他/生活/找工作/獲得邀約/上益旺股份有限公司.md",
+    "不算前端也不算後端/JavaScript/Webpack/Webpack(index).md",
+    "其他/生活/找工作/面試題.md",
     "不算前端也不算後端/API/AJAX/Promise.md",
     "不算前端也不算後端/API/Promise/Fetch.md",
     "不算前端也不算後端/API/Promise/async, await, try, catch.md",
