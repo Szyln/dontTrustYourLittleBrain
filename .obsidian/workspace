@@ -6,7 +6,7 @@
       {
         "id": "d4c81d62fc749e96",
         "type": "leaf",
-        "dimension": 26.75233644859813,
+        "dimension": 83.33333333333334,
         "state": {
           "type": "markdown",
           "state": {
@@ -19,11 +19,11 @@
       {
         "id": "aff975dce660bca6",
         "type": "leaf",
-        "dimension": 73.24766355140187,
+        "dimension": 16.666666666666664,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他/生活/找工作/獲得邀約/上益旺股份有限公司.md",
+            "file": "其他/聲學/錄音/jitsi.md",
             "mode": "source",
             "backlinks": true
           }
@@ -84,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/生活/找工作/獲得邀約/上益旺股份有限公司.md",
+                "file": "其他/生活/找工作/獲得邀約/虹堡科技股份有限公司.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/生活/找工作/獲得邀約/上益旺股份有限公司.md"
+                "file": "其他/生活/找工作/獲得邀約/虹堡科技股份有限公司.md"
               }
             }
           }
@@ -130,17 +130,17 @@
     "width": 273.3053283691406,
     "collapsed": true
   },
-  "active": "aff975dce660bca6",
+  "active": "d4c81d62fc749e96",
   "lastOpenFiles": [
+    "其他/生活/找工作/獲得邀約/虹堡科技股份有限公司.md",
+    "其他/聲學/錄音/jitsi.md",
     "其他/生活/找工作/獲得邀約/上益旺股份有限公司.md",
     "其他/生活/找工作/我.md",
-    "其他/生活/找工作/獲得邀約/虹堡科技股份有限公司.md",
     "後端/Node.js/Node.md",
     "其他/生活/找工作/視覺作品集.md",
     "後端/Node.js/模組/內建模組/body-parser.md",
     "不算前端也不算後端/JavaScript/Webpack/詳細/port.md",
     "不算前端也不算後端/JavaScript/Webpack/Webpack(index).md",
-    "其他/生活/找工作/面試題.md",
-    "不算前端也不算後端/API/AJAX/Promise.md"
+    "其他/生活/找工作/面試題.md"
   ]
 }
