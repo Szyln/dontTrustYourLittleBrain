@@ -6,7 +6,7 @@
       {
         "id": "d4c81d62fc749e96",
         "type": "leaf",
-        "dimension": 83.33333333333334,
+        "dimension": 51.916666666666664,
         "state": {
           "type": "markdown",
           "state": {
@@ -17,14 +17,14 @@
         }
       },
       {
-        "id": "aff975dce660bca6",
+        "id": "79503611b75e66c0",
         "type": "leaf",
-        "dimension": 16.666666666666664,
+        "dimension": 48.083333333333336,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他/聲學/錄音/jitsi.md",
-            "mode": "source",
+            "file": "其他/生活/找工作/我.md",
+            "mode": "preview",
             "backlinks": true
           }
         }
@@ -133,9 +133,9 @@
   "active": "d4c81d62fc749e96",
   "lastOpenFiles": [
     "其他/生活/找工作/獲得邀約/虹堡科技股份有限公司.md",
-    "其他/聲學/錄音/jitsi.md",
-    "其他/生活/找工作/獲得邀約/上益旺股份有限公司.md",
     "其他/生活/找工作/我.md",
+    "其他/生活/找工作/獲得邀約/上益旺股份有限公司.md",
+    "其他/聲學/錄音/jitsi.md",
     "後端/Node.js/Node.md",
     "其他/生活/找工作/視覺作品集.md",
     "後端/Node.js/模組/內建模組/body-parser.md",
