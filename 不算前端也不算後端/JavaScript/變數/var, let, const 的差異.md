@@ -8,7 +8,7 @@ tag:
 >- [【直播記錄】JavaScript 那個 let, const, var 到底差在哪？](https://www.youtube.com/watch?v=FGdKdn_CnWo)
 >- [block(javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/block)
 
-|比較內容|var|let|const|
+|比較內容|var||const|
 |-|-|-|-|
 |[[block]] 內<br>會 [全域污染](全域污染.md) or<br> 形成 [Block Scope](Block%20Scope.md)|非嚴格：全域污染 /<br> 嚴格：作用域|作用域|作用域|
 |`for(這裡的宣告) {}` 受 [[block]] 內的非同步影響|是，危|否，選我|無法再指派|
