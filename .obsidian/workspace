@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "undefined.md",
+            "file": "不算前端也不算後端/JavaScript/變數/var, let, const 的差異.md",
             "mode": "preview",
             "backlinks": true
           }
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "undefined.md",
+                "file": "不算前端也不算後端/JavaScript/變數/var, let, const 的差異.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "undefined.md"
+                "file": "不算前端也不算後端/JavaScript/變數/var, let, const 的差異.md"
               }
             }
           }
@@ -119,9 +119,9 @@
   },
   "active": "d4c81d62fc749e96",
   "lastOpenFiles": [
+    "不算前端也不算後端/JavaScript/變數/var, let, const 的差異.md",
     "undefined.md",
     "let.md",
-    "不算前端也不算後端/JavaScript/變數/var, let, const 的差異.md",
     "不算前端也不算後端/JavaScript/變數/Hoisting.md",
     "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
     "不算前端也不算後端/JavaScript/React/Hook/useRef Hook.md",
