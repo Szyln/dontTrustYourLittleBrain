@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他/生活/找工作/獲得邀約/虹堡科技股份有限公司.md",
-            "mode": "source",
+            "file": "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
+            "mode": "preview",
             "backlinks": true
           }
         }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/生活/找工作/獲得邀約/虹堡科技股份有限公司.md",
+                "file": "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/生活/找工作/獲得邀約/虹堡科技股份有限公司.md"
+                "file": "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md"
               }
             }
           }
@@ -120,13 +120,13 @@
   },
   "active": "d4c81d62fc749e96",
   "lastOpenFiles": [
+    "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
     "其他/生活/找工作/獲得邀約/虹堡科技股份有限公司.md",
     "虹堡.md",
     "不算前端也不算後端/JavaScript/變數/var, let, const 的差異.md",
     "undefined.md",
     "let.md",
     "不算前端也不算後端/JavaScript/變數/Hoisting.md",
-    "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
     "不算前端也不算後端/JavaScript/React/Hook/useRef Hook.md",
     "其他/生活/找工作/獲得邀約/上益旺股份有限公司.md",
     "其他/生活/找工作/找房/房.md"
