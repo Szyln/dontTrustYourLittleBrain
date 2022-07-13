@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
-            "mode": "preview",
+            "file": "利用錨點變形.md",
+            "mode": "source",
             "backlinks": true
           }
         }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
+                "file": "利用錨點變形.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md"
+                "file": "利用錨點變形.md"
               }
             }
           }
@@ -120,6 +120,7 @@
   },
   "active": "d4c81d62fc749e96",
   "lastOpenFiles": [
+    "利用錨點變形.md",
     "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
     "其他/生活/找工作/獲得邀約/虹堡科技股份有限公司.md",
     "虹堡.md",
@@ -128,7 +129,6 @@
     "let.md",
     "不算前端也不算後端/JavaScript/變數/Hoisting.md",
     "不算前端也不算後端/JavaScript/React/Hook/useRef Hook.md",
-    "其他/生活/找工作/獲得邀約/上益旺股份有限公司.md",
-    "其他/生活/找工作/找房/房.md"
+    "其他/生活/找工作/獲得邀約/上益旺股份有限公司.md"
   ]
 }
