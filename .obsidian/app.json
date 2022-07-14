@@ -1,7 +1,7 @@
 {
   "obsidianCss": true,
   "spellcheck": true,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "foldHeading": true,
   "foldIndent": true,
   "showLineNumber": false,
@@ -163,8 +163,8 @@
   ],
   "promptDelete": false,
   "fileSortOrder": "byCreatedTimeReverse",
-  "legacyEditor": true,
-  "livePreview": true,
+  "legacyEditor": false,
+  "livePreview": false,
   "tabSize": 2,
   "pdfExportSettings": {
     "pageSize": "A4",
@@ -178,5 +178,6 @@
   "smartIndentList": true,
   "newLinkFormat": "shortest",
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "其他/附件"
+  "attachmentFolderPath": "其他/附件",
+  "defaultViewMode": "preview"
 }

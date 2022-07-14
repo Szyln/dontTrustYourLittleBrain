@@ -9,9 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "利用錨點變形.md",
-            "mode": "source",
-            "backlinks": true
+            "file": "其他/生活/找工作/職缺台北.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": true
           }
         }
       }
@@ -49,13 +50,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 139.5,
-    "collapsed": true
+    "width": 293
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -72,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "利用錨點變形.md",
+                "file": "其他/生活/找工作/職缺台北.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "利用錨點變形.md"
+                "file": "其他/生活/找工作/職缺台北.md"
               }
             }
           }
