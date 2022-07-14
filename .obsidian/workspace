@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "d4c81d62fc749e96",
+        "id": "16f3c5004c2d5a34",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他/生活/找工作/職缺台北.md",
+            "file": "Object 中還有 Object.md",
             "mode": "preview",
             "backlinks": true,
             "source": true
@@ -71,7 +71,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/生活/找工作/職缺台北.md",
+                "file": "Object 中還有 Object.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/生活/找工作/職缺台北.md"
+                "file": "Object 中還有 Object.md"
               }
             }
           }
@@ -117,8 +117,9 @@
     "width": 273.3053283691406,
     "collapsed": true
   },
-  "active": "d4c81d62fc749e96",
+  "active": "16f3c5004c2d5a34",
   "lastOpenFiles": [
+    "其他/生活/找工作/職缺台北.md",
     "利用錨點變形.md",
     "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
     "其他/生活/找工作/獲得邀約/虹堡科技股份有限公司.md",
@@ -127,7 +128,6 @@
     "undefined.md",
     "let.md",
     "不算前端也不算後端/JavaScript/變數/Hoisting.md",
-    "不算前端也不算後端/JavaScript/React/Hook/useRef Hook.md",
-    "其他/生活/找工作/獲得邀約/上益旺股份有限公司.md"
+    "不算前端也不算後端/JavaScript/React/Hook/useRef Hook.md"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "baseFontSize": 16,
   "translucency": false,
-  "cssTheme": "",
+  "cssTheme": "Comfort color dark",
   "theme": "obsidian",
   "enabledCssSnippets": [
     "custom",
