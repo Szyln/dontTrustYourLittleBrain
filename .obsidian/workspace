@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Object 中還有 Object.md",
-            "mode": "preview",
+            "file": "其他/接案/動作健康360/movmentHealth360_info/README.md",
+            "mode": "source",
             "backlinks": true,
             "source": true
           }
@@ -54,7 +54,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293
+    "width": 293,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -71,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Object 中還有 Object.md",
+                "file": "其他/接案/動作健康360/movmentHealth360_info/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Object 中還有 Object.md"
+                "file": "其他/接案/動作健康360/movmentHealth360_info/README.md"
               }
             }
           }
@@ -119,6 +120,8 @@
   },
   "active": "16f3c5004c2d5a34",
   "lastOpenFiles": [
+    "其他/接案/動作健康360/movmentHealth360_info/提案.md",
+    "Object 中還有 Object.md",
     "其他/生活/找工作/職缺台北.md",
     "利用錨點變形.md",
     "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
@@ -126,8 +129,6 @@
     "虹堡.md",
     "不算前端也不算後端/JavaScript/變數/var, let, const 的差異.md",
     "undefined.md",
-    "let.md",
-    "不算前端也不算後端/JavaScript/變數/Hoisting.md",
-    "不算前端也不算後端/JavaScript/React/Hook/useRef Hook.md"
+    "let.md"
   ]
 }
