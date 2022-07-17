@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "其他/接案/動作健康360/movmentHealth360_info/README.md",
-            "mode": "source",
+            "file": "不算前端也不算後端/JavaScript/變數/範圍鏈 Scope Chaining.md",
+            "mode": "preview",
             "backlinks": true,
             "source": true
           }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "其他/接案/動作健康360/movmentHealth360_info/README.md",
+                "file": "不算前端也不算後端/JavaScript/變數/範圍鏈 Scope Chaining.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "其他/接案/動作健康360/movmentHealth360_info/README.md"
+                "file": "不算前端也不算後端/JavaScript/變數/範圍鏈 Scope Chaining.md"
               }
             }
           }
@@ -120,6 +120,8 @@
   },
   "active": "16f3c5004c2d5a34",
   "lastOpenFiles": [
+    "閉包 Closure.md",
+    "其他/接案/動作健康360/movmentHealth360_info/README.md",
     "其他/接案/動作健康360/movmentHealth360_info/提案.md",
     "Object 中還有 Object.md",
     "其他/生活/找工作/職缺台北.md",
@@ -127,8 +129,6 @@
     "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
     "其他/生活/找工作/獲得邀約/虹堡科技股份有限公司.md",
     "虹堡.md",
-    "不算前端也不算後端/JavaScript/變數/var, let, const 的差異.md",
-    "undefined.md",
-    "let.md"
+    "不算前端也不算後端/JavaScript/變數/var, let, const 的差異.md"
   ]
 }
