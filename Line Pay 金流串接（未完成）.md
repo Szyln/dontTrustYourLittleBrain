@@ -1,8 +1,14 @@
 ---
 title: "Line Pay 金流串接"
 tag: 
-- 
+- progress
 ---
+
+-   直播連結：[](https://youtu.be/nEjVIeDE-Ro)[https://youtu.be/nEjVIeDE-Ro](https://youtu.be/nEjVIeDE-Ro)
+    
+    > 麻煩按讚、訂閱、開啟小鈴鐺
+    
+-   文件連結：[](https://hex.school/2W3yi)[https://hex.school/2W3yi](https://hex.school/2W3yi)
 
 ##  Line Pay 金流串接
 ### 步驟
@@ -45,23 +51,8 @@ Casper
 
 20220720
 
--   直播連結：[](https://youtu.be/nEjVIeDE-Ro)[https://youtu.be/nEjVIeDE-Ro](https://youtu.be/nEjVIeDE-Ro)
+
     
-    > 麻煩按讚、訂閱、開啟小鈴鐺
-    
--   文件連結：[](https://hex.school/2W3yi)[https://hex.school/2W3yi](https://hex.school/2W3yi)
-    
-
-講師：卡斯伯
-
--   卡斯伯的 Blog：[](https://www.casper.tw/)[https://www.casper.tw/](https://www.casper.tw/)
--   卡斯伯的粉絲頁：[](https://www.facebook.com/WccCasper/)[https://www.facebook.com/WccCasper/](https://www.facebook.com/WccCasper/)
--   活動行事曆：[](https://www.hexschool.com/calendar/)[https://www.hexschool.com/calendar/](https://www.hexschool.com/calendar/)
-
-> 近期活動
-
-[React 新手讀書會 | 六角學院](https://www.hexschool.com/2022/06/27/2022-06-27-react-study-circle/)
-
 ## 活動課綱
 
 ### 註冊 LINE Pay
