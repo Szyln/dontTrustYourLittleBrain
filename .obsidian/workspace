@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "不算前端也不算後端/JavaScript/邏輯、條件、比較/條件/Logic AND(&&).md",
+            "file": "其他/生活/找工作/人.md",
             "mode": "preview",
             "backlinks": true,
             "source": true
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "麒麟",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -50,7 +50,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -72,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "不算前端也不算後端/JavaScript/邏輯、條件、比較/條件/Logic AND(&&).md",
+                "file": "其他/生活/找工作/人.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "不算前端也不算後端/JavaScript/邏輯、條件、比較/條件/Logic AND(&&).md"
+                "file": "其他/生活/找工作/人.md"
               }
             }
           }
@@ -120,6 +121,7 @@
   },
   "active": "16f3c5004c2d5a34",
   "lastOpenFiles": [
+    "不算前端也不算後端/JavaScript/邏輯、條件、比較/條件/Logic AND(&&).md",
     "Line Pay 金流串接（未完成）.md",
     "其他/生活/鍋.md",
     "不算前端也不算後端/JavaScript/Webpack/詳細/讓 devtool 更好讀：source-map.md",
@@ -128,7 +130,6 @@
     "閉包 Closure.md",
     "不算前端也不算後端/JavaScript/變數/範圍鏈 Scope Chaining.md",
     "其他/接案/動作健康360/movmentHealth360_info/README.md",
-    "其他/接案/動作健康360/movmentHealth360_info/提案.md",
-    "Object 中還有 Object.md"
+    "其他/接案/動作健康360/movmentHealth360_info/提案.md"
   ]
 }
