@@ -4,8 +4,8 @@ tag:
 - 
 ---
 ```css
-h1 {
 // property name(屬性), duration(時間), timing function(加速度)
+h1 {
 	transition: all 0.6s ease-in; 
 }
 

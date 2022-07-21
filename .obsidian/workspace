@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "前端/CSS/object-fit.md",
+            "file": "前端/CSS/視差滾動.md",
             "mode": "preview",
             "backlinks": true,
             "source": true
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "麒麟",
+                "query": "animation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -55,8 +55,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293,
-    "collapsed": true
+    "width": 293
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -73,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "前端/CSS/object-fit.md",
+                "file": "前端/CSS/視差滾動.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "前端/CSS/object-fit.md"
+                "file": "前端/CSS/視差滾動.md"
               }
             }
           }
@@ -121,6 +120,8 @@
   },
   "active": "16f3c5004c2d5a34",
   "lastOpenFiles": [
+    "前端/CSS/transition.md",
+    "前端/CSS/object-fit.md",
     "其他/生活/找工作/人.md",
     "不算前端也不算後端/JavaScript/邏輯、條件、比較/條件/Logic AND(&&).md",
     "Line Pay 金流串接（未完成）.md",
@@ -128,8 +129,6 @@
     "不算前端也不算後端/JavaScript/Webpack/詳細/讓 devtool 更好讀：source-map.md",
     "不算前端也不算後端/JavaScript/Webpack/Webpack(index).md",
     "其他/生活/找工作/獲得邀約/虹堡科技股份有限公司.md",
-    "閉包 Closure.md",
-    "不算前端也不算後端/JavaScript/變數/範圍鏈 Scope Chaining.md",
-    "其他/接案/動作健康360/movmentHealth360_info/README.md"
+    "閉包 Closure.md"
   ]
 }
