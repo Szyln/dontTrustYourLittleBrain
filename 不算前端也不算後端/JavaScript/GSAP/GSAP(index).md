@@ -7,7 +7,7 @@ tag:
 - index
 ---
 ## GSAP
-- [GSAP 安裝](GSAP%20安裝.md)
+- [GSAP 安裝](不算前端也不算後端/JavaScript/GSAP/基本介紹/建置/GSAP%20安裝.md)
 - [GSAP + React](GSAP%20+%20React.md)
 
 ### plugin

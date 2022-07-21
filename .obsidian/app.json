@@ -176,7 +176,7 @@
   "showFrontmatter": true,
   "useTab": true,
   "smartIndentList": true,
-  "newLinkFormat": "shortest",
+  "newLinkFormat": "absolute",
   "useMarkdownLinks": true,
   "attachmentFolderPath": "其他/附件",
   "defaultViewMode": "preview"
