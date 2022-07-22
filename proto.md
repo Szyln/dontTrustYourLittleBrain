@@ -11,7 +11,7 @@ tag:
 
 
 
-proto 記載該物件的 [Prototype](不算前端也不算後端/JavaScript/物件導向%20OOP/Prototype.md)（包含原型的屬性）
+`__proto__` 記載該物件的 [Prototype](不算前端也不算後端/JavaScript/物件導向%20OOP/Prototype.md)（包含原型的屬性）
 ```js
 // Prototype
 function Person(name, age) {
@@ -28,7 +28,12 @@ console.log(sam.__proto__);
 ```
 ![](https://i.imgur.com/tEAQHh2.png)
 
-物件實例的 `__proto__` 會等於他繼承的 `.prototype`
+物件實例的 `__proto__` 會等於他繼承的物件的 `.prototype`
 ```js
 console.log(sam.__proto__ === Person.prototype);
+console.log(Person.prototype.__proto__ === Object.prototype);
 ```
+
+### 原型鍊
+- JavaScript 的物件實例都有自己的原型（`.prototype`）
+- 
