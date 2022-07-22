@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "不算前端也不算後端/JavaScript/GSAP/GSAP(index).md",
-            "mode": "source",
+            "file": "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
+            "mode": "preview",
             "backlinks": true,
             "source": true
           }
@@ -55,7 +55,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293
+    "width": 293,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -72,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "不算前端也不算後端/JavaScript/GSAP/GSAP(index).md",
+                "file": "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "不算前端也不算後端/JavaScript/GSAP/GSAP(index).md"
+                "file": "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md"
               }
             }
           }
@@ -120,6 +121,7 @@
   },
   "active": "16f3c5004c2d5a34",
   "lastOpenFiles": [
+    "不算前端也不算後端/JavaScript/GSAP/GSAP(index).md",
     "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
     "前端/CSS/視差滾動.md",
     "前端/CSS/transition.md",
@@ -128,7 +130,6 @@
     "不算前端也不算後端/JavaScript/邏輯、條件、比較/條件/Logic AND(&&).md",
     "Line Pay 金流串接（未完成）.md",
     "其他/生活/鍋.md",
-    "不算前端也不算後端/JavaScript/Webpack/詳細/讓 devtool 更好讀：source-map.md",
-    "不算前端也不算後端/JavaScript/Webpack/Webpack(index).md"
+    "不算前端也不算後端/JavaScript/Webpack/詳細/讓 devtool 更好讀：source-map.md"
   ]
 }
