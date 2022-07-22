@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "未命名.md",
-            "mode": "source",
+            "file": "proto.md",
+            "mode": "preview",
             "backlinks": true,
             "source": true
           }
@@ -50,8 +50,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -73,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "proto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "proto.md"
               }
             }
           }
@@ -121,15 +120,15 @@
   },
   "active": "16f3c5004c2d5a34",
   "lastOpenFiles": [
+    "不算前端也不算後端/JavaScript/物件導向 OOP/物件導向 OOP.md",
+    "不算前端也不算後端/JavaScript/物件導向 OOP/繼承/Prototype Inheritance.md",
+    "proto.md",
+    "其他/生活/找工作/面試題.md",
     "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
+    "不算前端也不算後端/JavaScript/變數/範圍鏈 Scope Chaining.md",
+    "未命名.md",
     "不算前端也不算後端/JavaScript/GSAP/GSAP(index).md",
     "前端/CSS/視差滾動.md",
-    "前端/CSS/transition.md",
-    "前端/CSS/object-fit.md",
-    "其他/生活/找工作/人.md",
-    "不算前端也不算後端/JavaScript/邏輯、條件、比較/條件/Logic AND(&&).md",
-    "Line Pay 金流串接（未完成）.md",
-    "其他/生活/鍋.md",
-    "不算前端也不算後端/JavaScript/Webpack/詳細/讓 devtool 更好讀：source-map.md"
+    "前端/CSS/transition.md"
   ]
 }

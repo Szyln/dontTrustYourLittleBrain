@@ -3,8 +3,15 @@ title: "Prototype Inheritance"
 tag: 
 - 
 ---
-# Prototype Inheritance
-[物件實例](物件實例) 乍看之下可以讀取沒對該實例新增的 method，但其實是因為已經在 [Prototype](Prototype.md) 中設定，[物件實例](物件實例.md) 會繼承 `prototype` 屬性
+# Prototype Inheritance（原型繼承）
+> - [Inheritance](Inheritance.md)
+> - 另外一種繼承：古典繼承，見於 C++ 等語言，比較複雜
+
+
+- JavaScript 的 [物件導向 OOP](不算前端也不算後端/JavaScript/物件導向%20OOP/物件導向%20OOP.md) ，有 [Inheritance](Inheritance.md) （繼承）的特性
+- 與其他語言不同，是透過 [Prototype](不算前端也不算後端/JavaScript/物件導向%20OOP/Prototype.md) 的設定來達成
+- 從 [Prototype](不算前端也不算後端/JavaScript/物件導向%20OOP/Prototype.md) 來創造的 [物件實例](物件實例.md) 就會繼承 [Prototype](不算前端也不算後端/JavaScript/物件導向%20OOP/Prototype.md) 的方法
+
 
 
 ## 原有的
@@ -91,3 +98,4 @@ Student.prototype.sayHi = function() {
 ```
 
 #js #advanceJs #object #oop
+

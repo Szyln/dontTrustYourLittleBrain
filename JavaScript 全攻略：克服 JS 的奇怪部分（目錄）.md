@@ -59,3 +59,6 @@ tag:
 
 ### 其他
 - [Functional Programming（未完成）](Functional%20Programming（未完成）.md)
+
+## [物件導向 OOP](不算前端也不算後端/JavaScript/物件導向%20OOP/物件導向%20OOP.md)
+[Prototype Inheritance](不算前端也不算後端/JavaScript/物件導向%20OOP/繼承/Prototype%20Inheritance.md)
