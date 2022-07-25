@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "後端/Authentication and Cryptography/Authentication/製作登入、註冊介面.md",
-            "mode": "source",
+            "file": "其他/接案/網頁報價參考.md",
+            "mode": "preview",
             "backlinks": true,
             "source": true
           }
@@ -41,7 +41,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "animation",
+                "query": "價格",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -50,11 +50,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 293
+    "width": 293,
+    "collapsed": true
   },
   "right": {
     "id": "b130aeabdd85c272",
@@ -71,7 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "後端/Authentication and Cryptography/Authentication/製作登入、註冊介面.md",
+                "file": "其他/接案/網頁報價參考.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "後端/Authentication and Cryptography/Authentication/製作登入、註冊介面.md"
+                "file": "其他/接案/網頁報價參考.md"
               }
             }
           }
@@ -119,6 +121,8 @@
   },
   "active": "16f3c5004c2d5a34",
   "lastOpenFiles": [
+    "其他/接案/動作健康360/movmentHealth360_info/提案.md",
+    "後端/Authentication and Cryptography/Authentication/製作登入、註冊介面.md",
     "不算前端也不算後端/JavaScript/物件導向 OOP/物件導向 OOP.md",
     "電池更換計畫.md",
     "proto.md",
@@ -126,8 +130,6 @@
     "其他/生活/找工作/面試題.md",
     "JavaScript 全攻略：克服 JS 的奇怪部分（目錄）.md",
     "不算前端也不算後端/JavaScript/變數/範圍鏈 Scope Chaining.md",
-    "不算前端也不算後端/JavaScript/GSAP/GSAP(index).md",
-    "前端/CSS/視差滾動.md",
-    "前端/CSS/transition.md"
+    "不算前端也不算後端/JavaScript/GSAP/GSAP(index).md"
   ]
 }
